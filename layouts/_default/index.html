@@ -1,127 +1,42 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>S3 PDF Zoeker - Coevorden</title>
+    <link href="{{ "_pagefind/pagefind-ui.css" | absURL }}" rel="stylesheet">
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+        h1 { color: #333; }
+        #search { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Zoek in PDF publicaties</h1>
+    
+    <div id="search"></div>
 
-<main style="max-width: 900px; margin: 0 auto; padding: 2rem;">
-
-  <!-- =========================
-       HEADER
-  ========================== -->
-  <header style="margin-bottom: 2rem;">
-    <h1>{{ .Site.Title }}</h1>
-    <p>Zoek en filter in documenten</p>
-  </header>
-
-  <!-- =========================
-       SEARCH INPUT
-  ========================== -->
-  <section style="margin-bottom: 1.5rem;">
-    <input
-      type="search"
-      id="search"
-      placeholder="Zoek documenten..."
-      style="width: 100%; padding: 12px; font-size: 1.1em;"
-    />
-  </section>
-
-  <!-- =========================
-       DYNAMISCHE FILTERS (maps)
-  ========================== -->
-  <section style="margin-bottom: 1.5rem;">
-    <h3>Filter op categorie</h3>
-
-    {{ $allMaps := slice }}
-
-    {{ range .Site.Pages }}
-      {{ with .Params.maps }}
-        {{ range . }}
-          {{ $allMaps = $allMaps | append . }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-
-    {{ $uniqueMaps := $allMaps | uniq | sort }}
-
-    {{ range $uniqueMaps }}
-      <label style="display:block; margin: 4px 0;">
-        <input type="checkbox" value="{{ . }}" class="map-filter">
-        {{ . | humanize }}
-      </label>
-    {{ end }}
-
-  </section>
-
-  <!-- =========================
-       RESULTS
-  ========================== -->
-  <section id="results"></section>
-
-  <!-- =========================
-       PAGEFIND
-  ========================== -->
-  <script src="/_pagefind/pagefind.js"></script>
-
-  <script>
-    window.addEventListener("DOMContentLoaded", async () => {
-
-      const searchInput = document.getElementById("search");
-      const resultsContainer = document.getElementById("results");
-      const filters = document.querySelectorAll(".map-filter");
-
-      const pagefind = await import("/_pagefind/pagefind.js");
-      const search = await pagefind.init();
-
-      let debounce;
-
-      function getActiveFilters() {
-        return Array.from(filters)
-          .filter(f => f.checked)
-          .map(f => f.value);
-      }
-
-      async function runSearch(query) {
-
-        const activeFilters = getActiveFilters();
-
-        const results = await search.search(query, {
-          filters: activeFilters.length
-            ? {
-                maps: activeFilters
-              }
-            : undefined
+    <script src="{{ "_pagefind/pagefind-ui.js" | absURL }}"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ 
+                element: "#search", 
+                showSubResults: false,
+                showImages: false,
+                excerptLength: 15,
+                showFilters: ["categorie", "zaak"],
+                translations: {
+                    placeholder: "Zoek hier naar documenten...",
+                    clear_search: "Wissen",
+                    load_more: "Meer resultaten laden",
+                    search_label: "Zoek in deze site",
+                    filters_label: "Filters",
+                    zero_results: "Geen resultaten gevonden voor [SEARCH_TERM]",
+                    many_results: "[COUNT] resultaten gevonden voor [SEARCH_TERM]",
+                    one_result: "[COUNT] resultaat gevonden voor [SEARCH_TERM]",
+                    searching: "Zoeken naar [SEARCH_TERM]..."
+                }
+            });
         });
-
-        resultsContainer.innerHTML = results.results.length
-          ? results.results.map(r => `
-              <article style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee;">
-                <a href="${r.url}" style="font-weight:bold; font-size:1.1em;">
-                  ${r.meta.title || r.url}
-                </a>
-
-                <div style="font-size:0.9em; color:#666; margin-top:4px;">
-                  ${r.excerpt || ""}
-                </div>
-              </article>
-            `).join("")
-          : "<p>Geen resultaten gevonden</p>";
-      }
-
-      // SEARCH INPUT
-      searchInput.addEventListener("input", (e) => {
-        clearTimeout(debounce);
-        debounce = setTimeout(() => {
-          runSearch(e.target.value);
-        }, 200);
-      });
-
-      // FILTER CHANGE
-      filters.forEach(f => {
-        f.addEventListener("change", () => {
-          runSearch(searchInput.value);
-        });
-      });
-
-    });
-  </script>
-
-</main>
-
-{{ end }}
+    </script>
+</body>
+</html>
