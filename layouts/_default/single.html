@@ -23,7 +23,7 @@
     {{ $full_path := .File.Path }}
     {{ $cleaned_path := replace $full_path "docs/" "" }}
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-    {{ $pdf_url := print "{{ .Site.Params.s3_url }}" $pdf_path }}
+    {{ $pdf_url := printf "%s/%s" .Site.Params.s3_url $pdf_path }}
     
     {{/* 2. MAP LOGICA: De mappenstructuur ontleden */}}
     {{ $dir_path := trim .File.Dir "/" }}
