@@ -5,3 +5,4 @@ theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
 
 [params]
   s3_url = "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/"
+
