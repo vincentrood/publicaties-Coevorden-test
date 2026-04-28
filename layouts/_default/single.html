@@ -1,73 +1,22 @@
 {{ define "main" }}
-<!DOCTYPE html>
-<html>
-<head>
-    <title>{{ .Title }}</title>
 
-    <style>
-        .pdf-link-container {
-            margin: 20px 0;
-            padding: 15px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            background-color: #f9f9f9;
-        }
-        .warning {
-            color: #d9534f;
-            font-size: 0.9em;
-            font-weight: bold;
-            margin-top: 5px;
-        }
-    </style>
-</head>
-
-<body>
+<h1>{{ .File.BaseFileName | humanize }}</h1>
 
 {{/* =========================
-     1. PDF URL LOGICA (veilig)
+     PDF LOGICA
 ========================= */}}
 
 {{ $file_path := .File.Path }}
 {{ $pdf_path := replaceRE "^docs/" "" $file_path }}
 {{ $pdf_path = replace $pdf_path ".md" ".pdf" }}
 
-{{ $base_url := .Site.Params.s3_url | strings.TrimRight "/" }}
+{{ $base_url := .Site.Params.s3_url | default "" | trimRight "/" }}
 {{ $pdf_url := printf "%s/%s" $base_url $pdf_path }}
-
-{{/* =========================
-     2. MAP STRUCTUUR (veilig)
-========================= */}}
-
-{{ $dir := strings.Trim(.File.Dir, "/") }}
-{{ $parts := split $dir "/" }}
-{{ $len := len $parts }}
-
-{{ $categorie := "Algemeen" }}
-{{ $zaak := "" }}
-
-{{ if ge $len 2 }}
-    {{ $categorie = index $parts 1 }}
-{{ else if gt $len 0 }}
-    {{ $categorie = index $parts 0 }}
-{{ end }}
-
-{{ if ge $len 3 }}
-    {{ $zaak = index $parts (sub $len 1) }}
-{{ end }}
-
-{{/* =========================
-     3. CONTENT
-========================= */}}
-
-<h1>{{ .File.BaseFileName | humanize }}</h1>
 
 <div class="pdf-link-container">
     <p>Klik op de onderstaande link om het document te bekijken:</p>
 
-    <a href="{{ $pdf_url }}"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="font-size: 1.2em; font-weight: bold;">
+    <a href="{{ $pdf_url }}" target="_blank" rel="noopener noreferrer">
         Bekijk PDF: {{ .File.BaseFileName | humanize }}
     </a>
 
@@ -77,8 +26,23 @@
 </div>
 
 {{/* =========================
-     4. PAGEFIND INDEX
+     MAP STRUCTUUR (SAFE)
 ========================= */}}
+
+{{ $dir := .File.Dir | default "" | trim }}
+{{ $parts := split $dir "/" }}
+{{ $len := len $parts }}
+
+{{ $categorie := "Algemeen" }}
+{{ $zaak := "" }}
+
+{{ if gt $len 0 }}
+    {{ $categorie = index $parts 0 }}
+{{ end }}
+
+{{ if ge $len 2 }}
+    {{ $zaak = index $parts 1 }}
+{{ end }}
 
 <div style="display:none;" data-pagefind-body>
 
@@ -94,15 +58,10 @@
         <span data-pagefind-filter="zaak">
             {{ $zaak | humanize }}
         </span>
-        <span data-pagefind-meta="zaak">
-            {{ $zaak | humanize }}
-        </span>
     {{ end }}
 
     {{ .Content }}
 
 </div>
 
-</body>
-</html>
 {{ end }}
