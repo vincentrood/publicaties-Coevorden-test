@@ -99,7 +99,7 @@
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
         
         {{/* Datum toevoegen aan Pagefind meta zodat je kunt sorteren of tonen in resultaten */}}
-        <span data-pagefind-meta="Datum">{{ .Date.Format "2006-01-02" }}</span>
+        <span data-pagefind-meta="Publicatiedatum">{{ .Date.Format "2006-01-02" }}</span>
 
         {{ if $maps }}
             <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
