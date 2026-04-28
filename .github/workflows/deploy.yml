@@ -19,7 +19,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils jq
 
-      - name: Sync Logic (Space & Special Character Safe)
+      - name: Sync Logic (Subfolder Aware)
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -28,37 +28,35 @@ jobs:
         run: |
           mkdir -p docs
           
-          # 1. Haal de volledige lijst van PDF keys op in JSON formaat en sla op als tekstbestand (één key per regel)
+          # 1. Haal de lijst van PDF's op S3 op (inclusief submappen)
           aws s3api list-objects-v2 --bucket "$BUCKET_NAME" --query 'Contents[].Key' --output json | jq -r '.[] | select(endswith(".pdf"))' > s3_list.txt
 
-          # 2. VERWIJDEREN: Loop door lokale .md bestanden
-          # We gebruiken 'find' om veilig om te gaan met spaties in lokale bestandsnamen
+          # 2. VERWIJDEREN: Loop door lokale .md bestanden (ook in submappen)
           find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
-            md_file=$(basename "$md_path")
-            filename="${md_file%.md}"
-            pdf_name="${filename}.pdf"
+            # Maak van 'docs/Map/bestand.md' -> 'Map/bestand.pdf'
+            relative_path="${md_path#docs/}"
+            pdf_key_expected="${relative_path%.md}.pdf"
 
-            # Controleer of deze PDF nog op S3 staat
-            if ! grep -Fxq "$pdf_name" s3_list.txt; then
-              echo "S3 sync: Verwijderen van wees-bestand -> $md_path"
+            if ! grep -Fxq "$pdf_key_expected" s3_list.txt; then
+              echo "S3 sync: Verwijderen (niet meer op S3) -> $md_path"
               rm "$md_path"
             fi
           done
 
           # 3. TOEVOEGEN: Loop door de S3 lijst
           while IFS= read -r pdf_key; do
-            filename="${pdf_key%.pdf}"
-            md_path="docs/${filename}.md"
+            md_path="docs/${pdf_key%.pdf}.md"
 
             if [ ! -f "$md_path" ]; then
               echo "S3 sync: Nieuwe PDF ontdekt -> $pdf_key"
-              # Maak eventuele submappen aan als die in de S3 key zitten
               mkdir -p "$(dirname "$md_path")"
               
-              # Download en converteer (quotes zijn hier cruciaal!)
               aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "temp_file.pdf"
               pdftotext "temp_file.pdf" "$md_path"
               rm "temp_file.pdf"
+            else
+              # Dit is wat je wilt zien voor 10.000 bestanden:
+              echo "S3 sync: Reeds aanwezig -> $pdf_key"
             fi
           done < s3_list.txt
 
