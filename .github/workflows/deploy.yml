@@ -17,7 +17,7 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y poppler-utils jq awscli
+          sudo apt-get install -y poppler-utils jq
 
       - name: Sync Logic (Space & Special Character Safe)
         env:
