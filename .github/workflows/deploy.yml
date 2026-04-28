@@ -1,4 +1,5 @@
-name: Scalable S3 to Markdown Sync
+name: Robust S3 to Markdown Sync
+
 on:
   push:
     branches: [main]
@@ -11,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -18,56 +20,97 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y poppler-utils
+          sudo apt-get install -y poppler-utils jq
 
-      - name: Sync and Convert
+      - name: Sync Logic (Robust & Scalable)
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: eu-central-1
           BUCKET_NAME: publicaties-coevorden
         run: |
+          set -e
           mkdir -p docs
-          mkdir -p temp_pdfs
 
-          # 1. Slimme Sync: Download alleen wat nieuw of gewijzigd is
-          # De --delete vlag zorgt dat lokale PDFs verwijderd worden als ze op S3 weg zijn
-          aws s3 sync "s3://$BUCKET_NAME/" temp_pdfs/ --delete --exclude "*" --include "*.pdf"
+          echo "📥 S3 lijst ophalen (met pagination)..."
 
-          # 2. Verwijder lokale Markdown bestanden die geen bijbehorende PDF meer hebben
-          echo "Opschonen van oude Markdown bestanden..."
-          find docs -name "*.md" | while read -r md_file; do
-            relative_path="${md_file#docs/}"
-            pdf_file="temp_pdfs/${relative_path%.md}.pdf"
-            if [ ! -f "$pdf_file" ]; then
-              echo "Verwijderen: $md_file (PDF niet meer op S3)"
-              rm "$md_file"
+          > s3_list.txt
+          TOKEN=""
+
+          while : ; do
+            if [ -z "$TOKEN" ]; then
+              RESPONSE=$(aws s3api list-objects-v2 \
+                --bucket "$BUCKET_NAME" \
+                --max-items 1000)
+            else
+              RESPONSE=$(aws s3api list-objects-v2 \
+                --bucket "$BUCKET_NAME" \
+                --starting-token "$TOKEN" \
+                --max-items 1000)
+            fi
+
+            echo "$RESPONSE" | jq -r '.Contents[].Key' | grep '\.pdf$' >> s3_list.txt
+
+            TOKEN=$(echo "$RESPONSE" | jq -r '.NextToken // empty')
+
+            [ -z "$TOKEN" ] && break
+          done
+
+          sort -u s3_list.txt -o s3_list.txt
+
+          echo "📊 Aantal PDF’s op S3:"
+          wc -l s3_list.txt
+
+          echo "📊 Aantal lokale MD bestanden:"
+          find docs -name "*.md" | wc -l
+
+          # Snelle lookup maken (veel sneller dan grep 10k keer)
+          declare -A S3_MAP
+          while IFS= read -r key; do
+            S3_MAP["$key"]=1
+          done < s3_list.txt
+
+          echo "🧹 Verwijderen van oude bestanden..."
+          find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
+            relative_path="${md_path#docs/}"
+            pdf_key_expected="${relative_path%.md}.pdf"
+
+            if [[ -z "${S3_MAP[$pdf_key_expected]}" ]]; then
+              echo "❌ Verwijderen: $md_path"
+              rm "$md_path"
             fi
           done
 
-          # 3. Parallelle Conversie: Gebruik alle CPU kernen (xargs -P)
-          # We converteren alleen als de .md niet bestaat OF ouder is dan de .pdf
-          echo "Starten van (re)conversie..."
-          find temp_pdfs -name "*.pdf" -print0 | xargs -0 -n 1 -P $(nproc) -I {} sh -c '
-            pdf_path="{}"
-            relative_path="${pdf_path#temp_pdfs/}"
-            md_path="docs/${relative_path%.pdf}.md"
-            
-            # Controleer of conversie nodig is (nieuw of gewijzigd)
-            if [ ! -f "$md_path" ] || [ "$pdf_path" -nt "$md_path" ]; then
-              echo "Verwerken: $relative_path"
+          echo "➕ Nieuwe bestanden verwerken..."
+
+          process_file () {
+            pdf_key="$1"
+            md_path="docs/${pdf_key%.pdf}.md"
+
+            if [ ! -f "$md_path" ]; then
+              echo "🆕 $pdf_key"
+
               mkdir -p "$(dirname "$md_path")"
-              pdftotext -layout "$pdf_path" "$md_path"
+
+              tmpfile=$(mktemp --suffix=.pdf)
+
+              aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "$tmpfile"
+              pdftotext "$tmpfile" "$md_path"
+
+              rm "$tmpfile"
             fi
-          '
+          }
 
-          # 4. Cleanup: Verwijder de tijdelijke PDF map om repo-ruimte te besparen
-          rm -rf temp_pdfs
+          export -f process_file
+          export BUCKET_NAME
 
-      - name: Commit and Push
+          # Parallel verwerking (4 tegelijk, veilig voor CI)
+          cat s3_list.txt | xargs -I {} -P 4 bash -c 'process_file "$@"' _ {}
+
+      - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync: S3 PDF naar Markdown (Parallel Processing)"
+          commit_message: "Sync: S3 → Markdown (robust)"
           file_pattern: 'docs/**'
 
       - name: Install Hugo
