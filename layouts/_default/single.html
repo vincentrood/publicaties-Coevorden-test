@@ -20,7 +20,9 @@
 </head>
 <body>
 
-    {{/* PDF URL */}}
+    {{/* =========================
+        PDF URL (S3 build logica)
+    ========================== */}}
     {{ $full_path := .File.Path }}
     {{ $cleaned_path := replace $full_path "docs/" "" }}
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
@@ -36,16 +38,34 @@
         <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
 
-    {{/* PAGEFIND INDEX */}}
+    {{/* =========================
+        PAGEFIND INDEX + FILTERS
+        - maps wordt opgesplitst:
+          1e = categorie
+          rest = zaken
+    ========================== */}}
     <div style="display:none;" data-pagefind-body>
-        
+
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
 
-        {{/* 👉 HIER komt je taxonomy uit front matter */}}
-        {{ with .Params.maps }}
-            {{ range . }}
-                <span data-pagefind-filter="maps">{{ . }}</span>
+        {{ $maps := .Params.maps }}
+
+        {{ if $maps }}
+
+            {{/* CATEGORIE (eerste item) */}}
+            {{ with index $maps 0 }}
+                <span data-pagefind-filter="categorie">
+                    {{ . }}
+                </span>
             {{ end }}
+
+            {{/* ZAKEN (rest van de items) */}}
+            {{ range after 1 $maps }}
+                <span data-pagefind-filter="zaak">
+                    {{ . }}
+                </span>
+            {{ end }}
+
         {{ end }}
 
         {{ .Content }}
