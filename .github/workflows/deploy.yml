@@ -1,39 +1,88 @@
-name: Sync S3 and Build Search
+name: Robust S3 to Markdown Sync
 on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 0 * * *' # Elke nacht synchroniseren mochten er nieuwe PDF's zijn
+    - cron: '0 0 * * *'
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils jq awscli
+
+      - name: Sync Logic (Space & Special Character Safe)
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: eu-central-1
+          BUCKET_NAME: publicaties-coevorden
+        run: |
+          mkdir -p docs
+          
+          # 1. Haal de volledige lijst van PDF keys op in JSON formaat en sla op als tekstbestand (één key per regel)
+          aws s3api list-objects-v2 --bucket "$BUCKET_NAME" --query 'Contents[].Key' --output json | jq -r '.[] | select(endswith(".pdf"))' > s3_list.txt
+
+          # 2. VERWIJDEREN: Loop door lokale .md bestanden
+          # We gebruiken 'find' om veilig om te gaan met spaties in lokale bestandsnamen
+          find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
+            md_file=$(basename "$md_path")
+            filename="${md_file%.md}"
+            pdf_name="${filename}.pdf"
+
+            # Controleer of deze PDF nog op S3 staat
+            if ! grep -Fxq "$pdf_name" s3_list.txt; then
+              echo "S3 sync: Verwijderen van wees-bestand -> $md_path"
+              rm "$md_path"
+            fi
+          done
+
+          # 3. TOEVOEGEN: Loop door de S3 lijst
+          while IFS= read -r pdf_key; do
+            filename="${pdf_key%.pdf}"
+            md_path="docs/${filename}.md"
+
+            if [ ! -f "$md_path" ]; then
+              echo "S3 sync: Nieuwe PDF ontdekt -> $pdf_key"
+              # Maak eventuele submappen aan als die in de S3 key zitten
+              mkdir -p "$(dirname "$md_path")"
+              
+              # Download en converteer (quotes zijn hier cruciaal!)
+              aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "temp_file.pdf"
+              pdftotext "temp_file.pdf" "$md_path"
+              rm "temp_file.pdf"
+            fi
+          done < s3_list.txt
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Sync: S3 PDF naar Markdown (Safe Filenames)"
+          file_pattern: 'docs/**'
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
 
-      - name: Sync Markdown from S3
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Build Hugo
         run: |
           mkdir -p content/docs
-          aws s3 sync s3://publicaties-coevorden content/docs/ --exclude "*" --include "*.md" --region eu-central-1
-
-      - name: Build Hugo
-        run: hugo --minify
+          # Gebruik 'cp -r' om ook submappen mee te nemen als die er zijn
+          cp -r docs/* content/docs/ 2>/dev/null || true
+          hugo --minify
 
       - name: Index with Pagefind
         run: npx pagefind --site public --bundle-dir _pagefind
 
-      - name: Deploy to GitHub Pages (of S3)
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          
-          
-          
-          
