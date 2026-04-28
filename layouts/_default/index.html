@@ -4,11 +4,28 @@
     <meta charset="UTF-8">
     <title>S3 PDF Zoeker - Coevorden</title>
     <link href="{{ "_pagefind/pagefind-ui.css" | absURL }}" rel="stylesheet">
-    <style>
-        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
-        h1 { color: #333; }
-        #search { margin-top: 20px; }
-    </style>
+
+<style>
+    body { 
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+        max-width: 800px; 
+        margin: 20px auto; 
+        padding: 0 20px; 
+        background-color: transparent; /* Neemt kleur van de host-site over */
+        color: #333;
+    }
+    h1 { color: #111; font-size: 1.6rem; }
+    #search { margin-top: 20px; }
+
+    /* Pagefind UI specifieke aanpassingen voor iframe */
+    :root {
+        --pagefind-ui-primary: #0056b3;
+        --pagefind-ui-text: #333;
+        --pagefind-ui-background: #ffffff;
+        --pagefind-ui-border: #ddd;
+    }
+</style>
+    
 </head>
 <body>
     <h1>Zoek in PDF publicaties</h1>
