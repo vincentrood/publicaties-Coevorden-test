@@ -22,17 +22,17 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils jq
 
-      - name: Sync S3 → Markdown (with taxonomy support)
+      - name: Sync S3 → Markdown (taxonomy enabled)
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: eu-central-1
           BUCKET_NAME: publicaties-coevorden
         run: |
-          set -e
+          set -euo pipefail
           mkdir -p docs
 
-          echo "📥 S3 listing (pagination safe)..."
+          echo "📥 S3 listing (safe pagination)..."
 
           > s3_list.txt
           TOKEN=""
@@ -50,28 +50,20 @@ jobs:
             fi
 
             echo "$RESPONSE" | jq -r '.Contents[].Key' | grep '\.pdf$' >> s3_list.txt
-
             TOKEN=$(echo "$RESPONSE" | jq -r '.NextToken // empty')
             [ -z "$TOKEN" ] && break
           done
 
           sort -u s3_list.txt -o s3_list.txt
 
-          echo "📊 PDF count:"
-          wc -l s3_list.txt
+          echo "📊 PDF count: $(wc -l < s3_list.txt)"
 
-          # Hashmap voor snelle lookup
-          declare -A S3_MAP
-          while IFS= read -r key; do
-            S3_MAP["$key"]=1
-          done < s3_list.txt
-
-          echo "🧹 Cleaning removed files..."
+          echo "🧹 Cleanup removed files..."
           find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
             relative="${md_path#docs/}"
             expected_pdf="${relative%.md}.pdf"
 
-            if [[ -z "${S3_MAP[$expected_pdf]}" ]]; then
+            if ! grep -Fxq "$expected_pdf" s3_list.txt; then
               echo "❌ Removing: $md_path"
               rm "$md_path"
             fi
@@ -83,23 +75,23 @@ jobs:
             pdf_key="$1"
             md_path="docs/${pdf_key%.pdf}.md"
 
-            if [ ! -f "$md_path" ]; then
-              echo "🆕 $pdf_key"
+            if [ -f "$md_path" ]; then
+              return
+            fi
 
-              mkdir -p "$(dirname "$md_path")"
-              tmpfile=$(mktemp --suffix=.pdf)
+            echo "🆕 $pdf_key"
 
-              aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "$tmpfile"
+            mkdir -p "$(dirname "$md_path")"
+            tmpfile=$(mktemp --suffix=.pdf)
 
-              # Extract text
-              text_content=$(pdftotext "$tmpfile" -)
+            if aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "$tmpfile" --quiet; then
 
-              # Split path for taxonomy
+              filename=$(basename "${pdf_key%.pdf}")
+              clean_title=$(echo "$filename" | tr '"' "'")
+
+              # taxonomy uit mapstructuur
               relative_path="${pdf_key%.pdf}"
               IFS='/' read -ra parts <<< "$relative_path"
-
-              filename="${parts[-1]}"
-              title="${filename}"
 
               taxo=()
               for ((i=0; i<${#parts[@]}-1; i++)); do
@@ -108,31 +100,33 @@ jobs:
 
               taxonomy_list=$(IFS=,; echo "${taxo[*]}")
 
-              # Write Hugo markdown with front matter
-              cat <<EOF > "$md_path"
----
-title: "$title"
-maps: [$taxonomy_list]
-source: "$pdf_key"
----
+              # SAFE FRONT MATTER (NO HEREDOC)
+              {
+                printf -- "---\n"
+                printf "title: \"%s\"\n" "$clean_title"
+                printf "maps: [%s]\n" "$taxonomy_list"
+                printf "source: \"%s\"\n" "$pdf_key"
+                printf "date: %s\n" "$(date +%Y-%m-%d)"
+                printf -- "---\n\n"
+              } > "$md_path"
 
-$text_content
-EOF
+              # SAFE PDF TEXT APPEND
+              pdftotext -layout "$tmpfile" - | tr -d '\000' >> "$md_path"
 
-              rm "$tmpfile"
             fi
+
+            rm -f "$tmpfile"
           }
 
           export -f process_file
           export BUCKET_NAME
 
-          # Parallel processing (fast but safe)
           cat s3_list.txt | xargs -I {} -P 4 bash -c 'process_file "$@"' _ {}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync: S3 → Hugo Markdown (with taxonomies)"
+          commit_message: "Sync: S3 → Hugo Markdown (taxonomies + safe build)"
           file_pattern: 'docs/**'
 
       - name: Install Hugo
