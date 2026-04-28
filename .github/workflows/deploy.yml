@@ -111,7 +111,7 @@ jobs:
               } > "$md_path"
 
               # SAFE PDF TEXT APPEND
-              pdftotext -layout "$tmpfile" - | tr -d '\000' >> "$md_path"
+              pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
 
             fi
 
