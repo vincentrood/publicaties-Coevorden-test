@@ -102,9 +102,9 @@
         <span data-pagefind-meta="Datum">{{ .Date.Format "2006-01-02" }}</span>
 
         {{ if $maps }}
-            <span data-pagefind-filter="categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
+            <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
             {{ range after 1 $maps }}
-                <span data-pagefind-filter="zaak" data-pagefind-meta="Zaak">{{ . }}</span>
+                <span data-pagefind-filter="Zaak" data-pagefind-meta="Zaak">{{ . }}</span>
             {{ end }}
         {{ end }}
         
