@@ -2,3 +2,6 @@ baseURL = 'https://vincentrood.github.io/publicaties-Coevorden-test/'
 languageCode = 'nl-nl'
 title = 'PDF Zoekmachine'
 theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
+.
+[params]
+  s3_url = "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/"
