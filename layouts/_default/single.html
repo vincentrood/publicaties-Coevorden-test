@@ -3,32 +3,29 @@
 <head>
     <title>{{ .Title }}</title>
     <style>
-        .pdf-link-container {
-            margin: 20px 0;
-            padding: 15px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            background-color: #f9f9f9;
-        }
-        .warning {
-            color: #d9534f;
-            font-size: 0.9em;
-            font-weight: bold;
-            margin-top: 5px;
-        }
+        .pdf-link-container { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; }
+        .warning { color: #d9534f; font-size: 0.9em; font-weight: bold; margin-top: 5px; }
+        .meta-info { color: #666; margin-bottom: 20px; font-style: italic; }
+        .related-docs { margin-top: 40px; padding-top: 20px; border-top: 2px solid #eee; }
     </style>
 </head>
 <body>
 
-    {{/* =========================
-        PDF URL (S3 build logica)
-    ========================== */}}
+    {{/* Variabelen voorbereiden */}}
+    {{ $maps := .Params.maps }}
     {{ $full_path := .File.Path }}
     {{ $cleaned_path := replace $full_path "docs/" "" }}
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
     {{ $pdf_url := print .Site.Params.s3_url $pdf_path }}
 
     <h1>{{ .Title }}</h1>
+
+    {{/* 1. Metadata tonen onder de titel */}}
+    {{ if $maps }}
+    <div class="meta-info">
+        Categorie: {{ index $maps 0 }} | Zaak: {{ index $maps 1 }}
+    </div>
+    {{ end }}
 
     <div class="pdf-link-container">
         <p>Klik op de onderstaande link om het document te bekijken:</p>
@@ -38,36 +35,36 @@
         <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
 
-    {{/* =========================
-        PAGEFIND INDEX + FILTERS & META
-    ========================== */}}
+    {{/* Pagefind sectie */}}
     <div style="display:none;" data-pagefind-body>
-
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-
-        {{ $maps := .Params.maps }}
-
         {{ if $maps }}
-
-            {{/* CATEGORIE (eerste item) - Nu filter én meta */}}
-            {{ with index $maps 0 }}
-                <span data-pagefind-filter="categorie" data-pagefind-meta="categorie">
-                    {{ . }}
-                </span>
-            {{ end }}
-
-            {{/* ZAKEN (rest van de items) - Nu filter én meta */}}
+            <span data-pagefind-filter="categorie" data-pagefind-meta="categorie">{{ index $maps 0 }}</span>
             {{ range after 1 $maps }}
-                <span data-pagefind-filter="zaak" data-pagefind-meta="zaak">
-                    {{ . }}
-                </span>
+                <span data-pagefind-filter="zaak" data-pagefind-meta="zaak">{{ . }}</span>
             {{ end }}
-
         {{ end }}
-
         {{ .Content }}
-
     </div>
+
+    {{/* 2. Overzicht van andere documenten uit dezelfde zaak */}}
+    {{ if gt (len $maps) 1 }}
+        {{ $huidigeZaak := index $maps 1 }}
+        {{ $gerelateerd := where .Site.RegularPages "Params.maps" "intersect" (slice $huidigeZaak) }}
+        {{/* Filter de huidige pagina zelf uit de lijst */}}
+        {{ $overigeDocumenten := where $gerelateerd ".Permalink" "!=" .Permalink }}
+
+        {{ if gt (len $overigeDocumenten) 0 }}
+        <div class="related-docs">
+            <h3>Andere documenten in de zaak: {{ $huidigeZaak }}</h3>
+            <ul>
+                {{ range $overigeDocumenten }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+    {{ end }}
 
 </body>
 </html>
