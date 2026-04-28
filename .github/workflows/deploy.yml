@@ -1,10 +1,10 @@
-name: Robust S3 to Markdown Sync
+name: Scalable S3 to Markdown Sync
 on:
   push:
     branches: [main]
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch: # Voeg deze regel toe (zonder verdere extra's)
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -18,9 +18,9 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y poppler-utils jq
+          sudo apt-get install -y poppler-utils
 
-      - name: Sync Logic (Subfolder Aware)
+      - name: Sync and Convert
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -28,43 +28,46 @@ jobs:
           BUCKET_NAME: publicaties-coevorden
         run: |
           mkdir -p docs
-          
-          # 1. Haal de lijst van PDF's op S3 op (inclusief submappen)
-          aws s3api list-objects-v2 --bucket "$BUCKET_NAME" --query 'Contents[].Key' --output json | jq -r '.[] | select(endswith(".pdf"))' > s3_list.txt
+          mkdir -p temp_pdfs
 
-          # 2. VERWIJDEREN: Loop door lokale .md bestanden (ook in submappen)
-          find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
-            # Maak van 'docs/Map/bestand.md' -> 'Map/bestand.pdf'
-            relative_path="${md_path#docs/}"
-            pdf_key_expected="${relative_path%.md}.pdf"
+          # 1. Slimme Sync: Download alleen wat nieuw of gewijzigd is
+          # De --delete vlag zorgt dat lokale PDFs verwijderd worden als ze op S3 weg zijn
+          aws s3 sync "s3://$BUCKET_NAME/" temp_pdfs/ --delete --exclude "*" --include "*.pdf"
 
-            if ! grep -Fxq "$pdf_key_expected" s3_list.txt; then
-              echo "S3 sync: Verwijderen (niet meer op S3) -> $md_path"
-              rm "$md_path"
+          # 2. Verwijder lokale Markdown bestanden die geen bijbehorende PDF meer hebben
+          echo "Opschonen van oude Markdown bestanden..."
+          find docs -name "*.md" | while read -r md_file; do
+            relative_path="${md_file#docs/}"
+            pdf_file="temp_pdfs/${relative_path%.md}.pdf"
+            if [ ! -f "$pdf_file" ]; then
+              echo "Verwijderen: $md_file (PDF niet meer op S3)"
+              rm "$md_file"
             fi
           done
 
-          # 3. TOEVOEGEN: Loop door de S3 lijst
-          while IFS= read -r pdf_key; do
-            md_path="docs/${pdf_key%.pdf}.md"
-
-            if [ ! -f "$md_path" ]; then
-              echo "S3 sync: Nieuwe PDF ontdekt -> $pdf_key"
+          # 3. Parallelle Conversie: Gebruik alle CPU kernen (xargs -P)
+          # We converteren alleen als de .md niet bestaat OF ouder is dan de .pdf
+          echo "Starten van (re)conversie..."
+          find temp_pdfs -name "*.pdf" -print0 | xargs -0 -n 1 -P $(nproc) -I {} sh -c '
+            pdf_path="{}"
+            relative_path="${pdf_path#temp_pdfs/}"
+            md_path="docs/${relative_path%.pdf}.md"
+            
+            # Controleer of conversie nodig is (nieuw of gewijzigd)
+            if [ ! -f "$md_path" ] || [ "$pdf_path" -nt "$md_path" ]; then
+              echo "Verwerken: $relative_path"
               mkdir -p "$(dirname "$md_path")"
-              
-              aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "temp_file.pdf"
-              pdftotext "temp_file.pdf" "$md_path"
-              rm "temp_file.pdf"
-            else
-              # Dit is wat je wilt zien voor 10.000 bestanden:
-              echo "S3 sync: Reeds aanwezig -> $pdf_key"
+              pdftotext -layout "$pdf_path" "$md_path"
             fi
-          done < s3_list.txt
+          '
 
-      - name: Commit and Push changes
+          # 4. Cleanup: Verwijder de tijdelijke PDF map om repo-ruimte te besparen
+          rm -rf temp_pdfs
+
+      - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync: S3 PDF naar Markdown (Safe Filenames)"
+          commit_message: "Sync: S3 PDF naar Markdown (Parallel Processing)"
           file_pattern: 'docs/**'
 
       - name: Install Hugo
@@ -73,7 +76,6 @@ jobs:
       - name: Build Hugo
         run: |
           mkdir -p content/docs
-          # Gebruik 'cp -r' om ook submappen mee te nemen als die er zijn
           cp -r docs/* content/docs/ 2>/dev/null || true
           hugo --minify
 
