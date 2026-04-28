@@ -39,10 +39,7 @@
     </div>
 
     {{/* =========================
-        PAGEFIND INDEX + FILTERS
-        - maps wordt opgesplitst:
-          1e = categorie
-          rest = zaken
+        PAGEFIND INDEX + FILTERS & META
     ========================== */}}
     <div style="display:none;" data-pagefind-body>
 
@@ -52,16 +49,16 @@
 
         {{ if $maps }}
 
-            {{/* CATEGORIE (eerste item) */}}
+            {{/* CATEGORIE (eerste item) - Nu filter én meta */}}
             {{ with index $maps 0 }}
-                <span data-pagefind-filter="categorie">
+                <span data-pagefind-filter="categorie" data-pagefind-meta="categorie">
                     {{ . }}
                 </span>
             {{ end }}
 
-            {{/* ZAKEN (rest van de items) */}}
+            {{/* ZAKEN (rest van de items) - Nu filter én meta */}}
             {{ range after 1 $maps }}
-                <span data-pagefind-filter="zaak">
+                <span data-pagefind-filter="zaak" data-pagefind-meta="zaak">
                     {{ . }}
                 </span>
             {{ end }}
