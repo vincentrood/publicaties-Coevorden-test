@@ -19,50 +19,38 @@
     </style>
 </head>
 <body>
-    {{/* 1. URL LOGICA: Bouw de directe link naar de PDF op S3 */}}
+
+    {{/* PDF URL */}}
     {{ $full_path := .File.Path }}
     {{ $cleaned_path := replace $full_path "docs/" "" }}
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
     {{ $pdf_url := print .Site.Params.s3_url $pdf_path }}
-    
-    {{/* 2. MAP LOGICA: De mappenstructuur ontleden */}}
-    {{ $dir_path := trim .File.Dir "/" }}
-    {{ $path_parts := split $dir_path "/" }}
-    {{ $depth := len $path_parts }}
 
-    {{/* Standaardwaarden instellen */}}
-    {{ $categorie := "Algemeen" }}
-    {{ $zaak := "" }}
+    <h1>{{ .Title }}</h1>
 
-    {{/* Logica voor het toewijzen van Categorie en Zaak-tags */}}
-    {{ if eq $depth 2 }}
-        {{ $categorie = index $path_parts 1 }}
-    {{ else if gt $depth 2 }}
-        {{ $categorie = index $path_parts 1 }}
-        {{ $zaak = index $path_parts (sub $depth 1) }}
-    {{ else }}
-        {{ $categorie = .Section }}
-    {{ end }}
-
-    <h1>{{ .File.BaseFileName | humanize }}</h1>
-    
     <div class="pdf-link-container">
         <p>Klik op de onderstaande link om het document te bekijken:</p>
         <a href="{{ $pdf_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
-            Bekijk PDF: {{ .File.BaseFileName | humanize }}
+            Bekijk PDF: {{ .Title }}
         </a>
         <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
-    
-    {{/* 4. PAGEFIND: De verborgen data voor de zoekmachine */}}
+
+    {{/* PAGEFIND INDEX */}}
     <div style="display:none;" data-pagefind-body>
-        <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
-        <span data-pagefind-filter="categorie">{{ $categorie | humanize }}</span>
-        {{ if $zaak }}
-            <span data-pagefind-filter="zaak">{{ $zaak | humanize }}</span>
-            <span data-pagefind-meta="zaak">{{ $zaak | humanize }}</span>
+        
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+        {{/* 👉 HIER komt je taxonomy uit front matter */}}
+        {{ with .Params.maps }}
+            {{ range . }}
+                <span data-pagefind-filter="maps">{{ . }}</span>
+            {{ end }}
         {{ end }}
+
         {{ .Content }}
+
     </div>
+
 </body>
 </html>
