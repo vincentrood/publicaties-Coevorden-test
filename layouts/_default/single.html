@@ -1,67 +1,79 @@
 {{ define "main" }}
 
-<h1>{{ .File.BaseFileName | humanize }}</h1>
+<article class="content">
 
-{{/* =========================
-     PDF LOGICA
-========================= */}}
+  <header>
+    <h1>{{ .Title | default (.File.BaseFileName | humanize) }}</h1>
+  </header>
 
-{{ $file_path := .File.Path }}
-{{ $pdf_path := replaceRE "^docs/" "" $file_path }}
-{{ $pdf_path = replace $pdf_path ".md" ".pdf" }}
+  {{/* =========================
+      SAFE PDF URL LOGICA
+  ========================= */}}
 
-{{ $base_url := .Site.Params.s3_url | default "" | trimRight "/" }}
-{{ $pdf_url := printf "%s/%s" $base_url $pdf_path }}
+  {{ $file_path := .File.Path }}
+  {{ $pdf_path := replaceRE "^docs/" "" $file_path }}
+  {{ $pdf_path = replace $pdf_path ".md" ".pdf" }}
 
-<div class="pdf-link-container">
-    <p>Klik op de onderstaande link om het document te bekijken:</p>
+  {{ $base_url := .Site.Params.s3_url | default "" }}
 
-    <a href="{{ $pdf_url }}" target="_blank" rel="noopener noreferrer">
-        Bekijk PDF: {{ .File.BaseFileName | humanize }}
+  {{ if strings.HasSuffix $base_url "/" }}
+    {{ $base_url = substr $base_url 0 (sub (len $base_url) 1) }}
+  {{ end }}
+
+  {{ $pdf_url := printf "%s/%s" $base_url $pdf_path }}
+
+  <section class="pdf-link-container">
+    <p>Bekijk het originele document:</p>
+
+    <a href="{{ $pdf_url }}"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="font-weight:bold; font-size:1.1em;">
+      📄 Open PDF
     </a>
 
-    <p class="warning">
-        Let op: het openen van een PDF kan data verbruiken.
+    <p style="color:#888; font-size:0.9em;">
+      Let op: externe PDF link via S3 storage
     </p>
-</div>
+  </section>
 
-{{/* =========================
-     MAP STRUCTUUR (SAFE)
-========================= */}}
+  {{/* =========================
+      TAXONOMIES (MAP STRUCTUUR)
+  ========================= */}}
 
-{{ $dir := .File.Dir | default "" | trim }}
-{{ $parts := split $dir "/" }}
-{{ $len := len $parts }}
+  {{ $maps := .Params.maps | default (slice) }}
 
-{{ $categorie := "Algemeen" }}
-{{ $zaak := "" }}
+  {{ if gt (len $maps) 0 }}
+    <section>
+      <h3>Structuur</h3>
+      <ul>
+        {{ range $maps }}
+          <li>{{ . | humanize }}</li>
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
 
-{{ if gt $len 0 }}
-    {{ $categorie = index $parts 0 }}
-{{ end }}
+  {{/* =========================
+      CONTENT (PAGEFIND SAFE)
+  ========================= */}}
 
-{{ if ge $len 2 }}
-    {{ $zaak = index $parts 1 }}
-{{ end }}
-
-<div style="display:none;" data-pagefind-body>
+  <div style="display:none;" data-pagefind-body>
 
     <h1 data-pagefind-meta="title">
-        {{ .File.BaseFileName | humanize }}
+      {{ .Title | default (.File.BaseFileName | humanize) }}
     </h1>
 
-    <span data-pagefind-filter="categorie">
-        {{ $categorie | humanize }}
-    </span>
-
-    {{ if $zaak }}
-        <span data-pagefind-filter="zaak">
-            {{ $zaak | humanize }}
-        </span>
+    {{ if gt (len $maps) 0 }}
+      <span data-pagefind-filter="maps">
+        {{ delimit $maps ", " }}
+      </span>
     {{ end }}
 
     {{ .Content }}
 
-</div>
+  </div>
+
+</article>
 
 {{ end }}
