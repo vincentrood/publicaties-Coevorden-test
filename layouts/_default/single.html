@@ -10,19 +10,32 @@
             border-radius: 8px;
             background-color: #f9f9f9;
         }
+
         .warning {
             color: #d9534f;
             font-size: 0.9em;
             font-weight: bold;
             margin-top: 5px;
         }
+
+        .meta-labels {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #444;
+        }
+
+        .label {
+            display: inline-block;
+            background: #eee;
+            padding: 3px 8px;
+            border-radius: 4px;
+            margin-right: 5px;
+        }
     </style>
 </head>
 <body>
 
-    {{/* =========================
-        PDF URL (S3 build logica)
-    ========================== */}}
+    {{/* ================= PDF URL ================= */}}
     {{ $full_path := .File.Path }}
     {{ $cleaned_path := replace $full_path "docs/" "" }}
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
@@ -38,12 +51,7 @@
         <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
 
-    {{/* =========================
-        PAGEFIND INDEX + FILTERS
-        - maps wordt opgesplitst:
-          1e = categorie
-          rest = zaken
-    ========================== */}}
+    {{/* ================= PAGEFIND INDEX ================= */}}
     <div style="display:none;" data-pagefind-body>
 
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
@@ -52,18 +60,24 @@
 
         {{ if $maps }}
 
-            {{/* CATEGORIE (eerste item) */}}
+            {{/* CATEGORIE */}}
             {{ with index $maps 0 }}
-                <span data-pagefind-filter="categorie">
-                    {{ . }}
-                </span>
+                <span data-pagefind-filter="categorie">{{ . }}</span>
+
+                <!-- zichtbaar + in snippet -->
+                <div class="meta-labels">
+                    <span class="label">Categorie: {{ . }}</span>
+                </div>
             {{ end }}
 
-            {{/* ZAKEN (rest van de items) */}}
+            {{/* ZAKEN */}}
             {{ range after 1 $maps }}
-                <span data-pagefind-filter="zaak">
-                    {{ . }}
-                </span>
+                <span data-pagefind-filter="zaak">{{ . }}</span>
+
+                <!-- zichtbaar + in snippet -->
+                <div class="meta-labels">
+                    <span class="label">Zaak: {{ . }}</span>
+                </div>
             {{ end }}
 
         {{ end }}
