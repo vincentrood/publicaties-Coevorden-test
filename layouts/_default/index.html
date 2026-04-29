@@ -3,20 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title>S3 PDF Zoeker - Coevorden</title>
-    <link href="_pagefind/pagefind-ui.css" rel="stylesheet">
     <style>
         body { font-family: sans-serif; max-width: 800px; margin: 20px auto; padding: 0 20px; }
-        .selector-container { margin: 20px 0; padding: 15px; background: #f4f4f4; border-radius: 5px; }
-        select { padding: 8px; width: 100%; max-width: 300px; }
+        .selector-container { margin: 20px 0; padding: 15px; background: #f4f4f4; border-radius: 5px; border: 1px solid #ddd; }
+        select { padding: 10px; width: 100%; max-width: 300px; font-size: 16px; }
         #search { margin-top: 20px; min-height: 200px; }
-        .instruction { color: #666; font-style: italic; text-align: center; margin-top: 50px; }
+        .instruction { color: #666; font-style: italic; text-align: center; margin-top: 50px; border: 2px dashed #eee; padding: 20px; }
     </style>
 </head>
 <body>
     <h1>Zoek in PDF publicaties</h1>
     
     <div class="selector-container">
-        <label for="year-select"><strong>Kies een jaar:</strong></label><br><br>
+        <label for="year-select"><strong>Stap 1: Kies een publicatiejaar</strong></label><br><br>
         <select id="year-select">
             <option value="">-- Maak een keuze --</option>
             {{ $docs := readDir "docs" }}
@@ -27,41 +26,49 @@
     </div>
 
     <div id="search">
-        <p class="instruction">Selecteer eerst een jaar om de documenten te doorzoeken.</p>
+        <p class="instruction">Selecteer hierboven een jaar om de zoekmachine te laden.</p>
     </div>
 
-    <script src="_pagefind/pagefind-ui.js"></script>
-    
     <script>
-        // Bepaal de base path voor GitHub Pages dynamisch
-        // Dit zorgt ervoor dat het werkt op 'vincentrood.github.io/publicaties-Coevorden-test/'
-        const repoPath = window.location.pathname.replace('index.html', '').replace(/\/$/, '');
-
         document.getElementById('year-select').addEventListener('change', function() {
             const year = this.value;
             const searchDiv = document.getElementById('search');
             
-            searchDiv.innerHTML = ""; // Reset de zoekbox
+            searchDiv.innerHTML = ""; 
 
             if (year) {
-                // De bundlePath moet relatief zijn aan de root van je domein OF exact kloppen
-                // We gebruiken hier het volledige pad inclusief de repo-naam
-                const fullBundlePath = repoPath + "/_pagefind_" + year + "/";
+                // 1. Maak het pad naar de jaar-specifieke bundle
+                // We gebruiken een relatief pad omdat de site in een submap staat
+                const bundlePath = "_pagefind_" + year + "/";
                 
-                console.log("Laden index voor jaar:", year, "op pad:", fullBundlePath);
+                // 2. We moeten eerst de CSS en JS van Pagefind uit die specifieke map laden
+                // CSS laden
+                if (!document.getElementById('pagefind-ui-css')) {
+                    const css = document.createElement('link');
+                    css.id = 'pagefind-ui-css';
+                    css.rel = 'stylesheet';
+                    css.href = bundlePath + "pagefind-ui.css";
+                    document.head.appendChild(css);
+                }
 
-                new PagefindUI({ 
-                    element: "#search", 
-                    bundlePath: fullBundlePath, // CRUCIAAL: wijst naar de specifieke jaar-map
-                    showSubResults: false,
-                    excerptLength: 20,
-                    translations: {
-                        placeholder: "Zoek in documenten uit " + year,
-                        searching: "Zoeken in archief " + year + "..."
-                    }
-                });
+                // JS laden en dan initialiseren
+                const script = document.createElement('script');
+                script.src = bundlePath + "pagefind-ui.js";
+                script.onload = function() {
+                    new PagefindUI({ 
+                        element: "#search", 
+                        bundlePath: bundlePath,
+                        showSubResults: false,
+                        translations: {
+                            placeholder: "Zoek in documenten uit " + year,
+                            searching: "Zoeken in " + year + "..."
+                        }
+                    });
+                };
+                document.body.appendChild(script);
+
             } else {
-                searchDiv.innerHTML = '<p class="instruction">Selecteer eerst een jaar om de documenten te doorzoeken.</p>';
+                searchDiv.innerHTML = '<p class="instruction">Selecteer hierboven een jaar om de zoekmachine te laden.</p>';
             }
         });
     </script>
