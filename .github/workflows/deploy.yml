@@ -138,8 +138,27 @@ jobs:
           cp -r docs/* content/docs/ 2>/dev/null || true
           hugo --minify
 
-      - name: Index with Pagefind
-        run: npx pagefind --site public --bundle-dir _pagefind
+      - name: Build Pagefind per jaar
+        run: |
+          echo "📦 Build Pagefind per jaar..."
+      
+          mkdir -p public/pagefind
+      
+          for dir in content/docs/*; do
+            if [ -d "$dir" ]; then
+              YEAR=$(basename "$dir")
+              echo "🔎 Indexing $YEAR"
+      
+              rm -rf temp_content temp_public
+              mkdir -p temp_content/docs
+      
+              cp -r "$dir" temp_content/docs/
+      
+              hugo --contentDir temp_content --destination temp_public --minify
+      
+              npx pagefind --site temp_public --bundle-dir public/pagefind/$YEAR
+            fi
+          done
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
