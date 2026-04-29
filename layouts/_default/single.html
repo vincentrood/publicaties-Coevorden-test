@@ -220,7 +220,7 @@ async function askAILive() {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                context: content.substring(0, 30000), // Stuur de eerste 5000 tekens mee
+                context: content.substring(0, 150000), // Stuur de eerste 5000 tekens mee
                 question: question
             })
         });
