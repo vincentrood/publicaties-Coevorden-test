@@ -11,13 +11,18 @@
         max-width: 800px; 
         margin: 20px auto; 
         padding: 0 20px; 
-        background-color: transparent; /* Neemt kleur van de host-site over */
+        background-color: transparent;
         color: #333;
     }
-    h1 { color: #111; font-size: 1.6rem; }
-    #search { margin-top: 20px; }
 
-    /* Pagefind UI specifieke aanpassingen voor iframe */
+    h1 { color: #111; font-size: 1.6rem; }
+
+    #search {
+        margin-top: 20px;
+        opacity: 0.4;
+        pointer-events: none;
+    }
+
     :root {
         --pagefind-ui-primary: #0056b3;
         --pagefind-ui-text: #333;
@@ -25,35 +30,83 @@
         --pagefind-ui-border: #ddd;
     }
 </style>
-    
 </head>
 <body>
-    <h1>Zoek in PDF publicaties</h1>
-    
-    <div id="search"></div>
 
-    <script src="{{ "_pagefind/pagefind-ui.js" | absURL }}"></script>
-    <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            new PagefindUI({ 
-                element: "#search", 
-                showSubResults: false,
-                showImages: false,
-                excerptLength: 15,
-                showFilters: ["categorie", "zaak"],
-                translations: {
-                    placeholder: "Zoek hier naar documenten...",
-                    clear_search: "Wissen",
-                    load_more: "Meer resultaten laden",
-                    search_label: "Zoek in deze site",
-                    filters_label: "Filters",
-                    zero_results: "Geen resultaten gevonden voor [SEARCH_TERM]",
-                    many_results: "[COUNT] resultaten gevonden voor [SEARCH_TERM]",
-                    one_result: "[COUNT] resultaat gevonden voor [SEARCH_TERM]",
-                    searching: "Zoeken naar [SEARCH_TERM]..."
-                }
-            });
-        });
-    </script>
+<h1>Zoek in PDF publicaties</h1>
+
+<label for="jaar"><strong>Kies eerst een jaar:</strong></label><br>
+<select id="jaar">
+    <option value="">-- Selecteer jaar --</option>
+</select>
+
+<div id="search"></div>
+
+<script src="{{ "_pagefind/pagefind-ui.js" | absURL }}"></script>
+
+<script>
+let pagefind = null;
+
+// dynamisch jaren ophalen op basis van aanwezige indexen
+async function loadYears() {
+    const jaren = [];
+
+    // probeer bekende range (sneller dan API calls)
+    const currentYear = new Date().getFullYear();
+
+    for (let y = currentYear; y >= 2000; y--) {
+        try {
+            const res = await fetch(`/pagefind/${y}/pagefind.js`, { method: 'HEAD' });
+            if (res.ok) {
+                jaren.push(y);
+            }
+        } catch (e) {}
+    }
+
+    const select = document.getElementById("jaar");
+
+    jaren.forEach(y => {
+        const opt = document.createElement("option");
+        opt.value = y;
+        opt.textContent = y;
+        select.appendChild(opt);
+    });
+}
+
+loadYears();
+
+document.getElementById("jaar").addEventListener("change", (e) => {
+    const jaar = e.target.value;
+    if (!jaar) return;
+
+    const searchDiv = document.getElementById("search");
+    searchDiv.style.opacity = "1";
+    searchDiv.style.pointerEvents = "auto";
+
+    // reset UI bij wisselen van jaar
+    searchDiv.innerHTML = "";
+
+    pagefind = new PagefindUI({
+        element: "#search",
+        bundlePath: `/pagefind/${jaar}/`,
+        showSubResults: false,
+        showImages: false,
+        excerptLength: 15,
+        showFilters: ["Categorie", "Zaak"],
+        translations: {
+            placeholder: "Zoek hier naar documenten...",
+            clear_search: "Wissen",
+            load_more: "Meer resultaten laden",
+            search_label: "Zoek in deze site",
+            filters_label: "Filters",
+            zero_results: "Geen resultaten gevonden voor [SEARCH_TERM]",
+            many_results: "[COUNT] resultaten gevonden voor [SEARCH_TERM]",
+            one_result: "[COUNT] resultaat gevonden voor [SEARCH_TERM]",
+            searching: "Zoeken naar [SEARCH_TERM]..."
+        }
+    });
+});
+</script>
+
 </body>
 </html>
