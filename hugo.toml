@@ -1,21 +1,7 @@
 baseURL = 'https://vincentrood.github.io/publicaties-Coevorden-test/'
-locale = 'nl-nl'  # Vervangt languageCode
+languageCode = 'nl-nl'
 title = 'PDF Zoekmachine'
-theme = []
-
-[taxonomies]
-  map = "maps"
+theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
 
 [params]
   s3_url = "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/"
-
-# Definieer de XML-standaard voor Hugo
-[outputFormats.XML]
-  mediaType = "application/xml"
-  baseName = "index"
-  isHTML = false
-
-[outputs]
-  home = ["HTML", "Sitemap"]
-  taxonomy = ["HTML"]
-  term = ["XML"]  # Gebruikt nu de hierboven gedefinieerde XML
