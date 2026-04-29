@@ -38,6 +38,21 @@
 <label for="jaar"><strong>Kies eerst een jaar:</strong></label><br>
 <select id="jaar">
     <option value="">-- Selecteer jaar --</option>
+
+    {{ $jaren := slice }}
+
+    {{ range where .Site.RegularPages "Section" "docs" }}
+        {{ if ge (len .Params.maps) 1 }}
+            {{ $jaar := index .Params.maps 0 }}
+            {{ $jaren = $jaren | append $jaar }}
+        {{ end }}
+    {{ end }}
+
+    {{ $jaren = $jaren | uniq | sort }}
+
+    {{ range $jaren }}
+        <option value="{{ . }}">{{ . }}</option>
+    {{ end }}
 </select>
 
 <div id="search"></div>
