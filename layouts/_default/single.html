@@ -1,133 +1,184 @@
 <!DOCTYPE html>
-<html>
+<html lang="nl">
 <head>
+    <meta charset="utf-8">
     <title>{{ .Title }}</title>
 
-<style>
-    body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        line-height: 1.5;
-        color: #333;
-        margin: 0;
-        padding: 20px;
-        background-color: transparent;
-    }
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            background-color: transparent;
+        }
 
-    h1 { font-size: 1.5rem; margin-top: 0; color: #111; }
+        h1 { font-size: 1.5rem; margin-top: 0; color: #111; }
 
-    .meta-info {
-        font-size: 0.85rem;
-        color: #666;
-        margin-bottom: 20px;
-        border-bottom: 1px solid #eee;
-        padding-bottom: 10px;
-        font-style: italic;
-    }
+        .meta-info {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+            font-style: italic;
+        }
 
-    .pdf-link-container {
-        margin: 20px 0;
-        padding: 20px;
-        border: 1px dashed #ccc;
-        border-radius: 8px;
-        background-color: rgba(0, 0, 0, 0.02);
-        text-align: center;
-    }
+        .pdf-link-container {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px dashed #ccc;
+            border-radius: 8px;
+            background-color: rgba(0, 0, 0, 0.02);
+            text-align: center;
+        }
 
-    .pdf-link-container a {
-        color: #0056b3;
-        text-decoration: underline;
-        font-size: 1.1em;
-        font-weight: bold;
-    }
+        .pdf-link-container a {
+            color: #0056b3;
+            text-decoration: underline;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
 
-    .warning {
-        color: #777;
-        font-size: 0.8rem;
-        font-weight: normal;
-        margin-top: 10px;
-    }
+        .warning {
+            color: #777;
+            font-size: 0.8rem;
+            margin-top: 10px;
+        }
 
-    .gerelateerde-zaken {
-        margin-top: 40px;
-        border-top: 2px solid #f5f5f5;
-        padding-top: 20px;
-    }
+        .gerelateerde-zaken {
+            margin-top: 40px;
+            border-top: 2px solid #f5f5f5;
+            padding-top: 20px;
+        }
 
-    .gerelateerde-zaken h3 { font-size: 1.1rem; color: #444; }
+        .gerelateerde-zaken h3 { font-size: 1.1rem; color: #444; }
 
-    ul { padding-left: 20px; }
-    li { margin-bottom: 10px; font-size: 0.95rem; }
-    li a { color: #0056b3; text-decoration: none; }
-    li a:hover { text-decoration: underline; }
-    small { color: #888; }
-</style>
-    
+        ul { padding-left: 20px; }
+        li { margin-bottom: 10px; font-size: 0.95rem; }
+        li a { color: #0056b3; text-decoration: none; }
+        li a:hover { text-decoration: underline; }
+        small { color: #888; }
+    </style>
 </head>
 <body>
 
-    {{ $maps := .Params.maps }}
-    {{ $jaar := index $maps 0 }}
-    {{ $categorie := index $maps 1 }}
-    {{ $zaak := index $maps 2 }}
-    {{/* Datum formatteren naar bijv. 28 april 2026 */}}
-    {{ $publicatiedatum := .Date.Format "2 January 2006" }}
+    {{/* ---------------- SAFE DATA EXTRACTION ---------------- */}}
+    {{ $maps := .Params.maps | default (slice) }}
+
+    {{ $jaar := "" }}
+    {{ $categorie := "" }}
+    {{ $zaak := "" }}
+
+    {{ if ge (len $maps) 1 }}{{ $jaar = index $maps 0 }}{{ end }}
+    {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
+    {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
+
+    {{/* Datum */}}
+    {{ $publicatiedatum := .Date.Format "02-01-2006" }}
 
     <h1>{{ .Title }}</h1>
 
-    {{/* 1. TONEN ONDER DE TITEL */}}
     <div class="meta-info">
-        <strong>Publicatiedatum:</strong> {{ $publicatiedatum }} <br>
-        <strong>Jaar:</strong> {{ $jaar }} | 
-        <strong>Categorie:</strong> {{ $categorie }}
+        {{ if .Date }}
+            <strong>Publicatiedatum:</strong> {{ $publicatiedatum }} <br>
+        {{ end }}
+
+        {{ if $jaar }}
+            <strong>Jaar:</strong> {{ $jaar }}
+        {{ end }}
+
+        {{ if $categorie }}
+            | <strong>Categorie:</strong> {{ $categorie }}
+        {{ end }}
     </div>
 
+    {{/* ---------------- PDF LINK ---------------- */}}
     <div class="pdf-link-container">
         <p>Klik op de onderstaande link om het document te bekijken:</p>
-        {{/* S3 URL Logica */}}
-        {{ $full_path := .File.Path }}
-        {{ $cleaned_path := replace $full_path "docs/" "" }}
+
+        {{ $full_path := .File.Path | default "" }}
+        {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
         {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-        {{ $pdf_url := print .Site.Params.s3_url $pdf_path }}
-        
-        <a href="{{ $pdf_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
-            Bekijk PDF: {{ .Title }}
-        </a>
+
+        {{ $base := .Site.Params.s3_url | default "" }}
+        {{ $base := strings.TrimSuffix "/" $base }}
+        {{ $pdf_url := printf "%s/%s" $base $pdf_path }}
+
+        {{ if and $base $pdf_path }}
+            <a href="{{ $pdf_url }}" target="_blank" rel="noopener noreferrer">
+                Bekijk PDF: {{ .Title }}
+            </a>
+        {{ else }}
+            <p>PDF niet beschikbaar.</p>
+        {{ end }}
+
         <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
 
-    {{/* PAGEFIND INDEX */}}
+    {{/* ---------------- PAGEFIND INDEX ---------------- */}}
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-        
-        {{/* Datum toevoegen aan Pagefind meta zodat je kunt sorteren of tonen in resultaten */}}
-        <span data-pagefind-meta="Publicatiedatum">{{ .Date.Format "02-01-2006" }}</span>
 
-        {{ if $maps }}
-            <span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>
-            {{ range after 1 $maps }}
-                <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ . }}</span>
-            {{ end }}
+        {{ if .Date }}
+            <span data-pagefind-meta="Publicatiedatum">{{ $publicatiedatum }}</span>
         {{ end }}
-        
+
+        {{ if $jaar }}
+            <span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>
+        {{ end }}
+
+        {{ if $categorie }}
+            <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
+        {{ end }}
+
+        {{ if $zaak }}
+            <span data-pagefind-filter="Zaak" data-pagefind-meta="Zaak">{{ $zaak }}</span>
+        {{ end }}
+
         {{ .Content }}
     </div>
 
-    {{/* 2. OVERZICHT ANDERE DOCUMENTEN UIT DEZE ZAAK */}}
+    {{/* ---------------- GERELATEERDE ZAKEN ---------------- */}}
     {{ if $zaak }}
         <div class="gerelateerde-zaken">
             <h3>Andere documenten in de zaak: {{ $zaak }}</h3>
-            <ul>
-                {{/* Zoek naar andere pagina's die dezelfde zaak in hun maps hebben */}}
-                {{ range (where .Site.RegularPages "Section" "docs") }}
-                    {{ $currentPage := . }}
-                    {{ if and (in .Params.maps $zaak) (ne $currentPage.Permalink $.Permalink) }}
-                        <li>
-                            <a href="{{ .Permalink }}">{{ .Title }}</a> 
-                            <small>({{ .Date.Format "02-01-2006" }})</small>
-                        </li>
-                    {{ end }}
+
+            {{ $hasRelated := false }}
+
+            {{ range (where .Site.RegularPages "Section" "docs") }}
+                {{ if and
+                    (ne .Permalink $.Permalink)
+                    (isset .Params "maps")
+                    (ge (len .Params.maps) 3)
+                    (eq (index .Params.maps 2) $zaak)
+                }}
+                    {{ $hasRelated = true }}
                 {{ end }}
-            </ul>
+            {{ end }}
+
+            {{ if $hasRelated }}
+                <ul>
+                    {{ range (where .Site.RegularPages "Section" "docs") }}
+                        {{ if and
+                            (ne .Permalink $.Permalink)
+                            (isset .Params "maps")
+                            (ge (len .Params.maps) 3)
+                            (eq (index .Params.maps 2) $zaak)
+                        }}
+                            <li>
+                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                {{ if .Date }}
+                                    <small>({{ .Date.Format "02-01-2006" }})</small>
+                                {{ end }}
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>
+            {{ else }}
+                <p>Geen andere documenten gevonden.</p>
+            {{ end }}
         </div>
     {{ end }}
 
