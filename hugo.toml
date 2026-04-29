@@ -1,4 +1,4 @@
-baseURL = 'https://vincentrood.github.io/publicaties-Coevorden/'
+baseURL = 'https://vincentrood.github.io/publicaties-Coevorden-test/'
 languageCode = 'nl-nl'
 title = 'PDF Zoekmachine'
 theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
