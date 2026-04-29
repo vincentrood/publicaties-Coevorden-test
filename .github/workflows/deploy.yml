@@ -7,6 +7,11 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+env:
+  # PAS HIER DE MAPNAAM AAN
+  SYNC_FOLDER: "2024" 
+  AWS_DEFAULT_REGION: eu-central-1
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -22,17 +27,17 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils jq
 
-      - name: Sync S3 → Markdown (taxonomy enabled)
+      - name: Sync S3 → Markdown (Scoped to Folder)
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: eu-central-1
           BUCKET_NAME: publicaties-coevorden
         run: |
           set -euo pipefail
-          mkdir -p docs
+          # Maak de specifieke map aan
+          mkdir -p "docs/$SYNC_FOLDER"
 
-          echo "📥 S3 listing (safe pagination)..."
+          echo "📥 S3 listing voor map: $SYNC_FOLDER..."
 
           > s3_list.txt
           TOKEN=""
@@ -41,66 +46,71 @@ jobs:
             if [ -z "$TOKEN" ]; then
               RESPONSE=$(aws s3api list-objects-v2 \
                 --bucket "$BUCKET_NAME" \
+                --prefix "$SYNC_FOLDER/" \
                 --max-items 1000)
             else
               RESPONSE=$(aws s3api list-objects-v2 \
                 --bucket "$BUCKET_NAME" \
+                --prefix "$SYNC_FOLDER/" \
                 --starting-token "$TOKEN" \
                 --max-items 1000)
             fi
 
-            echo "$RESPONSE" | jq -r '.Contents[].Key' | grep '\.pdf$' >> s3_list.txt
+            # Alleen PDF's ophalen
+            echo "$RESPONSE" | jq -r '.Contents[]? | .Key' | grep '\.pdf$' >> s3_list.txt || true
             TOKEN=$(echo "$RESPONSE" | jq -r '.NextToken // empty')
             [ -z "$TOKEN" ] && break
           done
 
           sort -u s3_list.txt -o s3_list.txt
 
-          echo "📊 PDF count: $(wc -l < s3_list.txt)"
+          echo "📊 PDF count in $SYNC_FOLDER: $(wc -l < s3_list.txt)"
 
-          echo "🧹 Cleanup removed files..."
-          find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
-            relative="${md_path#docs/}"
-            expected_pdf="${relative%.md}.pdf"
+          echo "🧹 Cleanup removed files in docs/$SYNC_FOLDER..."
+          # We zoeken ALLEEN in de specifieke submap om andere mappen te ontzien
+          if [ -d "docs/$SYNC_FOLDER" ]; then
+            find "docs/$SYNC_FOLDER" -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
+              # Bepaal de relatieve S3 key op basis van het md pad
+              # bijv: docs/coevorden/test.md -> coevorden/test.pdf
+              relative_to_docs="${md_path#docs/}"
+              expected_pdf="${relative_to_docs%.md}.pdf"
 
-            if ! grep -Fxq "$expected_pdf" s3_list.txt; then
-              echo "❌ Removing: $md_path"
-              rm "$md_path"
-            fi
-          done
+              if ! grep -Fxq "$expected_pdf" s3_list.txt; then
+                echo "❌ Removing: $md_path (niet meer in S3)"
+                rm "$md_path"
+              fi
+            done
+          fi
 
           echo "➕ Processing PDFs..."
 
           process_file () {
             pdf_key="$1"
+            # md_path wordt bijv: docs/coevorden/sub/bestand.md
             md_path="docs/${pdf_key%.pdf}.md"
 
             if [ -f "$md_path" ]; then
               return
             fi
 
-            echo "🆕 $pdf_key"
+            echo "🆕 Processing: $pdf_key"
 
             mkdir -p "$(dirname "$md_path")"
             tmpfile=$(mktemp --suffix=.pdf)
 
             if aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "$tmpfile" --quiet; then
-
               filename=$(basename "${pdf_key%.pdf}")
               clean_title=$(echo "$filename" | tr '"' "'")
 
-              # taxonomy uit mapstructuur
+              # Taxonomy opbouw
               relative_path="${pdf_key%.pdf}"
               IFS='/' read -ra parts <<< "$relative_path"
-
               taxo=()
               for ((i=0; i<${#parts[@]}-1; i++)); do
                 taxo+=("\"${parts[$i]}\"")
               done
-
               taxonomy_list=$(IFS=,; echo "${taxo[*]}")
 
-              # SAFE FRONT MATTER (NO HEREDOC)
               {
                 printf -- "---\n"
                 printf "title: \"%s\"\n" "$clean_title"
@@ -110,48 +120,45 @@ jobs:
                 printf -- "---\n\n"
               } > "$md_path"
 
-              # SAFE PDF TEXT APPEND
               pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
-
             fi
-
             rm -f "$tmpfile"
           }
 
           export -f process_file
           export BUCKET_NAME
+          export SYNC_FOLDER
 
           cat s3_list.txt | xargs -I {} -P 4 bash -c 'process_file "$@"' _ {}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync: S3 → Hugo Markdown (taxonomies + safe build)"
-          file_pattern: 'docs/**'
+          commit_message: "Sync: S3 folder ${{ env.SYNC_FOLDER }} naar Hugo"
+          # Alleen wijzigingen in de specifieke map committen
+          file_pattern: "docs/${{ env.SYNC_FOLDER }}/**"
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
 
       - name: Build Hugo site
         run: |
-          mkdir -p content/docs
-          cp -r docs/* content/docs/ 2>/dev/null || true
+          # Schoon de content folder op voor een zuivere build
+          mkdir -p "content/docs/$SYNC_FOLDER"
+          # Kopieer alleen de gesyncte map naar de Hugo content
+          cp -r "docs/$SYNC_FOLDER/." "content/docs/$SYNC_FOLDER/" 2>/dev/null || true
           hugo --minify
 
-      - name: Index with Pagefind (Sharded per year)
-        run: |
-          # Loop door elke map in docs (dit zijn de jaren)
-          for year in $(ls docs); do
-            if [ -d "docs/$year" ]; then
-              echo "Indexing year: $year"
-              # Maak een specifieke index voor dit jaar
-              # We filteren de bronbestanden op de submap van dat jaar
-              npx pagefind --site public --glob "docs/$year/**/*.html" --bundle-dir "_pagefind_$year"
-            fi
-          done
+      - name: Index with Pagefind
+        run: npx pagefind --site public --bundle-dir _pagefind
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      - name: Deploy to S3
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID_SITE }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY_SITE }}
+          BUCKET_NAME: publicaties-coevorden-site
+        run: |
+          # Sync de output naar de submap in de S3 bucket
+          # --delete zorgt dat bestanden die lokaal weg zijn, ook in die S3 submap verdwijnen
+          aws s3 sync ./public "s3://$BUCKET_NAME/$SYNC_FOLDER" \
+            --delete
