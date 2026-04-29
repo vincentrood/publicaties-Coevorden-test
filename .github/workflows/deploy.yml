@@ -138,8 +138,17 @@ jobs:
           cp -r docs/* content/docs/ 2>/dev/null || true
           hugo --minify
 
-      - name: Index with Pagefind
-        run: npx pagefind --site public --bundle-dir _pagefind
+      - name: Index with Pagefind (Sharded per year)
+              run: |
+                # Loop door elke map in docs (dit zijn de jaren)
+                for year in $(ls docs); do
+                  if [ -d "docs/$year" ]; then
+                    echo "Indexing year: $year"
+                    # Maak een specifieke index voor dit jaar
+                    # We filteren de bronbestanden op de submap van dat jaar
+                    npx pagefind --site public --glob "docs/$year/**/*.html" --bundle-dir "_pagefind_$year"
+                  fi
+                done
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
