@@ -216,7 +216,7 @@ async function askAILive() {
     responseDiv.innerHTML = "<em>De AI leest het document...</em>";
 
     try {
-        const response = await fetch('https://jouw-worker-url.workers.dev', {
+        const response = await fetch('coevorden-pdf-ai.vincentvandijkprive1996.workers.dev', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
