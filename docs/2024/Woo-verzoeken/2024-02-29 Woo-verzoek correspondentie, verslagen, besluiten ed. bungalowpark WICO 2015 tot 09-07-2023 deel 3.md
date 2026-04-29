@@ -1,7 +1,7 @@
 ---
 title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3"
-maps: ["2024"]
-source: "2024/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf"
+maps: ["2024","Woo-verzoeken"]
+source: "2024/Woo-verzoeken/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf"
 date: 2026-04-29
 ---
 

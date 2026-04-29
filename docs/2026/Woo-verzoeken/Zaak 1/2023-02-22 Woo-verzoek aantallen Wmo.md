@@ -1,7 +1,7 @@
 ---
 title: "2023-02-22 Woo-verzoek aantallen Wmo"
-maps: ["2026","Zaak 1"]
-source: "2026/Zaak 1/2023-02-22 Woo-verzoek aantallen Wmo.pdf"
+maps: ["2026","Woo-verzoeken","Zaak 1"]
+source: "2026/Woo-verzoeken/Zaak 1/2023-02-22 Woo-verzoek aantallen Wmo.pdf"
 date: 2026-04-29
 ---
 

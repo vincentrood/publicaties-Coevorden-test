@@ -1,7 +1,7 @@
 ---
 title: "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden"
-maps: ["2026","Zaak 2"]
-source: "2026/Zaak 2/2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.pdf"
+maps: ["2026","Woo-verzoeken","Zaak 2"]
+source: "2026/Woo-verzoeken/Zaak 2/2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.pdf"
 date: 2026-04-29
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1 (1)"
-maps: ["2026","Zaak 1"]
-source: "2026/Zaak 1/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1 (1).pdf"
+maps: ["2026","Woo-verzoeken","Zaak 1"]
+source: "2026/Woo-verzoeken/Zaak 1/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1 (1).pdf"
 date: 2026-04-29
 ---
 
