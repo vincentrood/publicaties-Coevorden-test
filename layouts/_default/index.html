@@ -76,74 +76,61 @@
         </div>
     </div>
 
-    <script>
-        let pagefindInstance = null;
+   <script>
+    const BASE_PATH = "/publicaties-Coevorden-test";
 
-        function loadPagefind(year) {
-            const searchContainer = document.getElementById('search');
-            searchContainer.innerHTML = "";
+    function loadPagefind(year) {
+        const searchContainer = document.getElementById('search');
+        searchContainer.innerHTML = "";
 
-            if (!year) {
-                searchContainer.innerHTML = `
-                    <div class="placeholder-text">
-                        Kies hierboven eerst een jaar om de zoekfunctie te activeren.
-                    </div>`;
-                return;
-            }
-
-            // verwijder oude script (belangrijk bij switchen van jaar)
-            const oldScript = document.getElementById("pagefind-script");
-            if (oldScript) oldScript.remove();
-
-            const script = document.createElement("script");
-            script.id = "pagefind-script";
-
-            // ✔ BELANGRIJK: dit is jouw echte structuur
-            script.src = "/_pagefind_" + year + "/pagefind-ui.js";
-
-            script.onload = () => {
-                pagefindInstance = new PagefindUI({
-                    element: "#search",
-
-                    // ✔ ROOT is de map zelf (NIET /index/, NIET /pagefind/)
-                    bundlePath: "/_pagefind_" + year + "/",
-
-                    showSubResults: false,
-                    showImages: false,
-                    excerptLength: 15,
-
-                    showFilters: ["categorie", "zaak"],
-
-                    translations: {
-                        placeholder: "Zoek in documenten uit " + year + "...",
-                        clear_search: "Wissen",
-                        load_more: "Meer resultaten laden",
-                        search_label: "Zoek in jaar " + year,
-                        filters_label: "Filters",
-                        zero_results: "Geen resultaten gevonden in " + year,
-                        searching: "Zoeken..."
-                    }
-                });
-            };
-
-            document.body.appendChild(script);
+        if (!year) {
+            searchContainer.innerHTML = `
+                <div class="placeholder-text">
+                    Kies hierboven eerst een jaar om de zoekfunctie te activeren.
+                </div>`;
+            return;
         }
 
-        document.getElementById('year-select').addEventListener('change', function () {
-            loadPagefind(this.value);
-        });
+        const oldScript = document.getElementById("pagefind-script");
+        if (oldScript) oldScript.remove();
 
-        // URL support (?jaar=2024)
-        window.addEventListener('DOMContentLoaded', () => {
-            const params = new URLSearchParams(window.location.search);
-            const jaar = params.get('jaar');
+        const script = document.createElement("script");
+        script.id = "pagefind-script";
 
-            if (jaar) {
-                const sel = document.getElementById('year-select');
-                sel.value = jaar;
-                loadPagefind(jaar);
-            }
-        });
-    </script>
+        // ✔ FIX: base path toegevoegd
+        script.src = BASE_PATH + "/_pagefind_" + year + "/pagefind-ui.js";
+
+        script.onload = () => {
+            new PagefindUI({
+                element: "#search",
+
+                // ✔ FIX: ook bundlePath moet basePath krijgen
+                bundlePath: BASE_PATH + "/_pagefind_" + year + "/",
+
+                showSubResults: false,
+                showImages: false,
+                excerptLength: 15,
+
+                showFilters: ["categorie", "zaak"],
+
+                translations: {
+                    placeholder: "Zoek in documenten uit " + year + "...",
+                    clear_search: "Wissen",
+                    load_more: "Meer resultaten laden",
+                    search_label: "Zoek in jaar " + year,
+                    filters_label: "Filters",
+                    zero_results: "Geen resultaten gevonden in " + year,
+                    searching: "Zoeken..."
+                }
+            });
+        };
+
+        document.body.appendChild(script);
+    }
+
+    document.getElementById('year-select').addEventListener('change', function () {
+        loadPagefind(this.value);
+    });
+</script>
 </body>
 </html>
