@@ -66,8 +66,9 @@
 <body>
 
     {{ $maps := .Params.maps }}
-    {{ $categorie := index $maps 0 }}
-    {{ $zaak := index $maps 1 }}
+    {{ $jaar := index $maps 0 }}
+    {{ $categorie := index $maps 1 }}
+    {{ $zaak := index $maps 2 }}
     {{/* Datum formatteren naar bijv. 28 april 2026 */}}
     {{ $publicatiedatum := .Date.Format "2 January 2006" }}
 
@@ -76,8 +77,8 @@
     {{/* 1. TONEN ONDER DE TITEL */}}
     <div class="meta-info">
         <strong>Publicatiedatum:</strong> {{ $publicatiedatum }} <br>
-        <strong>Categorie:</strong> {{ $categorie }} | 
-        <strong>Zaak:</strong> {{ $zaak }}
+        <strong>Jaar:</strong> {{ $jaar }} | 
+        <strong>Categorie:</strong> {{ $categorie }}
     </div>
 
     <div class="pdf-link-container">
@@ -102,9 +103,9 @@
         <span data-pagefind-meta="Publicatiedatum">{{ .Date.Format "02-01-2006" }}</span>
 
         {{ if $maps }}
-            <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
+            <span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>
             {{ range after 1 $maps }}
-                <span data-pagefind-filter="Zaak" data-pagefind-meta="Zaak">{{ . }}</span>
+                <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ . }}</span>
             {{ end }}
         {{ end }}
         
