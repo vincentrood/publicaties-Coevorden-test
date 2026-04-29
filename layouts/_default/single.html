@@ -115,6 +115,17 @@
         {{ end }}
     </div>
 
+
+    <div class="ai-assist">
+        <p>Hulp nodig bij dit document?</p>
+        <button onclick="askAI()" style="background-color: #10a37f; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold;">
+            ✨ Stel een vraag aan AI
+        </button>
+        <p class="warning">Dit opent ChatGPT met de tekst van dit document.</p>
+    </div>
+    </div>
+    
+
     {{/* ---------------- PAGEFIND INDEX ---------------- */}}
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
@@ -181,4 +192,25 @@
     {{ end }}
 
 </body>
+
+<script>
+function askAI() {
+    // 1. Pak de tekstinhoud van het document (Pagefind body bevat de schone tekst)
+    const content = document.querySelector('[data-pagefind-body]').innerText;
+    
+    // 2. Maak een korte samenvatting/limiet (ChatGPT URLS hebben een lengte-limiet)
+    // We pakken de eerste 3000 tekens om te voorkomen dat de URL te lang wordt
+    const truncatedContent = content.substring(0, 3000);
+    
+    // 3. Formuleer de prompt
+    const prompt = `Ik heb een vraag over het volgende document "${document.title}":\n\n${truncatedContent}\n\n--- \nWat is de kern van dit document?`;
+    
+    // 4. Encode voor URL
+    const encodedPrompt = encodeURIComponent(prompt);
+    
+    // 5. Open ChatGPT
+    window.open(`https://chatgpt.com/?q=${encodedPrompt}`, '_blank');
+}
+</script>
+    
 </html>
