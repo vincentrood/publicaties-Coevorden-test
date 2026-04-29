@@ -156,7 +156,7 @@ jobs:
       
               hugo --contentDir temp_content --destination temp_public --minify
       
-              npx pagefind --site temp_public --bundle-dir public/pagefind/$YEAR
+              npx pagefind --site temp_public --output-subdir pagefind/$YEAR
             fi
           done
 
