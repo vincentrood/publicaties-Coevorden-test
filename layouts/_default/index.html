@@ -51,7 +51,6 @@
             border: 2px dashed #eee;
         }
     </style>
-     <link href="{{ "_pagefind_2026/pagefind-ui.css" | absURL }}" rel="stylesheet">
 </head>
 
 <body>
@@ -78,7 +77,9 @@
     </div>
 
    <script>
-    const BASE_PATH = "/publicaties-Coevorden-test";
+    // Gebruik Hugo om dynamisch het juiste basispad te bepalen (werkt lokaal én op Github Pages)
+    // We strippen een eventuele trailing slash om dubbele slashes in URL's te voorkomen
+    const BASE_PATH = "{{ strings.TrimRight "/" .Site.BaseURL }}";
 
     function loadPagefind(year) {
         const searchContainer = document.getElementById('search');
@@ -89,31 +90,36 @@
                 <div class="placeholder-text">
                     Kies hierboven eerst een jaar om de zoekfunctie te activeren.
                 </div>`;
+            // Verwijder eventueel geladen scripts/css als we teruggaan naar de lege selectie
+            document.getElementById("pagefind-script")?.remove();
+            document.getElementById("pagefind-css")?.remove();
             return;
         }
 
-        const oldScript = document.getElementById("pagefind-script");
-        if (oldScript) oldScript.remove();
+        // Ruim oude scripts en css op
+        document.getElementById("pagefind-script")?.remove();
+        document.getElementById("pagefind-css")?.remove();
 
+        // 1. Laad dynamisch de CSS van het gekozen jaar
+        const cssLink = document.createElement("link");
+        cssLink.id = "pagefind-css";
+        cssLink.rel = "stylesheet";
+        cssLink.href = `${BASE_PATH}/_pagefind_${year}/pagefind-ui.css`;
+        document.head.appendChild(cssLink);
+
+        // 2. Laad dynamisch het JS script van het gekozen jaar
         const script = document.createElement("script");
         script.id = "pagefind-script";
-
-        // ✔ FIX: base path toegevoegd
-        script.src = BASE_PATH + "/_pagefind_" + year + "/pagefind-ui.js";
+        script.src = `${BASE_PATH}/_pagefind_${year}/pagefind-ui.js`;
 
         script.onload = () => {
             new PagefindUI({
                 element: "#search",
-
-                // ✔ FIX: ook bundlePath moet basePath krijgen
-                bundlePath: BASE_PATH + "/_pagefind_" + year + "/",
-
+                bundlePath: `${BASE_PATH}/_pagefind_${year}/`,
                 showSubResults: false,
                 showImages: false,
                 excerptLength: 15,
-
                 showFilters: ["categorie", "zaak"],
-
                 translations: {
                     placeholder: "Zoek in documenten uit " + year + "...",
                     clear_search: "Wissen",
