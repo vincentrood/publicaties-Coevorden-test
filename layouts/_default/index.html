@@ -1,9 +1,65 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>S3 PDF Zoeker - Coevorden</title>
+
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 20px auto; 
+            padding: 0 20px; 
+            background-color: transparent;
+            color: #333;
+        }
+
+        h1 { color: #111; font-size: 1.6rem; }
+
+        .selector-container {
+            margin: 20px 0;
+            padding: 15px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            border: 1px solid #eee;
+        }
+
+        select {
+            padding: 10px;
+            font-size: 1rem;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            width: 100%;
+            max-width: 300px;
+            cursor: pointer;
+        }
+
+        #search { margin-top: 20px; }
+
+        :root {
+            --pagefind-ui-primary: #0056b3;
+            --pagefind-ui-text: #333;
+            --pagefind-ui-background: #ffffff;
+            --pagefind-ui-border: #ddd;
+        }
+
+        .placeholder-text {
+            color: #666;
+            font-style: italic;
+            padding: 40px 0;
+            text-align: center;
+            border: 2px dashed #eee;
+        }
+    </style>
+</head>
+
 <body>
     <h1>Zoek in PDF publicaties</h1>
 
-    <div style="margin-bottom: 20px;">
-        <label for="year-select"><strong>Kies een jaar:</strong></label>
-        <select id="year-select" style="padding: 8px; border-radius: 4px; border: 1px solid #ccc;">
+    <div class="selector-container">
+        <label for="year-select"><strong>Stap 1: Kies een publicatiejaar</strong></label><br><br>
+
+        <select id="year-select">
             <option value="">-- Selecteer een jaar --</option>
             {{ $docs := readDir "docs" }}
             {{ range $docs }}
@@ -13,42 +69,81 @@
             {{ end }}
         </select>
     </div>
-    
-    <div id="search"></div>
 
-    <script src="{{ "_pagefind/pagefind-ui.js" | absURL }}"></script>
-    
+    <div id="search">
+        <div class="placeholder-text">
+            Kies hierboven eerst een jaar om de zoekfunctie te activeren.
+        </div>
+    </div>
+
     <script>
-        let currentSearch = null;
+        let pagefindInstance = null;
 
-        document.getElementById('year-select').addEventListener('change', function() {
-            const year = this.value;
-            const searchDiv = document.getElementById('search');
-            
-            // Maak het zoekveld leeg bij een nieuwe keuze
-            searchDiv.innerHTML = "";
+        function loadPagefind(year) {
+            const searchContainer = document.getElementById('search');
+            searchContainer.innerHTML = "";
 
-            if (year) {
-                // Initialiseer Pagefind voor het specifieke jaar
-                currentSearch = new PagefindUI({ 
-                    element: "#search", 
-                    // Dit is de cruciale instelling:
+            if (!year) {
+                searchContainer.innerHTML = `
+                    <div class="placeholder-text">
+                        Kies hierboven eerst een jaar om de zoekfunctie te activeren.
+                    </div>`;
+                return;
+            }
+
+            // verwijder oude script (belangrijk bij switchen van jaar)
+            const oldScript = document.getElementById("pagefind-script");
+            if (oldScript) oldScript.remove();
+
+            const script = document.createElement("script");
+            script.id = "pagefind-script";
+
+            // ✔ BELANGRIJK: dit is jouw echte structuur
+            script.src = "/_pagefind_" + year + "/pagefind-ui.js";
+
+            script.onload = () => {
+                pagefindInstance = new PagefindUI({
+                    element: "#search",
+
+                    // ✔ ROOT is de map zelf (NIET /index/, NIET /pagefind/)
                     bundlePath: "/_pagefind_" + year + "/",
+
                     showSubResults: false,
                     showImages: false,
                     excerptLength: 15,
+
                     showFilters: ["categorie", "zaak"],
+
                     translations: {
                         placeholder: "Zoek in documenten uit " + year + "...",
                         clear_search: "Wissen",
                         load_more: "Meer resultaten laden",
+                        search_label: "Zoek in jaar " + year,
+                        filters_label: "Filters",
                         zero_results: "Geen resultaten gevonden in " + year,
-                        many_results: "[COUNT] resultaten gevonden",
-                        one_result: "[COUNT] resultaat gevonden",
-                        searching: "Zoeken in " + year + "..."
+                        searching: "Zoeken..."
                     }
                 });
+            };
+
+            document.body.appendChild(script);
+        }
+
+        document.getElementById('year-select').addEventListener('change', function () {
+            loadPagefind(this.value);
+        });
+
+        // URL support (?jaar=2024)
+        window.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const jaar = params.get('jaar');
+
+            if (jaar) {
+                const sel = document.getElementById('year-select');
+                sel.value = jaar;
+                loadPagefind(jaar);
             }
         });
     </script>
 </body>
+</html>
