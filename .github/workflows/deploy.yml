@@ -32,7 +32,7 @@ jobs:
           set -euo pipefail
           mkdir -p docs
 
-          echo "📥 S3 listing..."
+          echo "📥 S3 listing (safe pagination)..."
 
           > s3_list.txt
           TOKEN=""
@@ -58,7 +58,7 @@ jobs:
 
           echo "📊 PDF count: $(wc -l < s3_list.txt)"
 
-          echo "🧹 Cleanup..."
+          echo "🧹 Cleanup removed files..."
           find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
             relative="${md_path#docs/}"
             expected_pdf="${relative%.md}.pdf"
@@ -79,6 +79,8 @@ jobs:
               return
             fi
 
+            echo "🆕 $pdf_key"
+
             mkdir -p "$(dirname "$md_path")"
             tmpfile=$(mktemp --suffix=.pdf)
 
@@ -87,6 +89,7 @@ jobs:
               filename=$(basename "${pdf_key%.pdf}")
               clean_title=$(echo "$filename" | tr '"' "'")
 
+              # taxonomy uit mapstructuur
               relative_path="${pdf_key%.pdf}"
               IFS='/' read -ra parts <<< "$relative_path"
 
@@ -97,6 +100,7 @@ jobs:
 
               taxonomy_list=$(IFS=,; echo "${taxo[*]}")
 
+              # SAFE FRONT MATTER (NO HEREDOC)
               {
                 printf -- "---\n"
                 printf "title: \"%s\"\n" "$clean_title"
@@ -106,6 +110,7 @@ jobs:
                 printf -- "---\n\n"
               } > "$md_path"
 
+              # SAFE PDF TEXT APPEND
               pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
 
             fi
@@ -121,7 +126,7 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync: S3 → Hugo Markdown"
+          commit_message: "Sync: S3 → Hugo Markdown (taxonomies + safe build)"
           file_pattern: 'docs/**'
 
       - name: Install Hugo
@@ -131,31 +136,10 @@ jobs:
         run: |
           mkdir -p content/docs
           cp -r docs/* content/docs/ 2>/dev/null || true
-          hugo --minify --destination public
+          hugo --minify
 
-      - name: Build Pagefind per year
-        run: |
-          echo "📦 Building Pagefind per year..."
-
-          mkdir -p public/pagefind
-
-          for dir in content/docs/*; do
-            if [ -d "$dir" ]; then
-              YEAR=$(basename "$dir")
-              echo "🔎 Indexing $YEAR"
-
-              rm -rf temp_content
-              mkdir -p temp_content/docs
-
-              cp -r "$dir" temp_content/docs/
-
-              hugo --contentDir temp_content --destination public --minify
-
-              npx pagefind \
-                --site public \
-                --output-subdir pagefind/$YEAR
-            fi
-          done
+      - name: Index with Pagefind
+        run: npx pagefind --site public --bundle-dir _pagefind
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
