@@ -59,7 +59,7 @@ h1 {
     display: flex;
     flex-direction: column;
 
-    min-height: 350px;
+    min-height: 100px;
     max-height: 85vh;
 
     border: 1px solid #e5e7eb;
@@ -210,8 +210,14 @@ h1 {
 </div>
 
 <script>
+const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
 const MAX_CONTEXT = 50000;
 let chatHistory = [];
+
+// startbericht (UI ONLY, niet in AI context forceren)
+function initChat() {
+    addMessage("assistant", START_MESSAGE);
+}
 
 function addMessage(role, text) {
     const chatWindow = document.getElementById('chat-window');
@@ -282,6 +288,7 @@ async function sendMessage() {
 document.getElementById('ai-question').addEventListener("keypress", e => {
     if (e.key === "Enter") sendMessage();
 });
+    initChat();
 </script>
     
 
