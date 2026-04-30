@@ -116,18 +116,125 @@
     </div>
 
 
-<div class="ai-container" style="border: 1px solid #ddd; padding: 20px; border-radius: 8px; background: #fafafa;">
-    <h3 style="margin-top:0;">✨ Vraag het aan de AI</h3>
-    <p style="font-size: 0.9rem;">De AI heeft dit document gelezen. Wat wil je weten?</p>
+<div id="ai-chat" style="max-width:600px;margin:auto;font-family:sans-serif;">
     
-    <div id="ai-response" style="margin-bottom: 15px; font-size: 0.95rem; line-height: 1.6; display: none; padding: 10px; background: white; border-left: 4px solid #10a37f;">
-        </div>
+    <div id="chat-window" style="
+        border:1px solid #ccc;
+        padding:10px;
+        height:300px;
+        overflow-y:auto;
+        margin-bottom:10px;
+        background:#fafafa;
+    "></div>
 
-    <div style="display: flex; gap: 10px;">
-        <input type="text" id="ai-question" placeholder="Bijv: Vat dit document samen..." style="flex-grow: 1; padding: 10px; border-radius: 4px; border: 1px solid #ccc;">
-        <button onclick="askAILive()" id="ai-send-btn" style="background: #10a37f; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer;">Stel vraag</button>
+    <div style="display:flex;gap:10px;">
+        <input 
+            id="ai-question" 
+            type="text" 
+            placeholder="Typ je bericht..." 
+            style="flex:1;padding:10px;"
+        />
+        <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
     </div>
 </div>
+
+<script>
+let chatHistory = [];
+
+function addMessage(role, text) {
+    const chatWindow = document.getElementById('chat-window');
+
+    const msg = document.createElement('div');
+    msg.style.marginBottom = "8px";
+
+    if (role === "user") {
+        msg.innerHTML = "<strong>Jij:</strong> " + text;
+    } else {
+        msg.innerHTML = "<strong>AI:</strong> " + text;
+    }
+
+    chatWindow.appendChild(msg);
+    chatWindow.scrollTop = chatWindow.scrollHeight;
+}
+
+async function sendMessage() {
+    const input = document.getElementById('ai-question');
+    const btn = document.getElementById('ai-send-btn');
+
+    const question = input.value.trim();
+    if (!question) return;
+
+    addMessage("user", question);
+    chatHistory.push({ role: "user", content: question });
+
+    input.value = "";
+    btn.disabled = true;
+    btn.innerText = "Bezig...";
+
+    const contentElement = document.querySelector('[data-pagefind-body]');
+    const pageContent = contentElement ? contentElement.innerText : "";
+
+    // tijdelijke "typing..."
+    const typingMsg = document.createElement('div');
+    typingMsg.innerHTML = "<em>AI is aan het typen...</em>";
+    document.getElementById('chat-window').appendChild(typingMsg);
+
+    try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 20000);
+
+        const response = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            signal: controller.signal,
+            body: JSON.stringify({
+                context: pageContent.substring(0, 20000),
+                messages: chatHistory
+            })
+        });
+
+        clearTimeout(timeout);
+
+        if (!response.ok) {
+            throw new Error("Serverfout: " + response.status);
+        }
+
+        const data = await response.json();
+
+        if (!data || !data.answer) {
+            throw new Error("Ongeldige response");
+        }
+
+        typingMsg.remove();
+
+        addMessage("assistant", data.answer);
+        chatHistory.push({ role: "assistant", content: data.answer });
+
+    } catch (error) {
+        typingMsg.remove();
+
+        let msg = "Onbekende fout.";
+        if (error.name === "AbortError") {
+            msg = "Timeout: AI reageert te langzaam.";
+        } else {
+            msg = error.message;
+        }
+
+        addMessage("assistant", "❌ " + msg);
+
+    } finally {
+        btn.disabled = false;
+        btn.innerText = "Verstuur";
+    }
+}
+
+// Enter = verzenden
+document.getElementById('ai-question').addEventListener("keypress", function(e) {
+    if (e.key === "Enter") {
+        sendMessage();
+    }
+});
+</script>
     
 
     {{/* ---------------- PAGEFIND INDEX ---------------- */}}
@@ -197,44 +304,6 @@
 
 </body>
 
-<script>
-async function askAILive() {
-    const questionField = document.getElementById('ai-question');
-    const question = questionField.value;
-    const responseDiv = document.getElementById('ai-response');
-    const btn = document.getElementById('ai-send-btn');
-    
-    // Selecteer de tekst uit de div die ook voor Pagefind wordt gebruikt
-    const content = document.querySelector('[data-pagefind-body]').innerText;
 
-    if (!question) return;
-
-    // UI-feedback: knop uitzetten en lader tonen
-    btn.disabled = true;
-    btn.innerText = "Aan het typen...";
-    responseDiv.style.display = "block";
-    responseDiv.innerHTML = "<em>De AI leest het document...</em>";
-
-    try {
-        const response = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                context: content.substring(0, 300000), // Stuur de eerste 5000 tekens mee
-                question: question
-            })
-        });
-
-        const data = await response.json();
-        responseDiv.innerText = data.answer;
-    } catch (error) {
-        responseDiv.innerText = "Fout: kon geen verbinding maken met de AI-service.";
-    } finally {
-        btn.disabled = false;
-        btn.innerText = "Stel vraag";
-        questionField.value = ""; // Maak invoerveld leeg
-    }
-}
-</script>
     
 </html>
