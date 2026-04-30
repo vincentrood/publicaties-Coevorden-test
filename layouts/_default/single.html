@@ -139,6 +139,8 @@
 </div>
 
 <script>
+const MAX_CONTEXT = 50000;
+
 let chatHistory = [];
 
 function addMessage(role, text) {
@@ -147,11 +149,9 @@ function addMessage(role, text) {
     const msg = document.createElement('div');
     msg.style.marginBottom = "8px";
 
-    if (role === "user") {
-        msg.innerHTML = "<strong>Jij:</strong> " + text;
-    } else {
-        msg.innerHTML = "<strong>AI:</strong> " + text;
-    }
+    msg.innerHTML = role === "user"
+        ? "<strong>Jij:</strong> " + text
+        : "<strong>AI:</strong> " + text;
 
     chatWindow.appendChild(msg);
     chatWindow.scrollTop = chatWindow.scrollHeight;
@@ -174,7 +174,6 @@ async function sendMessage() {
     const contentElement = document.querySelector('[data-pagefind-body]');
     const pageContent = contentElement ? contentElement.innerText : "";
 
-    // tijdelijke "typing..."
     const typingMsg = document.createElement('div');
     typingMsg.innerHTML = "<em>AI is aan het typen...</em>";
     document.getElementById('chat-window').appendChild(typingMsg);
@@ -188,7 +187,7 @@ async function sendMessage() {
             headers: { 'Content-Type': 'application/json' },
             signal: controller.signal,
             body: JSON.stringify({
-                context: pageContent.substring(0, 20000),
+                context: pageContent.slice(0, MAX_CONTEXT),
                 messages: chatHistory
             })
         });
@@ -213,12 +212,9 @@ async function sendMessage() {
     } catch (error) {
         typingMsg.remove();
 
-        let msg = "Onbekende fout.";
-        if (error.name === "AbortError") {
-            msg = "Timeout: AI reageert te langzaam.";
-        } else {
-            msg = error.message;
-        }
+        let msg = error.name === "AbortError"
+            ? "Timeout: AI reageert te langzaam."
+            : error.message;
 
         addMessage("assistant", "❌ " + msg);
 
@@ -228,7 +224,6 @@ async function sendMessage() {
     }
 }
 
-// Enter = verzenden
 document.getElementById('ai-question').addEventListener("keypress", function(e) {
     if (e.key === "Enter") {
         sendMessage();
