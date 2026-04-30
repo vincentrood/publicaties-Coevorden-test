@@ -4,142 +4,119 @@
     <meta charset="utf-8">
     <title>{{ .Title }}</title>
 
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.5;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-            background-color: transparent;
-        }
-
-        h1 { font-size: 1.5rem; margin-top: 0; color: #111; }
-
-        .meta-info {
-            font-size: 0.85rem;
-            color: #666;
-            margin-bottom: 20px;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
-            font-style: italic;
-        }
-
-        .pdf-link-container {
-            margin: 20px 0;
-            padding: 20px;
-            border: 1px dashed #ccc;
-            border-radius: 8px;
-            background-color: rgba(0, 0, 0, 0.02);
-            text-align: center;
-        }
-
-        .pdf-link-container a {
-            color: #0056b3;
-            text-decoration: underline;
-            font-size: 1.2em;
-            font-weight: bold;
-        }
-
-        .warning {
-            color: #777;
-            font-size: 0.8rem;
-            margin-top: 10px;
-        }
-
-        .gerelateerde-zaken {
-            margin-top: 40px;
-            border-top: 2px solid #f5f5f5;
-            padding-top: 20px;
-        }
-
-        .gerelateerde-zaken h3 { font-size: 1.1rem; color: #444; }
-
-        ul { padding-left: 20px; }
-        li { margin-bottom: 10px; font-size: 0.95rem; }
-        li a { color: #0056b3; text-decoration: none; }
-        li a:hover { text-decoration: underline; }
-        small { color: #888; }
-
-
-
-
-
-
-
+<style>
+/* =========================
+   BASE PAGE STYLING
+========================= */
 body {
-margin: 0;
-font-family: system-ui, Arial, sans-serif;
-background: #f5f6f8;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background: transparent;
 }
 
+h1 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    color: #111;
+}
+
+.meta-info {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    font-style: italic;
+}
+
+/* =========================
+   PDF BOX
+========================= */
+.pdf-link-container {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px dashed #ccc;
+    border-radius: 8px;
+    background: rgba(0,0,0,0.02);
+    text-align: center;
+}
+
+.pdf-link-container a {
+    color: #0056b3;
+    font-size: 1.1em;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+/* =========================
+   CHAT CONTAINER
+========================= */
 #ai-chat {
     width: 100%;
-    max-width: 100%;
     display: flex;
     flex-direction: column;
 
-    /* 🔥 begint klein maar kan groeien */
     min-height: 350px;
     max-height: 85vh;
 
     border: 1px solid #e5e7eb;
     border-radius: 12px;
     background: #f5f6f8;
+    overflow: hidden;
 }
 
-/* chat groeit mee met inhoud */
-#ai-chat {
-    width: 100%;
-    max-width: 100%;
+/* chat messages */
+#chat-window {
+    flex: 1;
+    padding: 15px;
+    overflow-y: auto;
     display: flex;
     flex-direction: column;
-
-    /* 🔥 begint klein maar kan groeien */
-    min-height: 350px;
-    max-height: 85vh;
-
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    background: #f5f6f8;
+    gap: 10px;
 }
 
-
+/* message bubbles */
+.msg {
+    max-width: 75%;
+    padding: 10px 12px;
+    border-radius: 12px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
 
 .user {
     align-self: flex-end;
     background: #2563eb;
-    color: white;
+    color: #fff;
     border-bottom-right-radius: 4px;
 }
 
 .ai {
     align-self: flex-start;
-    background: white;
+    background: #fff;
     color: #111;
     border: 1px solid #e5e7eb;
     border-bottom-left-radius: 4px;
 }
 
-
-/* input blijft stabiel */
+/* input */
 #input-bar {
     display: flex;
     gap: 10px;
     padding: 12px;
-    background: white;
+    background: #fff;
     border-top: 1px solid #e5e7eb;
-    border-bottom-left-radius: 12px;
-    border-bottom-right-radius: 12px;
 }
 
 #ai-question {
     flex: 1;
-    padding: 12px 14px;
+    padding: 12px;
     border: 1px solid #ddd;
     border-radius: 10px;
     outline: none;
-    font-size: 14px;
 }
 
 #ai-question:focus {
@@ -149,7 +126,7 @@ background: #f5f6f8;
 #ai-send-btn {
     padding: 12px 18px;
     background: #2563eb;
-    color: white;
+    color: #fff;
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -161,12 +138,13 @@ background: #f5f6f8;
     cursor: not-allowed;
 }
 
-/* typing indicator */
+/* typing */
 .typing {
     font-style: italic;
     opacity: 0.6;
 }
-    </style>
+</style>
+    
 </head>
 <body>
 
@@ -222,31 +200,17 @@ background: #f5f6f8;
     </div>
 
 
-<div id="ai-chat" style="max-width:600px;margin:auto;font-family:sans-serif;">
-    
-    <div id="chat-window" style="
-        border:1px solid #ccc;
-        padding:10px;
-        height:300px;
-        overflow-y:auto;
-        margin-bottom:10px;
-        background:#fafafa;
-    "></div>
+<div id="ai-chat">
+    <div id="chat-window"></div>
 
-    <div style="display:flex;gap:10px;">
-        <input 
-            id="ai-question" 
-            type="text" 
-            placeholder="Typ je bericht..." 
-            style="flex:1;padding:10px;"
-        />
+    <div id="input-bar">
+        <input id="ai-question" type="text" placeholder="Typ je bericht..." />
         <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
     </div>
 </div>
 
 <script>
 const MAX_CONTEXT = 50000;
-
 let chatHistory = [];
 
 function addMessage(role, text) {
@@ -258,24 +222,8 @@ function addMessage(role, text) {
 
     chatWindow.appendChild(msg);
     chatWindow.scrollTop = chatWindow.scrollHeight;
-
-    resizeChat(); // 🔥 belangrijk
 }
 
-function resizeChat() {
-    const chat = document.getElementById('ai-chat');
-    const windowEl = document.getElementById('chat-window');
-
-    // scrollhoogte bepaalt groei
-    const contentHeight = windowEl.scrollHeight + 120;
-
-    // grenzen
-    const min = 350;
-    const max = window.innerHeight * 0.85;
-
-    chat.style.height = Math.min(Math.max(contentHeight, min), max) + "px";
-}
-    
 async function sendMessage() {
     const input = document.getElementById('ai-question');
     const btn = document.getElementById('ai-send-btn');
@@ -293,9 +241,10 @@ async function sendMessage() {
     const contentElement = document.querySelector('[data-pagefind-body]');
     const pageContent = contentElement ? contentElement.innerText : "";
 
-    const typingMsg = document.createElement('div');
-    typingMsg.innerHTML = "<em>AI is aan het typen...</em>";
-    document.getElementById('chat-window').appendChild(typingMsg);
+    const typing = document.createElement('div');
+    typing.classList.add('msg', 'ai', 'typing');
+    typing.innerText = "AI is aan het typen...";
+    document.getElementById('chat-window').appendChild(typing);
 
     try {
         const controller = new AbortController();
@@ -313,40 +262,25 @@ async function sendMessage() {
 
         clearTimeout(timeout);
 
-        if (!response.ok) {
-            throw new Error("Serverfout: " + response.status);
-        }
-
         const data = await response.json();
+        typing.remove();
 
-        if (!data || !data.answer) {
-            throw new Error("Ongeldige response");
-        }
-
-        typingMsg.remove();
+        if (!data?.answer) throw new Error("Ongeldige response");
 
         addMessage("assistant", data.answer);
         chatHistory.push({ role: "assistant", content: data.answer });
 
-    } catch (error) {
-        typingMsg.remove();
-
-        let msg = error.name === "AbortError"
-            ? "Timeout: AI reageert te langzaam."
-            : error.message;
-
-        addMessage("assistant", "❌ " + msg);
-
+    } catch (err) {
+        typing.remove();
+        addMessage("assistant", "❌ " + err.message);
     } finally {
         btn.disabled = false;
         btn.innerText = "Verstuur";
     }
 }
 
-document.getElementById('ai-question').addEventListener("keypress", function(e) {
-    if (e.key === "Enter") {
-        sendMessage();
-    }
+document.getElementById('ai-question').addEventListener("keypress", e => {
+    if (e.key === "Enter") sendMessage();
 });
 </script>
     
