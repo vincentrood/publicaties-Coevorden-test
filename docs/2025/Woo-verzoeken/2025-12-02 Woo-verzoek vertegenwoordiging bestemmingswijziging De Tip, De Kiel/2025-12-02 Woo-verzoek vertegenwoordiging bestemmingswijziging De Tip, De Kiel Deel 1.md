@@ -1,0 +1,6727 @@
+---
+title: "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1"
+maps: ["2025","Woo-verzoeken","2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel"]
+source: "2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.pdf"
+date: 2026-05-05
+---
+
+Postadres: Gemeente
+Postbus 2
+7740 AA Coevorden
+Coevo rd en
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl
+|
+Bezoekadres: |
+Kasteel 1 1 |
+7741GC Coevorden
+Afdeling/Team Vitale Vakantieparken Coevorden
+Behandeld door |
+Kenmerk 54301-2025
+Bijlage(n) diversen
+Coevorden 2 december 2025 Verzenddatum: 2 december 2025
+Onderwerp Besluit Woo-verzoek
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Geachte heer, mevrouw, (geanonimiseerd)
+(geanonimiseerd)
+In uw brief van 28 september 2025 door ons ontvangen op 30 september 2025, heeft u
+met een beroep op de Wet open overheid (hierna: Woo) verzocht om het openbaar maken
+van documenten. Het verzoek om informatie gaat specifiek om informatie over de
+vertegenwoordiging van eigenaren bij de vigerende bestemmingswijziging op De Tip in De
+Kiel. Specifiek vraagt u om de volgende documenten:
+e _De samenstelling van de werkgroep; de instellingsbeschikking, aantekeningen en
+verslagen van de beraadslaging over de instelling en/of samenstelling van de
+werkgroep, het aantal leden, de tussentijdse opzeggingen, wanneer de leden die
+hebben opgezegd zijn vervangen.
+e
+_ Tussenbesluiten; kopie van de drie tussenbesluiten van het transformatieproces,
+een verslag van de vaststelling van deze stukken.
+e
+_ Het financiële verhaal; een kopie van de verschillende versies van de begroting
+m.b.t. de transformatie, een verslag van de vaststelling van deze stukken.
+Uw verzoek om informatie valt onder de reikwijdte van de Woo. Voor de relevante
+wettelijke bepalingen verwijzen wij u naar bijlage 1. Middels deze brief nemen wij een
+beslissing op uw Woo-verzoek en over de documenten die zijn aangetroffen op basis van
+uw Woo-verzoek.
+Procesverloop
+U heeft op 28 september
+jl. uw Woo-verzoek ingediend, deze hebben wij ontvangen op 30
+september
+jl. op 15 oktober 2025 hebben wij u gevraagd om uw verzoek te specificeren,
+tevens hebben wij aangegeven dat wij uw verzoek niet direct in behandeling hebben
+genomen vanwege ziekte. Op 27 oktober
+jl. heeft u uw verzoek gespecificeerd,
+Besluit
+Wij besluiten uw Woo-verzoek toe te wijzen en de documenten (deels) openbaar te
+maken, met inachtneming van de uitzonderingsgronden uit hoofdstuk 5 van de Woo. De
+inventarislijst, die als bijlage bij dit besluit is bijgevoegd, maakt integraal onderdeel uit van
+dit besluit. In de inventarislijst is opgenomen welke uitzonderingsgronden van toepassing
+zijn.
+Gemeente
+Coevorden
+Overwegingen
+Iedereen heeft het recht om overheidsinformatie op te kunnen vragen zonder daarbij een
+reden te hoeven aangeven. Dit staat in artikel 1.1 van de Woo. Het uitgangspunt van de
+Woo is dat overheidsinformatie openbaar is, tenzij er sprake is van een uitzonderingsgrond
+uit hoofdstuk 5 van de Woo.
+De Woo is niet van toepassing op informatie die al openbaar is. De documenten die al
+openbaar zijn worden niet opnieuw verstrekt,
+Openbaar met uitzondering van: persoonsgegevens
+Wij besluiten de documenten openbaar te maken, met uitzondering van de
+persoonsgegevens die daarin staan. Wij hebben de namen van inwoners en ambtenaren
+weggelakt. Daarnaast hebben we contactgegevens, zoals e-mailadressen, functie en
+telefoonnummers weggelakt die herleidbaar zijn tot personen en die inbreuk maken op de
+persoonlijke levenssfeer (artikel 5.1, lid 2 sub e Woo). Hierbij overwegen wij dat het
+openbaar maken van persoonsgegevens voor iedereen leesbaar en onomkeerbaar is. Bij de
+informatie in de opgevraagde documenten weegt naar ons oordeel de persoonlijke
+levenssfeer van de betrokken persoon zwaarder dan het belang van openbaarheid van
+deze informatie. Namen van de burgemeester, wethouders, gemeentesecretaris en
+(gekozen) politici maken we wel openbaar, omdat deze personen vanuit hun functie in de
+openbaarheid treden.
+Niet mee eens?
+Vindt u dat het besluit onjuist is, of bent u het er niet mee eens? Schrijf dan een
+bezwaarschrift aan de gemeente. Het bezwaarschrift moet aan een aantal eisen voldoen.
+Geef aan waarom u het niet eens bent met het genomen besluit. Vermeld de datum van
+uw bezwaarschrift en vergeet niet uw bezwaarschrift te ondertekenen. Stuur het
+bezwaarschrift binnen zes weken na de verzenddatum van dit besluit naar: college van
+burgemeesters en wethouders, Postbus 2, 7740 AA Coevorden. U kunt ook digitaal
+bezwaar maken. Kijk hiervoor op de website: www.coevorden.nl/bezwaarschrift-indienen.
+Heeft u vragen over deze brief?
+Neem dan contact op met VVP via telefoonnummer 14 0524 of per mail: vvp-
+@coevorden.nl. Wij verzoeken u bij vervolgcorrespondentie het zaaknummer
+54301-2025 te vermelden. Op die manier kunnen wij u beter en sneller van dienst zijn.
+(geanonimiseerd)
+(geanonimiseerd)
+Hoogachtend,
+namens het college van burgemeester
+en wethouders van Coevorden,
+(geanonimiseerd)
+(geanonimiseerd)
+De contactpersoon Woo van de Gemeente Coevorden
+Postbus 2, 7740 AA
+COEVORDEN
+En: 8 september 2025
+(geanonimiseerd)
+(geanonimiseerd)
+Coevorden
+betreft: verzoek om informatie over de vertegenwoordiging
+van
+eigenaren bij de vigerende bestemmingswijziging
+op De Tip in De Kiel
+LS,
+Een bestemmingswijziging in de ruimtelijke ordening is een
+ingrijpend gebeuren: in het geding zijn
+private eigendomssituaties, omgevingsbelangen, beleidsaspiraties van overheden en politici,
+veranderende maatschappelijke noden en behoeften, …
+De voorgenomen transformatie op de Tip, zo houden de stukken lezers voor, vergt samenwerking tussen
+betrokkenen om de voorgenomen transformatie tot stand te brengen. Maar wie krijgt in dat proces de
+gelegenheid actief aan
+overleg deel te nemen, te onderhandelen, besluiten te nemen en ultieme
+handtekeningen te zetten? En hoe zien dan de cruciale (tussen)produkten eruit?
+De Taskforce Vitale Vakantieparken Drenthe (VVPD) zag en ziet zichzelf een centrale regierol vervullen.
+De uitvoering is niet zijn ding: ‘Het maken van een
+transformatieplan is een
+opgave die
+(‘vertegenwoordigers van) het park en de gemeente samen moeten klaarspelen’, aldus VVPD.
+Dit Woo-verzoek zoekt helderheid en
+transparantie in een steeds schimmiger gang van zaken op het
+punt van de gebiedsvertegenwoordiging waarmee de gemeente Coevorden de transformatie recreatie
+naar wonen
+Op De Tip uitwerkt
+De precisering van de informatie waar het in
+onderhavig Woo-verzoek om
+gaat wordt in de bijgevoegde
+bijlage op pag. 2 "“
+6 uitgewerkt en
+toegelicht; aan het begin van
+paragraaf III, pagina 4 e.v. vindt u de
+gevraagde informatie, overzichtelijk bij elkaar, de motivering en waar wellicht nuttig voorzien van
+specificatie.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+2025
+B l J L A G E — orecisering Woo-verzoek 28. 09.
+¡ ONDERWERP: W1E MAG E1GENUJK DE EIGENAREN IN HET P1ANPROCES VERTEGENWOORDIGEN?
+Vo1gens de brochures van VV1D is de eigenaar van een park de )ogische gesprekspartner voor de
+gemeente. Met die eigenaar moet zij tot zaken komen. Nu is er , op DeTip niet sprake van één park , het
+gaat om een drieta afzonderlijke deelgebieden die heel verschillend ontwikkeld zijn , zonder onderlinge
+band: twee deelgebieden zonder gestructureerde , gezamenlijke regie van de eigenaren en per gebied elk
+een afwijkende bemoeieriis van de gemeente ; het derde deelgebied , het grootste , heeft een juridisch
+gezien lichte vorm van een VvE ; met dit bungalowpark heeft de gemeente nog weer een andere reiatie.
+Een impressie van wat er speelt
+Hieronder een opsomming van teiten , geregistreerd uit diverse bron:
+1. =Het oudste en het jongste deelgebied kennen geen formeel overlegkader van desbetreffende eigenaren en
+hebben dat ook nooit gehad.
+2. Het grootste deelgebied 'Bungalowpark Op De Kiel'i s statutair een zeg maar vve-light (kortweg een vve
+zonder eigendom met uitsluitend taken en bevoegdheden t. a. v. weg , groen en cai). Daarnaast was er , speciaal
+voot dit deelgebied , nog een 2e vereniging waarvan uitsluitend personen 1id konden worden die op dat
+bungalowpark een kavef in volie eigendom hadden. Die was er louter voor de behartiging van belangen van
+haar Ieden (w.o. , zoals het statutair werd omschreven , de vertegenwoordiging van haar leden en de behartiging
+van hun belangen bij gemeentelijke en andere instanties en het toezicht op door deze gegeven voorschriften
+en richtlijnen).
+3. Het college van B&W wordt schriftelijk onder de aandacht gebracht dat deVvE geen rof wil die haar
+bevoegdheid te buiten gaat (briefVvE d. d. 06. 1 2. 2018 ).
+ln een gesprek van 4 gemeente-ambtenaren met 2 eigenaren van het Bungalowpark op De Kiel komt aan de
+orde dat statuten de reikwijdte van efke we bepafen: deze we gaat slechts over een strook met verharding en
+bermen ; voor andere zaken heeft zij statutair geen mandaat (verslag gesprek op het gemeentehuis op
+1 6. 04. 201 9).
+5. Per brief presenteert de projectleider WPD voor De Tip o. m. een Quick Scan. Daarin een 'ruwe' typering van
+de verschillen tussen de besiaande deelgebieden wat betreft eigendom , formefe organisatie en gemeentelijke
+verantwoordelijkheid voor de infrastructuur. Gestefd wordt dat de gemeente , om te beginnen tijdens het
+transformatieproces , één aanspreekpunt en gesprekspartner wil. De conclusie in de uitgevoerde verkenning
+fuidt niettemin: Er is geen gebied dekkende eigenaar of entiteit. De werkgroep (.. .) kan als gemeentelijke
+overlegpartner optreden , maar zij heeft geen formele status en mandaat (brief 1 8. 03. 2021).
+6. De vanwege VVPD m. b. v. de werkgroep uitgezette vragenfijst onder eigenaren op het bungafowpark
+karakteriseert de status van de vertegenwoordiging als volgt: ì] tijdens het transformatieproces en voor de
+verdere toekomst is een juridische vertegenwoordiging befangrijk ; ii] momenteel is er een werkgroep zonder
+beslissingsbevoegdheid ; iii] de we heeft alleen beslissingsbevoegdheid over een deel van de wegen op het
+park (enquêteWPD april 2021).
+7. Om woningeigenaren van het bestemmingsplan De Tip te informeren wordt hun namens het colfege een fors
+pakket toegestuurd. Daarin o. a. per fase in het transformatieproces een typeririg van de rol van gemeente en
+park: fase 1 gemeente als trekker van hei proces ; fase 2 en 3 de (verenigde) woningeigenaren nemen het stokje
+van de gemeente over , hier zijn zij de trekkers , ligt het initiatief bij hen ; fase 4 vindt binnen de gemeentelijke
+fijnorganisatie p1aats (bijlage 'Kader kostenverhaa1. . 'bij brief B&W 1 3. 10 . 2021).
+3 eindigen met een tussenbesluit tussen
+Voorts wordt geëxpliciteerd dat deze iuist genoemde fasen 1=
+gemeente en park: 1: Go , No go of uìtstef ; 2: Reafisatie-overeenkomst ; 3: Transformatiepfan toe te voegen als
+juridische bijlage bij de Reafisatie-overeenkomst. (bijlage 'Naar een andere bestemming van uw vakantiepark'
+bij briefB&W 13. 10. 2021.
+8. Aan een maìltje van het toenmalige bestuur aan de eigenaren van Bungalowpark Op De Kief worden de
+volgende passages ontfeend: ln het verleden is , afs het ging om bestemmingsplan/vitale vakantieparken
+uìtsluitend gesproken NA afloop en buiten de ledenraad om. Simpel omdat de WE hier geen gesprekspartner
+in is. Niet in het verleden , niet nu en niet straks. (. . .). ln de huidige werkgroep , met ook een aantal vve-leden ,
+zitten deze uitsfuitend op basis van het zijn van eigenaar van een huisje (gescande bijlage d. d. 09. 11 . 2021 bij
+brief aan B&W C'vorden d. d. 09. 04. 2025)
+9. De algemene vergadering van deWE op 16. 09. 2023 verloopt , blijkt uit observatie , in staat van verwarring.
+Enerzijds in verband met het aftreden van het bestuur door respectloze tegenwerking van twee eigenaren.
+Anderzijds heeft dit 2-tal toch het fiat van het bestuur gekregen om met de gemeente te gaan praten over
+4.
+2
+voorwaarden om wel of niet een Anterieure Overeenkomst te tekenen. De discipline om uitsluitend na afioop
+van deze (jaar)vergaderingen zaken m. b. t. bestemmingsplan / vitale vakantieparken te bespreken (zie 8.) , is
+intussen totaal over boord gezet. Bestuur en ledenvergadering zijn verstrikt geraakt in wat nog wel tot haar
+mandaat behoort eri wat exclusief de verantwoording van de eigenaren is. De meeste aanwezigen kunnen
+nauwetijks volgen wat er aan de hand is en hoe het verder moet rnet de vereniging. (stukken desbetreffende
+bijeenkomst).
+:1 o. Op 12 'u1i 2024 wordt in een bijeenkomst een concept streefbeeld gepresenteerd. De projectleider voor De Tip
+licht het toe. De leden van de werkgroep zijn aanwezig , maar spelen bij presentatie en toelichting geen rol van
+betekenis. De bijeenkomst noch de daarvoor toegezonden stukken verhelderen wat 'aanspreekpunt zijn'
+inhoudt en hoe de werkgroep dat tot nu toe invult. Op geen enkele wijze maken de leden van de werkgroep
+duidelijk of en in welke mate zij daadwerkelíjk een aandeet hebben gehad in de beschrijving van de huidige
+situatie , het bepalen van knelpunten en het formuleren van verbeteringen. ln het stuk (met de titel concept
+streefbeetd) en een verhaal met wat dia's kondigt de projectleider thematisch openstaande acties aan die door
+gerneente , gemeente en werkgroep , of werkgroep dienen te worden uitgevoerd. Ook de VVE blijkt op de 'to
+do-lijstjes serieuze taken toebedeeld. Ze blijkt deVVE een reeks 'kostbare' taken te worden opgedragen die in
+de meer jaren begrotingen niet voorzien zijn. ln deze bijeenkornst voor eigenaren ontbrak uiteraard het bestuur
+van deWE als zodanig , de projectleider deed niettemin voorkomen alsof daar met de bestuurderen al
+overeenstemming over was bereikt. (concept streefbeeld transformatiepark DeTip 24. 06. 2024).
+l3ij 1. en 2. s in het kort de forrneše orgarisatie van de gezamenlijke eigenaren per deelgebied
+TM 10. stukjes van de siuier op hoe daar in de
+gekarakteriseerd. VervoIgens iichten signalementen in 3.
+loop van het transformatieproces op De Tip over wordt gecommuniceerd resp. hoe de
+vertegenwoordiging vorm krijgt.
+Het overall beeld dat daaruit te voorschijn komt is dat van VVPD-zijde en van de kant van de gemeente -
+in afwijking van de juridische werkelijkheid - van meet af wordt ingezet op één samenwerkingspartner
+die namens alle eigenaren van de drie deelgebieden optreedt. l-1un aanpak lijkt: eerst zich door enige
+eigenaren laten informeren , dan een groepje eigenaren inschakelen onder het label aanspreekpunt ; en
+vanuit die status stapsgewijs bevorderen dat dat groepje een echte werkgroep wordt en een positie
+inneemt die - ook al ontbreekt daarvoor passend officieei mandaat - uiteindelijk niet meer te
+onderscheiden is van die ene samenwerkingspartner die deVVPD van meet af aan propageerde (cf. met
+name onder 4. , 5. , 6. en 7. ).
+Begrenzing van het onderwerp
+VVPD en in zijn spoor de Gemeente Coevorden wilden kortom altijd al één samenwerkingspartner.
+Maar de formele juridische situatie was , dat er bij de start van het proces niet één eigenaar is , maar
+evenzoveel eigenaren als er kavels zijn binnen de drie deelgebieden met recreatie als officiële
+bestemming. Er bestond en bestaat nog altijd siechts één formeel overiegkader , maar dat heeft een zeer
+beperkt mandaat.
+Een reconstructie maakt aannemelijk hoe bij benadering de samenwerking werd uitgebouwd. Aan het
+begin van het transformatieproces licht de projectcoördinator het beoogde transformatieproces toe ,
+Ieden van dat groepje spreken zich persoonIijk uit over hoe zij e. e. a. zien , wat hun wensen zijn , . . . Dat
+doen ze zonder last of ruggespraak en al dan niet gehinderd door kennis van zaken en leidinggevende
+capaciteiten. Op zichzelf gaat het daarmee om standpunten van privé personen , vrijbiijvend , zij
+vertegenwoordigen niemand , alleen zichzelf.
+in het kader
+Maar al in fase 1 bIijkt er meer verwacht te worden , zoals: het groepje wordt 'geïnteiewd'
+van de Quick Scan , het krijgt de opdracht een enquête onder eigenaren af te nemen. ln fase 2 en 3
+wordt de inschakeling van de werkgroep bij ingrijpender taken geïntensiveerd. Aanwijzingen dat één
+van de projectcoördinatoren zich heeft ingezet om tot een bredere , representatieve werkgroep te komen
+ontbreken (zie 5. ) En de werkgroep heeft dat zeker niet gedaan. Ln tegendeel zelfs: waar het de groep
+niet lukte Ieden vast te houden , lijft ze begin 2022 het voltallige bestuur van deVVE in - op het moment
+dat dat bestuur i.v. m. grensoverschrijdend gedrag hevig onder vuur )ag - en vindt dan blijkbaar dat de
+werkgroep daarmee voldoende massa heeft om door te gaan. Vanaf dat moment leidt bestuurswisseling
+in de VVE automatisch tot 1idmaatschap van de werkgroep.
+een drietal punten zijn er aldus vragen waarop wezenlijke antwoorden missen:
+Op
+a. Hoe ziet
+gedurende het transformatieproces de
+personele bezetting van de werkgroep er uit
+(getalsmatig, lidmaatschapsduur, in welke mate maken verhoudingsgewijs per deelgebied de
+verschillende categorieën belanghebbende eigenaren er deel van uit (Commerciële illegale
+verhuurder, legale bewoning, illegale bewoning)?
+b. Hoe verantwoordt de gemeente de selectieve bevoordeling van
+bepaalde eigenaren en hoe zit dat
+met de groepsleden die door hun deelname de regels van de eigen
+vve negeren en notabene met de
+dubbele pet van
+groeps- en bestuurslid van de vve rechtstreeks afspraken (kunnen) maken met de
+projectleider over taken en investeringen door de vve?
+c. hoe zit het met de rechtmatigheid van de eenzijdige inbreng van bevoordeelde eigenaren op de
+planontwikkeling en hun obstructie van de reglementaire besluitvorming van de algemene
+vergadering binnen de vve?
+Il PERIODE
+Per brief d.d. 8 sept. 2021 (66427-2021) nodigde projectleider B woningeigenaren uit voor een
+bijeenkomst om hen bij te praten over de voorbereidingen van de mogelijke transformatie. Uit de brief is
+op te maken dat ‘het afgelopen jaar’ gewerkt is aan die voorbereidingen. Echter, het document ‘Quick
+Scan Transformatie, gedateerd op 11 november 2020, memoreert een
+gesprek dat al op 7 februari 2020
+plaats vond, tussen gemeente-ambtenaren, Taskforce VVP Drenthe en een zestal werkgroepleden.
+Kennelijk zijn die voorbereidingen beduidend eerder gestart dan aangegeven en bestond de werkgroep
+toen ook al.
+De informatie waar het in dit verzoek om te doen is strekt zich dan ook uit over de gehele periode van
+het transformatieproject: vanaf de feitelijke start van de voorbereidingen en
+besluitvorming over de
+instelling van de werkgroep, met inbegrip van de beslissingen over de samenstelling van die groep.
+Immers pas later zou
+blijken dat die besluiten de (tunnel)visie bepaalden over hoe het
+‘samenwerkingsproject’ tussen gemeente en die werkgroep gestalte zou
+krijgen.
+Dit Woo-verzoek betreft derhalve het tijdstip van de feitelijke start van de voorbereidingen, de
+besluitvorming over de instelling van de
+werkgroep incluis tot en met einde fase 3, met het tussenbesluit
+van einde fase 3
+‘Transformatieplan’ (dat zou
+toegevoegd worden als juridische bijlage bij de Realisatie-
+overeenkomst.
+(geanonimiseerd)
+(geanonimiseerd)
+III DOCUMENTEN & DATA
+De
+precieze informatie waar het in dit Woo-verzoek om
+gaat zijn documenten en
+digitaal materiaal:
+a. met geaggregeerde gegevens van de samenstelling
+van de werkgroep die in het transformatieproces
+uiteindelijk als dé partner van de gemeente fungeert en
+aantekeningen en
+verslagen van
+besluitvorming die te maken hebben met het samenstellen van de werkgroep;
+b. met de tussenbesluiten die steeds een fase in het transformatieproces zouden afsluiten (of
+equivalente stukken, indien die ter vervanging zijn opgesteld, het zouden essentiële bouwstenen zijn
+in de getrapte planontwikkeling)
+c. met het financiële verhaal over de totale kosten die met transformatie gemoeid zijn: inkomsten in
+relatie tot
+uitgaven definiëren de mogelijkheden om
+noodzakelijke veranderingen door te voeren
+voor de nieuwe
+bestemming wonen en eisen te stellen voor elk van de deelgebieden als geheel
+zowel als voor de individuele kavels en
+bebouwing. Zowel tussentijdse financiële overzichten, als de
+uiteindelijke financiële paragraaf kunnen inzicht geven of en in welke mate er iteratief bijstellingen
+nodig waren en welke consequenties die hadden voor de inhoudelijke planontwikkeling.
+Ter toelichting waarom
+juist deze informatie van groot belang is:
+a.
+Samenstelling werkgroep
+De onderhavige beoogde bestemmingswijziging waarbij VVPD en
+gemeente een
+werkgroep willen die
+voor en namens de eigenaren in de drie deelgebieden met hun samenwerken vergt veel van de leden
+van die groep: qua kennis en kunde omdat er nieuwe lijnen worden getrokken voor de ruimtelijke
+structuur van de toekomst , maar ook op hun organisatorische en leidinggevende capaciteiten. Maar daar
+gaan zij niet over. Zij kan wel zonodig ter compensatie ondersteuning en hulp aanbieden vanuit de
+gemeente zelf dan wei door derden in te schakelen.
+Wij zien het wel als hun vanzeIfsprekende verantwoordelijkheid dat de werkgroep waarop zij hun
+zinnen hebben gezet een legitieme vertegenwoordiging is van de belanghebbende eigenaren ; juist
+omdat hun belangen sterk uiteen Iopen. Het samenstellen vergt daarom een grote mate van
+zorgvuldigheid. Jmmers , wie de kans krijgt groepslid te worden:
+zit op de eerste rang als het gaat om kennisname van relevante informatie over de richting waarin de
+beieidsontwikkeling zich beweegt en procesinformatie (kennis is macht zeker wanneer de
+onzekerheid door de duur van het proces en voortdurende veranderingen onvoorspelbaar is) ;
+kan steeds weer in dat proces invloed uitoefenen op inhoud en proces (naarmate een groep de
+gelegenheid krijgt tot interne selectie en werving uit eigen kring neemt die invloed toe) ;
+hoe kleiner en eenzijdiger de groep , des te groter het relatieve vc)c)rdeel voor de leden , in termen van
+kennisvoorsprong en invloed ; dat voordeel is schier onc()ntroleerbaar financieel uit te buiten
+(combinatie mogelijk van keuzes die lagere kosten voor zichzelf betekenen en kosten naar andere
+eigenaren wordt verlegd) ; c)verigens zijn er , behalve mede-eigenaren , nog andere belanghebbenden
+die de groep mogeJijk liever op afstand houdt omdat zij de eigen opties met de
+bestemmingswijziging kunnen hinderen.
+waar er sprake is van personele unies tussen leden van de werkgroep met mensen die posten
+bekleden in relevante andere organisaties (bestuur VVE. .
+.) , des te groter het risico op verstoring van
+de balans wat betreft macht door meer kennis (i.), invloed (ii.) en (in)direct financieel gewin (iii.).
+i.
+ii.
+iii.
+iv.
+lndien VVPD en gemeente nalaten hun verantwoordelijkheid te nemen - dat begint al door niet
+transparant te zijn en weg te kijken bij ontsporing , dan genereren zij enorme risico's. Ons inziens raakt
+gebrek aan openheid uiterst belangrijke waarden in ons democratisch bestel en wordt er met vuur
+gespeeld waar het gaat om behoud van draagvlak van overheid ten opzichte van burgers.
+b. Tussenbesluiten
+De bij de aanvang van het transformatieproces aangek()ndigde tussenbesluiten zouden stapsgewijs
+duidelijk maken wat elke fase heeft opgeleverd en kunnen in de gekc)zen modelmatige benadering
+daarmee focus en randvoorwaarden definiëren voor resterende besluitvorming. Aangenomen mag
+worden dat dan steeds een geïntegreerde tussenbalans wordt ()pgemaakt. Het Woo-verzoek op dit punt
+omvat dan ook verslagen van de behandeling in de desbetreffende raadscommissie. en indien van
+toepassing in de raad ; daarnaast gaat het uiteraard om de tussenbesluiten (resp. hun pendant).
+Successievelijk derhalve:
+Go. No go of uitstel: Oogmerk van fase 1 is of de deelgebieden op De Tip inderdaad het traject van
+bestemmingsverandering in mogen. Daarvoor moet met vold()ende zekerheid worden vastgesteld of
+gemeente en deelgebieden in de transformatie geloven , wat beide partijen daar voor willen doen , o
+ze de situatie de baas denken te kunnen worden (situationele hindernissen , wet- en regelgeving ,
+betaalbaarheid , . . . ). Het eerste tussenbesluit zou een proces-overeenkomst zijn die duidelijkheid
+biedt: zien gemeente en deelgebieden het samen zitten , is het een haalbaar project iri die zin dat
+vastgestelde knelpunten overbrugbaar zijn , en denkt men dat er v()ldoende budget is of gegenereerd
+kan worden om waar te maken waar beide partijen het over eens zijn geworden? Zonder getekende
+overeenkomst geen verv()lg. Wie heeft de overeenkomst getekend en zijn hun handtekeningen dc)or
+hun respectievelijke achterban geaccordeerd?
+Verwacht wordt dat in fase 2 een verdiepingssiag wc)rdt gemaakt om de aannames uit de vorige fase
+uit te werken maar ook te verifiëren. Een vc)orbeeld: een belangrijke financieringsbron is een
+veronderstelde waardestijging van de privé eigend()mmen van eigenaren die in de transitie mee
+gaan. Eigenaren zullen een eventuele waardestijging willen en kunnen benutten om gebreken van
+hun privé eigendom te verhelpen , mogelijke tekortkomingen aan het gezamenlijke deelgebied te
+verhelpen. De gemeente voorziet dat de overwaarde dusdanig groot is dat zij die voor de kosten die
+zii maakt en misschien nog wat andere prioriteiten kan afromen. Kan de werkgroep waarmaken wat
+er van haar verwacht wordt? Wat doet de gemeente concreet? Crasht wat serieus anders moet om tot
+transformatie over te kunnen gaan door de confrontatie met wat financieel te dragen is? Komen
+i.
+ii.
+partijen er daar samen over uit? Wordt er een Realisatie-overeenkomst getekend die gedragen wordt
+door de respectieve mandaat-gevers?
+¡ii. lfl fase 3 wordt ten s)otte het moment van de waarheid bereikt. ls het voorwerk robuust genoeg om te
+kunnen volstaan met het zetten van puntjes op de 'i'? Het is spannend of enerzijds de mix van zoals
+het is en wat daar aan noodzakelijkerwijs verbeterd moet worden en de financiering van dat alles
+technisch rond te maken is. Anderzijds moet duidelijk worden wie waarvoor de portemorinee moet
+trekken en of de uiteindelijke beslissers in de partijen de voorstellen steunen en vooral de
+verpiichtingen die daaruit voortvloeien zien zitten. Met het 3e tussenbesluit zullen de daartoe
+gemachtigde bestuurders van gemeentelijke zijde hun afwegingen maken , van de kant van de drie
+deelgebieden gaat het uiteindelijk om de stem van de eigenaren ; gaan een voldoende aantal
+eigenaren ja zeggen tegen de prijs die zij inschatten dat zij moeten beta!en voor wat zij daarvo()r
+krijgen? Krijgt het transformatieplan de status van een juridisch bindende bijlage bij de Realisatie-
+overeen komst?
+c. Financiële kader
+De c()mplexiteit van de totale operatie maakt het onm()gelijk de kostenkant van begin af aan in a!le
+opzichten te overzien. Uiteinde!ijk zal in eerì iteratief proces boven tafe! moeten komen: wat precieze
+kosten zijn die met de noodzake!ijk geachte veranderingen ten aanzien van de privé eigendommen ,
+eventueel gemeenschappelijk eigendom , publieke infrastructuur , enz. gemoeid zijn. Fantasieën hoe dat
+a!les te financieren zul!en moeten meebewegen en op rea!iteitswaarde moeten worden getoetst: a!s er
+waardestijging optreedt dan Iigt het voor de hand dat de gedachte opkomt daar een voorschot op te
+nemen , (mocht bestemmingswijziging extreme waardestijging tot gevolg hebben zal ongetwijfeld
+nagedacht worden of er misschien nog meer te halen is).
+Een financiële paragraaf ontkomt er dan ook niet aan een zo exact mogelijke berekening van een
+s!uitende begroting op te stellen en aannemelijk te maken dat de verdeling van de 'pijn' redelijk en fair
+is. Het lijkt op voorhand wijs rekening te houden met niet nauwkeurig in te schatten p. m. -posten en
+tegenva!!ers.
+Nr. Document
+20230316 gespreksverslag werkgroep De Tip met terugkoppeling acties. pdf
+1
+20230316 gespreksverslag werkgroep De Tip. pdf
+2
+20230531 Concept Anterieure Overeenkomst. pdf
+3
+20231031 Gespreksverslag 31 oktober VvE - Gemeente. pdf
+4
+20240409 Gespreksverslag 9 april VvE - Gemeente. pdf
+5
+20240409 Memo onderzoek overname gemeenschappelijk terrein DEF. pdf
+6
+20240717 Memo afspraken rond afval. pdf
+7
+20241022 Brief raad 51670-2024 streefbeeld transformatiepark De Tip. pdf
+8
+20241223 Bruikleenovereenkomst VVE de Tip DEF. pdf
+9
+10 20250611 Getekende brief Wegen bestuur VvE De Tip. pdf
+11 38873-2021A Kader kostenverhaal en verevening. pdf
+12 Addendum taxatierapportgetekend. pdf
+13 Bijeenkomst werkgroep. pdf
+14 Bijlage 3 Transformatieplan. pdf
+15 Bijlage 4 Brieven instandhouding wegen. pdf
+16 Bijlage 6 Plan kwaliteitsimpuls 'De Tip Groener'!. pdf
+17 Bijlage 7 Voorbeeld-overeenkomst. pdf
+18 De Tip Q&A 20230602. pdf
+19 Deelname werkgroep. pdf
+20 Deskundigenrapportage inclusief addendum DEFINITIEF 1 mei 2023. pdf
+21 FAQ transformatie met specifieke vragen De Tip. pdf
+22 Kwaliteitsimpuls biodiversiteit 2024. pdf
+23 Memo veelgestelde vragen verevening en transformatie met vragen De Tip. pdf
+24 Memo Verevening vakantieparken Coevorden definitief. pdf
+25 Notulen 24 jan. . pdf
+26 Quick Scan definitief nov20. pdf
+27 Raadsinformatiebrief 47657-2025 getekend. pdf
+28 Raadsvoorstel deelstructuurvisie getekend 20220103. pdf
+29 SPREAD folder transformatieproces Vitale Vakantieparken april 22. pdf
+30 Streefbeeld De Tip - Definitief. pdf
+31 Transformatieproces pdf. pdf
+32 Uitvraag deelname. pdf
+33 verslag Bijeenkomst 20 mei bestemmingsplangebied De Tip. pdf
+34 verslag Bijeenkomst 23 april bestemmingsplangebied De Tip. pdf
+35 VVPD Transformatieproces in beeld. pdf
+Beoordeling
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Volledig openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Volledig openbaar
+Deels openbaar
+Volledig openbaar
+Volledig openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Volledig openbaar
+Volledig openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Deels openbaar
+Woo
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+AfzenderOntvanger
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+5. 1. 2e
+Kenmerk:
+38873-2021
+Gemeente
+Coevorden
+Raadsvoorstel gemeente Coevorden
+Datum raadsvergadering 14 september 2021
+Versie 1
+Agendapunt 8.4
+Naam rapporteur
+Rv.nr. 1698
+Openbaar Ja
+Portefeuillehouder Dhr. S. Stegen
+Onderwerp Vitale Vakantie Parken Coevorden
+—
+verevening bij
+(geanonimiseerd)
+transformatie van vakantiepark naar woonpark in het
+programma VVPC
+Voorgesteld besluit 1. Vaststellen van het kader voor kostenverhaal en
+verevening binnen het programma VVPC waarbij:
+a. De vereveningsbijdrage per recreatiewoning wordt
+bepaald op 20% van de getaxeerde waardestijging
+conform vastgesteld Drents model,
+b. de gemeentelijke bestemmingsplanleges en eventuele
+planschade worden doorbelast op initiatiefnemers.
+Aan de raad,
+Inleiding
+In Coevorden zijn we binnen het programma Vitale Vakantieparken bezig met de toekomst van
+onze vakantieparken. Eén van de opties is om vakantieparken te onttrekken aan het recreatieve
+aanbod en te transformeren naar reguliere woningen. Binnen het Drentse programma Vitale
+Vakantieparken, waar we ons als Coevorden aan hebben geconformeerd, is hiervoor een
+stappenplan ontwikkeld om de transformatie op een gestructureerde wijze aan te pakken.
+Daarnaast zijn ook afspraken gemaakt over het verhalen van kosten op eigenaren die in
+aanmerking komen voor transformatie. Dit omdat het omzetten van recreatieve bestemmingen
+naar woonbestemmingen leidt tot een (aanzienlijke) waardevermeerdering van de grond. Hierbij is
+ook de afspraak gemaakt dat, naast afspraken over het genoemde kostenverhaal, ook nog een
+financiële bijdrage moet worden betaald door eigenaren. Deze zogenaamde vereveningsbijdrage
+wordt gebruikt om investeringen te doen die bijdragen aan de toeristisch recreatieve ontwikkeling.
+Daarmee wordt voorkomen dat de toeristisch recreatieve kwaliteit als geheel verslechterd doordat
+woningen worden onttrokken uit het aanbod.
+Op dit moment vinden op eigen initiatief gesprekken plaats met vertegenwoordigers van het
+Ermerzand in Erm en De Tip in de Kiel over transformatie. Voor beide parken geldt dat, op basis
+van schattingen, nog maar zo’n drie procent van de woningen gebruikt wordt als recreatiewoning
+voor de verhuur aan derden. Twee op de drie woningen wordt bovendien al permanent bewoond.
+De gesprekken komen in een stadium dat het gewenst is om als gemeente een standpunt in te
+nemen over het kostenverhaal en de wijze waarop de verevening concreet handen en voeten wordt
+gegeven. Bijgevoegd kader dient hiertoe.
+Voorafgaand in de week aan de commissievergadering van 31 augustus 2021 wordt in afstemming
+met de griffie een technisch vragenuurtje georganiseerd over dit onderwerp.
+Argumenten
+1. De Wet ruimtelijke ordening biedt onder voorwaarden ruimte voor vereveningsafspraken
+Kenmerk:
+38873-2021
+Gemeente
+Coevorden
+De Wet ruimtelijke ordening (Wro) vormt de basis voor het kostenverhaal. Kort gezegd komt het
+erop neer dat gemeenten de kosten die zij maken om een ruimtelijke ontwikkeling te faciliteren , in
+rekening moeten brengen bij de initiatiefnemer van deze ontwikkeling. Hierbij gaat het dan
+bijvoorbeeld om de kosten om het bestemmingsplan te herzien of kosten die nodig zijn voor
+aanpassingen in de openbare ruimte. Het gaat hier om kosten die een directe relatie hebben met
+de ontwikkeling.
+Aanvullend daarop biedt de wet ook ruimte om een vereveningsbijdrage te vragen. Deze bijdrage
+moet dan wel gebruikt worden om te investeren in projecten die een ruimtelijke en functionele
+samenhang hebben met het project waarvoor de bijdrage wordt gevraagd.
+In dit concrete geval worden recreatiewoningen onttrokken aan het toeristisch recreatieve aanbod.
+Daarvoor wordt een financiële bijdrage gevraagd die wordt geïnvesteerd in toeristisch recreatieve
+projecten waardoor de toeristisch recreatieve kwaliteit als geheel , wordt versterkt.
+Deze methode heeft de toets van de Raad van State intussen doorstaan.
+2. Het is in dit geval redelijk en billijk om een vereveningsbijdrage te vragen van 20% van de
+getaxeerde waardestijging van een perceel.
+Niet ter discussie staat dat het omzetten van een recreatiewoning naar een reguliere woning leidt
+tot een (aanzienlijke) waardevermeerdering van de onderliggende grond waarmee de kosten die
+daarvoor gemaakt moeten worden (ruimschoots) overtreffen. De transformaties die her en der in
+den lande al hebben plaatsgevonden , bevestigen dit beeld. De verwachting is dat dit in Drenthe
+niet anders zal zijn , mede gelet op de huidige woningmarkt.
+Binnen het Drentse programma is dan ook de afspraak gemaakt om verevening toe te gaan
+passen. Er zijn meerdere manieren om de vereveningsbijdrage vast te stellen. Het voorstel dat aan
+de gemeenteraad wordt gedaan gaat uit van een vereveningsbijdrage van 20% van de getaxeerde
+waardestijging van het te transformeren perceel. De werkwijze voor het vaststellen van de
+waardestijging is ook op Drents niveau vastgelegd. Hierbij is niet de waarde van de woning
+maatgevend maar de waarde van de onderliggende grond.
+Uitgaande van het voorbeeld dat in het kader is opgenomen , leidt een waardestijging van €37.500 ,
+dan tot een vereveningsbijdrage van €7.500-.
+, Dit is in lijn met vereveningsbijdragen die elders in
+den lande worden gevraagd.
+3. De voorgestelde vereveningsmethode is gebaseerd op eigen verantwoordelijkheid.
+Zoals onder 2. aangegeven , wordt het voorstel aan de gemeenteraad gedaan om een
+vereveningsbijdrage van 20% van de getaxeerde waardestijging te hanteren. Vanuit de overige
+80% kunnen dan de plankosten en overige investeringen bekostigd worden. De resterende
+overwaarde is dan de 'winst' voor de betreffende eigenaar.
+De reden om voor deze systematiek te kiezen is een bewuste. Een alternatief , dat ook op
+provinciaal niveau steeds als voorbeeld wordt genoemd , is om de vereveningsbijdrage te nemen
+RESTANT VOOR
+INITIATIEFNEMER
+VOOR INITIATIEFNEMER
+(VOOR FINANCIERING
+Plankosten + particuliere
+investeringen)
+VEREVENINGSBIJDRAGE
+(¥b
+< TOTAAL - PK + PI)
+a
+■
+i
+a
+CM
+■ GEMEENTELIJKE PLANKOSTEN I
+I§
+1
+I
+VEREVENINGSBUDRAGE
+(H
+< > VAN TOTAAL) PARTICULIERE INVESTERINGEN
+Kenmerk:
+38873-2021
+Gemeente
+Coevorden
+over het deel van de waardestijging waar de plankosten en (particuliere) investeringen al op in
+mindering zijn gebracht. In onderstaande afbeelding zijn beide modellen gevisualiseerd.
+In het linker model worden initiatiefnemers uitgedaagd om de investeringen en plankosten zo laag
+mogelijk te houden. Hoe lager de plankosten en investeringen immers zijn , hoe hoger de 'eigen'
+overwaarde. Een belangrijk middel om dit te bereiken is schaalvergroting. Dit stimuleert individuele
+eigenaren om de samenwerking met elkaar te zoeken en de transformatie gezamenlijk op te
+pakken. Bij het tweede model ligt het risico op de loer dat juist het omgekeerde wordt
+gestimuleerd. Des te hoger de plankosten en investeringen des te lager de vereveningsbijdrage.
+Daar komt bij dat de voorgestelde systematiek waarbij de verantwoordelijkheid bij de inwoners
+wordt gelegd en de gemeente ruimte biedt en meer een faciliterende rol aanneemt , past binnen de
+Coevordense visie op de rol die we als overheid hebben.
+4. Met de opbrengst kunnen investeringen worden gedaan waarmee de toeristisch recreatieve
+kwaliteit van Coevorden als geheel versterkt wordt.
+Verevening mag geen doel op zich zijn. Het mag onder voorwaarden worden toegepast om
+financiële middelen te genereren die elders kunnen worden geïnvesteerd als compensatie voor het
+'verlies' dat wordt veroorzaakt door de ruimtelijke ontwikkeling. De investeringen komen daarmee
+weer ten dienste van de samenleving.
+De vereveningsbijdragen voor het onttrekken van recreatiewoningen aan het aanbod (het verlies)
+moeten dan ook worden ingezet om (ruimtelijke) ontwikkelingen die de toeristische sector
+versterken , te financieren. Hierbij kan worden gedacht aan projecten binnen het programma Vitale
+Vakantieparken maar bijvoorbeeld ook aan projecten uit de onlangs door de gemeenteraad
+vastgestelde fietsnota "Ruimte voor de fietser " die betrekking hebben op het recreatief fietsen.
+Opmerkingen
+1. Afspraken over verevening zijn aan spelregels gebonden.
+Om verevening te kunnen toepassen moet aan een aantal spelregels worden voldaan. De
+belangrijkste spelregel is dat er een structuurvisie moet worden vastgesteld door de
+gemeenteraad. Hierin moet niet alleen de wijze van verevening worden vastgelegd maar ook de
+samenhang worden onderbouwd tussen de bijdragen die worden gevraagd en de projecten die
+worden gefinancierd. Ook deze moeten worden benoemd en voorzien van een grove raming.
+2. Afspraken over verevening kunnen alleen gemaakt worden op basis van wederzijdse
+instemming.
+Het doorbelasten van de gemeentelijke kosten die worden gemaakt om een ruimtelijke
+ontwikkeling te faciliteren voor derden is wettelijk verplicht. Wanneer initiatiefnemer hierover geen
+privaatrechtelijke afspraken wenst vast te leggen in een anterieur contract kan dit aanleiding zijn
+om af te zien van medewerking. Al alternatief kan er een exploitatieplan worden vastgesteld bij het
+bestemmingsplan waarmee kostenverhaal wordt afgedwongen.
+Het betalen van een vereveningsbijdrage kan niet worden afgedwongen. Dit moet op basis van
+wederzijdse instemming plaatsvinden. In de praktijk betekent dit dat afspraken om te verevenen
+alleen tot stand komen wanneer de waardestijging als gevolg van de transformatie naar een
+reguliere woonbestemming hoger is dan de kosten die moeten worden gemaakt inclusief
+vereveningsbijdrage.
+3. Niet alle plan kosten worden verhaald.
+In het voorstel dat nu aan de gemeenteraad wordt gedaan , worden niet alle gemeentelijke
+plankosten doorberekend aan de initiatiefnemers. Deze beperken zich tot de
+bestemmingsplanleges. Daarnaast worden afspraken gemaakt over planschade.
+Naast de kosten voor de benodigde bestemmingsplanprocedure zijn er natuurlijk veel meer kosten
+die we als gemeente hebben in het proces om te komen tot transformatie. Er moet ambtelijke
+capaciteit worden gestoken in de gesprekken en onderhandelingen met de parken. Daarnaast zal
+Kenmerk:
+38873-2021
+Gemeente
+Coevorden
+ook vanuit de gemeente externe expertise moeten worden ingeschakeld , waaronder een
+gemeentelijke taxateur. In beginsel kunnen al deze kosten doorberekend worden.
+Omdat de gemeente echter ook een belang heeft bij de transformatie wordt voorgesteld deze voor
+eigen rekening te nemen.
+4. Er is in Coevorden een behoorlijk aantal persoons- en perceelsgebonden beschikkingen
+afgegeven.
+In het verleden is er al voor een flink aantal percelen persoons- of perceelsgebonden beschikkingen
+afgegeven. Kortgezegd komt het erop neer dat of de huidige bewoners hun recreatiewoningen al
+als reguliere woning mogen gebruiken of dat dit recht niet aan een persoon maar aan een perceel
+is gekoppeld. Deze laatste categorie van gevallen zijn ook vastgelegd in de ter plaatse van
+toepassing zijnde bestemmingsplannen.
+Dit betekent waarschijnlijk in dat geval er geen grondslag is voor een vereveningsbijdrage. Bij
+persoonsgebonden beschikkingen doet dit zich niet voor omdat deze beschikkingen immers niet
+raken aan de waarde van de kavel.
+5. Er zijn nog veel onzekerheden.
+Het transformatieproces in Coevorden is nog in de verkenningsfase. Vanuit het Ermerzand en de
+Tip is de vraag neergelegd om te mogen transformeren naar een reguliere woonfunctie en de
+gesprekken met de gemeente hierover zijn gestart.
+Om de transformatie te laten slagen moeten echter nog veel stappen worden gezet en
+vraagstukken worden beantwoord. Zo is essentieel voor het slagen of er vanuit de parken de
+bereidheid is zich te organiseren om als een gezamenlijke gesprekspartner voor de gemeente op te
+treden en gezamenlijke procesafspraken te maken.
+Ook zal er een gezamenlijk streefbeeld gemaakt moeten worden wat uiteindelijk moet uitmonden
+in een transformatieplan die weer de basis vormt voor het uiteindelijke bestemmingsplan.
+Dit laat echter onverlet dat het creëren van duidelijkheid hoe de gemeente omgaat met
+kostenverhaal en verevening hierbij zeker helpend is. De verdere concretisering van de verevening
+vindt plaats in een op te stellen structuurvisie.
+Kosten , baten , dekking
+De kosten van de gemeentelijke activiteiten die binnen het programma Vitale Vakantieparken
+worden uitgevoerd zijn deels gedekt vanuit de begroting. Het gaat daarbij vooral om projecturen
+en de bijdrage aan het VVP Drenthe. In de programmabegroting 2022 volgt een voorstel voor
+kosten waar nu meer zicht op ontstaat maar die nog niet in de meerjaren-programmabegroting zijn
+opgenomen. Eventuele kosten van aanpassing of mogelijk overname infrastructuur en kosten in de
+openbare voorzieningen op een park in eigendom van de gemeente zijn op dit moment nog niet
+duidelijk. Omdat eigendom , situatie en eventueel benodigde aanpassing per park verschillen , wordt
+dit per park bezien en in het toekomstplan per park afgesproken en meegenomen. Voor zover het
+gaat om kosten die niet zijn begroot , volgt hier mogelijk in de toekomst een apart voorstel voor.
+De bestemmingsplanleges worden in rekening gebracht bij de initiatiefnemers. De
+vereveningsbijdragen worden gestort in een speciaal hiervoor op te richten gemeentelijke
+bestemmingsreserve van waaruit de nader vast te stellen toeristisch recreatieve projecten worden
+gefinancierd. Hierover wordt jaarlijks gerapporteerd aan de raad in het kader van de reguliere P&C
+cyclus.
+Aanpak/uitvoering
+Zoals gezegd is vanuit het provinciale programma een stappenplan ontwikkeld om de transformatie
+van vakantieparken gestructureerd aan te pakken. Er worden vier fasen onderscheiden:
+Fase I Verkenningsfase
+In deze fase wordt allereerst vastgesteld welke parken in aanmerking komen voor transformatie.
+Vervolgens wordt op de betreffende parken een eerste haalbaarheidsstudie uitgevoerd en vindt een
+eventuele verdiepingsslag plaats. Dit mondt uit in een procesovereenkomst tussen park en
+Kenmerk:
+38873-2021
+Gemeente
+Coevorden
+gemeente. De gemeente treedt op als trekker van het proces. In deze fase worden ook de
+uitgangspunten voor verevening bepaald en vastgelegd.
+Fase II Streefbeeld
+Wanneer er een overeenkomst is afgesloten tussen gemeente en park, wordt een gezamenlijk
+streefbeeld bepaald waar het park over een aantal jaar wil staan. Aanvullend wordt op hoofdlijnen
+een financiële scan gemaakt waarbij kostenverhaal, verevening en overige kosten per park in beeld
+worden gebracht. Zowel afspraken met betrekking tot het streefbeeld als de afspraken over de
+kosten worden vastgelegd in een realisatieovereenkomst. De (verenigde) woningeigenaren worden
+in deze fase trekkers van het proces.
+Fase III Transformatieplan
+Deze fase leidt tot een gedragen en concreet plan van aanpak, inclusief planning en financiële
+paragraaf. Ook in deze fase ligt het initiatief bij de (verenigde) woningeigenaren. Nadat deze fase
+is afgerond, stopt de betrokkenheid van het programma
+Fase IV Bestemmingsplan en uitvoering.
+Deze fase staat in het teken van het doorlopen van de planologische procedure en de
+daadwerkelijke uitvoering.
+Met betrekking tot de beide Coevordense parken bevinden we ons nog in de verkenningsfase. Hier
+past ook het kader voor kostenverhaal en verevening bij. Bij instemming van de raad kan het
+kader meegenomen worden in de gesprekken met de parken en worden verwerkt in de
+procesovereenkomst.
+Om het kader voor verevening ook daadwerkelijk te kunnen gaan gebruiken moet er een
+structuurvisie worden opgesteld. Wanneer het kader door de gemeenteraad wordt vastgesteld na
+de zomer zullen wij dit proces starten. De voorbereidingen hiervoor zullen op korte termijn in gang
+gezet worden. Hiervoor zal te zijner tijd een apart voorstel aan uw raad worden aangeboden.
+Communicatie
+Na vaststelling van dit kader wordt de inhoud besproken met de twee parken waarmee we op dit
+moment het transformatieproces doorlopen.
+Bijlagen
+-
+Kader kostenverhaal en verevening voor transformatie vakantieparken Coevorden
+Burgemeester en wethouders van Coevorden,
+de gemeentesecretaris de burgemeester
+B.M. de Vries (geanonimiseerd)
+Kenmerk:
+38873-2021
+Gemeente
+Coevorden
+No. 2021/1698
+De raad van de gemeente Coevorden;
+Gelezen het voorstel van burgemeester en wethouders van 22 september 2020, bijlagenummer
+1698;
+besluit:
+1. het kader voor kostenverhaal en verevening binnen het programma VVPC vast te stellen
+waarbij:
+a. De vereveningsbijdrage per recreatiewoning wordt bepaald op 20% van de getaxeerde
+waardestijging conform vastgesteld Drents model,
+b. de gemeentelijke bestemmingsplanleges en eventuele planschade worden doorbelast
+op initiatiefnemers.
+Aldus besloten in de openbare vergadering
+van 14 september 2021.
+De raad voornoemd,
+voorzi Griffier
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+GESPREKSVERSLAG
+Werkgroep De Tip
+Van: 5
+Datum overleg: 16 maart 2023
+Onderwerp: Werkgroep De Tip
+—
+De Kiel
+Aanwezig: (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+7 JH
+b (projectleider gemeente) en
+(medewerker programma)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+CC:
+Aanleiding
+Verkenning transformatie De Tip
+-
+van recreatie- naar woonbestemming.
+1. Opening
+Kennismaking aanwezigen en vaststelling agenda.
+2. Processtappen
+In de brochure ‘Naar een nieuwe bestemming van uw vakantiepark’ bestaat het
+transformatieproces uit vijf fasen, die weer in stappen zijn verdeeld:
+e FASE 1: Verkenning
+FASE 2: Uitgangspunten voor transformatie
+FASE 3: Streefbeeld
+FASE 4: Transformatieplan, bestemmings-/omgevingsplan en overeenkomsten
+FASE 5: Uitvoering
+3. Vereveningsbeleid
+https://repository.officiele-overheidspublicaties.nl/CVDR/CVDR673543/1/html/CVDR673543 1.html
+De waardebepaling is in opdracht van de gemeente uitgevoerd. De kosten voor de
+bouwinspectie en deze waardebepaling zijn door de gemeente voldaan. Bij transformatie
+worden de kosten hoofdelijk omgeslagen. In overleg met de eigenaren is in een eerdere
+bijeenkomst besloten om één gezamenlijke taxateur in te schakelen, dit scheelt in het
+uiteindelijke kostenverhaal. Er is voldoende vertrouwen om een gezamenlijke
+onafhankelijke waardebepaling te laten uitvoeren. Wanneer de uitkomst onvoldoende
+wordt gedragen is er de mogelijkheid om een tweede waardebepaling te laten uitvoeren.
+Er worden individuele gesprekken ingepland (na een plenaire informatieavond) waarin
+o.a. de financiële component wordt besproken. Na toetsing en vaststelling van het
+concept bestemmingsplan en het transformatieplan, wordt er met elke eigenaar een
+anterieure overeenkomst afgesloten.
+Bij 20 perceelsgebonden aanwijzingen is door de taxateur vastgesteld dat er geen
+waardeverandering plaatsvindt, dit houdt in dat er geen vereveningskosten in rekening
+worden gebracht. Ze zijn wel meegenomen in het transformatieproces, omdat vooraf
+niet duidelijk was wat de waarde is van deze perceelsgebonden beschikkingen. Zij
+hebben nu ook een
+recreatiewoning met een
+woonvergunning. Individuele gesprekken
+volgen.
+Vraag: is de waarde wel qua omvang van de kavel bepaald? Dit graag meenemen in de
+uitwerking (actie
+Hoe meer mensen meedoen, hoe lager de kosten per woning. Doe je niet mee, dan kom
+je in het overgangsrecht. Dit wordt vastgelegd in het bestemmingsplan.
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+=De
+Er zijn vijf kavels die nu missen in de lijsten en weg bestemd zijn uit het
+bestemmingsplan. Er zijn wel bouwvergunningen verleend die van kracht blijven. Zijn
+deze kavels/te bouwen woningen nu bestemd voor recreatie of voor wonen? De
+gemeente gaat in gesprek met de makelaar die de verkoop regelt. Juridische check volgt
+(actie (geanonimiseerd)
+WOZ: recreatiewoningen en perceelsgebonden beschikkingen hebben dezelfde WOZ-
+waarde. Hoe kan dit? De perceelsgebonden beschikkingen zijn wel voor het dubbele
+aangekocht.
+De afdeling Belastingen kan hierop antwoorden, zie Bezwaar indienen gemeentelijke
+belastingen/WOZ | Gemeente Coevorden
+4. Transformatieplan
+De gestuurde conceptstukken (transformatieplan, waardebepaling en anterieure
+overeenkomst) zijn vertrouwelijk verstrekt. In het transformatieplan worden de
+afspraken opgenomen die later in het concept bestemmingsplan komen.
+De opmerkingen op bijgaande stukken ontvangt de gemeente graag via de mail vanuit
+de werkgroep (actie en Na ontvangst wordt dit bekeken en verwerkt
+(actie (geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+De infrastructuur is nu van de VvE en in eigen beheer. Dus geen vereveningsbijdrage?
+De gemeente gaat dit niet over te nemen.
+Onderzoeken of VvE de infrastructuur wil verkopen aan de gemeente (actie B,
+en Zo ja, dan de gemeente aanbieden en afwachten wat de redenen zijn van het
+eventueel niet aankopen.
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Is er bij de waardebepaling gekeken naar de staat van de infrastructuur op die plek?
+Negen zitten aan een gemeentelijke weg, vijf zijn privaat geregeld in VvE. Dit wordt
+uitgezocht (actie (geanonimiseerd)
+Bij een bestemmingsplanwijziging worden leges in rekening gebracht, die meegenomen
+worden in de vereveningsbijdrage. De kosten zijn bij de betreffende afdeling opgevraagd
+en worden opgenomen in de te sturen stukken.
+Er wordt een informatieavond voorbereid (actie voor donderdag 25
+mei 2023 in Dorpshuis Schoonoord vanaf 19.00 uur. In de uitnodiging komt een Teams-
+link om een ieder de gelegenheid te geven online aan te sluiten voor als ze dat
+Pinksterweekend niet op De Tip zijn. De aangepaste stukken worden meegestuurd met
+de vraag of er vooraf vragen/opmerkingen zijn. De meest gestelde vragen/opmerkingen
+worden meegenomen en beantwoord in de presentatie van die avond, samen met de
+toelichting.
+(geanonimiseerd)
+5. Brief aan de Raad, d.d. 31 mei 2022
+heeft namens enkele eigenaren een brief gestuurd over het transformatieproces aan
+de Raad. Van deze brief is geen ontvangstbevestiging ontvangen. Ook heeft er geen
+beantwoording plaatsgevonden. De brief is wel genoemd bij de ingekomen stukken van
+de Raad. heeft de brief zelf niet meer kunnen vinden; een kopie aanleveren lukt
+daarom niet. Er wordt uitgezocht hoe dit zit (actie 5
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Nagekomen:
+De brief is opgenomen bij de ingekomen stukken in de Raad van 12 juli 2022 en is voor
+kennisgeving aangenomen
+-—
+zie
+https://raadcoevorden.bestuurlijkeinformatie.nl/Agenda/Document/1f73fe57-8fae-4d79-9a74-
+ea84c3ca9b1b?documentId=5450022b-bedf-4fbd-92fb-5c/8d/aaN5b5&agendaltemId=982763d4-
+1da8-4032-ab45-1fc41397dd77#
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+GESPREKSVERSLAG
+Werkgroep De Tip
+Van: 5
+Datum overleg: 16 maart 2023
+Onderwerp: Werkgroep De Tip
+—
+De Kiel
+Aanwezig:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) 7 JH
+b (projectleider gemeente) en
+(medewerker programma)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+CC:
+Aanleiding
+Verkenning transformatie De Tip
+-
+van recreatie- naar woonbestemming.
+1. Opening
+Kennismaking aanwezigen en vaststelling agenda.
+2. Processtappen
+In de brochure ‘Naar een nieuwe bestemming van uw vakantiepark’ bestaat het
+transformatieproces uit vijf fasen, die weer in stappen zijn verdeeld:
+e FASE 1: Verkenning
+FASE 2: Uitgangspunten voor transformatie
+FASE 3: Streefbeeld
+FASE 4: Transformatieplan, bestemmings-/omgevingsplan en overeenkomsten
+FASE 5: Uitvoering
+3. Vereveningsbeleid
+https://repository.officiele-overheidspublicaties.nl/CVDR/CVDR673543/1/html/CVDR673543 1.html
+De waardebepaling is in opdracht van de gemeente uitgevoerd. De kosten voor de
+bouwinspectie en deze waardebepaling zijn door de gemeente voldaan. Bij transformatie
+worden de kosten hoofdelijk omgeslagen. In overleg met de eigenaren is in een eerdere
+bijeenkomst besloten om één gezamenlijke taxateur in te schakelen, dit scheelt in het
+uiteindelijke kostenverhaal. Er is voldoende vertrouwen om een gezamenlijke
+onafhankelijke waardebepaling te laten uitvoeren. Wanneer de uitkomst onvoldoende
+wordt gedragen is er de mogelijkheid om een tweede waardebepaling te laten uitvoeren.
+Er worden individuele gesprekken ingepland (na een plenaire informatieavond) waarin
+o.a. de financiële component wordt besproken. Na toetsing en vaststelling van het
+concept bestemmingsplan en het transformatieplan, wordt er met elke eigenaar een
+anterieure overeenkomst afgesloten.
+Bij 20 perceelsgebonden aanwijzingen is door de taxateur vastgesteld dat er geen
+waardeverandering plaatsvindt, dit houdt in dat er geen vereveningskosten in rekening
+worden gebracht. Ze zijn wel meegenomen in het transformatieproces, omdat vooraf
+niet duidelijk was wat de waarde is van deze perceelsgebonden beschikkingen. Zij
+hebben nu ook een
+recreatiewoning met een
+woonvergunning. Individuele gesprekken
+volgen.
+Vraag: is de waarde wel qua omvang van de kavel bepaald? Dit graag meenemen in de
+uitwerking (actie
+Hoe meer mensen meedoen, hoe lager de kosten per woning. Doe je niet mee, dan kom
+je in het overgangsrecht. Dit wordt vastgelegd in het bestemmingsplan.
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+=De
+Er zijn vijf kavels die nu missen in de lijsten en weg bestemd zijn uit het
+bestemmingsplan. Er zijn wel bouwvergunningen verleend die van kracht blijven. Zijn
+deze kavels/te bouwen woningen nu bestemd voor recreatie of voor wonen? De
+gemeente gaat in gesprek met de makelaar die de verkoop regelt. Juridische check volgt
+(actie (geanonimiseerd)
+WOZ: recreatiewoningen en perceelsgebonden beschikkingen hebben dezelfde WOZ-
+waarde. Hoe kan dit? De perceelsgebonden beschikkingen zijn wel voor het dubbele
+aangekocht.
+De afdeling Belastingen kan hierop antwoorden, zie Bezwaar indienen gemeentelijke
+belastingen/WOZ | Gemeente Coevorden
+4. Transformatieplan
+De gestuurde conceptstukken (transformatieplan, waardebepaling en anterieure
+overeenkomst) zijn vertrouwelijk verstrekt. In het transformatieplan worden de
+afspraken opgenomen die later in het concept bestemmingsplan komen.
+De opmerkingen op bijgaande stukken ontvangt de gemeente graag via de mail vanuit
+de werkgroep (actie en Na ontvangst wordt dit bekeken en verwerkt
+(actie
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+De infrastructuur is nu van de VvE en in eigen beheer. Dus geen vereveningsbijdrage?
+De gemeente gaat dit niet over te nemen.
+Onderzoeken of VvE de infrastructuur wil verkopen aan de gemeente (actie B,
+en Zo ja, dan de gemeente aanbieden en afwachten wat de redenen zijn van het
+eventueel niet aankopen.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Is er bij de waardebepaling gekeken naar de staat van de infrastructuur op die plek?
+Negen zitten aan een gemeentelijke weg, vijf zijn privaat geregeld in VvE. Dit wordt
+uitgezocht (actie (geanonimiseerd)
+Bij een bestemmingsplanwijziging worden leges in rekening gebracht, die meegenomen
+worden in de vereveningsbijdrage. De kosten zijn bij de betreffende afdeling opgevraagd
+en worden opgenomen in de te sturen stukken.
+Er wordt een informatieavond voorbereid (actie voor donderdag 25
+mei 2023 in Dorpshuis Schoonoord vanaf 19.00 uur. In de uitnodiging komt een Teams-
+link om een ieder de gelegenheid te geven online aan te sluiten voor als ze dat
+Pinksterweekend niet op De Tip zijn. De aangepaste stukken worden meegestuurd met
+de vraag of er vooraf vragen/opmerkingen zijn. De meest gestelde vragen/opmerkingen
+worden meegenomen en beantwoord in de presentatie van die avond, samen met de
+toelichting.
+(geanonimiseerd)
+5. Brief aan de Raad, d.d. 31 mei 2022
+heeft namens enkele eigenaren een brief gestuurd over het transformatieproces aan
+de Raad. Van deze brief is geen ontvangstbevestiging ontvangen. Ook heeft er geen
+beantwoording plaatsgevonden. De brief is wel genoemd bij de ingekomen stukken van
+de Raad. heeft de brief zelf niet meer kunnen vinden; een kopie aanleveren lukt
+daarom niet. Er wordt uitgezocht hoe dit zit (actie 5
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Nagekomen:
+Terugkoppeling acties verslag:
+d. Is de waarde wel qua omvang van de kavel bepaald? Dit graag meenemen in de
+uitwerking (actie Antwoord Wij verwijzen u graag naar pag.
+19 (conclusie), hierin staat ons inziens vermeld hoe wij hier tegenaan kijken.
+Zijn deze kavels/te bouwen woningen nu bestemd voor recreatie of voor wonen?
+De gemeente gaat in gesprek met de makelaar die de verkoop regelt. Juridische
+check volgt (actie Er is contact geweest met de makelaar maar de
+percelen zijn uit de verkoop gehaald. Er is vervolgens rechtstreeks contact
+gezocht met de eigenaar. Blijkt dat er een nieuwe makelaar voor de verkoop is.
+Er is contact geweest met de nieuwe makelaar en potentiële kopers. Er zijn nu
+twee percelen in de verkoop die mogelijk mee doen in de transformatie.
+De opmerkingen op de stukken ontvangt de gemeente graag via de mail vanuit
+de werkgroep (actie en Na ontvangst wordt dit bekeken en
+verwerkt (actie Zijn ontvangen en verwerkt.
+Onderzoeken of VvE de infrastructuur wil verkopen aan de gemeente (actie
+en Is in onderzoek.
+Is er bij de waardebepaling gekeken naar de staat van de infrastructuur op die
+plek? Negen zitten aan een gemeentelijke weg, vijf zijn privaat geregeld in VvE.
+Dit wordt uitgezocht (actie Zie antwoord bij vraag 1.
+De brief van is opgenomen bij de ingekomen stukken in de Raad van 12 juli
+2022 en is voor kennisgeving aangenomen
+-—
+zie
+https://raadcoevorden.bestuurlijkeinformatie.nl/Agenda/Document/1f73fe57-8fae-4d79-
+9a74-ea84c3ca9b1b?documentId=5450022b-bedf-4fbd-92fb-
+5c78d7aa95b5&agendaltemId=982763d4-1da8-4032-ab45-1fc41397dd77#
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Anterieure overeenkomst ,
+De Tip , De Kiel
+Gemeente Coevorden
+Coevorden , concept d. d. 31 mei 2023
+Kenmerk: 14286-2023
+1
+Anterieure overeenkomst
+Bestemmingsplan ‘De Kiel - De Tip , transformatie van recreatie naar wonen’
+Zaaknummer 14286-2023
+De ondergetekenden:
+1. De publiekrechtelijke rechtspersoon Gemeente Coevorden , gevestigd te Coevorden aan de
+Kasteel 1 rechtsgeldig vertegenwoordigd door burgemeester de heer R. Bergsma , geboren
+op 14 juni 1976 te Rotterdam , handelend ter uitvoering van het besluit van het College van
+burgemeester en wethouders d. d. _____________________________
+2023;
+hierna te noemen “de gemeente”;
+en:
+2. De eigena(a)r(en) van het perceel aan de Tip nr. ________
+, genaamd
+…………………………………………………………………………………………. .
+………………………………………………………. ………………………………….
+die op grond van het bestemmingsplan ‘De Kiel - De Tip , transformatie van recreatie naar
+wonen’ de bestemming wonen krijgen.
+hierna te noemen: ‘de eigenaren’.
+De gemeente en de eigenaren worden hierna gezamenlijk aangeduid als “partijen”.
+2
+Overwegingen:
+Het gebied De Tip in De Kiel bestaat uit verschillende (recreatie)woningen die op een individueel
+kadastraal perceel staan.
+In het ter plaatse geldende bestemmingsplan ‘De Kiel , De Tip’ , dat door de raad van de gemeente
+Coevorden is vastgesteld op 3 februari 2015 , heeft ‘De Kiel , De Tip’ de bestemming Recreatie. Dit
+betekent dat de 59 woningen binnen het bestemmingsplan een recreatieve bestemming hebben ,
+waar permanent wonen niet is toegestaan (met uitzondering van de eigenaren met een persoons-
+gebonden gedoogbeschikking en/of perceelsgebonden aanwijzing).
+Reeds langere tijd heeft de meerderheid van de eigenaren van de woningen met de
+functieaanduiding ‘recreatiewoning’ in De Kiel de wens om hun woning permanent te mogen
+bewonen. Na het onderzoek van de Provincie over vitaliteit , de uitkomst van dit onderzoek dat hier
+geen recreatieve toekomst lag en het advies van de onderzoekers ‘maak er maar een woonpark
+van’ is het initiatief gekomen van dorpsbelang De Kiel. Dit met uitzondering van eigenaren van de
+woningen die de recreatieve bestemming wensen te behouden. De eigenaren zijn over deze
+‘transformatie’ met elkaar en ook met de gemeente in overleg gegaan.
+In de ‘Deelstructuurvisie Transformatie recreatiewoningen gemeente Coevorden’ , die de
+gemeenteraad van de gemeente Coevorden heeft vastgesteld op 15-02-2022 , wordt de
+mogelijkheid voor een dergelijke transformatie beschreven.
+Inmiddels biedt ook het beleid van de Provincie Drenthe (mede vanuit het onderwerp ‘Vitale
+Vakantieparken Drenthe’) de mogelijkheid om gebieden zoals De Tip te transformeren.
+Het gemeentelijke en provinciale beleid stellen wel enkele (aanvullende) voorwaarden waaraan
+voldaan moet worden om medewerking te kunnen verlenen aan een dergelijke transformatie. Deze
+voorwaarden betreffen onder meer het ‘bereiken van meerwaarde of kwaliteitsverbetering’. De
+voorwaarden zijn aanvullend , omdat ook de normale vereisten die voor een dergelijke
+transformatie gelden van toepassing blijven. Het gaat dan vooral om de vereisten die gelden voor
+het wijzigen van een bestemmingsplan en de eisen die vanuit de bouwregelgeving worden gesteld
+aan woningen voor reguliere bewoning.
+Ten behoeve van de gewenste transformatie is in onderling overleg tussen de betrokkenen het
+transformatieplan ‘Transformatieplan De Tip’ opgesteld. Het plan zal als bijlage bij het
+bestemmingsplan worden gevoegd en als zodanig door de raad worden vastgesteld. In het kader
+van het vooroverleg heeft de Provincie Drenthe het voorontwerp-bestemmingsplan , inclusief het
+transformatieplan , beoordeeld. Met inachtneming van een aantal opmerkingen hebben zij laten
+weten ermee te kunnen instemmen.
+Het transformatieplan dient als afsprakenkader tussen partijen , en is mede basis voor deze
+overeenkomst. De afspraken zijn gemaakt met de individuele eigenaren. Dit is ook zichtbaar in
+deze overeenkomst. Met het ondertekenen van deze overeenkomst door de eigenaren van de
+woningen maken alle partijen kenbaar dat zij voor het park en voor de woningen de transformatie
+willen regelen en de overeenkomst zullen nakomen.
+Naast het vastleggen van de afspraken zoals verwoord in het transformatieplan en de
+‘Deelstructuurvisie Transformatie recreatiewoningen gemeente Coevorden’ dient deze
+3
+overeenkomst ook voor het verhalen van de kosten zoals die door de gemeente gemaakt zijn of
+nog gemaakt worden ten behoeve van de transformatie (de leges) , waarmee dan ook de
+economische uitvoerbaarheid van het bestemmingsplan zoals bedoeld in artikel 6. 24 Wro
+verzekerd is.
+Met inachtneming van de overwegingen verklaren de ondergetekenden het navolgende te zijn
+overeengekomen:
+Definities en begrippen
+De hierna volgende definities maken integraal deel uit van de overeenkomst.
+Anterieure overeenkomst:
+Overeenkomst tussen gemeente en de eigenaren over het kostenverhaal van het project , de
+vereveningsbijdrage en de uitvoering van de transformatie , gesloten voor de vaststelling van een
+(eventueel) exploitatiepIan.
+Exploitatieplan:
+Plan als bedoeld in artikel 6. 12 Wro.
+Kostenverhaal:
+Het verhaal van kosten zoals bedoeld in artikel 6. 24 lid 1 Wro.
+Ontwerp bestemmingsplan:
+Het ontwerp met alle bijbehorende stukken dat op basis van het stedenbouwkundigplan is
+vervaardigd en dat na inspraak en eventuele aanpassing daaraan de voor het plan vereiste
+procedure (ex artikel 3. 1 Wro) heeft en zal doorlopen (bekend als ‘De Kiel De Tip , transformatie
+van recreatie naar wonen’).
+Openbare ruimte:
+De binnen het projectgebied gelegen gronden met alle bijbehorende voorzieningen die een
+openbaar karakter hebben.
+Project:
+De te doorlopen transformatie van recreatie naar wonen van De Tip in De Kiel , waartoe het in
+bijlage 1 aangegeven plangebied behoort , op basis van ontwerp bestemmingsplan ‘De Kiel De Tip ,
+transformatie van recreatie naar wonen’.
+Projectgebied:
+Het gebied liggende aan De Tip in De Kiel , totaal groot circa 6 hectare , plaatselijk bekend als De
+Tip in De Kiel , zoals op bijlage 1 is aangegeven , waarbinnen het project valt en dat gebaat wordt
+door de transformatie van recreatie naar wonen.
+Transformatieplan:
+Het plan dat de kaders omvat voor de programmatische , ruimtelijke- en uitvoeringsaspecten van
+het project. Dit plan wordt als bijlage van het bestemmingsplan ‘De Kiel De Tip , transformatie van
+recreatie naar wonen’ vastgesteld en maakt als bijlage 3 deel uit van deze overeenkomst.
+4
+Voorwaarden en bepalingen
+Artikel 1 Doel van de overeenkomst
+Het doel van deze overeenkomst is het vastleggen van de voorwaarden voor transformatie
+waaronder het projectgebied ontwikkeld zal worden , inclusief het daarbij behorende kostenverhaal ,
+de vereveningsafspraken en de borging van de concrete uitvoering van de maatregelen uit het
+transformatieplan.
+Artikel 2 Het project
+Het programma , zoals mede uitgewerkt in het transformatieplan en het bestemmingsplan , zal door
+de eigenaren in het projectgebied worden gerealiseerd en/of behouden.
+Het project bestaat uit de transformatie van De Tip van een recreatieterrein naar een
+woongebied (waar permanent gewoond mag worden) voor de percelen waar wonen nog
+niet is toegestaan;
+Het project heeft betrekking op de in de ‘Overwegingen’ genoemde adressen aan de De
+Tip in De Kiel waar de bestemming “wonen” op is gelegd en de daarbij behorende
+buitenruimte/openbare ruimte binnen het projectgebied op basis van het ontwerp
+bestemmingsplan ‘De Kiel De Tip , transformatie van recreatie naar wonen’;
+Het onderhavige bestemmingsplan ten behoeve van de transformatie van De Tip van
+recreatiewoningen naar een woongebied geeft de richtlijnen voor verdere ontwikkeling van
+De Tip. Het bestemmingsplan geeft rechten tot ontwikkeling , maar kent geen verplichting
+tot uitvoering. Om aan te tonen dat het bestemmingsplan (economisch) uitvoerbaar is , is
+deze overeenkomst tussen eigenaren en gemeente opgesteld en onlosmakelijk aan het
+bestemmingsplan verbonden;
+In het bestemmingsplan is een analyse van het provinciale beleid opgenomen , waarin de
+noodzaak tot het opstellen van een transformatieplan met bijbehorend uitvoeringsplan
+beschreven is. Tevens is een transformatieplan opgesteld , met hierbij een financiële
+paragraaf met bijbehorende werkzaamheden en een planning. Op basis van het
+vastgestelde transformatieplan , inclusief financiële paragraaf en werkzaamheden kan de
+wijziging bestemmingsplan worden opgesteld;
+Partijen komen hierbij tevens overeen dat voldaan zal worden aan de regels en richtlijnen
+van het nog op te stellen bestemmingsplan ‘De Kiel , De Tip , transformatie van recreatie
+naar wonen’ en het Notitie Ruimtelijke Kwaliteit behorende bij Bestemmingsplan
+Buitengebied 2014 en tevens dat de werkzaamheden met bijbehorende kosten zoals
+opgenomen in het transformatieplan moeten worden uitgevoerd en bekostigd door de
+eigenaren. In het transformatieplan staat aangegeven welke kosten voor rekening van de
+individuele eigenaren komen.
+•
+•
+•
+•
+•
+5
+Artikel 3 Algemene verplichtingen van de gemeente
+1) De gemeente heeft de inspanningsverplichting tot het in procedure brengen van een door of
+vanwege de eigenaren vervaardigd ontwerp bestemmingsplan , zodra dat tussen partijen is
+goedgekeurd , alsmede een inspanningsverplichting om te bevorderen dat het ontwerp
+bestemmingsplan inclusief eventuele door zienswijzen tussentijds noodzakelijk geworden
+wijzigingen , op voortvarende wijze de daartoe geëigende procedure doorloopt zodat het door
+de gemeenteraad kan worden vastgesteld en op de kortst haalbare termijn onherroepelijk
+wordt , al dan niet na een beroepsprocedure. Indien de besluitvorming van de gemeenteraad
+leidt tot andere vereisten dan in het transformatieplan of het ontwerp bestemmingsplan zijn
+opgenomen treden partijen hierover in overleg en proberen daar in redelijkheid tot
+overeenstemming te komen.
+2) De gemeente behoudt zich bij de nakoming van hetgeen in deze overeenkomst is bepaald
+volledig haar publiekrechtelijke verantwoordelijkheid ten aanzien van het publiekrechtelijke
+besluitvormingsproces. Dit houdt in dat er van de zijde van de gemeente geen sprake is van
+een toerekenbare tekortkoming , indien het handelen naar deze verantwoordelijkheid eist dat
+de gemeente publiekrechtelijke rechtshandelingen verricht die niet in het voordeel zijn van de
+aard of de strekking van deze overeenkomst of van de voortgang van het project.
+Artikel 4 Algemene verplichtingen van de eigenaren
+De eigenaren zullen de op hen rustende verplichtingen uit het transformatieplan en de
+‘Deelstructuurvisie Transformatie recreatiewoningen gemeente Coevorden’ nakomen. Wanneer de
+medewerking van (een van) de eigenaren nodig is om de overige verplichtingen uit het
+transformatieplan uit te kunnen uitvoeren , zal hij/zij deze medewerking verlenen.
+Artikel 5 Kostenverhaal en verevening
+1) De eigenaren (en/of hun rechtsopvolger(s)) zijn ieder voor zich een vereveningbijdrage
+verschuldigd voor de waardestijging van hun eigendom als gevolg van de bestemmings-
+wijziging. De uitgangspunten hiertoe zijn vastgelegd in de ‘Deelstructuurvisie Transformatie
+recreatiewoningen’ , welke door de raad is vastgesteld op 15 februari 2022. De hoogte van de
+vereveningsbijdrage is bepaald op € ______________-, per te transformeren perceel (zoals
+opgenomen in bijlage 2).
+2) Voor de in lid 1 bedoelde bijdrage ontvangt elke eigenaar een factuur van de gemeente
+nadat het bestemmingsplan ‘De Kiel De Tip , transformatie van recreatie naar wonen’
+onherroepelijk is. De eigenaren hebben de mogelijkheid om in 1 termijn , 3 jaarlijkse termijnen
+of 36 maandelijkse termijnen de factuur te voldoen. Zo nodig kan met de individuele
+eigenaren een betalingsregeling getroffen worden , echter dient de noodzaak hiertoe wel
+financieel te worden onderbouwd.
+6
+Artikel 6 Planschade
+1) De gemeente zal de vereniging schriftelijk in kennis stellen van een
+aanvraag om
+tegemoetkoming in schade als bedoeld in artikel 6.1 e.v. Wro die voortvloeit uit de
+planologische wijziging van het bestemmingsplan.
+2) De eigenaar verbindt zich -
+onder de voorwaarde dat de in deze overeenkomst bedoelde
+benodigde planologische maatregel onherroepelijk is geworden -
+om aan de gemeente het
+totale bedrag te compenseren van de tegemoetkoming in schade als bedoeld in artikel 6.1.
+e.v. Wro die onherroepelijk voor
+vergoeding door de gemeente in aanmerking komt en die
+voortvloeit uit de planologische wijziging van het bestemmingsplan.
+3) Bij een verzoek om
+planschadecompensatie zal de gemeente dit doorgeven aan de
+eigenaar. De gemeente zal zo
+spoedig mogelijk na iedere aparte en
+onherroepelijke
+vaststelling van een
+bedrag van de tegemoetkoming in schade die voortvloeit uit de in artikel
+3, lid 1 bedoelde planologische wijziging van het bestemmingsplan het bedrag schriftelijk aan
+de vereniging meedelen. Ter uitvoering van het in lid 2 en 3 bepaalde, verplicht de v zich het
+desbetreffende bedrag na iedere mededeling aan de gemeente over te maken binnen
+dertien weken na de datum van
+verzending van de mededeling door storting op
+bankrekeningnummer ten name van de gemeente Coevorden
+onder vermelding van
+“tegemoetkoming in schade bestemmingsplan ‘De Tip, De Kiel,
+transformatie recreatiepark naar wonen”.
+4) Indien de eigenaar de in lid 2 bedoelde tegemoetkoming in schade niet in overeenstemming
+met het tijdstip als bedoeld in lid 3 heeft overgemaakt, is de eigenaar in verzuim en is zij, in
+overeenstemming met het bepaalde in artikel 6:83 van het Burgerlijk Wetboek, zonder dat
+een
+ingebrekestelling vereist is, aan de gemeente, onverminderd en boven de door haar te
+betalen tegemoetkoming in schade, een
+rentevergoeding te vermeerderen met
+omzetbelasting verschuldigd, berekend naar een percentage dat twee procent (2%) hoger is
+dan het laatstelijk vastgestelde wettelijke rentepercentage, gerekend vanaf het moment dat
+de uiterste termijn is overschreden tot het moment dat de in lid 2 bedoelde tegemoetkoming
+in planschade daadwerkelijk aan de gemeente is overgemaakt.
+5) De gemeente zal de eigenaar bij de behandeling van een
+aanvraag betrekken op de wijze
+zoals voorgeschreven in de ‘Procedure verordening voor
+advisering tegemoetkoming in
+schade gemeente Coevorden’. De advisering- en onderzoekskosten van deze procedure
+komen voor
+rekening van de eigenaar.
+(geanonimiseerd)
+Artikel 7 Overdracht contractpositie en kettingbeding
+1) Partijen zijn niet bevoegd de rechten en
+verplichtingen, die voor de partijen voortvloeien uit
+deze overeenkomst direct of indirect over te dragen aan derden, tenzij de andere partij
+voorafgaand daartoe schriftelijk goedkeuring heeft verleend. Aan de goedkeuring kunnen
+(financiële) voorwaarden worden verbonden.
+2) In geval van overdracht van het geheel of van een
+gedeelte van de gronden gelegen in het
+exploitatie- c.q. projectgebied, is de desbetreffende partij gehouden om aan
+zijn
+rechtsopvolgers de bepalingen en
+bedingen van deze overeenkomst, voor zover deze door
+hun aard nog niet zijn geëxpireerd, bij wijze van
+kettingbeding dan wel derdenbeding ten
+behoeve van de gemeente woordelijk in de tussen die partijen op te maken en te
+ondertekenen overeenkomst alsmede in de juridische akte van
+levering te doen opnemen.
+Bij iedere niet-nakoming van in dit artikellid bepaalde verbeurt de desbetreffende partij ten
+behoeve van de gemeente een onmiddellijk opeisbare , niet voor matiging vatbare boete ten
+bedrage van € 25.000-, (zegge vijfentwintigduizend euro) voor elke niet-nakoming of
+overtreding met bevoegdheid voor de gemeente om daarnaast nakoming en/of de eventueel
+meer geleden schade te vorderen.
+Artikel 8 Toerekenbare tekortkoming
+1) Ingeval een der partijen tekortschiet in de nakoming van haar verplichtingen uit deze
+overeenkomst en na verloop van een redelijke termijn nadat deze door de andere partij
+middels aangetekende brief of deurwaardersexploot in gebreke is gesteld , in verzuim geraakt
+en derhalve toerekenbaar tekortschiet , is de andere partij gerechtigd deze overeenkomst
+voor het niet reeds uitgevoerde gedeelte eenzijdig en zonder rechterlijke tussenkomst door
+middel van een aangetekend schrijven aan de wederpartij te ontbinden.
+2) Het gestelde in dit artikel laat onverlet het recht van de andere partij om van de
+tekortschietende partij nakoming van haar verplichtingen uit deze overeenkomst te vorderen ,
+en het recht van de andere partij op en de gehoudenheid van de tekortschietende partij tot
+vergoeding van alle ten gevolge van de toerekenbare tekortkoming aan de andere partij
+opkomende kosten , schaden en interesten.
+3) Ingeval een der partijen tekortschiet in de nakoming van haar verplichtingen zoals
+opgenomen in artikelen 4 en 5 uit deze overeenkomst en na verloop van een redelijke
+termijn nadat deze door de andere partij middels aangetekende brief of deurwaardersexploot
+in gebreke is gesteld , in verzuim geraakt en derhalve toerekenbaar tekortschiet , is de andere
+partij gerechtigd op kosten van de tekortschietende partij de werkzaamheden zelf uit te
+(laten) voeren.
+Artikel 9 Geschillen
+Alle geschillen die naar aanleiding van of in verband met deze overeenkomst of van
+overeenkomsten ter uitvoering van deze overeenkomst tussen partijen of hun rechtverkrijgenden
+mochten ontstaan , van welke aard en omvang die ook mogen zijn , daaronder mede begrepen die
+welke slechts door een der partijen als zodanig worden aangemerkt , zullen , als er geen minnelijke
+oplossing kan worden bereikt , worden voorgelegd aan de daartoe bevoegde rechtbank.
+Artikel 10 Ontbindende voorwaarden
+1) Deze overeenkomst kan , naast de in artikel 8 , eerste lid , genoemde omstandigheid , worden
+ontbonden in de volgende situaties:
+a) Het bestemmingsplan (‘De Kiel De Tip , transformatie van recreatie naar wonen’) ten
+behoeve van de transformatie van De Tip in De Kiel naar een op dermate ernstige
+bezwaren stuit dat daardoor geen bestemmingsplan kan worden vastgesteld dan wel het
+bestemmingsplan niet onherroepelijk wordt;
+b) De onmogelijkheid om de ter zake van de uitvoering van wezenlijke delen van het project
+benodigde vergunningen van hogere overheden te verkrijgen;
+8
+c) Wanneer zich de situatie voordoet dat de in deze overeenkomst opgenomen bepalingen
+strijdig zijn met de latere besluitvorming , andere publiekrechtelijke besluiten en uitspraken
+van de bestuursrechter over ruimtelijke maatregelen.
+2) Indien een partij de overeenkomst wil ontbinden op basis van één van de genoemde
+voorwaarden in lid 1 van dit artikel , zal daarop een beroep moeten worden gedaan.
+3) Alvorens over te gaan tot ontbinding krachtens dit artikel , dienen partijen in overleg te treden
+om gezamenlijk te beraden of de overeenkomst zodanig aangepast kan worden , zodat
+ontbinding van de overeenkomst kan worden voorkomen.
+Artikel 11 Einde van de overeenkomst
+1) Deze overeenkomst wordt aangegaan voor de periode die nodig is om het project te
+realiseren en de verplichtingen na te komen (artikel 4 en 5).
+2) De overeenkomst eindigt doordat het project overeenkomstig de daartoe goedgekeurde
+plannen is gereedgekomen en alle overeenkomstig het bepaalde in deze overeenkomst of
+naar aanleiding van deze overeenkomst tussen partijen verschuldigde betalingen zijn
+gedaan of deze overeenkomst wordt ontbonden cf. artikel 8 , eerste lid of artikel 10.
+Artikel 12 Publicatie en ter inzage legging
+Conform artikel 6.24 , derde lid Wro zal het College van Burgemeester en Wethouders van de
+gemeente Coevorden via de daartoe gebruikelijke kanalen , waaronder in ieder geval publicatie in
+een huis-aan-huisblad en op de gemeentelijke website , kennis geven van deze overeenkomst.
+Artikel 13 Bijlagen
+De volgende bijlagen maken onlosmakelijk deel uit van deze overeenkomst of worden dat na
+gereedkoming daarvan. Zij worden daartoe mede door partijen geparafeerd voor zover dat nog
+niet is geschied en voor zover de bijlagen bij het aangaan van deze overeenkomst al gereed zijn.
+Deze overeenkomst en de daarbij behorende bijlagen worden geacht elkaar aan te vullen. In geval
+van strijdigheid tussen de bepalingen van deze overeenkomst en de bijlagen , prevaleren de
+bepalingen van de overeenkomst:
+1. Projectgebied;
+2. Specificatie kostenverhaal en vereveningsbijdrage.
+3. Transformatieplan inclusief bijlagen.
+Aldus overeengekomen en in tweevoud opgemaakt
+te Coevorden , d. d. ………………. .
+Gemeente Coevorden
+te ……………………… d. d. ……………………2023
+Eigenaren
+…………………………….
+R. Bergsma
+…………………………………. .
+……………………………………………………………
+9
+Bijlage 1 Projectgebied
+10
+Bijlage 2 Specificatie kostenverhaal en vereveningsbijdrage
+Kosten woningeigenaren
+Ruimtelijke ordening
+procedurele kosten (procesbegeleiding , interne advisering ,
+behandeling inspraak en zienswijzen)
+Indien van toepassing: gang naar Raad van State € 1.000-,
+€ 19666
+,
+Bouwkundige inspectie
+Bedrag per woning
+Waardebepaling
+Bedrag per woning
+Biodiversiteit stimuleren
+Bedrag per woning
+Vereveningsbijdrage
+Bedrag per woning
+Totaal
+€ 6570
+,
+€ 5951
+,
+€ 200-,
+€ ……-,
+€ ……-,
+11
+Bijlage 3 Transformatieplan inclusief bijlagen
+12
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+GESPREKSVERSLAG
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Deelnemers: VvE “Op de Kiel”:
+Gemeente:
+Datum: Dinsdag 31 oktober
+Onderwerp: Onderzoek overdracht gemeenschappelijk goed VvE “Op de Kiel"
+CC: VvE “Op de Kiel”:
+BN (afwezig)
+Aanleiding
+Bijpraten inzake het door de gemeente uit te voeren onderzoek inzake de eventuele overdracht
+van het gemeenschappelijk goed van de VvE “Op de Kiel” —
+De Tip aan de gemeente Coevorden.
+De VvE heeft de volgende onderwerpen ingebracht:
+e Status van het onderzoek kostenoverdracht.
+Ervaringen/proces Ermerzand
+Voor en
+tegen overdracht.
+Waardebepaling gemeenschappelijk goed VvE. Taxatie gewenst?
+Eisen gemeente infrastructuur.
+Proces/protocol i.g.v. overdracht?
+Niet punt van de agenda maar toch ter info, de stand van zaken m.b.t. transitie.
+Het huidige bestuur draagt zorg voor het beheer van het gemeenschappelijk ruimtes, maar heeft
+geen mandaat van alle leden. Er is in de laatste Algemene Vergadering een commissie benoemd
+die bezig gaat met de eventuele overdracht van de openbare ruimte en de infrastructuur, ook
+zonder mandaat.
+Status onderzoek: rioolinspectie op staat van huidige tekeningen is moeilijk
+—
+er wordt later ter
+plekke geïnspecteerd. Er wordt een boring in de weg uitgevoerd om te kijken of er teerhoudend
+asfalt is gebruikt, de opdracht is verstrekt. Volgens de tekening is Enexis eigenaar van het
+elektriciteitsnet, dit ter verrassing van de VvE. VvE heeft wel de verlichting en wegen in
+eigendom. Voor het eigen beheer is er nu voldoende geld. VVE zoekt uit wie de eigenaar is van
+het elektriciteitsnet op het park.
+Er zijn geen gemeenschappelijke gebouwen op het park. Speerpunt: wat worden de
+veranderingen op het park m.b.t. kabels, groen, wegen, verlichting, riolering, hoogte
+erfafscheidingen, correctie perceelsgrenzen etc. Momenteel onvoldoende zicht in eisen aan
+inrichting en
+consequenties. Riolering opnieuw aanleggen betekent dat alles in het openbaar
+gebied moet komen en aan bepaalde voorwaarden moet voldoen, bv norm basiskwaliteit natuur.
+De kostenraming met de consequenties deelt de gemeente met de VvE (actie gemeente). Het
+bestuur agendeert dit voor een volgende ledenvergadering.
+Opheffen VvE: minimaal % deel moet instemmen; opkomst leden moet 75% zijn.
+Wat als een aantal eigenaren niet mee willen doen? Gemeente zoekt uit of hier jurisprudentie over
+is te vinden (actie gemeente).
+Processtappen:
+1. inzichtelijk maken van de kosten
+2. Gemeente gaat beoordelen of overname wenselijk is.
+3. Afstemming met alle eigenaren
+4. Indien overeenstemming wordt bereikt wordt bestuurlijke besluitvorming voorbereid
+Stand van zaken m.b.t. transitie
+Op 15 november heeft de gemeente een afspraak met de provincie om de kwaliteitsimpuls te
+bespreken; is dit wel echt nodig op De Tip?
+Er komt binnenkort een nieuwsbrief uit.
+Wens van het bestuur: de vereveningskosten inzetten voor het duurzaamheidsproject op het park.
+Het bestuur van de VvE zorgt voor terugkoppeling naar hun leden en andere eigenaren op het
+VVE gebied.
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+GESPREKSVERSLAG
+Deelnemers: VvE “Op de Kiel”:
+Gemeente:
+Datum: Dinsdag 9 april 2024
+Onderwerp: Onderzoek overdracht gemeenschappelijk goed VvE “Op de Kiel"
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+CC: VvE “Op de Kiel”:
+BMR (afwezig)
+(geanonimiseerd)
+Aanleiding
+Op verzoek van de VvE heeft de gemeente onderzocht welke maatregelen getroffen zouden
+moeten worden en welke kosten daarbij horen als de gemeente het eigendom van de weg,
+riolering en straatverlichting zou overnemen van de VvE. De rapportages waarin dit is uitgezocht
+zijn gereed en in dit overleg zijn ze besproken.
+Algemeen
+De rapporten zijn op zich helder; er
+zijn nog enkele vragen, die hieronder zijn genoteerd.
+Afgesproken is dat de gemeente de vragen probeert te beantwoorden, zo mogelijk voor de ALV
+van de VvE op 18 mei.
+In de begeleidende memo bij de rapporten heeft de gemeente het standpunt ingenomen dat zij
+geen belang of noodzaak ziet om het eigendom van de VvE over te nemen. De
+vertegenwoordigers van de VvE vinden dit helder; ze weten dat de VvE eigenaar blijft en
+verantwoordelijk blijft voor het onderhoud en beheer. De rapportages geven inzicht in de
+technische staat en daar kan de VvE haar voordeel mee doen.
+Vragen naar aanleiding van de rapporten:
+Rapport ‘verharding camping De Tip met bijlagen’ -
+Bind
+1. Van de drie genoemde boringen in het rapport, mist de
+gegevens
+van de derde boring.
+2. In het rapport staat bij teerhoudend fluorideren gebied ‘geen’. In de toelichting staat ‘bij geen
+is er verder onderzoek nodig’. Wat is nu de conclusie? Zit er wel of geen teer in de wegen?
+3. Bij uitgang staat zijweg of uitrit. Wat is het nu? Dit heeft verkeerskundige consequenties.
+4. Is de belastbaarheid van de weg ook aan te geven?
+Rapportage riool
+- NE +
+1. Ontstoppingspunten. Eigenlijk zouden er meer punten moeten komen. Is aan te geven wat het
+maken van een extra punt bij benadering kost?
+2. Een deel van het riool is niet geïnspecteerd. Is op een kaartje aan te geven welk deel dat
+betrof?
+3. Het lijkt erop dat de riolering in beeld is gebracht met behulp van een sensor. Is op basis van
+de sensor-gegevens ook aan te geven waar het tracé van de riolering exact ligt? Het
+vermoeden is dat deze ook onder particuliere percelen ligt.
+(geanonimiseerd)
+(geanonimiseerd)
+En verder
+Gesproken is ook over de inrichtingseisen die aan de (VvE-)wegen over het park worden gesteld,
+met name in verband met de toegankelijkheid voor
+hulpdiensten. Hierover vindt op korte termijn
+overleg plaats binnen de gemeente, waarin deze zal aangeven wat de eisen zijn. Dit gaat over
+zaken als de vereiste breedte van de wegverharding en van de vrije doorrijdruimte, de hoogte en
+hoe om te gaan met doodlopende straten. Overigens gelden die eisen ook voor het gedeelte van
+het park buiten het VvE-deel en zijn ze ook nu al, in de situatie dat er nog een recreatieve
+bestemming geldt, van toepassing. Afhankelijk van de uitkomsten van het interne overleg binnen
+de gemeente zal dit onderwerp met het VvE-bestuur/werkgroep of met de werkgroep
+transformatie worden besproken.
+Verder kwam de status en de inrichting van de weg De Tip aan de orde. Ook hier komt de
+gemeente op terug.
+Tenslotte kwam het onderwerp ‘actualiseren van de statuten’ ter sprake. Afgesproken is dat
+gedurende het transformatieproces een jurist vanuit Vitale Vakantieparken Drenthe zal meekijken
+en -denken over noodzakelijke of wenselijke aanpassingen.
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+MEMO
+Aan: Werkgroep VvE De Tip
+Van: Gemeente Coevorden, BEN, (o.m. Harrie Commies
+Datum: 21 maart 2024
+Onderwerp: Afval De Tip
+CC: -
+(geanonimiseerd)
+Onderzoek overname gemeenschappelijk terrein met financiële onderbouwing
+Inleiding
+Zoals afgesproken heeft de gemeente onderzoek laten doen naar de aard en de staat van
+onderhoud van de weg/de verharding, de riolering en de straatverlichting in het gebied dat valt
+onder de VvE De Tip. Dit vanuit de insteek dat de gemeente het volledige eigendom hiervan
+mogelijk zou kunnen overnemen van de VvE nu er gewerkt wordt naar een bestemming die
+permanente bewoning in het gehele park mogelijk maakt. Bijgaand de onderzoeksrapportages.
+Uit de rapportages blijkt dat zowel voor de weg, de riolering als de straatverlichting geldt dat
+wanneer de gemeente deze in eigendom zou overnemen dit gepaard zou gaan met aanzienlijke
+kosten voor de VvE. Deze kosten komen voort uit de aanpassing van de bestaande situatie naar
+de gemeentelijke maatstaven voor inrichting en beheer en het oplossen van enkele knelpunten.
+Van gemeentezijde is er geen noodzaak of voorkeur het eigendom over te nemen. Van belang is
+dat er een functionele en veilige weg, riolering en straatverlichting aanwezig is, waarvan het
+structurele onderhoud langjarig geborgd is. Daarvoor is het niet noodzakelijk dat de gemeente het
+geheel in eigendom en beheer heeft. Dat neemt niet weg dat eventuele knelpunten wel opgelost
+moeten worden.
+Wegen en verhardingen
+Voor wat betreft de weg en de verharding is voor de gemeente leidend dat er een voldoende
+verkeersveilige situatie is die past bij een gebruik als woongebied. Omdat er geen sprake is van
+doorgaand verkeer en/of vrachtverkeer is er voor de gemeente geen aanleiding om een
+verzwaring van de huidige constructie/deklaag te verlangen. Daarin past dat inmiddels duidelijk is
+dat de afvalinzameling kan plaatsvinden vanaf de huidige opstelplaats naar de openbare weg,
+danwel ondergronds vanaf buiten het park. Een (zware) vuilnisauto door het park is dan ook niet
+aan de orde.
+Een aspect dat wel van belang is is de toegankelijkheid van het park voor de hulpdiensten,
+waaronder de brandweer. Deze moet over voldoende wegbreedte en -hoogte beschikken om bij
+de woningen te kunnen komen. In het rapport wordt geconstateerd dat er op dit punt wel enkele
+knelpunten zijn die zullen moeten worden opgelost. Dit staat in beginsel los van het eigendom van
+de weg. In het kader van de transformatie zal de Veiligheidsregio Drenthe (VRD) een advies
+uitbrengen over de toegankelijkheid voor hulpdiensten, een calamiteitenroute en dergelijk. Daarbij
+worden ook de bevindingen van de lokale brandweer betrokken die periodiek controleert of zij kan
+komen waar nodig. Mocht hieruit komen dat er
+aanpassingen aan de weg en aanverwante
+noodzakelijk geacht worden, dan is de gemeente bereid hierover mee te denken en te adviseren
+en kunnen in het kader van de transformatie afspraken worden gemaakt over de wijze en
+termijn
+waarop de VvE deze uitvoert. Overigens gelden die eisen met betrekking tot toegankelijkheid ook
+in de huidige situatie al.
+Riolering
+Ten aanzien van de riolering lijkt de situatie positief: het riool voor zover dat geïnspecteerd kon
+worden bevindt zich in een goede staat van onderhoud en er is geen aanleiding om direct in te
+grijpen. Een wijziging naar een woonbestemming heeft daar geen invloed op; het huidige riool zou
+een mogelijke intensievere belasting van het riool (meer personen die er langere tijd/permanent
+verblijven) aan moeten kunnen.
+Straatverlichting
+Wat betreft de straatverlichting verwijzen we naar het rapport dat daarover gaat.
+Conclusie
+Met deze rapportages is er een actueel inzicht in de toestand van de weg/de verharding, de
+riolering en de straatverlichting. Daar kan de VvE zijn voordeel mee doen: het kan helpen bij het
+gericht en onderbouwd maken van keuzes voor onderhoud en verbetering/aanpassing daar waar
+dat nodig of wenselijk is. Overname van de eigendommen is wat de gemeente betreft niet
+noodzakelijk en ligt ook niet voor de hand.
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+MEMO
+Aan: Werkgroep De Tip
+Van:
+Datum: 17 juli 2024
+Onderwerp: Toekomstige afvalinzameling De Tip, besproken/afgesproken 16 juli 2024
+CC:
+Algemeen:
+(geanonimiseerd)
+e De gemeente Coevorden gaat de afvalinzameling overnemen bij het VvE-deel, dat nu nog zelf
+de afvalinzameling verzorgt.
+e Het standaard-aanbod is een systeem met kliko’s. Als alternatief (zonder meerkosten) kan
+ondergrondse inzameling worden aangeboden, met een inzamelpunt op een nader te bepalen
+locatie direct buiten het park. Dit onder voorbehoud dat Area hier een geschikte locatie vindt
+om de containers te plaatsen en veilig te ledigen.
+e
+_ Ondergrondse inzameling houdt in twee ondergrondse containers (voor plastic (PMD) en
+restafval) en een kleine zuil voor GFE (groente-, fruit- en etensresten).
+e
+De keuze voor kliko’s of ondergrondse inzameling ligt bij de vereniging en moet vòòr 1
+oktober worden doorgegeven aan de gemeente.
+e De ingangsdatum is uiterlijk maart 2025. Af te stemmen met de contractuele verplichtingen
+van de huidige inzamelaar.
+e Voor wat betreft de tarieven: de raad stelt naar verwachting de tarieven in september 2024
+vast. Het tarief dat gaat gelden is hetzelfde vaste tarief dat reguliere huishoudens al betalen,
++ een variabel tarief afhankelijk van het aantal ledigingen of inwerpen voor restafval. Een
+afvalpas voor grofvuil is inbegrepen.
+Afgesproken:
+1. Het VvE-bestuur communiceert met haar leden dat de voorkeur uitgaat naar ondergrondse
+inzameling. Uitgaande van algehele instemming hiermee laat ze z.s.m., uiterlijk eind
+september, aan de gemeente (contactgegevens hieronder) weten of dit inderdaad de keuze is.
+2. Als de keuze is doorgegeven gaat Area kijken, in overleg met de vereniging, wat geschikte
+locaties zijn. Aandachtspunten zijn:
+-__
+Ondergrondse kabels en leidingen (KLIC-melding)
+-__
+Niet kruisen van een fietspad/trottoir bij ledigen van de ondergrondse containers
+-__Geen/minimale verkeershinder tijdens lediging
+-__
+Vrije bovenruimte van 8 meter
+-__
+Reikwijdte tussen locatie en de rijweg maximaal 4 meter
+3. Desgewenst kan de gemeente ondersteunen bij het ontbinden van het bestaande contract.
+Voor de eigenaren buiten het VvE-gedeelte:
+Hier hoeft niets te veranderen: de gemeente blijft het afval inzamelen met kliko’s.
+Als eigenaren meer voelen voor de ondergrondse inzameling dan kunnen zij meegaan. Zij krijgen
+dan toegang tot de ondergrondse container (en als ze nu kliko’s hebben worden die ingeleverd).
+Dit kan een individuele keuze zijn; niet iedereen hoeft mee. Het kan een uitkomst zijn voor
+‘blijvende recreanten’ voor wie kliko’s niet praktisch zijn.
+Afgesproken:
+De gemeente stuurt de eigenaren binnen De Tip, die buiten het VvE-deel vallen, een brief waarin
+staat dat zij de keuze hebben voor handhaven van de bestaande inzameling of aansluiten bij de
+ondergrondse voorziening.
+Contactpersoon gemeente Coevorden:
+MiEmailadres BWlecoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Si Gemeente
+Coevorden
+Postadres:
+Postbus 2
+7740 AA Coevorden
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl Aan
+Bezoekadres:
+de raad van de gemeente Coevorden
+Kasteel 1
+7741GC Coevorden
+Uw brief
+Afdeling/Team Programma VVPC
+Behandeld door
+Kenmerk 51670-2024:658810
+Bijlage(n) Î
+Coevorden 15 oktober 2024 Verzenddatum:
+15 OKT 2024
+Onderwerp streefbeeld transformatiepark De Tip
+(geanonimiseerd)
+Geachte leden van de raad,
+Als uitvloeisel van het Programma Vitale Vakantieparken Coevorden wordt gewerkt aan de transformatie
+naar een permanente woonfunctie van park De Tip in De Kiel. Dit gebeurt met als leidraad het
+Stappenplan Transformatie, zoals dat vanuit Vitale Vakantieparken Drenthe is opgesteld en aangereikt.
+De afgelopen maanden is in samenwerking tussen een werkgroep vanuit het park en de relevante
+adviseurs vanuit de gemeente, onder leiding van een projectleider gewerkt aan het zogenaamde
+streefbeeld. Hierin is beschreven hoe het park eruit zou moeten zien wanneer het einddoel bereikt is: het
+mogelijk maken van permanente bewoning op alle percelen. Wat is goed zoals het is (bestaande
+kwaliteiten), wat willen we behouden, wat kan of moet beter vanwege eisen, wensen of bestaande
+knelpunten.
+Het streefbeeld is de basis voor een verdere uitwerking en concretisering in een transformatieplan
+(uitvoeringsplan) en een ruimtelijk plan (wijziging omgevingsplan), met de bijbehorende overeenkomsten
+tussen de eigenaren en de gemeente over uitvoering en kosten. Door het vaststellen van het streefbeeld
+wordt een belangrijke stap in het transformatieproces gemarkeerd.
+Wij informeren u graag over dit streefbeeld (als bijlage toegevoegd), de voortgang van het
+transformatieproces en het stadium waarin u als raad wordt betrokken.
+Terugblik
+De basis voor het streefbeeld was een sessie van alle eigenaren, waarin allerlei onderwerpen op en rond
+het park zijn doorgenomen, vanuit de vraag ‘wat is goed, wat kan beter’. In het streefbeeld is dat
+uitgewerkt en vertaald in acties. Het concept is gepresenteerd aan de eigenaren in De Tip, reacties zijn
+verwerkt en op 22 oktober heeft ons college het streefbeeld vastgesteld.
+Onderwerpen streefbeeld
+In het streefbeeld worden op een aantal voor dit relevante park keuzes gemaakt over de toekomstige
+inrichting en over bepalingen die te zijner tijd in het ruimtelijk plan moeten worden opgenomen. De
+belangrijkste thema’s zijn Bouwen en erf, Groen, Wegen en bermen, Afvalinzameling en Bouwbesluit.
+Voorafgaand en parallel zijn een aantal acties in gang gezet, onder meer het aan de hand van een taxatie
+bepalen van een vereveningsbijdrage, de toetsing van de woningen aan het Bouwbesluit (Besluit
+bouwwerken leefomgeving, bouwtechnische eisen), het vaststellen van de kosten voor het
+transformatietraject en het maken van een keuze over het eigendom van de wegen en de ondergrondse
+infrastructuur in het VvE-gedeelte van het park.
+Stand van zaken
+Zaaknummer: 51670-2024
+=D
+Het streefbeeld wordt nu vertaald in een uitvoeringsplan (transformatieplan) en een ruimtelijk plan, te
+weten een aanpassing van het omgevingsplan. Dat laatste gebeurt in de vorm van een zogenaamd TAM-
+omgevingsplan, een ‘overgangsinstrument’ tussen de vroegere wijziging van een bestemmingsplan en
+aanpassing van het omgevingsplan. Er is een concept-TAM opgesteld die in- en extern getoetst wordt en
+zal worden bijgesteld tot een ontwerp-TAM.
+Uitgangspunt transformatie
+De insteek van de transformatie is dat alle percelen een woonbestemming krijgen. Bestaand recreatief
+gebruik kan dan worden voortgezet op basis van het overgangsrecht. Voor de enkele ‘echte recreanten’
+kan een recreatiebestemming in stand blijven. Dat is planologisch mogelijk, gebeurt ook wel in andere
+transformatietrajecten en zou hier ook wijs zijn. Een transformatie van een park is immers een geleidelijk
+proces dat ook als zodanig gefaciliteerd kan worden om draagvlak te houden.
+Uiteraard is het streven een zo hoog mogelijk deelnemerspercentage te bereiken. Op dit moment is niet
+precies bekend hoeveel eigenaren mee willen naar de woonbestemming, al is dat naar verwachting wel
+de overgrote meerderheid. Ervaring bij andere transformaties leert dat dit gaandeweg het proces steeds
+hoger wordt, als eigenaren precies weten waar ze aan toe zijn (voor-en nadelen, extra mogelijkheden,
+kosten). Het is nu niet verstandig het vervolg van het proces vast te pinnen op een percentage. In de
+fase dat eigenaren de overeenkomst moeten tekenen zal dit wel duidelijk (moeten) worden.
+Kwaliteitsimpuls
+Een opdracht aan de eigenaren, tenslotte, is nog het vinden van een zogenaamde kwaliteitsimpuls, een
+verplichting vanuit de Provincie Drenthe. Dit betekent dat een transformatie niet louter het ‘omzetten van
+de bestemming’ mag zijn.Er dienen een of meerdere maatregelen getroffen te worden om de kwaliteit
+van/op het park te verbeteren. Voor De Tip wordt gedacht aan een plan voor de borging van de
+bestaande en verbetering van de biodiversiteit en de groene / ecologische kwaliteit.
+Vervolg
+Nu het streefbeeld is vastgesteld wordt gewerkt aan de volgende stappen. Het is de bedoeling in
+december het transformatieplan, de ontwerp-TAM en de concept-overeenkomst aan de eigenaren te
+presenteren. In januari/februari kunnen dan opmerkingen worden verwerkt en de overeenkomsten
+worden getekend. Naar verwachting komend voorjaar zal het complete pakket aan ons college worden
+voorgelegd, met als voorstel de ontwerp-TAM ter inzage te leggen gedurende 6 weken. Tot slot volgt
+vaststelling in uw raad, zo mogelijk voor het zomerreces van 2025.
+Hoogachtend,
+het college van burgemeester en wethouders van Coevorden
+(geanonimiseerd)
+Zaaknummer: 51670-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Zaaknummer: 46486-2024
+BRUIKLEENOVEREENKOMST VAN EEN PERCEEL
+GROND VOOR HET PLAATSEN VAN ONDERGRONDSE CONTAINERS
+De ondergetekenden:
+1. __de vereniging: Vereniging van Eigenaren van “Bungalowpark op De Kiel”, gevestigd te Schoonoord,
+bezoekadres EE (postadres De Kiel, BR. ingeschreven in het register van
+de Kamer van Koophandel onder nummer 40045109, ten deze rechtsgeldig vertegenwoordigd door
+en
+EE. in hun hoedanigheid van voorzitter en secretaris van voormelde vereniging,
+hierna te noemen: ‘de Eigenaar’,
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+en
+2. _de publiekrechtelijke rechtspersoon: Gemeente Coevorden, gevestigd te Coevorden, kantoorhoudende te 7741
+GC
+EE Kasteel 1, rechtsgeldig krachtens het algemeen mandaatbesluit Coevorden 2024,
+vertegenwoordigd door
+maman | teamleider Team Vastgoed en Infrastructuur, handelend ter uitvoering van het
+namens het college genomen besluit d.d. 5 maart 2024
+hierna te noemen: ‘de Bruiklener',
+de Eigenaar en de Bruiklener hierna samen te noemen ‘de Partijen’.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Inleidin:
+Op grond van de Wet milieubeheer zijn gemeenten verantwoordelijk voor het inzamelen van
+huishoudelijke afvalstoffen.
+De gemeente Coevorden wenst ten behoeve van de uitvoering van deze inzamelplicht afvalcontainers te plaatsen op het
+terrein van de Eigenaar.
+Partijen wensen de voorwaarden verbonden aan de te plaatsen afvalcontainers vast te leggen in deze overeenkomst.
+De Partijen komen het navolgende overeen:
+De Eigenaar verleent aan de Bruiklener die zulks aanvaardt, waartegenover de Eigenaar verklaart te aanvaarden:
+1. _ het gebruik als bedoeld in artikel 7A:1777 e.v. van het Burgerlijk Wetboek van een perceel grond plaatselijk bekend
+mn te
+>} een
+gedeelte van het perceel kadastraal bekend Gemeente Sleen sectie A nummer 4540,
+hierna te noemen: ‘het Perceel’, zoals bij benadering is aangegeven op de aan deze overeenkomst gehechte
+situatietekening;
+2. een van het gebruiksrecht afhankelijk recht van overpad ten laste van het omliggende erf van de Eigenaar.
+(geanonimiseerd)
+(geanonimiseerd)
+Het gebruiksrecht omvat:
+1.
+_ het recht om het Perceel te gebruiken om twee ondergrondse containers en één bovengrondse zuil met
+aanbehoren te bouwen, te hebben, te onderhouden, te
+gebruiken, te inspecteren, eventueel te vervangen alsmede
+te
+zijner tijd te
+verwijderen, op een gedeelte van het Perceel ter grootte van ongeveer 20 m2, hierna te noemen: ‘de
+Installatie’;
+2. _ het recht om te komen en te gaan naar de Installatie met de nodige vervoersmiddelen, materialen en
+werktuigen,
+alsmede te voet, over de openbare weg genaamd “De Tip”, op de voor de Eigenaar minst bezwarende wijze zoals
+bij benadering is aangegeven op de aan deze overeenkomst gehechte situatietekening.
+Voormelde omschreven rechten van
+gebruik hierna ook te noemen: ‘het Gebruiksrecht’.
+Het ondergrondse deel van de Installatie bestaat uit twee vloeistofdichte betonbakken met veiligheidsvloer waarin twee
+metalen containers worden geplaatst. Het bovengrondse deel van de Installatie bestaat uit:
+-
+twee inworpzuilen met rondom tranenplaat ter afdekking van de containers en
+ondergrondse betonbakken, en
+-
+een betonvoet waarop een derde metalen zuil met inworp is verankerd.
+Voormelde rechten worden verleend onder de volgende voorwaarden en bepalingen:
+Artikel 1 -
+Duur overeenkomst
+1. _ Het Gebruiksrecht wordt voor een periode van 15 jaar verleend, ingaande op de datum van ondertekening door
+Partijen van deze overeenkomst. Behoudens in geval van
+opzegging, zal het Gebruiksrecht na voornoemde
+periode telkens (stilzwijgend) voor de duur van vijf (5) jaar worden verlengd onder dezelfde voorwaarden tenzij één
+van partijen de overeenkomst heeft opgezegd zoals bepaald in artikel 2 lid 3.
+2. _ Alle kosten die verband houden met deze overeenkomst komen voor rekening van de Bruiklener.
+Artikel 2 —
+Opzegging
+1. De Eigenaar kan het Gebruiksrecht uitsluitend opzeggen indien de Bruiklener in ernstige mate tekortschiet in
+de nakoming van één van zijn verplichtingen voortvloeiende uit deze overeenkomst of aan het einde van de
+looptijd. Indien de Eigenaar van plan is om het Gebruiksrecht tussentijds op te zeggen, zal hij aan de
+Bruiklener eerst voor een periode van twee (2) maanden nadat de Eigenaar het voornemen tot opzegging per
+aangetekend schrijven heeft aangekondigd , de mogelijkheid geven om de verplichtingen waarin de Bruiklener
+tekortschiet alsnog na te (doen) komen.
+De Bruiklener kan het Gebruiksrecht te allen tijde opzeggen.
+Iedere opzegging dient schriftelijk te geschieden bij het einde van de looptijd met inachtneming van een
+opzegtermijn van één (1) jaar.
+2.
+3.
+Artikel 3 - Vergoeding
+De Bruiklener is terzake van het Gebruiksrecht geen eenmalige of periodieke vergoeding verschuldigd aan de Eigenaar.
+Artikel 4 – Garanties/verklaringen Eigenaar
+De Eigenaar staat er voor in dat hij gerechtigd is het Gebruiksrecht te verlenen.
+Het Perceel thans geheel vrij is van huur , pacht en/of andere aanspraken tot gebruik , leeg , ontruimd en
+ongevorderd; de grond is evenmin zonder recht of titel in gebruik bij derden.
+De Eigenaar is niet bekend met feiten die erop wijzen dat het Perceel enige verontreiniging bevat die ten nadele
+strekt van het beoogde gebruik door de Bruiklener of waarvan het aannemelijk is dat deze verontreiniging ingevolge
+de thans geldende milieuwetgeving aanleiding zou geven tot sanering of tot het nemen van andere maatregelen; de
+onbekendheid van eigenaar met aanwezigheid van een verontreiniging in of op het Perceel ten tijde van het
+tekenen van de overeenkomst houdt uitdrukkelijk geen garantie in van de Eigenaar dat er geen verontreiniging
+aanwezig is. Voormelde verklaring wordt ondersteund door de Bodemkwaliteitskaart van de Omgevingsdienst
+Drenthe .
+De Eigenaar is niet bekend dat in het Perceel tanks voor het opslaan van vloeistoffen aanwezig zijn; de
+onbekendheid van de Eigenaar met aanwezigheid van een ondergrondse tank in het Perceel ten tijde van het
+tekenen van de overeenkomst houdt uitdrukkelijk geen garantie in van de Eigenaar dat er geen ondergrondse tank
+aanwezig is.
+1.
+2.
+3.
+4.
+Artikel 5 Ingebruikname
+Bruiklener heeft het recht , na ondertekening van deze overeenkomst door Partijen , om de Installatie aan te (laten)
+leggen conform bovengenoemde omschrijving en de aan deze overeenkomst gehechte doorsnedes van de installatie.
+Artikel 6 Geen opstallen plaatsen
+De Eigenaar zal in een straal van 3 meter rondom de Installatie geen opstallen , bomen of beplantingen aanbrengen of
+kabels , leidingen of buizen aanbrengen zonder schriftelijke toestemming van de Bruiklener.
+Tevens dient boven de Installatie een ruimte van 8 meter te worden vrijgehouden van overhangende takken of andere
+obstakels door de Eigenaar , omdat deze mogelijk de lediging van de containers kunnen verhinderen.
+Artikel 7 - Verplichtingen Bruiklener
+1.
+2.
+Het plaatsen van de Installatie zal worden uitgevoerd geheel voor rekening en risico van de Bruiklener.
+Het is Bruiklener niet toegestaan het Perceel en de daarin aanwezige Installatie te (doen) gebruiken voor andere
+doeleinden dan voor het inzamelen van huishoudelijke afvalstoffen afkomstig van percelen.
+Het is de Bruiklener niet toegestaan op of aan het Perceel andere (bouw)werken op te richten dan vermeld in deze
+overeenkomst.
+De Bruiklener zal bij de uitoefening van het Gebruiksrecht , rekening houden met de belangen en de wensen van de
+Eigenaar , voor zover dat redelijkerwijs van hem verwacht kan worden.
+De Bruiklener zal het Perceel en de daarin aanwezige Installatie in een dusdanige staat onderhouden dat deze op
+behoorlijke wijze kan dienen voor het inzamelen van afvalstoffen. Daartoe dient de Bruiklener het Perceel en de
+daarin aanwezige Installatie in alle opzichten goed te onderhouden en waar nodig te herstellen.
+De Bruiklener verplicht zich de Installatie steeds tijdig te (doen) ledigen en na elke lediging eventueel gemorste
+afvalstoffen rondom de Installatie te verwijderen.
+Het is de Bruiklener niet toegestaan het Gebruiksrecht over te dragen.
+Het is de Bruiklener niet toegestaan om het Perceel te verhuren of anderszins aan derden in gebruik te geven.
+De Bruiklener zal zich ervoor inspannen zo min mogelijk schade of hinder te veroorzaken.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+Artikel 8 Recht Bruiklener
+Omdat de inzameling van afvalstoffen door de Bruiklener is uitbesteed aan derden (thans N. V. Area Reiniging) geeft de
+Eigenaar bij voorbaat toestemming aan de Bruiklener om het Gebruiksrecht over te dragen of in gebruik te geven , in
+welke vorm dan ook , aan de rechtspersoon waaraan opdracht is gegeven tot inzameling of een aan haar verbonden
+dochteronderneming. Hierbij is het bepaalde in artikel 7 lid 7 en 8 niet van toepassing. De Bruiklener dient de Eigenaar
+schriftelijk te informeren omtrent de overdracht of ingebruikgeving.
+Artikel 9 - Schade
+1. De Bruiklener is tegenover de Eigenaar aansprakelijk voor schade aan eigendommen van de Eigenaar als gevolg
+van de uitoefening van het Gebruiksrecht. Alle eigendommen van de Eigenaar welke als gevolg hiervan mochten
+worden beschadigd , worden door en op kosten van de Bruiklener op eerste aanschrijving van de Eigenaar hersteld ,
+onverminderd het recht van de Eigenaar tot het vorderen van schadevergoeding. Indien en voor zover de Eigenaar
+het nodig acht om zelf maatregelen te treffen , zal de Eigenaar de Bruiklener daarover zo spoedig mogelijk
+informeren.
+2. De inlid 1 bedoelde schade wordt in onderling overleg tussen de Eigenaar en de Bruiklener vastgesteld. Bij
+gebreke van overeenstemming wordt het bedrag van de schade vastgesteld door een door partijen gezamenlijk
+aan te
+wijzen deskundige. De kosten van de ingeschakelde deskundige komen voor
+rekening van de Partijen, ieder
+voor de helft.
+3. De Bruiklener vrijwaart de Eigenaar voor alle aanspraken van derden op vergoeding van schade, hoe ook
+genaamd, voor zover die schade door of vanwege de Bruiklener is ontstaan.
+4. _In verband met eventuele verontreiniging door het gebruik van de Bruiklener, garandeert de Bruiklener aan de
+Eigenaar dat de betonputten waarin de containers worden aangebracht lekdicht zijn, waardoor de grond rondom de
+betonputten niet zal worden vervuild. Deze garantie is afgegeven door de Bruiklener na overleg met haar
+uitvoeringsorganisatie Area Reiniging.
+Artikel 10 -
+Overleg
+Indien het plaatsen van de Installatie op de overeengekomen locatie niet mogelijk is door obstakels, die tijdens het
+plaatsen van de Installatie naar voren komen, dan verklaren partijen in onderling overleg een gewijzigde locatie te
+bepalen op het Perceel van de Eigenaar.
+Artikel 11 -
+Over- en ondermaat
+Wanneer de beschreven kadastrale grootte van het Perceel afwijkt van de oppervlakte zal het verschil geen aanleiding
+geven tot enigerlei verrekening en/of rechtsvordering, hoe ook genaamd.
+Artikel 12 —
+Ontbinding
+De Bruiklener heeft het recht deze overeenkomst te ontbinden door een schriftelijke mededeling aan de Eigenaar, indien
+de Bruiklener mocht besluiten niet tot plaatsing van de Installatie over te gaan.
+Bijlagen:
+1. _ Situatietekening
+2. Doorsnede van de ondergrondse containers en
+bovengrondse zuil
+Getekend in drievoud,
+De Eigenaar, De Bruiklener,
+Plaats: namens het college van
+burgemeester en
+Datum: wethouders van Coevorden,
+teamleider Vastgoed en Infrastructuur,
+Plaats:
+Datum:
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Postadres:
+Postbus 2
+7740 AA Coevorden
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl Bestuur van VvE De Tip
+Bezoekadres:
+Kasteel 1
+7741GC Coevorden (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Uw bericht
+Afdeling/Team Programma Vitale Vakantieparken
+Behandeld door __G. Rouwenhorst
+Kenmerk 25875-2025:529684
+Bijlage(n)
+Coevorden 23 april 2025 Verzenddatum: 28 mei 2025
+Onderwerp wegen De Tip
+Beste heer ,
+Het bungalowpark Op de Kiel is betrokken in een transformatieproces. De bestemming en de functie van
+het park wijzigt van een park voor recreatief verblijf naar een woonpark, bedoeld voor permanente
+bewoning. In dit proces, waaraan leden van uw bestuur actief deelnemen in de Werkgroep Transformatie,
+komen allerlei onderwerpen en facetten aan de orde. Een van die onderwerpen is de bereikbaarheid van
+de woningen op het park. Daarover gaat deze brief.
+De weg die de woningen op het park ontsluit (zie op het onderstaande kaartje) is in eigendom van de
+gezamenlijke eigenaren en wordt beheerd door uw VvE. Deze situatie zal na de transformatie naar de
+woonfunctie niet veranderen. Met het oog daarop wil de gemeente Coevorden u als VvE een aantal zaken
+meegeven.
+Op grond van het Besluit bouwwerken leefomgeving (Bbl, het vroegere Bouwbesluit) gelden eisen aan de
+toegankelijkheid, gezondheid en veiligheid van zowel recreatiewoningen als reguliere woningen. Die eisen
+hebben niet alleen betrekking op de woning zelf, maar ook op de bereikbaarheid ervan. Dat laatste is
+vooral ingegeven vanwege de toegang voor hulpdiensten.
+De bestaande weg door het park voldoet niet geheel aan de normen voor toegankelijkheid zoals die
+tegenwoordig in recreatieparken en woongebieden gelden. Zo wordt niet overal de vereiste wegbreedtes
+gehaald en zijn bochtstralen krapper dan voorgeschreven. Het aanpassen van de weg om deze te laten
+voldoen aan die normen is echter een kostbare en op sommige plaatsen moeilijk te realiseren opgave,
+gelet op het feit dat het een bestaande situatie betreft.
+Gebleken is dat met de huidige inrichting de toegankelijkheid van de woningen voldoende verzekerd is en
+dat er geen aanleiding is om onverkort vast te houden aan de normen uit het Bbl. Wel stelt de gemeente
+Coevorden een aantal voorwaarden die zijn ingegeven vanuit de verwachting dat het gebruik van de weg
+naar verwachting intensiever zal worden. Op een woonpark vinden immers over het algemeen meer
+autobewegingen plaats dan in een park met recreatiebungalows.
+Zaaknummer: 25875-2025 \ Paraaf:
+(geanonimiseerd)
+Gemeente
+Coevorden
+Die voorwaarden zijn de volgende:
+d
+Zaaknummer: 25875-2025
+De VvE draagt volledig zorg voor het onderhoud en beheer van de in haar beheer zijnde wegen,
+zoals afgebeeld op onderstaand kaartje. Hieronder vallen ook eventuele herstelwerkzaamheden of
+renovaties,
+Daaronder is ook begrepen de uitgangen op openbare wegen, respectievelijk de hoofdentree aan
+De Tip en de noodontsluiting aan de westzijde.
+De VvE past de situatie bij de aansluiting van de weg door het park op de westelijk gelegen
+zandweg, aangeduid op onderstaand kaartje, zodanig aan dat hier een voor auto’s en
+hulpdiensten toegankelijke nooduitgang ligt. Deze wordt afgesloten voor reguliere toegang door
+de plaatsing van in ieder geval een rood-wit paaltje dat door de hulpdiensten te verwijderen is
+met een driehoekssleutel.
+De VvE ziet erop toe dat mede met het oog op de toegankelijkheid voor hulpdiensten de wegen
+vrij blijven van obstakels, zoals overhangend groen, verkeerd ge-parkeerde voertuigen, afval of
+andere blokkades.
+De VvE ziet er op toe dat de verkeersveiligheid binnen het terrein door middel van duidelijke
+aanwijzingen en signalering, zoals verkeersborden of markeringen wordt gehandhaafd.
+De VvE stelt haar leden op de hoogte van hun verantwoordelijkheden en verplichtingen ten
+aanzien van het gebruik van de wegen.
+De Gemeente is niet verantwoordelijk voor onderhoud, toezicht of het oplossen van problemen
+met betrekking tot de toegankelijkheid van de wegen.
+De Gemeente heeft de bevoegdheid toezicht te houden op naleving van het Bbl en wat in deze
+brief is bepaald. De gemeente zal de VvE aanspreken bij gebreken.
+De Gemeente zorgt voor een veilige aansluiting op De Tip door middel van bebordingen en/of
+markeringen.
+(geanonimiseerd)
+(geanonimiseerd)
+Paraaf:
+Gemeente
+Coevorden
+Wij verzoeken u kennis te nemen van de inhoud van deze brief en ermee in te stemmen door het
+bijgevoegde tweede exemplaar getekend retour te sturen. Hiervoor kunt u de bijgevoegde
+antwoordenvelop gebruiken. Wij ontvangen het getekende exemplaar graag retour vóór 15 juni a.s.
+Wilt u bij vervolgcorrespondentie het zaaknummer 25875-2025 doorgeven.
+Gemeente Coevorden voor akkoord:
+nam ter en
+weth) Datum:
+(geanonimiseerd)
+re ha KS ALEN
+(geanonimiseerd)
+(geanonimiseerd)
+VVE De Tip
+Bijlage:
+-__
+overeenkomst in 2-voud
+-
+antwoordenvelop
+Zaaknummer: 25875-2025
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Addendum Deskundige rapportage
+“Waardeverandering wijziging bestemming Recreatie in Wonen”,
+-
+_ Waardepeildatum 7 oktober 2022
+Reden addendum op Deskundige rapportage:
+Uit een nader onderzoek van opdrachtgever is gebleken dat er geen vermelding was gemaakt van het effect
+van de perceels- en persoonsgebonden beschikkingen op de waarde.
+Deskundigen verklaren hierover:
+Het effect van de perceels- en persoonsgebonden beschikkingen is bij nader inzien inderdaad niet naar voren
+gekomen in het rapport.
+Uit het document
+*
+Quick Scan" is gebleken dat er sprake is van 36 recreatiewoningen welke permanent
+bewoond worden. Hiervan hebben er 19 recreatiewoningen een perceelsgebonden beschikking en
+7 recreatiewoningen een persoonsgebonden beschikking.
+Perceelsgebonden beschikking:
+De deskundige gaat er vanuit dat de perceelsgebonden beschikking notarieel over te dragen is. Door de
+huidige bestemming “recreatie"-zijn deze objecten moeilijker te verkopen dan met de bestemming “wonen”.
+Hierdoor kunnen potentiële kopers afhaken, omdat het lastiger kan zijn om een financiering op deze objecten
+te verkrijgen. Geldverstrekkers moeten overtuigd worden door bijvoorbeeld extra documentatie hieromtrent.
+Uiteindelijk heeft dit wel een goede kans van slagen. De deskundige gaat er dan ook vanuit dat
+een recreatiewoning met de bestemming “verblijfsrecreatie met perceelsgebonden beschikking” qua
+mogelijke opbrengstprijs c.q. marktwaarde gelijkgesteld kan worden met een recreatiewoning
+met de bestemming "wonen".
+Persoonsgebonden beschikking:
+De deskundige gaat er hierbij vanuit dat de persoonsgebonden beschikking niet notarieel over te dragen is.
+De meerwaarde van de persoonsgebonden beschikking is bij verkoop dan ook verwaarloosbaar. Het is
+immers persoonsgebonden. De waarde van een recreatiewoning met de bestemming “verblijfsrecreatie met
+persoonsgebonden beschikking" is gelijk aan de waarde van een recreatiewoning met de bestemming
+(verblijfsrecreatie).
+Aldus getekend: Voor akkoord gezien door de controlerend taxateur:
+Borger, 16 februari-2023
+(geanonimiseerd)
+De heer RM RT Register-Taxateur O.Z. De heer BR vries REV RT
+RICS Registered Valuer / Recognised European Valuer
+Top Supplier HISWA-RECRON
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente Coevorden
+| VVP-Coevorden
+Van: VVP-Coevorden
+Verzonden: Friday, December 13, 2019 4:07 PM
+Aan: ml enetretn!: MMotee2.n;: Ole
+s4al nl;
+Be notmail.com; Me notmail.com'; MM enotmail.com';
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Onderwerp: Eerste bijeenkomst werkgroep
+Goedemiddag,
+Tijdens de informatiebijeenkomst van 22 november hebben jullie je opgegeven voor deelname aan de ‘werkgroep’ De
+Tip. Mensen die er die avond niet bij waren of alsnog mee wilden doen konden zich tot 10 december bij ons aanmelden.
+Er zijn naar aanleiding daarvan geen nieuwe aanmeldingen bij gekomen.
+Op 10 januari willen we voor de eerste keer bij elkaar komen in het dorpshuis van De Kiel. Dit zou aan het einde van de
+middag kunnen (rond 16.00 uur) of aan het begin van de avond (rond 19.00 uur). We horen graag uiterlijk 20 december
+van jullie welk tijdstip jullie voorkeur heeft. Dit in verband met het reserveren van het dorpshuis. De bijeenkomst is
+vooral bedoeld als nadere kennismaking van de werkgroepleden onderling en met ons (gemeente en task force), maar
+ook om te kijken wat er allemaal nodig is om aan de slag te kunnen als werkgroep. Gedurende het proces zijn
+verschillende stappen te zetten en keuzes te maken. Tijdens de eerste bijeenkomst van de werkgroep willen we dan ook
+graag bespreken welke taken en rollen er te verdelen zijn binnen de werkgroep, op welke momenten de achterban (de
+andere huiseigenaren) geïnformeerd zal moeten worden en waarover de werkgroep moet kunnen beslissen tijdens het
+proces en welke (juridische) vorm daar dan het beste bij past etc. Ook praktische zaken zoals dag, tijdstip, frequentie en
+locatie van de volgende bijeenkomsten van de werkgroep willen we graag afstemmen met jullie.
+We hopen dat jullie allemaal op 10 januari aanwezig kunnen zijn. Mocht
+je toch verhinderd zijn, dan horen we dat graag
+voor 3 januari.
+Alvast fijne feestdagen gewenst!
+Met vriendelijke groet,
+Gemeente Coevorden
+Klantmanager vergunningen
+14-0524
+www.coevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+‘Parkachtig wonen in De Tip’
+Transformatieplan voor park De Tip , De Kiel
+Definitief
+juni 2025
+Zaaknummer: 47658-2025
+1
+Inleiding
+Aanleiding
+De gemeenteraad van Coevorden heeft een aantal parken aangewezen waar onderzocht wordt of
+transformatie naar een andere bestemming haalbaar is. Een van die parken is De Tip in De Kiel. Hier is
+transformatie van recreatie naar permanente bewoning aan de orde. Het mogelijk maken van
+permanente bewoning in alle woningen op dit park doet recht aan de huidige feitelijke situatie , waarin
+een groot deel van de woningen al permanent bewoond wordt. Deels is dat al toegestaan op basis van
+een perceels- of persoonsgebonden beschikking , deels niet. Met name de aanwezigheid van
+perceelsgebonden beschikkingen maakt dat een terugkeer naar volledig recreatief gebruik niet
+realistisch wordt geacht.
+In het verlengde hiervan is gestart met een transformatieproces , waarin gemeente , een werkgroep uit
+het park met ondersteuning van Vitale Vakantieparken Drenthe samenwerken om de beoogde
+transformatie tot stand te brengen. Een belangrijke stap in dat proces was het vaststellen van het
+streefbeeld in oktober 2024. Het streefbeeld is als bijlage 1 bijgevoegd.
+In de maanden daarna is gewerkt aan de uitwerking van allerlei zaken die een plaats hebben gevonden
+in dit transformatieplan , in combinatie met het opstellen van een herziening van het omgevingsplan
+(in de vorm van een zogenaamd TAM-omgevingsplan , de opvolger van het vroegere bestemmingsplan)
+en overeenkomsten over de uitvoering van de diverse maatregelen. Het transformatieplan is de
+schakel tussen het omgevingsplan en de uitvoering van concrete maatregelen zoals die geborgd wordt
+in de anterieure overeenkomst tussen de eigenaren en de gemeente.
+Einddoel
+Het einddoel van de transformatie is dat er voor alle percelen op De Tip een bestemming geldt die
+permanente bewoning mogelijk maakt , waarbij er een uitzondering wordt gemaakt voor de eigenaren
+van de percelen die daar geen prijs op stellen. Dit doel zal worden vastgelegd in het omgevingsplan
+dat wordt vastgesteld door de gemeenteraad. Bij dit omgevingsplan horen afspraken tussen de
+gemeente en de gezamenlijke/individuele eigenaren over de uitvoering van concrete maatregelen die
+noodzakelijk of wenselijk zijn in verband met deze transformatie en over financiële aspecten. Deze zijn
+vastgelegd in het transformatieplan en de overeenkomsten tussen de eigenaren en de gemeente.
+Leeswijzer
+In dit transformatieplan zijn de thema’s en de daaruit voortvloeiende maatregelen uit het streefbeeld
+geconcretiseerd , zodat duidelijk is wie wat wanneer gaat uitvoeren , voor wiens rekening dat komt en
+in welke vorm het z’n beslag krijgt: als regel in het omgevingsplan , als uit te voeren actie in de
+anterieure overeenkomst , enzovoorts. Verder wordt ingegaan op de te bereiken meerwaarde/
+kwaliteitsimpuls.
+Het gebied/park De Tip bestaat uit drie delen: het grootste deel aan de zuidzijde is het Bungalowpark
+Op De Kiel; de eigenaren daar zijn verenigd in een vereniging (VvE) met die naam. Wanneer het om dit
+deel gaat is in dit transformatieplan de benaming Op De Kiel gebruikt. Ten noorden van Op De Kiel ligt
+een straatje met daaraan vijf woningen zonder eigen naam of verenging. Daaraan grenst tenslotte het
+meest noordelijk gebied , ontsloten aan een gemeentelijke weg. Ook dit deel heeft geen eigen naam.
+Wanneer het om het gebied/park als geheel gaat wordt de naam De Tip gebruikt.
+Zaaknummer: 47658-2025
+2
+De thema’s uit het streefbeeld en de concretisering daarvan
+Het streefbeeld heeft als doel gehad te schetsen hoe De Tip er over een aantal jaren zou
+kunnen/moeten uitzien , als de bestemming die permanent wonen mogelijk maakt is verwezenlijkt.
+Aan zo’n bestemming zijn namelijk eisen en wensen verbonden , die betrekking hebben op zowel de
+inrichting van het park als de staat van de woningen. Om duidelijk te krijgen wat goed is zoals het is en
+wat beter of anders kan of moet , zijn alle aspecten die van belang zijn bekeken. Hierbij is gebruik
+gemaakt van de zogenaamde kwaliteitskaarten.
+De relevante onderwerpen die uit de kwaliteitskaarten naar voren kwamen zijn gerubriceerd per
+thema en daarna inhoudelijk uitgediept in aanwezigheid van de werkgroep en de betreffende
+vakspecialist van de gemeente. Dit heeft geresulteerd in een goed inzicht van het vraagstuk en een
+aanzet voor een actie/oplossing. Deze aanzet is in dit transformatieplan concreet gemaakt.
+Hierna per thema de onderwerpen die er voor De Tip toe doen , bestaande uit de tabel met acties uit
+het streefbeeld en een beschrijving van de concretisering daarvan.
+Thema 1: Gebruik , bouwen en erf
+In het streefbeeld zijn de volgende acties opgenomen:
+wat wie
+Behoud recreatiebestemming voor de eigenaren die dat wensen Gemeente
+Toestaan van alleen groene erfafscheidingen opnemen in omgevingsplan Gemeente
+Bepalingen over werken aan huis opnemen in omgevingsplan Gemeente
+Plaatsing bebouwing op kavel vastleggen in omgevingsplan Gemeente
+Maximale verhardingspercentage opnemen in Omgevingsplan Gemeente
+Maatvoering hoofd- en bijgebouwen en vastleggen in omgevingsplan. Gemeente
+Bepalen wijze van bestemmen , gelet op beperken vergunningsvrij bouwen Gemeente
+Passend overgangsrecht voor afwijkende (bestaande) situaties opnemen in Gemeente
+omgevingsplan
+1. 1
+1. 2
+1. 3
+1. 4
+1. 5
+1. 6
+1. 7
+1. 8
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 1. 1
+Eigenaren die de recreatiebestemming willen behouden en geen gebruik willen maken van het
+overgangsrecht hebben twee keuzes. De eerste is dat ze niet meegaan in de transformatie. Voor hen
+verandert er dan niets: de bestemming blijft recreatief en de bouwmogelijkheden (zie bij 1. 6) wijzigen
+niet. De tweede mogelijkheid is dat zij wel meegaan in de transformatie naar een woonbestemming
+en kiezen voor een aanduiding op hun perceel in het omgevingsplan. Die aanduiding luidt ‘recreatief
+gebruik toegestaan’. Hiermee kan er naast gewoond ook gerecreëerd worden , zij het zonder
+bedrijfsmatige exploitatie. Deze aanduiding is bedoeld voor de eigenaren die nu recreëren maar op
+enig moment de mogelijkheid willen hebben permanent te gaan wonen.
+Ad 1. 2 en 1. 5
+De Tip moet een groen park blijven. Daarom zijn er in het TAM-omgevingsplan regels opgenomen
+waarin staat dat schuttingen , hekken en muren verboden zijn als erfafscheiding. Ook is bepaald dat
+maximaal 20% van de oppervlakte van het perceel , na aftrek van wat bebouwd is, mag worden verhard
+3
+Zaaknummer: 47658-2025
+met tegels en dergelijke. Dat is niet alleen voor de groene uitstraling , maar ook voor de
+waterhuishouding.
+Ad 1. 3
+In het TAM-omgevingsplan is opgenomen dat bedrijven aan huis die overlast kunnen veroorzaken
+(geluid , geur , autoverkeer , reclame-uitingen) niet zijn toegestaan. Andere vormen van bedrijvigheid ,
+zoals een ZZP’er die zijn (kantoor)werk vanuit huis doet zijn toegestaan , mits ondergeschikt aan het
+wonen.
+Ad 1. 4
+In De Tip staan de woningen niet ‘strak in het gelid’ zoals in veel woonwijken , maar wat meer ‘speels’
+schuin of midden op de kavel. Daarmee is er een kenmerkende uitstraling ontstaan van grote , groene
+kavels met betrekkelijk kleine woningen erop die open , ruim en parkachtig aandoet. Om die kwaliteit
+te behouden zijn er in het omgevingsplan regels opgenomen voor de plaatsing van de woningen en de
+bijgebouwen. De woningen moeten op de huidige plaats blijven staan , maar kunnen wel naar achteren
+en naar een zijkant uitgebreid worden. De bijgebouwen staan in principe achter de woningen , met de
+mogelijkheid daarvan af te wijken met een vergunning , bijvoorbeeld voor carports. Verder zijn er regels
+opgenomen over de afstand van de woningen en de bijgebouwen tot de perceelsgrenzen.
+Ad 1. 6
+De bouwmogelijkheden voor de woningen zijn gelijk gebleven: 100 m2 , een bouwhoogte van 8 m. en
+een goothoogte van 3 m. De bijgebouwen kunnen groter: 50 m2 in plaats van voorheen 20 m2. Ook
+kan er een carport worden gebouwd. Deze regels zijn opgenomen in het TAM-omgevingsplan.
+Ad 1. 7
+Om het karakter van het park te behouden zijn de mogelijkheden voor vergunningsvrij bouwen
+uitgesloten.
+Ad 1. 8
+Het standaard overgangsrecht is opgenomen in het TAM-omgevingsplan: wat op grond van het
+bestaande bestemmingsplan legaal is gebouwd kan blijven staan , ook als het volgens het nieuwe TAM-
+omgevingsplan niet is toegestaan. Dat geldt ook voor wat onder het bestaande plan niet mocht , maar
+onder het nieuwe plan wel is toegestaan , zij het dat een vergunning wellicht nodig is. Wat onder het
+bestaande plan niet mocht en ook niet onder het nieuwe plan , valt niet onder het overgangsrecht; dat
+blijft illegaal.
+Thema 2: Groen
+In het Streefbeeld zijn de volgende acties opgenomen:
+wat
+Groenplan opstellen als bijlage bij omgevingsplan
+wie
+2. 1 Gemeente
+werkgroep
+Een inventarisatie van de waarde en behoudenswaardigheid van de bomen Gemeente
+werkgroep
+uitvoeren
+Voorstellen doen voor het behoud van de behoudenswaardige bomen , in Gemeente
+overleg met de eigenaar ervan werkgroep
+In het omgevingsplan opnemen dat schuttingen , muren e. d. uitgesloten zijn gemeente
+In Groenplan suggesties opnemen voor passende en toekomstbestendige Gemeente
+hagen
+2. 2
+2. 3
+2. 4
+2. 5
+werkgroep
+4
+Zaaknummer: 47658-2025
+2. 6 Suggesties over gebiedseigen en toekomstbestendige beplanting opnemen in Gemeente
+Groenplan werkgroep
+Uitwerken welk maximaal verhardingspercentage passend en werkbaar is en Gemeente
+dit opnemen in het omgevingsplan en Groenplan werkgroep
+In het kader van het Groenplan uitwerken wat de kwaliteit en kwantiteit van Gemeente
+de groene afscherming aan de westelijke rand zou kunnen/moeten zijn
+Groenbeheersplan VvE laten aansluiten op Groenplan
+2. 7
+2. 8
+werkgroep
+VvE
+2. 9
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 2. 1
+Gekozen is voor een iets andere uitwerking dan het opstellen van een ‘groenplan’: om invulling te
+geven aan de verplichte toevoeging van een kwaliteitsimpuls is in samenwerking tussen de werkgroep
+vanuit het park en Landschapsbeheer Drenthe een plan met de naam ‘De Tip Groener! , plan voor
+vergroting van de biodiversiteit en verbetering van de BasisKwaliteit Natuur’ opgesteld. Dat plan geeft
+inspiraties en voorbeelden voor de particuliere tuinen en bevat concrete plannen voor vergroening
+van de gronden die in gezamenlijk bezit zijn in het gebied Op De Kiel. Die plannen moeten ook worden
+uitgevoerd en in het TAM-omgevingsplan is opgenomen dat dit groen in stand moet blijven. Het plan
+is als bijlage bij het TAM-omgevingsplan gevoegd. Verder blijven voor alle eigenaren de nu ook al
+geldende regels voor het kappen van bomen gelden en is er , zoals eerder genoemd , een verbod op
+schuttingen , muren en overmatige verharding van de particuliere percelen. Ook zijn groenstroken aan
+de west- en de zuidzijde opgenomen , zie ad 2. 8.
+Ad 2. 2 en 2. 3
+Een bomeninventarisatie en het maken van afspraken met eigenaren die bomen op hun erf hebben
+die behouden moeten blijven is een te ingewikkelde , dure en ingrijpende zaak gebleken. In plaats
+daarvan is gekozen voor het opstellen van een plan zoals genoemd onder 2. 1 en blijven de bestaande
+regels voor het kappen van bomen in stand.
+Ad 2. 4 en 2. 7
+Zie Ad 1. 2 en 1. 5
+Ad 2. 5 en 2. 6
+In het plan dat onder 2. 1 is genoemd zijn plannen opgenomen voor het groen op de gezamenlijke
+gronden in Op De Kiel , waarin aandacht is besteed aan passende beplanting (streekeigen , geschikt voor
+de locatie en de ondergrond). Ook zijn tips en suggesties opgenomen voor passende beplanting
+(struiken , hagen) in de particuliere tuinen waar bewoners hun voordeel mee kunnen doen. Door het
+uitsluiten van schuttingen en dergelijke zullen de hagen (bestaande en nieuwe) het beeld blijven
+bepalen.
+Ad 2. 8
+Aan de westelijke rand van het park ligt volgens het geldende bestemmingsplan een groenstrook van
+circa 6 m. Deze strook is bedoeld om het park in te passen in de (landelijke) omgeving en als overgang
+tussen aangrenzende agrarische gebied en het park. De strook ligt over de particuliere tuinen en
+binnen deze 6 meter moet het groen in stand blijven en mag niet worden gebouwd. In het TAM-
+omgevingsplan is deze strook opnieuw opgenomen en is wederom bepaald dat er geen bebouwing
+(zoals schuren , houtopslag , speelvoorzieningen en dergelijke) geplaatst mogen worden en dat het
+aanwezige groen niet mag worden verwijderd/gekapt , behalve voor normaal onderhoud.
+Om een betere scheiding te vormen tussen het zuidelijk gelegen park De Eeke is nu ook een dergelijke
+groenstrook opgenomen aan de zuidzijde van De Tip. Deze is 3 m breed en vormt met de groenstrook
+die al aanwezig is op het terrein van De Eeke een buffer tussen beide parken.
+Zaaknummer: 47658-2025
+5
+Ad 2. 9
+De gezamenlijke gronden binnen Op De Kiel zullen voor wat betreft het groen worden ingericht volgens
+het plan genoemd onder ad 1. Het onderhoud en beheer zal daarop worden aangepast.
+Thema 3: Openbare/collectieve ruimte (wegen en bermen)
+In het streefbeeld zijn de volgende acties opgenomen:
+wat
+Straatverlichting vernieuwen in het VvE-gedeelte
+Entreegebied VvE-deel aanpassen: haaietanden en bordje ‘eigen weg’ VvE
+Vindbaarheid verbeteren werkgroep
+Bereikbaarheid voor hulpdiensten en noodzaak vluchtwegen onderzoeken en Gemeente/VvE
+zonodig maatregelen treffen
+Wegen bestemmen als ‘verkeer’ in het omgevingsplan
+wie
+3. 1 VvE
+3. 2
+3. 3
+3. 4
+3. 5 gemeente
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 3. 1
+In 2024 zijn op de bestaande masten nieuwe armaturen geplaatst , met LED-verlichting en een
+nachtstand met sensor.
+Ad 3. 2
+De gemeente heeft in een brief aan het bestuur van de VvE als eigenaar en beheerder van de weg door
+Op de Kiel enkele voorwaarden gesteld aan de wegen. Deze voorwaarden hebben te maken met een
+goede toegankelijkheid en het onderhoud en beheer in de situatie na de transformatie. Verwacht
+wordt dat het gebruik van de wegen intensiever wordt nu permanente bewoning officieel is
+toegestaan. Een dergelijke brief is ook gestuurd aan de eigenaren van de 5 woningen die een eigen
+weg in bezit hebben. In de brief is verder opgenomen dat de VvE Op De Kiel , respectievelijk de
+eigenaren in overleg met de gemeente de aansluiting van ‘hun weg’ op de openbare weg De Tip
+verbeteren , onder meer door het plaatsen van borden die aanduiden dat het om een eigen weg gaat ,
+die niet onder het beheer van de gemeente valt. De geadresseerden hebben ingestemd met de inhoud
+van de brief en dit aan de gemeente laten weten.
+Ad 3. 3
+Vanaf de weg De Tip zal de gemeente Coevorden nieuwe bordjes plaatsen bij de drie ingangen , waarop
+de betreffende huisnummers die aan de ingang grenzen staan aangegeven. De VvE Op De Kiel plaatst
+nieuwe reflecterende huisnummerbordjes binnen de weg door het park.
+Ad 3. 4
+De Veiligheidsregio Drenthe heeft onderzocht of alle woningen goed bereikbaar zijn voor de
+hulpdiensten (ambulance , brandweer , politie). Gebleken is dat de wegen weliswaar niet voldoen aan
+de normen voor wat betreft breedte , bochtstralen en dergelijke , maar dat de bereikbaarheid
+voldoende is , mits niet op de weg wordt geparkeerd of er andere obstakels op staan. In Op De Kiel
+moet de bestaande doorgang naar de westkant , naar de Kwekebosweg , geschikt gemaakt worden als
+doorgang bij calamiteiten. De VvE Op De Kiel zal hier een hek plaatsen dat te openen is door de
+hulpdiensten. Dit is vastgelegd in de brief onder ad 3. 2 genoemd.
+Zaaknummer: 47658-2025
+6
+Ad 3. 5
+De bestaande wegen en bermen hebben een bestemming ‘verkeer’ gekregen , zodat duidelijk is
+waarvoor ze bedoeld zijn.
+Thema 4: Afval
+In het streefbeeld zijn de volgende acties opgenomen:
+wat wie
+4. 1
+4. 2
+Besluitvorming over inzameling afval
+Keuze voor inzamelsysteem
+Gemeente
+Gemeente ,
+werkgroep
+Gemeente
+werkgroep
+4. 3 Bepalen ingangsdatum nieuw inzamelsysteem
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 4. 1 en 4. 2
+Op grond van bepalingen in de Wet milieubeheer heeft een gemeente de plicht huishoudelijk afval in
+te zamelen. In het noordelijk deel van De Tip gebeurt dat al. In Op De Kiel wordt de afvalinzameling
+nog door de VvE georganiseerd , omdat het in het verleden werd gezien als bedrijfsmatig afval. De
+afvalinzameling binnen Op De Kiel zal ook worden verzorgd door de gemeente. Omdat de weg door
+Op De Kiel niet geschikt is voor een vuilniswagen is in overleg met het VvE-bestuur besloten tot een
+systeem van ondergrondse afvalinzameling. Naast de ingang tot Op De Kiel zullen twee ondergrondse
+containers worden geplaatst , voor PMD (plastic , metalen , drankenverpakkingen) en restafval , en een
+bovengrondse container voor groenafval. Eigenaren ontvangen een pasje waarmee zij de containers
+kunnen openen om hun afval erin te werpen. Ook krijgen ze toegang tot de milieustraten voor het
+grofvuil. Zij gaan ook de reguliere afvalstoffenheffing betalen. De eigenaren in het overige gedeelte
+van De Tip hebben de keuze gekregen: zij kunnen hun kliko’s behouden of gaan gebruik maken van de
+ondergrondse inzameling op de genoemde locatie.
+Ad 4. 3
+Het nieuwe systeem van afvalinzameling gaat in per januari 2026.
+Thema 5: Bouwbesluit (Besluit bouwwerken leefomgeving , Bbl)
+In het streefbeeld zijn de volgende acties opgenomen:
+wat
+Inspectie Bouwbesluit organiseren
+wie
+Werkgroep
+(afgerond)
+Werkgroep
+(afgerond)
+Gemeente
+Gemeente
+5. 1
+5. 2 Inspectierapport naar de eigenaren , afschrift naar de gemeente
+5. 3 Termijn stellen voor noodzakelijke aanpassingen
+Steekproefsgewijze controle en waar nodig sancties opleggen
+5. 4
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Zaaknummer: 47658-2025
+7
+Ad 5. 1 en 5. 2
+Er is voor bijna alle woningen in kaart gebracht in hoeverre ze voldoen aan de bouwkundige eisen op
+grond van het Besluit bouwwerken leefomgeving (het vroegere Bouwbesluit) zoals die voor reguliere
+woningen gelden. De eigenaren van de geïnspecteerde woningen hebben een inspectierapport
+ontvangen en de gemeente een afschrift.
+Ad 5. 3 en 5. 4
+Met eigenaren van woningen die niet voldoen aan de eisen zal de gemeente een termijn afspreken
+waarbinnen de noodzakelijke aanpassingen uitgevoerd moeten zijn. De gemeente zal steekproeven
+nemen om te kijken of de aanpassingen doorgevoerd zijn. Ook woningen die niet zijn geïnspecteerd ,
+omdat de eigenaar dat niet nodig achtte , worden in de steekproeven meegenomen. Tegen het niet
+voldoen aan de regels kunnen sancties worden opgelegd.
+De kwaliteitsimpuls
+De Provincie Drenthe verlangt dat bij transformatie een kwaliteitsimpuls , in de vorm van een
+meerwaarde op landschappelijk , natuurlijk of maatschappelijk gebied wordt toegevoegd. Dat kan
+worden ingevuld op een manier die bij het park past. Voor de transformatie van De Tip is gekozen voor
+behoud van het groene karakter en vergroting van de biodiversiteit op het park. Dat is uitgewerkt in
+een plan dat in samenwerking tussen de werkgroep transformatie en Landschapsbeheer Drenthe is
+opgesteld. De Gemeente Coevorden , de Provincie Drenthe en Vitale Vakantieparken Drenthe hebben
+een bijdrage geleverd aan het mogelijk maken van dit plan. De strekking van het plan is hierboven al
+uitgelegd en uitgewerkt en het plan ‘De Tip Groener! , plan voor vergroting van de biodiversiteit en
+verbetering van de BasisKwaliteit Natuur’ is als bijlage bij het TAM-Omgevingsplan gevoegd.
+De investeringen
+Zoals ook al benoemd in het Streefbeeld: transformatie is een investering. Een heldere , eenduidige
+bestemming die recht doet aan het feitelijke gebruik , het oplossen van een aantal knelpunten en het
+oppakken van kansen voor verbetering kosten geld , maar dragen bij aan het woongenot en de waarde
+van het perceel met de woning. Die investeringen zijn en worden gedragen door zowel de gemeente
+als de eigenaren.
+De kosten zijn nu bekend. Een deel daarvan zal door de individuele eigenaren gedragen moeten
+worden en daartoe zijn anterieure overeenkomsten tussen de gemeente en de eigenaren opgesteld.
+Daarnaast hebben , vooral in het traject om te komen tot dit transformatieplan en het omgevingsplan ,
+andere partijen diverse kosten op zich genomen , die hieronder staan vermeld. De inzet in tijd en
+moeite van de werkgroep transitie en de gemeente zijn niet meegenomen , maar zijn onmisbaar
+gebleken!
+Voor rekening van de eigenaren die meegaan in de transformatie:
+Kosten taxatie tbv vereveningsbijdrage (aandeel eigenaren)
+Vereveningsbijdrage
+Kosten voor het omgevingsplan (deels)
+Kosten kwaliteitsimpuls (deel van de kosten voor het plan en kosten uitvoering)
+Kosten van de bouwkundige inspectie
+Inzet door de werkgroep transitie , namens de eigenaren
+•
+•
+•
+•
+•
+•
+Zaaknummer: 47658-2025
+8
+Voor rekening van de Gemeente Coevorden:
+Kosten taxatie tbv vereveningsbijdrage (gemeentelijk aandeel)
+Kosten voor het omgevingsplan (deels)
+Kosten plan kwaliteitsimpuls (deels)
+Kosten projectleiding (deels)
+Ambtelijke inzet
+•
+•
+•
+•
+•
+Voor rekening van Vitale Vakantieparken Drenthe komen:
+Kosten plan kwaliteitsimpuls (deels)
+Scan risicoanalyse nadeelscompensatie (planschade)
+Kosten projectleiding (deels)
+•
+•
+•
+Tot slot
+Met dit transformatieplan , in combinatie met het TAM-omgevingsplan en de anterieure
+overeenkomst , is een belangrijke stap in het transformatieproces van De Tip gezet. Nu komt het aan
+op de laatste onderdelen en de uitvoering van de plannen. De basis daarvoor is gelegd in de optelsom
+van alle plannen en de constructieve samenwerking tussen de leden van de werkgroep transitie , de
+Gemeente Coevorden en Vitale Vakantieparken Drenthe.
+Bijlage
+Streefbeeld (oktober 2024)
+Zaaknummer: 47658-2025
+9
+Postadres:
+Postbus 2
+7740 AA Coevorden
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl «Naam_eigenaar»
+«Naam_eigenaari»
+Bezoekadres:
+<«Straat_eigenaar»
+Kasteel 1 8
+7741GC Coevorden «Pc__ Plaats eigenaar»
+Uw bericht
+Afdeling/Team Programma Vitale Vakantieparken
+Behandeld door 5 5
+Kenmerk 47658-2025
+Bijlage(n)
+Coevorden 5 juni 2025 Verzenddatum: 10 juni 2025
+Onderwerp Wegen de Tip
+(geanonimiseerd)
+(geanonimiseerd)
+Beste heer/mevrouw,
+De Tip, bestaande uit het bungalowpark Op de Kiel en
+recreatiewoningen in het gebied daarop
+aansluitend, is betrokken in een transformatieproces. De bestemming en de functie van het park
+wijzigt van een park voor recreatief verblijf naar een woonpark, bedoeld voor permanente
+bewoning. In dit proces komen allerlei onderwerpen en facetten aan de orde. Een van die
+onderwerpen is de bereikbaarheid van de woningen. In deze brief vragen wij uw akkoord over
+een aantal voorwaarden hiervoor.
+In het deel van het gebied waar u een woning heeft (de adressen De Tip 101, 103, 105, 107 en
+109) maakt u gebruik van een weg die over uw percelen loopt, zie op onderstaand kaartje. U
+bent ieder verantwoordelijk voor het onderhoud en beheer van het deel van de weg dat over uw
+eigendom loopt. Deze situatie zal na de transformatie naar de woonfunctie niet veranderen. Met
+het oog daarop wil de gemeente Coevorden u een aantal zaken meegeven.
+Op grond van het Besluit bouwwerken leefomgeving (Bbl, het vroegere Bouwbesluit) gelden
+eisen aan de toegankelijkheid, gezondheid en veiligheid van zowel recreatiewoningen als
+reguliere woningen. Die eisen hebben niet alleen betrekking op de woning zelf, maar ook op de
+bereikbaarheid ervan. Dat laatste is vooral ingegeven vanwege de toegang voor hulpdiensten.
+De bestaande weg voldoet niet geheel aan de normen voor toegankelijkheid zoals die
+tegenwoordig in recreatieparken en woongebieden gelden. Zo wordt niet overal de vereiste
+wegbreedte gehaald. Het aanpassen van de weg om deze te laten voldoen aan die normen is
+echter een kostbare en op sommige plaatsen moeilijk te realiseren opgave, gelet op het feit dat
+het een bestaande situatie betreft.
+Gebleken is dat met de huidige inrichting de toegankelijkheid van de woningen voldoende
+verzekerd is en dat er geen aanleiding is om onverkort vast te houden aan de normen uit het
+Bbl. Wel stelt de gemeente Coevorden een aantal voorwaarden die zijn ingegeven vanuit de
+verwachting dat het gebruik van de weg zal naar verwachting intensiever zal worden. In een
+woongebied vinden immers over het algemeen meer autobewegingen plaats dan in een park
+met recreatiebungalows. Die voorwaarden zijn de volgende:
+Zaaknummer: 47658-2025 Paraaf: Paraaf eigenaar/eigenaren:
+1. U blijft gezamenlijk verantwoordelijk voor het onderhoud en beheer van de weg.
+Hieronder vallen ook eventuele herstelwerkzaamheden of renovaties.
+2. Daaronder is ook begrepen de uitgangen op de openbare wegen De Tip.
+3. U ziet er als gezamenlijke eigenaren op toe dat mede met het oog op de toegankelijkheid
+voor hulpdiensten de weg vrij blijft van obstakels , zoals overhangend groen , verkeerd
+geparkeerde voertuigen , afval of andere blokkades.
+4. U ziet er als gezamenlijke eigenaren op toe dat de verkeersveiligheid op de weg door
+middel van duidelijke aanwijzingen en signalering , zoals verkeersborden of markeringen
+wordt gehandhaafd.
+5. De Gemeente is niet verantwoordelijk voor onderhoud , toezicht of het oplossen van
+problemen met betrekking tot de toegankelijkheid van de weg.
+6. De Gemeente heeft de bevoegdheid toezicht te houden op naleving van het Bbl en wat
+in deze brief is bepaald. De gemeente zal de betreffende eigenaar aanspreken bij
+gebreken.
+7. De Gemeente zorgt voor een veilige aansluiting op De Tip door middel van bebordingen
+en/of markeringen.
+In grijs gestippeld de weg.
+Zaaknummer: 47658-2025 Paraaf: Paraaf eigenaar/eigenaren:
+Wij verzoeken u kennis te nemen van de inhoud van deze brief en ermee in te stemmen door
+het bijgevoegde tweede exemplaar getekend terug te sturen.
+Wilt u bij vervolgcorrespondentie het zaaknummer 33239-2025 doorgeven.
+Gemeente Coevorden voor akkoord:
+namens het college van burgemeester en
+wethouders van Coevorden,
+teamleider Vastgoed & Infra datum: 2025
+(handtekening)
+«Naam eigenaar»
+(handtekening)
+«Naam_eigenaar1»
+Zaaknummer: 47658-2025
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Landschapsbeheer Drenthe
+De Tip groener!
+Plan voor vergroting van de biodiversiteit en versterking
+van de Basiskwaliteit Natuur
+De Tip , De Kiel
+ZZaaknummer: 47658-202
+Zaaknummer: 47658-2025
+1
+Colofon
+Titel De Tip groener!
+Plan voor vergroting van de biodiversiteit en versterking van de
+Basiskwaliteit Natuur, De Tip, De Kiel
+Opdrachtgevers Huisjeseigenaren De Tip, Provincie Drenthe, Vitale Vakantieparken
+Drenthe, Gemeente Coevorden
+rnaar:
+Opdrachtnemer ELL LN
+Landschapsbeheer Drenthe
+Landschapsbeheer Drenthe
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+T (0592) 316 616
+E info@lbdrenthe.nl
+W www.lbdrenthe.nl
+Contactpersoon
+Afbeeldingen Medewerkers Landschapsbeheer Drenthe
+Status Definitieve versie
+Datum 25 juni 2025
+Zaaknummer: 47658-2025
+(geanonimiseerd)
+Inhoud
+Hoofdstuk 1 Intro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Aanleiding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1. 1.
+Biodiversiteit / Basiskwaliteit Natuur . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1. 2.
+Ontwikkelingsrichting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1. 3.
+Hoofdstuk 2: Landschapsanalyse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2. 1. Gebiedsbeschrijving en ligging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2. 1. 1. Landschapstype . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2. 1. 2. De Tip . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2. 2. Landschapsvormende processen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2. 3. Historie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Hoofdstuk 3 Uitgangssituatie groen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Huidige situatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3. 1.
+Wat kan/moet beter of anders. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3. 2.
+Hoofdstuk 4 Adviezen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+4. 1. Toevoegen van nieuwe biotopen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4. 1. 1. Takkenrillen langs randen van groene plekken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4. 1. 2. Houtwal westelijke rand langs en op De Tip . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4. 1. 3. Houtsingel zuidelijke rand tussen De Tip en De Eeke . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+4. 1. 4. Verrijken westelijke kant De Tip (langs zandpad) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+4. 2. Maatregelen voor insecten . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+4. 3. Maatregelen voor vogels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+4. 4. Maatregelen voor zoogdieren . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+4. 5. Stinzenplanten . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+4. 6. Bloemenmengsels en maaien . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+4. 7. Struweelhagen en -randen , houtwallen en -singels en bomenrijen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+4. 8. Vasthouden water . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+4. 9. Waarde van soorten bomen voor biodiversiteit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+4. 10. Waarde van heggen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Bijlage 1: BKN-koppeltabel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Bijlage 2: Menukaart verhogen biodiversiteit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Bijlage 3: Subsidiemogelijkheden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Bijlage 4: Indicatieve begroting voor aanschaf materialen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Bijlage 5: Instructiewijzers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Zaaknummer: 47658-2025
+3
+Hoofdstuk 1 Intro
+1. 1. Aanleiding
+De Tip is een recreatiepark , echter er is in toenemende mate sprake van permanente bewoning. Dit
+komt op meerdere huisjesterreinen in Drenthe voor. Tegen deze achtergrond is door de Provincie
+Drenthe en in samenwerking met de Drentse gemeenten en het Recreatieschap Drenthe een
+onderzoek opgesteld naar de vitaliteit van de verschillende vakantieparken. Hieruit komt naar
+voren dat een aantal parken nauwelijks bijdragen aan de recreatieve economie van Drenthe; dit
+project heet Vitale Vakantieparken Drenthe. Het park De Tip is aangewezen als een park dat in
+aanmerking komt voor transitie naar een woonpark.
+In de provinciale Omgevingsverordening is opgenomen dat bij een dergelijke transitie de
+voorwaarde geldt dat er sprake moet zijn van een ‘kwaliteitsverbetering’. Het betreffende park mag
+zelf onderzoeken waarin de kwaliteit gevonden gaat worden. In De Tip is dit in eerste instantie
+gezocht in het verhogen van de duurzaamheid van de bebouwing. Veel huisjes zijn echter in de
+loop van de tijd aangepast en hebben een verschillende uitgangspositie en ook de meningen van
+de eigenaren liepen uiteen. Dit werd dermate ingewikkeld dat dit onderzoek is gestopt. Vervolgens
+is gekozen voor een verhoging van de biodiversiteit.
+Binnen dit proces is Landschapsbeheer Drenthe ingeschakeld om verdere invulling te geven aan de
+uitwerking voor de kwaliteitsimpuls van de biodiversiteit op De Tip. Hierbij in ogenschouw genomen
+dat dit bijdraagt aan de Basiskwaliteit Natuur. Het voorliggende rapport is hiervan het resultaat.
+In hoofdstuk 1 wordt de Basiskwaliteit Natuur beschreven. In hoofdstuk 2 komt de
+landschapsanalyse aan bod , waarin de bodem en waterhuishouding worden behandeld. In
+hoofdstuk 3 wordt de uitgangssituatie van het aanwezige groen beschreven. Tot slot komt in
+hoofdstuk 4 het advies voor de kwaliteitsverbetering aan de orde. Hierin worden concrete
+maatregelen voorgesteld om aan deze kwaliteitsslag te voldoen.
+Figuur 1: Ligging De Tip
+Zaaknummer: 47658-2025
+4
+1.2. Biodiversiteit / Basiskwaliteit Natuur
+Bij biodiversiteit gaat het om de mate van variatie in het voorkomen van planten en dieren. Tegen
+de achtergrond dat er in Nederland sprake is van een (sterke) daling van de biodiversiteit, heeft de
+Nederlandse overheid de Basiskwaliteit Natuur (BKN) geïntroduceerd. Basiskwaliteit Natuur is het
+basisniveau dat nodig is om een omgeving leefbaar te houden voor natuur én mens, en om de
+natuur te herstellen en te verbeteren. Dit betekent dat er een bepaalde hoeveelheid en variatie aan
+planten en dieren aanwezig moet zijn in een gebied om dit voldoende vitaal te houden of te
+krijgen. Hierbij wordt niet alleen gekeken naar natuurgebieden, maar juist ook naar het landelijk
+en stedelijk gebied.
+Basiskwaliteit Natuur is een set van condities (denk aan milieu, inrichting en beheergebruik
+—
+zie
+figuur 2) die algemene soorten nodig hebben om algemeen te blijven of te worden in een bepaald
+landschapstype. Bij ieder landschapstype horen kenmerkende landschapselementen met de daarbij
+horende soorten. Dit wordt nader toegelicht in 2.1 Gebiedsbeschrijving en ligging.
+Biodiversiteit kan floreren als er sprake is van de 6 V's: variatie, verbinding, voedsel, veiligheid,
+voortplanting en vocht (zie figuur 3). Wanneer in een gebied aan deze 6 V's wordt voldaan, en bij
+het beheer van het gebied hier ook rekening mee wordt gehouden, dan kan de biodiversiteit
+toenemen en wordt de natuur veerkrachtiger.
+(geanonimiseerd)(geanonimiseerd)
+pH
+Bodem
+Waterstand
+Voedingstoffen
+nn ee,
+me Inrichting
+Verbindingen
+Landschapselementen
+Broakleggen
+Figuur 2: De drie pijlers van BKN (bron: groenebondgenoten.nl)
+Figuur 3: De 6 v's (bron: groenebondgenoten.nl)
+Zaaknummer: 47658-2025
+1. 3. Ontwikkelingsrichting
+Met dit kwaliteitsplan wordt een advies gegeven m. b. t. het nemen van concrete maatregelen die
+bijdragen aan het verhogen van de biodiversiteit op het park en daarmee een bijdrage leveren aan
+de Basiskwaliteit Natuur. Hierbij zijn de 6 V’s het uitgangspunt.
+Het gebied De Tip wordt gekenmerkt door een open parkachtig karakter , vanwege het ontbreken
+van schuttingen , muren en de aanwezige groenstructuren. Dat is ideaal voor fauna , die De Tip zo
+kan gebruiken als doorloopgebied. De wens vanuit bewoners is dan ook het behoud van dit open
+groene karakter. Hierbij wordt uiteraard rekening gehouden met het behoud van de huidige
+migratieroutes die langs deze groenstructuur lopen welke de verschillende zones aan elkaar
+verbinden.
+Binnen de ontwikkeling van het gebied wordt rekening gehouden met de diversiteit binnen het
+park. Het plangebied van De Tip is globaal in te delen in drie zones (zie figuur 4).
+Zone 1: Het noordelijke deel van het park. Dit deel is authentiek , boomrijk en bevat weinig
+tot geen gezamenlijke/openbare ruimte.
+Zone 2: Middendeel van het park. Dit deel kenmerkt zich door de open en gecultiveerde
+structuur met weinig gezamenlijke/openbare ruimte.
+Zone 3: Zuidelijk deel van het park. In dit deel zijn de tuinen meer gecultiveerd en bevindt
+zich enige gezamenlijke/openbare ruimte.
+Per zone kan gekeken worden welke adviezen het best passend zijn. Deze worden in hoofdstuk 4
+beschreven.
+1
+2
+3
+Figuur 4: Kaart van zones De Tip
+Zaaknummer: 47658-2025
+6
+Hoofdstuk 2: Landschapsanalyse
+2. 1. Gebiedsbeschrijving en ligging
+2. 1. 1. Landschapstype
+De Tip is gelegen in het esdorpenlandschap dat gekenmerkt wordt door een aantal vaste
+elementen zoals de es , het dorp , het beekdal en de velden , bossen en heide. Deze hebben allemaal
+een onderlinge relatie. Vanuit het dorp werd het vee (schapen) de heide op gelaten om overdag te
+grazen , ’s avonds werd het vee terug de potstal in gelaten waar heideplaggen in lagen die het vee
+verrijkte met mest. Deze bemeste heideplaggen werden opgebracht op de akkers waardoor , met
+verloop van tijd , essen ontstonden. In de beekdalen bevonden zich de hooilanden , met soorten als
+de margriet , smalle weegbree of rode klaver , waar het gras gehooid werd en als wintervoer voor
+het vee diende. In het beekdal tussen de hooilanden bevonden zich houtsingels die als veekering
+dienden voor wanneer het vee in de beekdalen mocht grazen. De aanwezigheid van de
+kenmerkende elementen zorgen voor het streekeigen karakter van het landschap en geven het
+landschap een eigen identiteit.
+Gekoppeld aan het boerenkarakter van de omgeving , kwamen ook andere elementen als heggen ,
+(hakhout)bosjes of solitaire bomen veelvuldig voor. Deze elementen hadden allemaal een functie in
+het boerenbestaan , maar ook voor de biodiversiteit. Veel van deze elementen herbergen namelijk
+verschillende dier- en plantensoorten die kenmerkend zijn in dit landschapstype. Denk hierbij
+bijvoorbeeld aan de steenuil in de knotbomen , de bunzing die zich verplaatst langs lijnvormige
+elementen , het koevinkje dat overjarige grassen nodig heeft voor de voortplanting of een
+zanglijster die foerageert bij besdragende struiken. In onderstaande figuur 5 is het
+esdorpenlandschap met haar typerende landschapselementen weergegeven.
+Figuur 5: Esdorpenlandschap (Bron: Handreiking Basiskwaliteit Natuur Drenthe)
+Zaaknummer: 47658-2025
+7
+2. 1. 2. De Tip
+Het terrein van De Tip ligt op een ondergrond van arme zandgronden aan de oppervlakte. Het
+terrein is in zijn geheel hoger gelegen dan de omliggende landerijen en bossen. Op het terrein zijn
+geen natuurlijke waterpartijen aanwezig vanwege de hoge , droge ligging en de goed doorlaatbare
+zandbodem en de minimale hoeveelheid verharding. Beplanting op het park moet dus bestand zijn
+tegen arme en droge omstandigheden. Op dit moment bestaat er een relatief goede samenhang
+tussen de bodem en aanwezige beplanting.
+Figuur 6: Hoogtekaart AHN4 - DTN (bron: ahn. nl)
+Zaaknummer: 47658-2025
+8
+2. 2. Landschapsvormende processen
+Om weloverwogen beslissingen te maken voor maatregelen is het kijken naar de
+ontstaansgeschiedenis van het landschap relevant. Dit toont hoe het landschap en de bodem
+gevormd zijn.
+De Tip ligt op een ijsstroomheuvelrug , gearceerd met de donkerroze kleur. Dit is een
+landschapsvorm waarbij de bodem door landijs omhoog en zijwaarts gedrukt is waardoor
+langgerekte patronen van ruggen en laagtes konden ontstaan. Het geel gearceerde gedeelte in
+figuur 7 is een complex van dekzandwelvingen. Deze flauwe hellingen (welvingen) bestaan uit
+dekzand , wat hier door de wind is afgezet tijdens het Weichseliën (de laatste ijstijd) circa 116 tot
+circa 12 duizend jaar geleden.
+Figuur 7: Geomorfologische kaart (bron: Dinoloket. nl)
+Dit is terug te zien op een doorsnede van de bodem (zie figuur 8). Hierop is te zien dat er tijdens
+het Elsterien een dik pakket zand is afgezet , dit wordt in onderstaande figuur weergegeven als de
+formatie van Peeloo (NUPE). Daarop is een afzetting van keileem ontstaan in het Saalien welke
+verspreid voorkomt en varieert in dikte en onderdeel uitmaakt van de formatie van Drente (NUDR).
+Bovenop deze bodem laag bevindt zich wederom een zandige bodemlaag welke in de laatste ijstijd
+is afgezet , in de figuur aangeduid als de formatie van Boxtel (NUBX). Door de hoge ligging van het
+gebied , kent het geen open water in de vorm van sloten of greppels.
+De bodem van De Tip is geclassificeerd als een veldpodzolgrond met lemig fijn zand. Dit betekent
+dat de grond een voedselarm en droog karakter heeft. Podzolgronden worden gekenmerkt door in-
+en uitspoelingslagen van organisch materiaal (humuspodzolgronden). Daarnaast is er in de bodem
+van De Tip verspreid keileem in de bodem op minder dan 120cm diepte.
+Figuur 8: Doorsnede bodem De Tip (bron: Dinoloket. nl)
+Zaaknummer: 47658-2025
+9
+2. 3. Historie
+Historische kaarten laten zien wat de ontwikkeling is geweest in het landschap en dus waar het
+huidige landschap vandaan komt , welke elementen er voorkwamen , waar de wegen liepen en waar
+bos , heide , bebouwing of landbouw aanwezig was. Sommige elementen zijn belangrijk geweest
+voor de ontwikkeling van de omgeving en ‘vertellen’ een deel van het verhaal over de
+ontstaanswijze van het landschap van vandaag. Deze landschapselementen geven het landschap
+haar streekeigen karakter en zijn waardevolle voedselbronnen en verbindingswegen met veel
+variatie voor plant en dier.
+In de periode van 1850 tot 1925 zien we relatief weinig veranderingen in het gebied. Het
+heidelandschap is nog grotendeels intact , hoewel in 1925 de eerste ontginningen zichtbaar zijn als
+lichte vlakken in het heideterrein. Ook is in 1925 de eerste bebouwing zichtbaar. Vanaf 1960 tot
+1980 wordt de eerste bebouwing van De Tip zichtbaar op de kaart. In 2000 is te zien dat het park
+in haar huidige vorm zichtbaar is op de kaart en op de meest recente kaart is ook het Vakantiepark
+De Eeke (aan de zuidkant van De Tip) zichtbaar. Wat betreft de landschapselementen is een
+beperkte afname te zien rondom De Tip.
+1850 (bron: topotijdreis. nl) 1925 (bron: topotijdreis. nl)
+1980 (bron: topotijdreis. nl)
+1960 (bron: topotijdreis. nl)
+2000 (bron: topotijdreis. nl) Heden (bron: topotijdreis. nl)
+Zaaknummer: 47658-2025
+10
+Hoofdstuk 3 Uitgangssituatie groen
+3. 1. Huidige situatie
+Het uitgangspunt op De Tip is een groen park met een parkachtig karakter. De wens vanuit de
+bewoners/eigenaren , alsmede de gemeente is om dit karakter te behouden. Op het park bevinden
+zich (grote) bomen en diverse hagen. Vanuit de werkgroep wordt gestreefd naar zo min mogelijk
+schuttingen en andere niet-natuurlijke afscheidingen.
+De aanwezige groene basis bepaalt het karakter van het park , mede door de aangrenzende
+beplanting op particuliere eigendommen. Hier zijn nog kansen aanwezig voor de bevordering van
+de biodiversiteit. Daarnaast wordt er op de gezamenlijke eigendommen (VVE-gedeelte) gestreefd
+naar groene inpasbaarheid binnen dit parkachtige karakter.
+Het streven is om De Tip nog meer inpasbaar te maken in het landschap. Dit door het betrekken
+van de randen rondom De Tip. Hierbij is gekeken naar de natuurlijke elementen aan de randen van
+De Tip.
+3. 2. Wat kan/moet beter of anders
+Een risico van de transformatie naar woonbestemming is dat dit kan leiden tot meer
+bouwactiviteiten en een intensiever gebruik van de percelen (erven en tuinen) , alsmede de
+openbare ruimte. Dit kan invloed hebben op de kwaliteit van het parkachtige , groene karakter van
+De Tip.
+De groene structuur op De Tip wordt voor een belangrijk deel gevormd door de grotere bomen. Als
+aanvulling is het uiteraard van belang dat er ook struiken , jonge bomen , klimplanten en wilde
+vaste planten aanwezig zijn. Dit biedt meer voedsel , veiligheid (schuilgelegenheid) en variatie in
+soorten. In geval bomen dicht op elkaar staan wordt in het advies meegenomen wat een goede
+ingreep zou kunnen zijn voor het behoud van de toekomstbestendige groene structuur op De Tip.
+Verder wordt er in het advies opgenomen welke bomen en struiken waardevol zijn om de
+biodiversiteit (en BKN) te versterken.
+Hagen zorgen op De Tip voor afscheiding van kavelgrenzen en zorgen voor een groen raamwerk en
+groene verbinding. Daarnaast bieden hagen een goede dekking (veiligheid) voor de fauna. Voor de
+biodiversiteit en de groene parkachtige structuur op het park zou het onwenselijk zijn om de hagen
+te vervangen door schuttingen. Wel is in dit advies meegenomen dat hagen een bijdrage leveren
+aan de variatie van het gebied , zeker als ze uit verschillende soorten bestaan , en op die manier
+een bijdrage leveren aan de biodiversiteit.
+In het advies in dit kwaliteitsplan zijn ook ideeën opgenomen aangaande het beperken van
+verharding. Dit zorgt ervoor dat het vocht/de regen de bodem in kan zakken zodat dit ter
+beschikking komt voor de beplanting.
+De westelijke rand van het gebied (strook van 5 meter breed) op particuliere percelen heeft de
+bestemming Groen en is in dit advies meegenomen om qua biodiversiteit te verrijken. Het behoud
+van de houtwal is hierbij van belang in het advies. Dit biedt namelijk een mooie verbinding
+waarlangs dieren zich kunnen verplaatsen en veiligheid kunnen vinden.
+Aan de zuidelijke rand van het gebied aan de grens met De Eeke is een strook van 2 meter met de
+bestemming groen toegevoegd. Deze rand loopt over particuliere percelen. Samen met de 8 meter
+brede rand op De Eeke vormt dit een groene buffer tussen De Tip en De Eeke. Op de menukaart
+zijn mogelijkheden voor praktische invulling van de groene buffer opgenomen.
+Zaaknummer: 47658-2025
+11
+Hoofdstuk 4 Adviezen
+Hieronder zijn de adviezen uitgewerkt om zowel de openbare/gezamenlijke ruimte als de
+particuliere kavels een kwaliteitsimpuls te geven met behulp van de 6 V’s op het gebied van de
+Basiskwaliteit Natuur (te weten: variatie , verbinding , voedsel , veiligheid , voortplanting en vocht).
+Bij uitvoering van de maatregelen is het belangrijk om het groene parkachtige karakter in
+ogenschouw te houden. Vaak kunnen de genoemde adviezen zowel op de openbare als particuliere
+terreinen worden toegepast.
+Op de kaart zijn de maatregelen weergegeven die op de openbare terreinen genomen kunnen
+worden (zie figuur 9). In bijlage 1 – BKN-koppeltabel is weergegeven welke soorten profiteren als
+de genoemde landschapselementen voorkomen.
+Figuur 9: Locaties voorgestelde maatregelen openbare deel De Tip
+Elementnummer 1 Versterken bloemrijke berm
+Elementnummer 2 Versterken struiklaag in houtwal
+Elementnummer 3 Kleine openbare ruimte met schrale graslandvegetatie
+ontwikkelen onder bomen
+Elementnummer 4 Kleine openbare ruimte met schrale graslandvegetatie
+ontwikkelen onder bomen met behoud van bladhopen
+Elementnummer 5 Schrale graslandvegetatie ontwikkelen met relatief veel zon
+met goede optie voor plaatsing insectenhotel
+Zaaknummer: 47658-2025
+ZZaaknummer: 47658-2025aaknummer: 47658-2025
+12
+4. 1. Toevoegen van nieuwe biotopen
+4. 1. 1. Takkenrillen langs randen van groene plekken
+Aan de randen van de diverse open plekken op De Tip kunnen takkenrillen aangelegd worden. Ook
+kan dit in de eigen tuinen toegepast worden. Op deze manier wordt als het ware een ecosysteem
+toegevoegd met eigen soorten , waardoor de biodiversiteit in het gebied toeneemt.
+Takkenrillen hebben diverse voordelen:
+Snoeihout kan ter plekke verwerkt worden. Afvoeren van takken is dan niet meer nodig.
+De takkenrillen bieden een veilige schuilplek voor vele verschillende dieren , zoals
+amfibieën , zoogdieren en bij een losse takkenril broedgelegenheid voor vogels
+(bijvoorbeeld de winterkoning).
+Dood hout is een voedingsbron voor kevers , schimmels , insecten , mijten , etc.
+-
+Ter behoud van het parkachtige karakter adviseren we op het terrein om de takkenrillen te creëren
+tussen palen (zie figuur 10). Het advies is om voor de palen eikenhouten takken te gebruiken die
+bij het snoeien vrijkomen. Indien te weinig geschikte eikenhouten takken beschikbaar zijn , kan er
+ook gekozen worden voor de aankoop van kastanjehouten of robiniahouten palen.
+-
+-
+Figuur 10: Strakke takkenril tussen palen
+4. 1. 2. Houtwal westelijke rand langs en op De Tip
+Aan de westelijke rand langs De Tip en op de particuliere terreinen is het advies om de houtwal te
+behouden en waar mogelijk te versterken met passende soorten. De hoofdsoort die hier voorkomt
+is de eik. Eiken zijn van grote ecologische waarde en het is landschappelijk , cultuurhistorisch
+alsmede voor de biodiversiteit dus waardevol om deze groenstructuur waar mogelijk door te
+trekken met de aanplant van nieuwe boomvormers en bij voorkeur met eiken. Dit kan afgewisseld
+worden met ruwe berken , waardoor een mooie verbinding ontstaat middels een eiken-berkenlaan
+of -singel waarlangs diverse vleermuizen kunnen migreren. Ook is aan te raden de houtwal mee te
+nemen in de bomeninventarisatie.
+Het zou voor het verhogen van de biodiversiteit ook waardevol zijn om de groenstructuur te
+versterken met inheemse (autochtone) struiken (zie paragraaf 4. 7 aangaande de geadviseerde
+soorten). BKN-soorten die hiervan kunnen profiteren zijn o. a. rode eekhoorn , vleermuizen , of
+klimplanten zoals wilde kamperfoelie.
+Ook een losse takkenril in de houtwal kan een grote bijdrage leveren aan het verhogen van de
+biodiversiteit. Het snoeimateriaal kan dan ter plekke verwerkt worden. Aangezien dit aan de rand
+van het park ligt , zullen deze takkenrillen anders blootgesteld worden aan elementen als zon en
+regen dan de takkenrillen op De Tip , waardoor deze mogelijk geschikt worden voor andere soorten
+dan in de takkenrillen op De Tip.
+Figuur 11: Losse , landschappelijke takkenril
+Zaaknummer: 47658-2025
+Zaaknummer: 47658-2025
+13
+4. 1. 3. Houtsingel zuidelijke rand tussen De Tip en De Eeke
+De zuidelijke rand tussen De Tip en De Eeke bevindt zich een strook met een variërende breedte
+van maximaal 10 meter. Deze bevindt zich op particulier terrein. Deze locatie is zeer geschikt om
+een houtsingel te creëren/versterken. Door hier gelaagdheid aan te brengen met zowel
+kruidachtige beplanting , struweelranden en bomen wordt de meest waardevolle biotoop gecreëerd
+en creëert het een natuurlijke buffer tussen De Tip en De Eeke. In deze geleidelijke overgang
+kunnen soorten als kleine zoogdieren , insecten of vogels dekking of voedsel vinden , denk hierbij
+aan BKN-soorten als oranje zandoogje , groot dikkopje , lijsters of de geelgors. De eventuele
+bestaande bebouwing kan gehandhaafd worden , maar nieuwe bebouwing is niet toegestaan. Deze
+strook dient een groene invulling te krijgen. De breedte van deze strook is afhankelijk van de
+beschikbare ruimte.
+Voor het aanplant van de bomen en struiken adviseren wij een mix aan te planten van de soorten
+die genoemd staan in paragraaf 4. 7. van dit adviesplan.
+Figuur 12: Opbouw bosrand/houtsingel
+4. 1. 4. Verrijken westelijke kant De Tip (langs zandpad)
+Aan de westkant van het gebied bevindt zich tegen de houtwal aan een strook van circa 5 meter
+breed met een ‘groen’ bestemming. Dit is particulier gebied. Hier is bebouwing niet toegestaan en
+moeten de huidige groene elementen behouden en onderhouden blijven. Dit om De Tip als geheel
+landschappelijk in te passen. Van belang is dat de groenstrook de aanwezige houtwal niet
+belemmerd in groei.
+Daarnaast kan er op deze locatie gekeken worden naar het verwijderen van niet-inheemse soorten
+en het gebruiken van de beschikbare ruimte voor het aanplanten van inheemse soorten , bij
+voorkeur autochtoon. De aanwezige inheemse soorten worden gehandhaafd. Door te streven naar
+een grotere soortenrijkdom en leeftijdsvariatie draagt het ook bij aan het versterken van de
+biodiversiteit. Inheemse struikvormers (tevens BKN-soorten) die toegepast kunnen worden zijn
+hulst en tweestijlige meidoorn (op potklei).
+4. 2. Maatregelen voor insecten
+Insectenhotels
+Dieren , waaronder ook insecten , zijn afhankelijk van voedsel , vocht , voortplanting en veiligheid in
+de verschillende levensstadia. Om insecten tegemoet te komen in het aanbieden van beschutting
+en voortplantingsgelegenheid kunnen insectenhotels een uitkomst bieden. Insectenhotels kunnen
+in verschillende formaten worden opgehangen of neergezet en op verschillende locaties op het
+park. Het meest effectief is gebleken om deze gericht op het zuiden te plaatsen op een zonnige
+Zaaknummer: 47658-2025
+14
+locatie. Echter blijken insectenhotels ook op andere locaties (in mindere mate) bij te dragen aan
+het tegemoetkomen in de behoefte aan schuil- en voortplantingsgelegenheid. Let hierbij wel op dat
+een insectenhotel wat anders is dan een bijenhotel. In een bijenhotel zijn vooral bamboe, hout en
+andere materialen aanwezig met daarin (gladde) gangetjes voor de voortplanting. In een
+insectenhotel worden ook andere materialen toegepast als schuilgelegenheid voor een heel scala
+aan insecten, zoals lieveheersbeestjes, oorwormen en gaasvliegen. Het afdekken van de voorkant
+van een insectenhotel is aan te raden om te zorgen dat onder andere vogels niet bij de insecten
+kunnen.
+Het plaatsen van een insectenhotel is over het algemeen alleen nuttig wanneer ook voldoende
+voedsel in de omgeving te vinden is voor de insecten die logischerwijs gebruikmaken van het
+insectenhotel. Behalve op delen van de Tip, kan ook in overleg met Staatsbosbeheer een
+insectenhotel geplaatst worden in het voedselbos ten noorden van het park (dit is van SBB).
+Voorbeelden van verschillende soorten
+insectenhotels.
+(foto's: (geanonimiseerd)
+Zaaknummer: 47658-2025
+15
+Hommelkast/Hommelpot
+Hommels zijn zeer waardevolle bestuivers. Voor diverse hommels kunnen er speciale
+hommelpotten aangeboden worden. Deze hommelpotten bieden nestgelegenheid voor de
+hommels. Tevens maken voornamelijk boomhommels regelmatig gebruik van oude nesten van
+vogels in nestkastjes.
+Het is wel van belang hierbij rekening te houden met de volgende zaken. Plaats een
+hommelnestkast op een baksteen of begraaf het zo diep onder de grond tot de onderzijde van de
+rand van de vliegopening. Het meest ideaal is het wanneer de kast ’s ochtends wordt opgewarmd
+door de zon en de rest van de dag in de schaduw staat/hangt.
+Vlinders
+Vlinders spreken tot ieders verbeelding en diverse soorten vlinders komen ook in parkachtige
+omgevingen voor. Vlinders zijn gebaat bij variatie en elke soort heeft haar eigen waardplanten die
+van belang zijn voor de voortplanting. Daarnaast is de aanwezigheid van voedsel belangrijk in de
+vorm van onder andere nectarplanten.
+Figuur 13: Waardplanten dagvlinders (bron: vlinderstichting. nl)
+De hierboven genoemde waardplanten zijn voor een groot deel inheems of cultuurhistorisch
+passend in ons landschap. Binnen het parkachtige karakter van De Tip is het mogelijk om een
+aantal van deze soorten te integreren binnen de openbare ruimte. Ook kan deze lijst toegepast
+worden op de particuliere delen binnen het park.
+Zaaknummer: 47658-2025
+16
+Figuur 14: Kleine Vos
+(bron: Kennisdocument Basiskwaliteit Natuur)
+Overhoekjes met grote brandnetel kunnen een zeer gunstige uitwerking hebben aangaande de
+aanwezigheid van vlinders. Dit biedt mogelijkheid (vooral op zonnige plekken) voor de vlinders om
+hun eitjes af te zetten. Een soort dit hier ontbreek , maar zeker ook op de meer schaduwrijke
+plekken op het park gezien zou kunnen worden , is het bont zandoogje. Enkele waardplanten van
+deze soort zijn grassen als: kropaar , smele , kweek , witbol , pijpenstrootje en beemdgras. Als
+nectarplant wordt vooral klimop bezocht.
+Figuur 15: Bont zandoogje
+(bron: Kennisdocument Basiskwaliteit Natuur)
+Bodemleven
+Er zijn veel insecten die in of op de bodem leven en profiteren van afgevallen bladeren , takken e. d.
+Het aanleggen van bladhopen en takkenrillen kan in grote mate bijdragen aan het stimuleren van
+het bodemleven rondom die plekken. De insecten die hiervan leven zetten dode materialen om in
+voedsel voor planten. Op deze manier wordt het materiaal afgebroken en teruggegeven aan de
+natuur.
+Op het terrein kunnen ook composthopen gemaakt worden. Dit organisch materiaal kan vervolgens
+verwerkt worden om de bodem te voorzien van voeding. Hiermee wordt zoveel mogelijk gestreefd
+naar een gesloten kringloop op het terrein.
+Zaaknummer: 47658-2025
+17
+4. 3. Maatregelen voor vogels
+Voor vogels kunnen verschillende maatregelen worden genomen op het park. Op De Tip zijn al veel
+heggen en bomen aanwezig. Ook hangen er al nestkasten op de privépercelen. Hierbij enkele
+handreikingen voor een nog betere afstemming van maatregelen voor vogels.
+Nestkasten
+Een deel van de vogels die in parkachtig gebied voorkomen zijn holenbroeders. Deze holenbroeders
+kunnen gefaciliteerd worden met nestkasten in diverse maten voor verschillende vogelsoorten. Er
+zijn veel nestkasten in de verkoop die geschikt zijn om op te hangen. Ook kan dit eenvoudig zelf
+worden gemaakt. Kijk daarbij naar het gebruik van duurzaam materiaal dat bestand is tegen weer
+en wind. Nestkasten voor vogels worden over het algemeen opgehangen aan de noordoost zijde
+van bomen of gebouwen. Dit om te zorgen dat de nestkasten het grootste deel van de dag in de
+schaduw hangen. Hiermee wordt voorkomen dat het te warm wordt in de nestkasten voor de
+broedende vogels en de jongen. Houd ook altijd rekening met voldoende ruimte tussen de
+nestkasten van dezelfde soort i. v. m. territoriaal gedrag. Advies in een bosrijke/parkachtige
+omgeving om minimaal 10 tot 30 meter tussen de nestkasten aan te houden. Bij veel spechten in
+de omgeving is het verstandig om de vliegopening te verstevigen met een metalen plaatje rond de
+vliegopening , zodat deze niet uitgehakt kan worden.
+Vogels willen graag via een veilige (en vaak vaste) route hun nestkast kunnen bereiken. Dit doen
+ze vaak door tussenstops te maken in struweelhagen of -randen dichtbij de nestkast.
+Op De Tip zouden de volgende soorten nestkasten effectief ingezet kunnen worden:
+Koolmees (vliegopening 32 mm) → wordt ook gebruikt door pimpelmees , bonte
+vliegenvanger , kuifmees.
+Pimpelmees (vliegopening 28 mm) → kan ook gebruikt worden door zwarte mees.
+Huismussen (vliegopening 34 mm) → zijn koloniebroeders , dus kunnen dicht bij elkaar
+gehangen worden aan bijvoorbeeld een muur van een woning of schuur. Nestkasten
+worden ook wel gebruikt door boomklever , bonte vliegenvanger en gekraagde roodstaart.
+Spreeuwen (vliegopening 45 mm) → zijn koloniebroeders , dus kunnen dicht bij elkaar
+worden gehangen. Worden ook gebruikt door grote bonte specht.
+Bosuil (130 mm) → op het park maximaal 2 nestkasten ophangen op uiteinden van het
+park of één in het midden. Aanvliegroute vrij open en liefst met een tak eronder , zodat de
+takkelingen (jongen) vanuit de kast op de tak kunnen komen en ook weer terug de kast in
+kunnen. Deze nestkasten worden ook regelmatig gebruikt door holenduiven en kauwen.
+Halfopen nestkasten voor onder andere roodborst en grauwe vliegenvanger. Voor de
+roodborst beschut ophangen in een haag of andersoortige klimplant. Grauwe vliegenvanger
+zit vaak iets opener.
+-
+-
+-
+-
+-
+-
+Beplanting
+Naast nestgelegenheid draagt ook de aanwezige beplanting bij aan de aanwezigheid van vogels.
+Zowel in het broedseizoen als daarbuiten. Besdragende inheemse struiken , zoals hulst , lijsterbes ,
+meidoorn , vlier , vuilboom en klimop dragen bij aan het voedselaanbod van de besetende vogels ,
+zoals merels en lijsters.
+Waardplanten voor vlinders kunnen rupsen bevatten die voor de jongen van de broedende vogels
+van grote waarde kunnen zijn. Ook de rupsen van de wintervlinder die in het voorjaar de eiken
+kaal vreten zijn van grote waarde als voedselaanbod voor de jonge vogels.
+Variatie in struiken en klimplanten zorgt er daarnaast voor dat ook niet-holenbroeders , zoals
+vinken , merels , lijsters , putters en kneuen een beschut en geschikte plek hebben om hun nest te
+maken en te broeden.
+Heggen
+Heggen dragen in grote mate bij aan een veilige vluchthavens voor vogels. De dichtheid van een
+heg is hierbij essentieel. Meidoornheggen , beukenheggen , gemengde heggen en ligusterheggen
+zijn vaak open genoeg voor vogels zoals roodborstje , grasmus of zanglijsters om als schuilplek ,
+foerageerplek en slaapplek te dienen. Heggen van coniferen en laurier worden vaak te dicht door
+regelmatige snoei , zodat ze daardoor minder geschikt zijn voor vogels (zie ook 4. 10. de waarde
+van heggen).
+Zaaknummer: 47658-2025
+Zaaknummer: 47658-2025
+18
+4. 4. Maatregelen voor zoogdieren
+Voor diverse zoogdieren kunnen maatregelen genomen worden waarvan deze soorten profiteren.
+Vleermuizen
+Vleermuizen maken gebruik van lijnen in het landschap (houtsingels , -wallen , bomenrijen) om
+vanaf hun (gezamenlijke) slaapplaatsen naar foerageergebieden te migreren. Het behoud van de
+lijnstructuren zoals hierboven omschreven is van groot belang om deze migratieroutes voor
+vleermuizen te behouden.
+Daarnaast zijn vleermuizen afhankelijk van toegankelijke overwinteringsplekken met een stabiele
+temperatuur (spouwmuren , achter boeiplaten van woningen , etc. ). Door isolatie en renovatie
+verdwijnen deze plekken voor vleermuizen. Om ze alternatieven te bieden kan er gekozen worden
+voor het ophangen/plaatsen van vleermuiskasten. De vleermuiskasten zijn vooral zomerverblijven.
+Het meest effectief is het ophangen van vleermuiskasten die aansluiten bij de vleermuispopulatie in
+het gebied. Er zijn dan ook verschillende modellen vleermuiskasten in de verkoop. Een
+inventarisatie met een vleermuiswerkgroep kan een goede uitgangsbasis zijn voor het bepalen voor
+welke soorten het effectief is om kasten op te hangen.
+Een aantal zaken dient rekening mee gehouden te worden:
+- Hang de kast aan een stevige boom of aan een gebouw.
+Hang de kast met de voorzijde naar het zonlicht (zuid of zuidwest).
+Hang de kast op een rustige plek , met weinig verstoring.
+Hang de kast in de luwte.
+Zorg voor een vrije aanvliegroute.
+Hang de kast op minimaal 3 meter hoogte.
+Vleermuiskasten kunnen het hele jaar door opgehangen worden , maar het liefst in het
+voorjaar.
+Hang meerdere kasten op , zodat het aanbod vergroot wordt.
+(bron: vivara. nl)
+-
+-
+-
+-
+-
+-
+-
+Verschillende soorten vleermuizen pakken verschillende soorten prooien. Zo vangen de kleine
+vleermuissoorten onder andere muggen en de grotere soorten vangen nachtvlinders (zoals die van
+de eikenprocessierups).
+Egels
+Egels zijn voornamelijk ’s nachts actief en komen voor aan de randen van bossen , in parken en
+dichtbegroeide tuinen.
+Egels hebben baat bij diverse maatregelen:
+Niet te netjes. Laat in het najaar (en gedurende de hele winterperiode) bladerhopen liggen
+waarin de egel kan overwinteren. De tuinen niet te netjes te maken , biedt ook veiligheid
+aan andere kleine zoogdieren.
+Plaats egelhotels/huizen. Let op dat je hierbij gaat voor een goedgekeurd egelhuis. Op de
+site van de egelbescherming staat een lijst met gekeurde egelhuizen
+(https://www. egelbescherming. nl/de-egel/egelslaaphuizen/).
+Zorg voor een goede variatie aan struweel waar de egel kan rondscharrelen.
+Hagen zorgen ervoor dat de egel van tuin naar tuin kan lopen. Barrières als schuttingen en
+hekken (gaas) zijn een grote belemmering voor egels.
+Voordelen van egels:
+Egels zijn voornamelijk insecteneters. In de natuur eten ze rupsen , larven , wormen ,
+pissebedden , oorwurmen en vooral ook slakken. Ze helpen op een natuurlijke manier bij
+het bestrijden van slakken.
+Daarnaast eten ze soms een dode muis , een nestje jonge muizen , kikkers en padden.
+-
+Egels maken een nest van mos , gras en bladeren waarin ze hun jongen ter wereld brengen.
+Meestal krijgen ze drie tot zes jongen per keer. Deze worden tussen eind juli en half oktober
+geboren.
+De grootste vijand van de egel is de mens , maar ook vossen , dassen , grote roofvogels en grote
+honden kunnen een bedreiging vormen. Pas bij egels op met het gebruik van (biologische)
+bestrijdingsmiddelen , zoals slakkengif.
+-
+-
+-
+-
+-
+Zaaknummer: 47658-2025
+19
+Rode eekhoorns
+Om rode eekhoorns te helpen zijn verschillende maatregelen te nemen. Het voorkomen van rode
+eekhoorns is afhankelijk van het voedselaanbod. Het aanplanten van hazelnoot, walnoot, beuk
+(beukennootjes) en eiken kan bijdragen aan het voedselaanbod voor de eekhoorn. Daarnaast is het
+mogelijk om eekhoornnestkasten op te hangen op De Tip ten behoeve van schuil-, voortplantings-
+en slaapgelegenheid.
+4.5. Stinzenplanten
+Stinzenplanten zijn verwilderde knol-, bol en wortelgewassen die bij borgen, kastelen, kerkhoven,
+stadswallen, huizen van notabelen en buitenplaatsen te vinden zijn en die oorspronkelijk niet
+inheems waren of niet in de regio voorkomen. Het mooie van stinzenplanten is dat ze in grote mate
+bijdragen aan de beleving en biodiversiteit in een omgeving. Een aantal soorten die interessant zijn
+voor De Tip worden hieronder uitgelicht. Hierbij is gelet op het droge karakter van het gebied.
+Interessante soorten kunnen bijvoorbeeld zijn:
+-
+_ Gewone vogelmelk > Groeit in losse groepen. Doet het goed in voedselrijke bermen.
+-
+__ Gevlekt longkruid > Een plant die van nature groeit in de halfschaduw in loofbossen op
+voedselrijke, leemachtige of kalkrijke gronden.
+-___Holwortel > Heeft de voorkeur voor een vochtige en voedselrijke grond in de halfschaduw
+onder loofbomen.
+-
+_ Boerenkrokus > Groeien graag onder de lichte schaduw van loofbomen op voedselrijke niet
+te droge plekken.
+-
+_ Gewoon sneeuwklokje > Groeien goed op voedselrijke gronden in halfschaduw.
+-__
+Lenteklokje > Komt voor op voedselrijke grond in loofbossen en doet het goed samen met
+holwortel.
+(bron: Basisgids Stinzenplanten, EE B
+KNNV
+(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)
+Uitgeverij, 2020)
+Om de biodiversiteit te verhogen, de belevingswaarde te vergroten en daarbij voor de insecten
+vroege bloeiers aan te bieden, is het aan te raden om op de Tip op verschillende plekken
+verschillende stinzenplanten toe te passen.
+4.6. Bloemenmengsels en maaien
+Om de bermen op De Tip bloemrijk te krijgen moet gekeken worden naar verschillende aspecten.
+Uiteraard moet de berm geschikt zijn om in te zaaien of te verschralen door te maaien. Om te
+verschralen met maaibeheer dient er tweemaal per jaar gemaaid te worden (juni/juli en
+september/oktober) en dient het maaisel afgevoerd te worden. Een berm die als
+uitwijkmogelijkheid wordt gebruikt voor het verkeer is minder geschikt om in te zaaien.
+Een berm die zonnig gesitueerd is, is geschikter om in te zaaien dan een berm onder bomen.
+Mengsels die het goed doen als ingezaaide stukken zijn de volgende biologische mengsels van de
+Cruydt Hoeck. Het betreft hier inheemse bloemenmengsels die bijdragen aan een verhoging van de
+biodiversiteit.
+-
+__MS5 Nectar onder het maaimes (laag mengsel, dat ook met enige regelmaat gemaaid kan
+worden)
+-
+__G5 Bloemrijke bermen (hoger mengsel voor matig voedselrijke grond, doet het over het
+algemeen op veel plekken goed.)
+-
+03 Onderbegroeiing bosplantsoen (vooral waardevol na aanplant, zodat de grasdruk wordt
+tegengegaan die de aanplant van bosplantsoen kunnen overwoekeren.) Een goedkopere
+variant is het inzaaien met een klavermengsel.
+Vaak is het niet nodig om te zaaien, maar kan met maaien een soortgelijk resultaat bereikt
+worden. Hier gaat alleen wel wat meer tijd overheen. De soorten die dan spontaan opkomen voelen
+zich thuis op die plek en passen op die specifieke plek. Daarvoor is verschralend maaibeheer
+wenselijk. Dat betekent dat er minimaal twee keer per jaar wordt gemaakt en het maaisel wordt
+afgevoerd. Om reeds schrale bermen in stand te houden kan met één keer maaien in
+september/oktober worden volstaan. Het creëren van bloemrijkere vegetaties bevoordeeld kruiden
+als gewoon biggenkruid, duizendblad, gewone brunel, margriet en diverse havikskruiden. Deze
+soorten zijn weer belangrijk als voedselbron voor insecten.
+Zaaknummer: 47658-2025
+Zaaknummer: 47658-20025 Zaakn
+20
+4. 7. Struweelhagen en -randen , houtwallen en -singels en bomenrijen
+Inheemse struiken en bomen geven een belangrijkere bijdrage aan de biodiversiteit dan uitheemse
+soorten. Dit kan toegepast worden in elementen zoals struweelhagen en -randen , houtwallen en -
+singels en bomenrijen. De insecten en vogels die in Nederland leven zijn namelijk op deze soorten
+afgestemd. In de BKN-koppeltabel (zie bijlage 2 – BKN-koppeltabel) is weergegeven welke soorten
+voorkomen in de verschillende landschapselementen.
+Vogels maken gebruik van de bessen of gebruiken het als nestelgelegenheid zoals de grauwe
+klauwier , insecten profiteren van de nectar en de rupsen van vlinders eten van de bladeren , denk
+hierbij aan het zwartsprietdikkopje of het oranje zandoogje. Welke struiken geschikt zijn voor De
+Tip staat hieronder. Dit zijn soorten die geschikt zijn voor matig vochtige tot droge
+omstandigheden op zandgrond:
+Soort voor matig vochtige tot droge
+omstandigheden
+Opmerkingen
+Beperkt toepassen/zeldzaam
+Egelantier
+Eenstijlige meidoorn
+Hazelaar
+Hondsroos Heeft buren als steun nodig
+Wilde lijsterbes
+Kardinaalsmuts Zeldzaam/beperkt toepassen
+Klimop Hechtwortels aan takken: niet parasitaire
+klimplant
+Op rijkere ongestoorde (bos)bodems
+Hulst
+Vuilboom Geeft bes en bloei gehele groeiseizoen
+Zoete kers Boomvormer
+Zomereik Dominante soort op o. a. houtwallen
+Opmerkingen
+Geschikt voor droge omstandigheden
+Ruwe berk Begeleidende soort
+Gewone Vlier Maximaal 10% van totale aantal
+Wilde Brem Omgewerkte zandgrond
+4. 8. Vasthouden water
+De aanwezigheid van water zorgt voor een grote plus op de biodiversiteit. In het openbare deel van
+De Tip is weinig tot geen ruimte om een plek te creëren om water vast te houden. Op de
+particuliere delen zou dit wel kunnen. Een optie hiervoor is het aanleggen van een vijver , waarbij
+vogels , egels en andere dieren kunnen drinken. Een natuurlijke vijver zonder vissen heeft de
+voorkeur , aangezien de larven van in het water levende soorten zoals kleine watersalamander of
+gewone pad dan beter weten te overleven.
+4. 9. Waarde van soorten bomen voor biodiversiteit
+Op het terrein van de Tip bevindt zich een groot aantal bomen , voornamelijk in het noordelijk deel.
+Deze bomen zijn de basis voor de groenstructuren en van grote waarde voor de biodiversiteit op
+het terrein. Deze structuren dienen als migratieroutes voor vleermuizen en wanneer oudere bomen
+holtes krijgen , bieden deze ook veilige nestelgelegenheid voor diverse vleermuizen , rode eekhoorns
+en holenbroeders. De aanwezigheid van oudere bomen is dus van belang , aandachtspunt daarbij is
+dat ze voldoende ruimte hebben om zich te ontwikkelen en een hoge leeftijd te bereiken.
+Naast holen bevatten oudere bomen vaak ook dode of minder vitale takken welke , mits dit geen
+veiligheidsrisico vormt (voer hiervoor VTA-controles uit) , een plek kunnen bieden voor insecten om
+Zaaknummer: 47658-2025
+Zaaknummer: 47658-2025
+21
+zich in te vestigen. Deze insecten zijn een goede voedselbron voor insecteneters zoals spechten en
+mezen.
+De ruwe stam van sommige bomen kunnen gebruikt worden door klimplanten als klimop en wilde
+kamperfoelie. Welke weer nestelgelegenheid kunnen bieden aan vogels en als voedselbron kunnen
+dienen voor insecten. Wel bemoeilijken klimplanten de VTA-controles doordat de bomen ingepakt
+worden.
+In de bodem maken bomen veel verbindingen met schimmels via de wortels , waarmee deze
+voedingsstoffen met elkaar uitwisselen en elkaar verder helpen ontwikkelen. De bladeren die de
+loofbomen elk jaar laten vallen , kunnen weer dienen als voeding voor de bodem via compost of
+‘gewoon’ laten verteren. Het kan in de zure omstandigheden wel wenselijk zijn om basische
+(voedings-)stoffen toe te voegen in het systeem om zo de zuurgraad op peil te houden.
+4. 10. Waarde van heggen
+Momenteel zijn veel erfscheidingen aangegeven met hagen die in hoge mate bijdragen aan de
+groenstructuren van De Tip. Om ervoor te zorgen dat de hagen , en de bijbehorende waarde ervan ,
+behouden blijft , kunnen er regels opgenomen worden in het omgevingsplan waarin zou kunnen
+staan dat deze moeten bestaan uit natuurlijk materiaal of ‘levend’ materiaal.
+Ieder type haag heeft andere karaktereigenschappen waar rekening mee gehouden moet/kan
+worden bij nieuwe aanplant. Coniferenhagen zijn brandgevoelig en beuk is in mindere mate
+toekomstbestendig in verband met de klimaatverandering. Hierom zou gekeken kunnen worden
+naar soorten die hier minder gevoelig voor zijn zoals meidoorn. Een meidoornhaag heeft voor de
+biodiversiteit een grote meerwaarde en is cultuurhistorisch passend in deze omgeving. Als
+alternatief kan ook nog gekeken worden naar ligusterhagen. Welke iets moderner van aard zijn ,
+maar wel passend in Drenthe. Verder kan in de meer gecultiveerde tuinen gedacht worden aan de
+haagbeuk.
+Wanneer hagen een hogere leeftijd krijgen , komen hier van nature ook meer soorten in zoals vlier ,
+vuilboom of hulst. Deze natuurlijke toevoegingen in combinatie met de hogere leeftijd van de haag ,
+maken dat de biodiversiteitswaarde van de haag toeneemt naarmate deze ouder wordt. BKN-
+soorten die gebruikmaken van deze knip- en scheerheggen zijn soorten als staartmees , zwartkop
+of een zanglijster. Wanneer langs de heggen een grassige vegetatie blijft staan , profiteren
+dagvlinders als het koevinkje daarvan.
+Zaaknummer: 47658-2025
+Zaaknummer: 47658
+Typ hier uw tekst
+22
+Bijlage 1: BKN-koppeltabel
+Bron: Handreiking Basiskwaliteit Natuur , Provincie Drenthe
+Zaaknumer: 47658-2
+Zaaknummer: 47658-2025
+23
+Bijlage 2: Menukaart verhogen biodiversiteit
+Op het terrein van De Tip valt veel te doen voor de biodiversiteit. Alle tuinen samen zorgen voor
+een biotoop voor vele soorten dieren en planten. Hieronder volgt een menukaart met maatregelen
+die genomen zouden kunnen worden op particuliere terreinen. Dit is een samenvatting van de
+uitgebreidere adviezen voor De Tip. Voor aanleg van elementen kan ook gebruik gemaakt worden
+van het Handboek landschapselementen voor Drenthe van de provincie Drenthe , zie link:
+https://www. provincie. drenthe. nl/onderwerpen/natuur-milieu/natuur/natuur-in-
+ontwikkeling/biodiversiteit/natuurinclusief-drenthe/basiskwaliteit-natuur/.
+Maatregelen in eigen tuin:
+Vogels:
+- Nestgelegenheid
+Ophangen diverse soorten
+nestkasten: koolmees , pimpelmees ,
+huismus , boomkruiper/klever ,
+spreeuw , roodborst.
+Te bestellen via www. vivara. nl
+Aanplanten inheemse besdragende
+struiken: lijsterbes , vlier , meidoorn ,
+hondsroos , klimop , hulst , vuilboom.
+Aanplant hagen als
+schuilgelegenheid
+meidoornhagen , gemengde haag ,
+ligusterhaag of eventueel
+beukenhaag.
+-
+-
+Figuur 16: bron: Pixabay. com
+Insecten:
+- Insectenhotel ophangen/plaatsen
+(Inheemse) nectarplanten
+aanplanten
+Overhoekje brandnetels laten staan
+als waardplant voor vlinders.
+Aanplanten waardplanten voor
+vlinders.
+Inzaaien met een inheems
+(biologisch) bloemenmengsel.
+Voorbeeld laag mengsel: M5 nectar
+onder het maaimes. Te bestellen
+via:
+www. cruydthoeck. nl
+Hommelpot of Hommelkast
+ophangen.
+Takkenril aanleggen voor
+bodemleven.
+-
+-
+-
+-
+-
+Figuur 17: Bloemenmengsel voor matig
+voedselrijke grond
+-
+Zaaknummer: 47658-2025
+24
+Zoogdieren:
+Egels:
+Egelhotel plaatsen. Let op: kies
+hiervoor een goedgekeurd hotel
+Voor egels zo min mogelijk obstakels,
+dus geen hekken en schuttingen
+tussen percelen.
+Bladerhopen in de winter laten liggen
+als overwinteringsplekken.
+Rode eekhoorn:
+Eekhoornnestkasten ophangen.
+Nootdragende bomen en struiken
+plaatsen, zoals walnoot en hazelaar.
+Vleermuizen:
+Vleermuiskasten ophangen aan
+bomen en gebouwen.
+Stinzenplanten:
+Aanplanten van diverse
+stinzenplanten gewone vogelmelk,
+gevlekt longkruid, holwortel,
+boerenkrokus, gewoon sneeuwklokje,
+lenteklokje, etc.
+aanplanten:
+Voorkeur voor volgende soorten:
+Meidoornhaag (eventueel met extra
+soorten erin, zoals vlier, hulst en
+hondsroos), beukenhaag,
+haagbeukhaag, ligusterhaag of
+gemengde inheemse haag.
+Inheemse vaste planten:
+Aanplanten inheemse vaste planten,
+zoals wilde marjolein, smeerwortel,
+beemdkroon, dagkoekoeksbloem,
+duifkruid, betonie, blauwe knoop,
+koninginnekruid, wilde akelei. Te
+bestellen via www.cruydthoeck.nl,
+www.sprinklr.co,
+www.vogelbescherming.nl
+7
+Nt
+a
+Figuur 21: Wilde marjolein (bron: Pixabay.com)
+25
+(geanonimiseerd)
+Inheemse bomen en struiken:
+- Aanplanten inheemse bomen: zomer
+eik , ruwe berk , zoete kers , linde.
+Aanplanten inheemse struiken:
+vuilboom , vlier , hazelaar , meidoorn ,
+kardinaalsmuts , lijsterbes ,
+hondsroos , klimop , hulst , egelantier ,
+brem.
+-
+Figuur 22: Sporkehout/vuilboom
+Water vasthouden:
+- Aanleg vijver.
+Figuur 23: Natuurlijke vijver
+Grastegels als parkeergelegenheid:
+- Minder verharding om hittestress
+tegen te gaan.
+Meer ruimte voor beplanting in de
+bestrating.
+Mengsel inzaaien in grastegels – M6
+mengsel voor bloeiende voegen
+(https://www. cruydthoeck. nl/m6-
+bloeiende-voegen
+-
+-
+Figuur 24: M6 bloeiende voegen (bron:
+cruydthoeck. nl)
+➢ Uiteraard past bij het bevorderen van de biodiversiteit het gebruik van chemische
+bestrijdingsmiddelen niet. Deze verstoren de natuurlijke balans in de tuin. Een
+natuurlijke balans in de tuin zorgt voor minder overlast van bepaalde soorten. Inheemse
+planten en dieren dragen bij aan een goede balans in de tuin.
+Plant bewust inheemse soorten aan en voorkom dat invasieve exoten de tuin
+overnemen.
+➢
+Zaaknummer: 47658-2025
+26
+Bijlage 3: Subsidiemogelijkheden
+Voor gezamenlijke initiatieven van bewoners zijn verschillende subsidiemogelijkheden en fondsen
+beschikbaar. Dit plan kan als basis dienen daarvoor:
+Subsidie Groene Bewonersinitiatieven Drenthe:
+https://www. provincie. drenthe. nl/loket/producten-diensten/subsidie-groene-bewonersinitiatieven/
+Univé Buurtfonds
+https://buurtfonds. unive. nl/
+Rabobank Het Drentse Land coöperatieve bijdrage
+https://www. rabobank. nl/lokale-bank/het-drentse-land/onze-cooperatieve-bijdrage
+Cultuurfonds Drenthe
+https://www. cultuurfonds. nl/provinciale-afdelingen/drenthe
+Stimuleringsfonds Groene Bondgenoten
+https://www. groenebondgenoten. nl/themas/basiskwaliteit/stimuleringsfonds
+Postcodeloterij Buurtfonds
+https://www. postcodeloterijbuurtfonds. nl/
+Oranjefonds
+https://www. oranjefonds. nl/
+Gemeente Coevorden
+Hemelwater afkoppelen: https://www. coevorden. nl/hemelwater-afkoppelen
+Herstuctureringsfonds: https://www. coevorden. nl/subsidieregeling-herstructureringsfonds
+De Groene Subsidieregeling: https://www. coevorden. nl/de-groene-subsidieregeling
+Zaaknummer: 47658-2025
+Zaaknummer: 47658-2025
+27
+Bijlage 4: Indicatieve begroting voor aanschaf
+materialen
+Deze begroting is gericht op de inrichting van het openbare gebied van De Tip:
+Materiaal Aantal Prijs per eenheid Eenheid Totaalprijs
+Struiken
+Laanbomen
+Nestkasten mezen
+(incl. boompalen)
+e. d.
+Nestkast bosuil
+Boompalen voor takkenrillen
+Eekhoornkasten
+Egelhuis
+Insectenhotel (via zorgboerderij
+Maargieshoeve)
+Bollen/stinzenplanten
+Vleermuiskasten
+Hommelkast/pot
+Bloemenmengsel
+onderbegroeiing bosplantsoen O3 500 €
+1000 €
+20 €
+50 €
+1 €
+60 €
+8 €
+8 €
+250
+, stuks
+8000
+, stuks
+4500
+, stuks
+10000
+, stuks
+1500
+, stuks
+9000
+, stuks
+14000
+, stuks
+€ 2.50000
+,
+€ 1.60000
+,
+€ 2.25000
+,
+10000
+,
+€
+90000
+,
+€
+72000
+,
+€
+€ 1.12000
+,
+2 €
+1500 €
+15 €
+5 €
+20000
+, stuks
+100
+, stuks
+5000
+, stuks
+4000
+, stuks
+€ 40000
+,
+€ 1.50000
+,
+75000
+,
+€
+€ 20000
+,
+031
+, gram € 15500
+,
+Totaal € 12.04000
+,
+Zaaknummer: 47658-2025
+28
+Bijlage 5: Instructiewijzers
+Zaaknummer: 47658-2025
+29
+ZORG VOOR PLANT EN DIER
+Aanlegwijzer insectenhotel
+J 4
+Vul het insectenhote! met
+natuurlijke materialen zoals
+bamboestengels, boomstammetjes
+en
+dennenappels.
+Plaats het frame van het insecten-
+hotel op een
+bloemrijke plek, in de
+volle zon, met de voorzijde richting
+het zuiden.
+Zorg ervoor dat het
+Insectenhotel
+stevig staat en met
+een storm niet omwaait.
+J
+Het insectenhotel is nu
+klaar voor
+gebruik,
+de
+(wliegende) gasten
+van harte welkom.
+Dek de voorkant van het
+insectenhotel af met gaas.
+Een vijfsterren hotel voor
+(vliegende) gasten
+(geanonimiseerd) (geanonimiseerd)
+Solitaire bijen, lieveheersbeestjes, oorwormen, gaasvliegen en vele andere insecten
+maken
+gebruik van insectenhotels. Het is voor deze insecten steeds moeilijker
+een goede
+schuil- of nestelplek te vinden. Met een insectenhotel biedt u een goed
+alternatief. En
+het ziet er
+mooi uit!
+Insectenhotels bestaan in verschillende vormen en maten. Het is belangrijk dat het
+hotel over een stevig dak beschikt, dat iets uitsteekt, zodat het regenwater
+er vanaf stroomt. De meeste insecten houden namelijk van een
+droge nestelpiek
+Een insectenhotel bevindt zich idealiter op een zonnige plaats, met de opening
+richting het zuiden. Het is belangrijk dat in de omgeving van het hotel van het vroege
+voorjaar tot in de nazoener volop inheemse bloeiende (dracht)planten en bloemen
+aanwezig zijn. En leg bijvoorbeeld een bijenheuvel aan of
+zorg voor open zandplekken.
+Insectenhotel vullen
+Voor het vullen van een insectenhotel kunt u gebruik maken van verschillende
+materialen zoals boormstammetjes met gaten, bamboestokken, rietstengels,
+dennenappels, bakstenen met gaten, stro, dakpannen, kei en leem. In de natuur
+hebben insecten enkel de beschikking over onbehandelde materialen. Houd dit in
+gedachten als u uw hotel gaat vullen.
+In
+boormstammetjes kunt u
+gaten (2 tot 9 mmm breed) boren om nestelgangen
+te creëren.
+Zorg dat de boorgaten 10 centimeter diep zijn en schuur ze op om
+beschadiging van de vleugels te voorkomen. Let opl Het is belangrijk dat de boorgang
+aan de achterkant dicht blijft. Bij een boomstam kunt u
+het beste eikenhout
+gebruiken. Bij het gebruik van bamboestokken en/of rietstengels zaagt u deze op
+een gelijke lengte af en plaatst u
+ze boven op elkaar in het insectenhotel. In een
+bamboestok zitten vaak meerdere knopen (herkenbaar aan de strepen aan de
+buitenzijde). Zorg ervoor dat u de stokken net achter een knoop afzaagt.
+Een deel van de insecten maakt gebruik van open zandplekken om nestelgangen
+te bouwen. Om dit na te bootsen, kunt u met leem of klei een brede buis vullen.
+Uiteraard is het dan wel noodzakelijk om gaten te prikken,
+om geschikte nestel-
+gangen te creêren. Klei en/of leem is tevens goed te gebruiken om materialen te
+bevestigen.
+Onderhoud van een insectenhotel
+Een insectenhotel vraagt weinig
+onderhoud. Het is alleen noodzakelijk om de vulling
+afen toe te vervangen. Stro dient ieder jaar ververst te worden en een boomstam kan
+worden vervangen zodra deze begint te verteren. Het uitkomen van een larf duurt
+soms een jaar, dus aanvullen is beter dan vervangen.
+Het werk van Landschapsbeheer Drenthe wordt mogelijk gemaakt door de
+provincie
+Drenthe, de Nationale Postcode Loterij en de Drentse gemeenten.
+at
+provincie Drenthe
+Zaaknummer: 47658-2025
+30
+Zaaknummer: 47658-2025
+31
+Zaaknummer: 47658-2025
+32
+Zaaknummer: 47658-2025
+33
+Vrijmaken van aanwezige
+begroeiing (afplaggen
+of schrapen van de
+bovenste 4-6 cm)
+Zaden verdunnen met
+licht vochtig zand
+(1 kg mengsel mengen
+met 1 kruiwagen zand)
+Hardnekkige Toplaag los maken
+wortel- met een cultivator of
+onkruiden eerst
+|I hark
+verwijderen
+Oppervlakkig
+inzaaien,
+bij voorkeur
+breedwerpig
+Jaarlijks maaien en
+afvoeren en maaisel
+grondig afharken
+(ldeinschalig: bosmaaier
+(o.a. ridder-
+zuring, akke,
+distel en
+kweekgras)
+(geanonimiseerd) (geanonimiseerd)
+Het bloemrijke graslandmengsel bestaat vooral uit vaste soorten. Het mengsel
+is geschikt voor zonnige plekken. Het ontwikkelt zich langzaam en
+geeft in het eerste jaar nog weinig bloei. Vanaf het tweede of het derde jaar
+wordt het
+mengsel steeds bloemrijker. Met de
+juiste beheermaatregelen
+(maaien en afvoeren) gaat het mengsel lang mee en is de
+ecologische waarde
+groot.
+Zaaien kan in principe het
+hele jaar rond, als het maar niet vriest, te nat of te
+droog is. De beste periode om te zaaien is in de nazomer, vanwege de
+natuurlijke
+zaadval; daarnaast in het vroege voorjaar. De
+bodemgesteldheid bepaalt welk
+mengsel passend is (voedselarm tot schraal,
+matig voedselrijk of nat)
+Bewerk de grond zo minimaal
+mogelijk. Dit is beter voor de
+bodemstructuur en daarmee voorkomt u dat onkruidzaden opkomen en
+voedingsstoffen
+vrij komen.
+met de handen
+eventueel licht
+inharken
+met slagmes of zeis,
+grootschalig: éénassige
+messenbalkmaaier)
+Veelal is de uitgangssituatie een bestaand
+gazon of
+grasland. Frees de
+zode niet stuk, maar
+plag of schraap deze af! Zo voorkomt u dat
+grassen snel
+de overhand nemen in uw bloemenweide.
+|Een
+“valszaaibedmethode”is alleen
+nodig bij veel zaden van ridderzuring
+of grassen in de grond. Hierbij wordt het in te zaaien deel
+zaaiklaar gemaakt,
+maar
+wordt gewacht met zaaien. De kiemende onkruiden worden om de
+2-3 weken (op een
+zonnige dag) ondiep geschoffeld. Doe dit een paar keer
+en hark de laatste schoffelronde de kiemplanten eraf. Daarna kan er worden
+gezaaid!
+Wilt u jaarlijks blijven genieten van het bloemrijke grasland,
+dan bestaat
+het beheer uit jaarlijks maaien en afvoeren (verschralen). Als er niet wordt
+gemaaid, verruigt en vergrast de bloemenweide en verdwijnt het bloemrijke
+karakter op den duur. Hoe vaak er moet worden
+gemaaid, hangt af
+van de
+voedselrijkdom. Een
+algemene richtlijn: 1x per jaar (sept) bij voedselarm tot
+schraal,
+zx per jaar bij matig voedselrijk (juli en sept), 2x per jaar bij voedselrijk
+(eind mei/begin
+juni en sept. In het eerste
+jaar kan het nodig
+zijn 3-5 maalte
+maaien als snelgroeiende onkruiden zich ontwikkelen.
+GEER provincie Drenthe
+B
+Zaaknummer: 47658-2025
+34
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Anterieure overeenkomst ,
+De Tip , De Kiel
+Gemeente Coevorden
+Coevorden , definitieve versie september 2025
+Kenmerk: 47658-2025
+Anterieure overeenkomst
+TAM-Imro-Omgevingsplan ‘De Kiel - De Tip (tijdelijk gedeelte van het Omgevingsplan) , transformatie van
+recreatie naar wonen’
+Zaaknummer 43539-2025
+De ondergetekenden:
+1. De publiekrechtelijke rechtspersoon Gemeente Coevorden gevestigd te Coevorden aan de Kasteel 1 ,
+te dezen krachtens artikel 171 Gemeentewet vertegenwoordigd door de door burgemeester de heer
+R. Bergsma , handelend ter uitvoering van het besluit van het College van burgemeester en wethouders
+d. d. 19 augustus 2025;
+hierna te noemen “de Gemeente”;
+en:
+2. De Eigenaar van het perceel aan De Tip nr. «Adres_Huisje» , genaamd
+«Naam_eigenaar»
+«Naam_eigenaar1»
+dat op grond van het TAM-Imro-Omgevingsplan ‘ ‘De Kiel - De Tip (tijdelijk gedeelte van het
+Omgevingsplan) , transformatie van recreatie naar wonen’ de bestemming ‘wonen’ krijgt.
+hierna te noemen: ‘de Eigenaar’.
+De Gemeente en de Eigenaar worden hierna gezamenlijk aangeduid als “partijen”.
+Pagina 1 van 71 Paraaf:
+Definities en begrippen
+De hierna volgende definities maken integraal deel uit van de overeenkomst.
+Omgevingsplan:
+Een omgevingsplan als bedoeld in artikel 2. 4 Omgevingswet , waarin regels over de fysieke leefomgeving
+worden opgenomen.
+Overeenkomst:
+De onderhavige overeenkomst die door partijen is ondertekend , met alle daarbij behorende bijlagen.
+Project:
+De functiewijziging (transformatie) van recreatief gebruik naar permanente bewoning.
+Projectgebied:
+Het gebied De Tip in De Kiel , totaal groot circa 6 hectare , plaatselijk bekend als De Tip in De Kiel , zoals op bijlage
+1 is aangegeven , waarbinnen het Project valt.
+TAM-Imro:
+Een TAM Tijdelijke Alternatieve (TAM) , waarbij een wijziging in een Imro-bestand wordt doorgevoerd. IMRO
+staat hierbij voor Informatie Model Ruimtelijke Ordening. TAM-Imro is de standaard waarmee ruimtelijke
+plannen zoals omgevingsplannen en wijzigingen daarvan digitaal worden vastgelegd en gepubliceerd.
+Transformatieplan:
+Het plan dat de kaders omvat voor de programmatische , ruimtelijke- en uitvoeringsaspecten van het Project ,
+zoals opgenomen als bijlage 4.
+Pagina 2 van 71 Paraaf:
+Overwegingen
+• Het gebied De Tip in De Kiel (hierna: gebied De Tip) bestaat uit verschillende (recreatie)woningen die
+elk op een individueel kadastraal perceel staan , zoals verbeeld in bijlage 1.
+• In het ter plaatse geldende omgevingsplan ‘De Kiel , De Tip’ , dat door de raad van de Gemeente
+Coevorden (destijds als bestemmingsplan) is vastgesteld op 3 februari 2015 (tijdelijk deel van het
+Omgevingsplan) , hebben de in het gebied De Tip gelegen 59 percelen de bestemming recreatie. Dit
+betekent dat in woningen op deze percelen permanent wonen niet is toegestaan , met uitzondering
+van woningen op die percelen die een aanduiding hebben die permanente bewoning mogelijk maakt.
+Daarnaast zijn er eigenaren die beschikken over een persoonsgebonden gedoogbeschikking.
+• Op basis van een provincie-breed onderzoek naar de toeristisch/recreatieve vitaliteit van de
+vakantieparken en de analyse dat er voor het gebied De Tip weinig perspectief op dit gebied te
+verwachten is , hebben vertegenwoordigers van de eigenaren contact gezocht met de Gemeente. De
+Gemeente heeft vervolgens het gebied De Tip aangewezen als een van de parken waar een onderzoek
+naar de mogelijkheid voor een transformatie naar reguliere/permanente bewoning uitgevoerd zou
+kunnen worden. Dit sluit aan bij het beleid van de Provincie Drenthe (mede ingegeven vanuit het
+programma ‘Vitale Vakantieparken Drenthe’) om gebieden zoals het gebied De Tip te transformeren.
+• In 2020 is er een zogenaamde QuickScan transformatie opgesteld (bijlage 2) , waaruit blijkt dat er een
+basis aanwezig is om een transformatieproces te starten. Ten behoeve van dit proces is uit de groep
+van eigenaren een werkgroep samengesteld die in samenspraak met de Gemeente aan de slag is
+gegaan met het ontwikkelen van voorstellen die in de loop van de tijd aan de andere eigenaren zijn
+voorgelegd. Onder andere is in 2024 een streefbeeld opgesteld , dat als bijlage 3 is toegevoegd.
+• Het gemeentelijke en provinciale beleid stellen voorwaarden waaraan voldaan moet worden om
+medewerking te kunnen verlenen aan een transformatie van recreatie naar regulier/permanent
+betreffen of
+meerwaarde
+van
+‘bereiken
+het
+meer
+onder
+voorwaarden
+Deze
+wonen.
+kwaliteitsverbetering’. De voorwaarden zijn aanvullend , omdat ook de normale vereisten die voor een
+transformatie gelden van toepassing blijven. Het gaat dan vooral om de vereisten die gelden voor het
+wijzigen van een Omgevingsplan en de eisen die vanuit de bouwregelgeving worden gesteld aan
+woningen voor reguliere bewoning.
+• De Gemeente heeft in de ‘Deelstructuurvisie Transformatie recreatiewoningen Gemeente Coevorden’
+die de Gemeenteraad van de Gemeente heeft vastgesteld op 15 februari 2022 , bepaald dat er bij
+transformatie een vereveningsbijdrage voor toeristische-recreatieve ontwikkelingen elders in de
+gemeente van de eigenaren zal worden gevraagd (hierna: Vereveningsbijdrage). Gelet op de invoering
+van de Omgevingswet per 1 januari 2024 hebben burgemeester en wethouders op 23 juli 2025
+genoemde deelstructuurvisie (opnieuw) vastgesteld als Omgevingsprogramma.
+• De eigenaren die de recreatieve bestemming van hun woning willen behouden , betalen de
+Vereveningsbijdrage niet. Wanneer zij op een later moment de bestemming van hun woning gewijzigd
+willen zien naar wonen , dan betalen ze alsnog de Vereveningsbijdrage.
+• Met als basis eerder genoemd streefbeeld is in het overleg van Gemeente en de werkgroep van de
+eigenaren het Transformatieplan ‘Transformatieplan De Tip’ (bijlage 4) opgesteld. Het plan zal als
+bijlage bij het TAM- Imro - omgevingsplan ‘De Kiel - De Tip (tijdelijk gedeelte van het Omgevingsplan) ,
+transformatie van recreatie naar wonen’ worden gevoegd dat aan de Gemeenteraad ter vaststelling
+worden voorgelegd.
+Pagina 3 van 71 Paraaf:
+• Het Transformatieplan dient als afsprakenkader tussen partijen en is mede basis voor deze
+overeenkomst. Met het ondertekenen van deze overeenkomst maakt de Eigenaar kenbaar dat hij (en
+andere woningeigenaren) ten aanzien van het gebied De Tip afspraken met de Gemeente wenst te
+maken over de transformatie van het gebied De Tip van recreatief naar regulier/permanent wonen en
+dat hij deze overeenkomst zal nakomen.
+• Een onderdeel van het transformatieplan is de zogenaamde kwaliteitsimpuls , die betrekking heeft op
+het bevorderen en borgen van het groene karakter van het park en de aanwezige biodiversiteit en
+natuurwaarden. Hiertoe is een plan opgesteld dat als bijlage 5 is toegevoegd. De uitvoering van dit
+plan maakt deel uit van deze overeenkomst.
+• Naast het vastleggen van afspraken over de uitvoering van het Transformatieplan en de
+Vereveningsbijdrage , dient deze overeenkomst ook voor het vergoeden door de Eigenaar van een
+aantal gemeentelijke kosten zoals genoemd in bijlage 6. Dit betreft kosten die de Gemeente heeft
+gemaakt of nog moet maken ten behoeve van de transformatie het gebied De Tip.
+Met inachtneming van de overwegingen verklaren de ondergetekenden het navolgende te zijn
+overeengekomen:
+Pagina 4 van 71 Paraaf:
+Voorwaarden en bepalingen
+Doel van de overeenkomst
+Het doel van deze overeenkomst is het vastleggen van de (financiële) voorwaarden waaronder het Project zal
+worden gerealiseerd.
+Het Project
+1) Het Project heeft betrekking op de in het Projectgebied gelegen adressen waar thans de bestemming
+“recreatie” op rust en op welke adressen de bestemming “wonen” door (een aantal van) de eigenaren
+wordt beoogd via vaststelling van het TAM-Imro-Omgevingsplan ‘ ‘De Kiel - De Tip (tijdelijk gedeelte
+van het Omgevingsplan) , transformatie van recreatie naar wonen’ , hierna ‘TAM-Imro-plan’.
+2) Om mede aan te tonen dat het TAM-Imro-plan (economisch) uitvoerbaar is , is deze overeenkomst
+tussen de Eigenaar en Gemeente gesloten.
+Algemene verplichtingen van de Gemeente
+1) De Gemeente heeft de inspanningsverplichting tot het in procedure brengen van het TAM-Imro-plan ,
+alsmede een inspanningsverplichting om te bevorderen dat dit plan inclusief eventuele door
+zienswijzen tussentijds noodzakelijk geworden wijzigingen , op voortvarende wijze de daartoe
+geëigende procedure doorloopt. Indien de besluitvorming van de Gemeenteraad leidt tot andere
+vereisten dan in het Transformatieplan of in het TAM-Imro-plan opgenomen , treden partijen hierover
+in overleg en proberen zij in redelijkheid tot overeenstemming te komen. Indien partijen niet tot
+overeenstemming komen , is de geschillenregeling zoals bedoeld in artikel 9 van toepassing.
+2) De Gemeente behoudt zich bij de nakoming van hetgeen in deze overeenkomst is bepaald volledig
+haar publiekrechtelijke verantwoordelijkheid ten aanzien van het publiekrechtelijke besluitvormings-
+proces. Dit houdt in dat er van de zijde van de Gemeente geen sprake is van een toerekenbare
+tekortkoming , indien het handelen naar deze verantwoordelijkheid eist dat de Gemeente
+publiekrechtelijke rechtshandelingen verricht die niet in het voordeel zijn van de aard of de strekking
+van deze overeenkomst of van de voortgang van het Project.
+Algemene verplichtingen van de Eigenaar
+1) De Eigenaar zal de op hem rustende verplichtingen uit het Transformatieplan en de ‘Deelstructuurvisie
+Transformatie recreatiewoningen Gemeente Coevorden’ nakomen.
+2) De Eigenaar zal ter uitvoering van het Transformatieplan bijdragen aan de uitvoering en
+instandhouding van de kwaliteitsimpuls , die als bijlage 5 is opgenomen. Dit betekent dat de Eigenaar
+maatregelen moet (laten) nemen om de kwaliteitsimpuls uit te voeren.
+Bijdrage
+1) De Eigenaar (en/of zijn rechtsopvolger(s)) is een bijdrage verschuldigd aan de Gemeente bestaande uit
+(i) een vergoeding voor bepaalde gemeentelijke kosten en (ii) de Vereveningsbijdrage , zoals
+bijlage 6. De grondslag voor de Vereveningsbijdrage is vastgelegd in de
+opgenomen in
+‘Deelstructuurvisie Transformatie recreatiewoningen’ , die door de raad is vastgesteld op 15 februari
+2022. Gelet op de invoering van de Omgevingswet per 1 januari 2024 hebben burgemeester en
+(opnieuw)
+wethouders 23
+op
+Omgevingsprogramma.
+2) De hoogte van de bijdrage als bedoeld in lid 1 is bepaald op € 7.32300.
+,
+juli 2025 genoemde deelstructuurvisie vastgesteld als
+Pagina 5 van 71 Paraaf:
+3) Voor de in lid 2 bedoelde bijdrage ontvangt de Eigenaar een factuur van de Gemeente nadat het TAM-
+Imro-plan na vaststelling daarvan onherroepelijk is geworden. De Eigenaar krijgt alsdan de
+mogelijkheid om de factuur in 1 termijn , 3 jaarlijkse termijnen of 36 maandelijkse termijnen te voldoen.
+Op verzoek van de Eigenaar kan in overleg met de Gemeente een afwijkende betalingsregeling
+getroffen worden , echter dient de noodzaak hiertoe wel eerst financieel te worden onderbouwd door
+de Eigenaar. Deze betalingsregeling gaat in zodra partijen hierover overeenstemming hebben bereikt.
+4) Bij te late betaling van (een deel van) het in lid 2 bedoelde bedrag , is de Eigenaar aan de Gemeente de
+wettelijke rente verschuldigd over het niet tijdig betaalde , zulks berekend over de periode vanaf de
+uiterlijke vervaldatum tot aan de dag van betaling.
+Nadeelcompensatie
+1) De Gemeente zal de Eigenaar schriftelijk in kennis stellen van een aanvraag om tegemoetkoming in
+schade als bedoeld in artikel 15. 1 e. v. Omgevingswet die voortvloeit uit de vaststelling van het TAM-
+Imro-plan. De Gemeente zal de Eigenaar bij de behandeling van vorenbedoelde aanvraag betrekken
+op de wijze zoals voorgeschreven in de Verordening nadeelscompensatie Coevorden 2024.
+2) De Eigenaar verbindt zich om aan de Gemeente zijn aandeel zoals bedoeld in lid 3 in het totale bedrag
+te compenseren van:
+b. de schade als bedoeld in artikel 15. 3 Omgevingswet , en;
+de kosten als bedoeld in artikel 4:129 Algemene wet bestuursrecht.
+c.
+3) Het aandeel van elke individuele Eigenaar in het totale bedrag als bedoeld in lid 2 van dit artikel wordt
+berekend naar rato van het aantal eigenaren dat deelneemt aan de transformatie.
+4) De Gemeente zal zo spoedig mogelijk , na iedere aparte vaststelling van een bedrag aan
+nadeelcompensatie , het totale bedrag en het individueel verschuldigde bedrag meedelen aan de
+Eigenaar.
+5) De Eigenaar verplicht zich het door hem verschuldigde bedrag binnen twee weken na iedere
+mededeling aan de Gemeente over te maken.
+6) Bij te late betaling van (een deel van) het in lid 2 bedoelde bedrag , is de Eigenaar aan de Gemeente de
+wettelijke rente verschuldigd over het niet tijdig betaalde , zulks berekend over de periode vanaf de
+uiterlijke vervaldatum tot aan de dag van betaling.
+Overdracht contractpositie en kettingbeding
+1) Partijen kunnen de rechten en verplichtingen , die voor de partijen voortvloeien uit deze overeenkomst
+niet direct of indirect over te dragen aan derden , tenzij de andere partij voorafgaand daartoe schriftelijk
+goedkeuring heeft verleend. Aan de goedkeuring kunnen (financiële) voorwaarden worden verbonden.
+2) In geval van verkoop van zijn woning is de Eigenaar gehouden om aan zijn rechtsopvolgers de
+bepalingen en bedingen van deze overeenkomst , voor zover deze door hun aard nog niet zijn
+nagekomen , bij wijze van kettingbeding dan wel derdenbeding ten behoeve van de Gemeente
+woordelijk in de tussen die partijen op te maken en te ondertekenen overeenkomst , alsmede in de
+juridische akte van levering te doen opnemen. De Eigenaar dient de verkoop van zijn woning bij de
+Gemeente te melden , zodat er kan worden bepaald welke verplichtingen door de Eigenaar moeten
+worden overgedragen.
+3) Bij iedere niet-nakoming van het in dit artikel bepaalde , verbeurt de Eigenaar ten behoeve van de
+Gemeente een onmiddellijk opeisbare , niet voor matiging vatbare boete ten bedrage van € 25.00000
+,
+(zegge: vijfentwintigduizend euro) met bevoegdheid voor de Gemeente om daarnaast nakoming en/of
+de eventueel meer geleden schade te vorderen.
+Pagina 6 van 71 Paraaf:
+Toerekenbare tekortkoming
+1) Ingeval een der partijen tekortschiet in de nakoming van een verplichting uit deze overeenkomst en
+na verloop van een redelijke termijn nadat deze door de andere partij middels aangetekende brief of
+deurwaardersexploot in gebreke is gesteld , in verzuim geraakt en derhalve toerekenbaar tekortschiet ,
+is de andere partij gerechtigd deze overeenkomst voor het niet reeds uitgevoerde gedeelte eenzijdig
+en zonder rechterlijke tussenkomst door middel van een aangetekend schrijven aan de wederpartij te
+ontbinden.
+2) Het gestelde in dit artikel laat onverlet het recht van de andere partij om van de tekortschietende partij
+nakoming van zijn verplichtingen uit deze overeenkomst te vorderen , en het recht van de andere partij
+op en de gehoudenheid van de tekortschietende partij tot vergoeding van alle ten gevolge van de
+toerekenbare tekortkoming aan de andere partij opkomende kosten , schaden en interesten.
+3) Ingeval een der partijen tekortschiet in de nakoming van een verplichting zoals opgenomen in artikelen
+3 en 4 uit deze overeenkomst en na verloop van een redelijke termijn nadat deze door de andere partij
+middels aangetekende brief of deurwaardersexploot in gebreke is gesteld , in verzuim geraakt en
+derhalve toerekenbaar tekortschiet , is de andere partij gerechtigd op kosten van de tekortschietende
+partij de desbetreffende verplichting zelf uit te (laten) voeren.
+Geschillen
+Alle geschillen die naar aanleiding van of in verband met deze overeenkomst of van overeenkomsten ter
+uitvoering van deze overeenkomst tussen partijen of hun rechtverkrijgenden mochten ontstaan , van welke
+aard en omvang die ook mogen zijn , daaronder mede begrepen die welke slechts door een der partijen als
+zodanig worden aangemerkt , zullen , als er geen minnelijke oplossing (mediation of arbitrage) kan worden
+bereikt , worden voorgelegd aan de daartoe bevoegde rechtbank , rechtbank Noord-Nederland , locatie Assen.
+Ontbindende voorwaarden
+1) Deze overeenkomst kan door ieder der partijen worden ontbonden in de volgende situaties:
+a) Het TAM-Imro-plan wordt (vanwege ernstige bezwaren) niet vastgesteld , althans wordt niet
+onherroepelijk na vaststelling;
+Wanneer zich de situatie voordoet dat de in deze overeenkomst opgenomen bepalingen strijdig
+zijn met latere besluitvorming , andere publiekrechtelijke besluiten en/of uitspraken van de
+bestuursrechter over ruimtelijke maatregelen.
+Indien een partij de overeenkomst wil ontbinden op basis van één van de genoemde voorwaarden in
+lid 1 van dit artikel , zal daarop een beroep moeten worden gedaan door middel van een aangetekend
+schrijven.
+Alvorens over te gaan tot ontbinding krachtens dit artikel , dienen partijen in overleg te treden om
+gezamenlijk te beraden of de overeenkomst zodanig aangepast kan worden , zodat ontbinding van de
+overeenkomst kan worden voorkomen.
+b)
+2)
+3)
+Einde van de overeenkomst
+1) Deze overeenkomst wordt aangegaan voor de periode die nodig is om het Project te realiseren en de
+verplichtingen na te komen.
+2) De overeenkomst eindigt doordat het Project overeenkomstig de daartoe goedgekeurde plannen is
+gereedgekomen en alle overeenkomstig het bepaalde in deze overeenkomst of naar aanleiding van deze
+overeenkomst tussen partijen verschuldigde betalingen zijn gedaan of deze overeenkomst wordt
+ontbonden conform artikel 8 of artikel 10.
+Pagina 7 van 71 Paraaf:
+Bijlagen
+De volgende bijlagen maken onlosmakelijk deel uit van deze overeenkomst of worden dat na gereedkoming
+daarvan. Zij worden daartoe mede door partijen geparafeerd voor zover dat nog niet is geschied en voor
+zover de bijlagen bij het aangaan van deze overeenkomst al gereed zijn. Deze overeenkomst en de daarbij
+behorende bijlagen worden geacht elkaar aan te vullen. In geval van strijdigheid tussen de bepalingen van
+deze overeenkomst en de bijlagen , prevaleren de bepalingen van de overeenkomst. Het betreft de volgende
+bijlagen:
+Kaart Projectgebied;
+QuickScan (november 2020)
+Streefbeeld (oktober 2024)
+Transformatieplan (juni 2025)
+Kwaliteitsimpuls (juni 2025)
+Specificatie kosten- en vereveningsbijdrage
+1.
+2.
+3.
+4.
+5.
+6.
+Aldus overeengekomen en in tweevoud opgemaakt
+te Coevorden , d. d. 19 augustus 2025
+Gemeente Coevorden
+namens College en Wethouders van de
+gemeente Coevorden
+plv.
+te __________________________
+d. d. _____________2025
+Eigenaar
+R. Bergsma
+Burgemeester
+«Naam_eigenaar»
+«Naam_eigenaar1»
+Pagina 8 van 71
+Anterieure overeenkomst , De Tip , De Kiel
+Bijlages:
+1. Kaart Projectgebied;
+2. QuickScan (november 2020)
+3. Streefbeeld (oktober 2024)
+4. Transformatieplan (juni 2025)
+5. Kwaliteitsimpuls (juni 2025)
+6. Specificatie kosten
+Bijlage 1 - Projectgebied
+Pagina 9 van 71 Paraaf:
+> Gemeente
+Bijlage 2 —
+QuickScan november 2020 Coevorden
+Quick Scan Transformatie
+(AN
+Vitale Vakantie
+Naam park: De Tip te De Kiel parken Drenthe
+Definitief, 11 november 2020
+Gesprek op 7 februari 2020, in aanwezigheid van
+ES,
+mm! (alien, werkgrcë) en
+(gemeente Coevorden) en (Taskforce VVP Drenthe).
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+De QuickScan transformatie heeft tot doel te onderzoeken of er een kansrijk vertrekpunt voor transformatie
+is. Dit met een beschouwing op hoofdlijnen, aan de hand van de onderstaande 10 punten. Deze bestaan uit
+een combinatie van feitelijke gegevens en meningen en wensen van de relevante partijen. De uitkomst van
+de Quick scan heeft geen status op zich, maar geeft een indicatie van de stand van zaken en kan worden
+gebruikt om te bepalen of het wel of niet zinvol is een transformatietraject te doorlopen en wat, op
+hoofdlijnen, de aandachtspunten daarbij zijn. De Quick scan wordt uitgevoerd door de transformatie-
+adviseur van Vitale Vakantieparken Drenthe.
+Eigenaren
+1; Eigendom, mate/vorm van vereniging: is er een eigenaar en/of een VvE, wat zijn de statuten, hoe is
+het bestuur georganiseerd, welk taken, mandaat en draagvlak heeft het.
+Beeld op huidige en toekomstige situatie
+2. Huidig gebruik: omvang permanente bewoning in relatie tot recreatief gebruik, inzage in aantallen
+commerciële verhuur en gebruik als tweede huis, aantal ingeschrevenen, aantal persoons- en/of
+object gebonden beschikkingen.
+3. Beeld op de huidige situatie: vitaliteit volgens scan ZKA, beeld eigenaren, beeld en beleid
+gemeente.
+4, Beeld op de toekomstige situatie, mate van eensgezindheid en bewustzijn: is er een gedragen visie
+op de toekomst bij eigenaren en gemeente.
+5. Procesbewust- en -bereidheid: heeft men een beeld van wat het transformatieproces inhoudt, wat
+er moet gebeuren, zijn daar middelen (menskracht, tijd, geld) voor en bereidheid toe?
+Feitelijke situatie
+6. Ligging en inpassing in de omgeving.
+7. Openbare/collectieve ruimte: eigendom, inrichting, bereikbaarheid, voorzieningen,
+onderhoudstoestand, geschiktheid voor de beoogde functie.
+8. Percelen en bebouwing: omvang, aard, kwaliteit, inrichting, onderhoudstoestand, geschiktheid voor
+de beoogde functie.
+9, Sociaal: aanwezigheid kwetsbare groepen, sociale structuur, sociale veiligheid.
+Omgevingsfactoren
+10. Planologische toets op hoofdlijnen: aanwezigheid functies/gebruik/plannen in de omgeving die een
+aandachtspunt of een knock-out zijn in relatie tot de beoogde functie.
+Eindconclusie
+Vanuit de deelconclusies op de bovengenoemde onderdelen een beknopte beoordeling of een transformatie
+kansrijk zou kunnen zijn. Ook worden hier de aandachtspunten op een rij gezet.
+Pagina 10 van 71 Paraaf:
+1. Eigendom , mate/vorm van vereniging: is er een eigenaar en/of een VvE , wat zijn de statuten , hoe
+is het bestuur georganiseerd , welk taken , mandaat en draagvlak heeft het.
+Het park is in vier deelgebieden te verdelen , van zuid naar noord:
+Rood omkaderd: 42 woningen op eigen kavels , met de wegen en infrastructuur in de VvE
+“Bungalowpark Op de Kiel” ondergebracht. Het lidmaatschap van deze VvE is verplicht
+(geregeld in eigendomsakten , met kettingbeding). Deze VvE heeft als taak zorg te dragen
+voor de weg , de openbare verlichting , de riolering en de afvalinzameling. De VvE heeft geen
+verdere taken/bevoegdheden , zoals het in algemene zin zorgdragen voor het behartigen van
+de belangen richting de gemeente. De VvE heeft een bestuur en houdt eens per jaar een ALV.
+Blauw gegolfd: 5 woningen op eigen kavels , waarbij de ontsluitende weg op het eigendom
+van deze kavels ligt , met een recht van overpad en bepalingen over onderhoud. Geen VvE.
+Blauw omkaderd: 9 woningen op eigen kavels langs een ontsluitende weg die in eigendom
+van de gemeente is. Geen VvE of anderszins.
+Blauw gegolfd: het meest noordelijke puntje: 2 woningen op eigen kavels , direct ontsloten
+op de openbare weg.
+-
+-
+-
+-
+Pagina 11 van 71 Paraaf:
+In ruimtelijk opzicht en voor wat betreft het bestemmingsplan is het één gebied. De gemeente wil het in een
+eventueel transformatieproces ook als zodanig beschouwen.
+Dit betekent dat er één samenhangende visie op het totale gebied moet komen en één transformatieplan.
+Omdat er deelgebieden te onderscheiden zijn , met een eigen karakter voor wat betreft de inrichting en
+verschillende vormen van eigendom en organisatie , zoals hierboven genoemd , moet er binnen dat ene
+transformatieproces ruimte zijn voor verschillen in inhoud , aanpak en tempo. Eén proces betekent ook dat
+er één aanspreekpunt en gesprekspartner moet zijn met wie de gemeente de stappen in het
+transformatieproces voorbereidt. In de besluitvorming en uitvoering kan er verschil zijn tussen de
+deelgebieden , omdat de eigendoms- en organisatiestructuur nu eenmaal verschilt. Er is nu een werkgroep
+gevormd waarin een vertegenwoordiging uit de verschillende gelederen aanwezig is. Deze werkgroep zal
+fungeren als gesprekspartner zoals hierboven genoemd. Als het voor het proces praktisch of noodzakelijk is
+zal naar bevind van zaken een andere organisatiestructuur worden gekozen.
+Conclusie: er is geen gebiedsdekkende eigenaar of entiteit. De werkgroep , met daarin afgevaardigden vanuit
+de deelgebieden kan als overlegpartner van de gemeente optreden , maar dit heeft beperkingen omdat de
+werkgroep geen formele status en mandaat heeft. Om het werkbaar te maken zal een regelmatige
+terugkoppeling naar de individuele leden en de leden van de VvE waar van toepassing nodig zijn en zo nodig
+zullen andere oplossingen moeten worden bedacht , zoals het instellen van een nieuwe entiteit. Dit kan een
+complicerende factor zijn in een transformatieproces.
+2. Huidig gebruik: omvang permanente bewoning in relatie tot recreatief gebruik , inzage in aantallen
+commerciële verhuur en gebruik als tweede huis , aantal ingeschrevenen , aantal persoons- en/of
+object gebonden beschikkingen.
+Er zijn 60 recreatiewoningen; de 5 reguliere woningen aan de weg De Kiel tellen niet mee.
+Hiervan worden er ca. 36 permanent bewoond (60%) , 23 (38%) als tweede huis recreatief
+gebruikt , waarbij 2 eigenaren afkomstig zijn uit de gemeente Coevorden en 21 van
+daarbuiten , en 1 recreatief verhuurd.
+Van de ca. 36 permanent bewoonde woningen zijn er 19 met een perceelsgebonden
+beschikking en hebben de bewoners van tenminste 7 woningen een persoonsgebonden
+beschikking. In ca. 10 woningen wordt illegaal gewoond , afhankelijk van de exacte definitie
+daarvan (grens langdurig recreatief en permanent).
+De meeste eigenaren bezitten één woning , drie eigenaren heb er twee in bezit.
+•
+•
+•
+•
+Conclusie: een kleine meerderheid van de woningen wordt bewoond , waarvan het grootste deel op legale
+wijze , met een persoons- of perceelsgebonden beschikking. Het nog bestaande recreatieve gebruik is vooral
+dat als tweede woning. Een kaart waarop de diverse vormen van gebruik te zien zijn , in combinatie met de
+bestemmingen (zie onder 10. ) en de begrenzingen zou nuttig zijn voor het vervolg-proces , zie ook onder 4.
+3. Beeld op de huidige situatie: vitaliteit volgens scan ZKA , beeld eigenaren en gemeente.
+Het beeld dat blijkt uit de ZKA-analyse (wel toeristisch-recreatieve faciliteiten en kwaliteiten in de buurt ,
+maar een park dat gaandeweg vooral een woongebied is geworden) wordt gedeeld door de werkgroep en
+de gemeente. Verwarrend is dat in het ZKA-rapport het gebruik als tweede woning ook als ‘bewoning’ wordt
+gezien; naar de letter van het bestemmingsplan klopt dat niet en vallen tweede woningen ook onder de
+recreatieve bestemming. De werkgroep voegt eraan toe dat De Tip steeds meer een onderdeel van het dorp
+De Kiel is geworden. Dit zowel volkshuisvestelijk (het vervult een functie voor starters en ouderen vanuit De
+Kiel , die daar geen passende woning (te duur/te groot) kunnen vinden) als sociaal-maatschappelijk en in het
+draagvlak voor de voorzieningen.
+De gemeente houdt beleidsmatig tot nu vast aan een recreatieve bestemming , maar deelt de analyse dat dit
+in feite geen afspiegeling van de huidige situatie is; zie ook onder 4.
+Pagina 12 van 71 Paraaf:
+Conclusie: de analyse van ZKA en de omschrijving van de huidige situatie door de leden van de werkgroep en
+de gemeente stemmen overeen: De Tip wordt steeds meer een woonbuurt , met een eigen karakter en
+kwaliteit , maar zonder toeristisch-recreatief perspectief.
+4. Beeld op de toekomstige situatie , mate van eensgezindheid en bewustzijn: is er een gedragen visie
+op de toekomst bij eigenaren en gemeente.
+De werkgroep wil de functie die De Tip al vervult , zie hierboven , versterken en reguleren/legaliseren. Het
+beeld is een gebied met een eigen karakter , waarin mensen permanent wonen die elders in De Kiel geen
+geschikte woning kunnen vinden (starters , ouderen , spoedzoekers/tijdelijke huisvesting) en mensen hun
+woning als tweede woning gebruiken , een mix van permanente bewoning en tweede huisjes dus. Hiermee
+kan ook invulling worden gegeven aan de wens van Dorpsbelang om aan het dorp nog enkele woningen
+specifiek voor starters en ouderen toe te kunnen voegen. Die mogelijkheid is er binnen het dorp niet en kan
+wellicht in De Tip worden gevonden. De gemeente vindt de combinatie van echt recreatief gebruik
+(commerciële verhuur voor korte periode) en bewoning niet wenselijk , maar kan zich wel vinden in de
+voorgestelde mengvorm. De gemeente wil dat uitgewerkt zien in een samenhangend plan , waarin het
+specifieke karakter van De Tip met z’n verschillende deelgebieden en de relatie en wisselwerking met het
+dorp onderbouwd wordt. Dit ook omdat een transformatie naar een woonbestemming op voorhand niet
+vanzelfsprekend is: De Tip ligt naast een kleine kern , in een regio waar er geen sprake is van een grote druk
+op de woningmarkt. Een omvorming naar een (gedeeltelijke) woonfunctie moet in zo’n situatie wel voorzien
+in een te onderbouwen behoefte.
+Een aandachtspunt zijn de nog niet gebruikte bouwrechten/vergunningen voor enkele recreatiewoningen ,
+die in het bestemmingsplan inmiddels ‘wegbestemd’ zijn. In een transformatieplan zal duidelijk moeten
+worden wat daarmee gebeurt (zie ook onder 8. )
+Conclusie: als toekomstperspectief zien de werkgroep en de gemeente dat De Tip een gemengd gebied van
+wonen en tweede-woningen wordt , met een eigen karakter en een relatie met het dorp. Voor het
+vervolgproces zou het goed zijn een kaart te maken waarop uitgaand van de bestaande situatie het gewenste
+gebruik (permanent wonen en tweede-woning) worden ingetekend. Om een goed beeld van dat dat
+gewenste gebruik te krijgen kan het uitzetten van een enquête onder alle eigenaren nuttig zijn.
+5. Procesbewust- en -bereidheid: heeft men een beeld van wat het transformatieproces inhoudt , wat
+er moet gebeuren , zijn daar middelen (menskracht , tijd , geld) voor en bereidheid toe?
+Deze QuickScan benoemt een algemeen beeld en inschatting van de kansrijkheid van transformatie en
+aanvullend een aantal concrete aandachtspunten; zaken waarover een standpunt moet worden ingenomen
+of die nader onderzocht moeten worden. Het is daarmee een van de eerste stappen in het stappenplan voor
+transformatie , zoals dat als leidraad (niet als blauwdruk) voor de transformatie gebruikt kan worden. In een
+volgende fase (bepalen streefbeeld) zal bezien moeten worden welke inspanningen hiervoor nodig zijn en
+welke kosten hiermee gemoeid zijn. Het gaat dan om kosten voor bijvoorbeeld planvorming , onderzoeken ,
+concrete noodzakelijke maatregelen op park- en individueel niveau. De insteek bij ruimtelijke ontwikkelingen
+is dat deze kosten voor rekening komen van hen die profiteren van de bestemmingswijziging , in dit geval de
+eigenaren van de recreatiewoningen.
+Een aandachtspunt is de door de Provincie Drenthe verlangde meerwaarde na transformatie. De provincie
+wil terugzien dat transformatie gepaard gaat met een kwaliteitsimpuls , op ruimtelijk , landschappelijk en/of
+maatschappelijk gebied. Hoe die kwaliteitsimpuls/meerwaarde eruit ziet hangt af van de concrete situatie.
+In deze QuickScan zijn alvast enkele aanknopingspunten te vinden.
+Ten aanzien van het onderdeel verevening (= het vragen van een financiële bijdrage bij een ruimtelijke
+ontwikkeling en deze te koppelen aan bestedingen elders) is tussen alle Drentse gemeenten afgesproken dat
+dit een onderdeel is van het transformatieproces. Bij het bepalen of verevening aan de orde is worden de te
+taxeren waardestijging en de te maken kosten in verband met de transformatie betrokken.
+Specifiek voor De Tip geldt dat een onderdeel van het transformatieproces is het bepalen van een geschikte
+eigendoms- en organisatievorm tijdens en na het transformeren.
+Pagina 13 van 71 Paraaf:
+De werkgroep is zich van bovenstaande zaken bewust; dit zal te zijner tijd ook met de leden van de VvE en
+de niet-georganiseerde eigenaren moeten worden gedeeld.
+Conclusie: gemeente en werkgroep zijn zich bewust van het transformatieproces en wat daarbij komt kijken.
+6. Ligging en inpassing in de omgeving.
+De deelgebieden van De Tip vormen samen met het zuidelijk aangrenzende chaletpark De Eeke een
+driehoekig gevormd gebied , dat aan de noordzijde in een punt uitloopt. Dit gebied is landschappelijk goed
+ingepast met een bossingel en ligt tussen de dorpen De Kiel en Schoonoord. Het gebied wordt ontsloten via
+de weg De Tip die aan de oostzijde langs het gebied loopt en uitkomt op de Rolderstraat , de N376 (provinciale
+weg , 80 km/h). Bijzonder is dat de weg De Tip weliswaar openbaar is/lijkt en door de gemeente onderhouden
+wordt , maar in eigendom van verschillende eigenaren is , waaronder voor een deel de gemeente. In het kader
+van een eventuele transformatie is dit een punt van aandacht. Een ander punt is de afstemming van (de wijze
+en het niveau) van het beheer en onderhoud op de snijvlakken van de eigendommen. Verder zal bekeken
+moeten worden in hoeverre de weg passend is bij een andere functie van het gebied. Aandachtspunten zijn
+in ieder geval de wegbreedte (te smal voor twee passerende auto’s , geen voorzieningen voor fietsers en
+voetgangers) , de inrichting (snelheidsregime? , belijning) en de aansluiting op de provinciale weg (vrij
+onoverzichtelijk). Aan de weg zijn zowel individuele woningen als de drie deelgebieden aangesloten. Er is
+geen eenheid in de aansluitingen van de deelgebieden op de weg en de inrichting (maatvoering ,
+overzichtelijkheid) is een aandachtspunt. De verbinding met De Kiel (en verder noordwaarts) verloopt voor
+het autoverkeer via de weg De Tip (ca. 1 km. ) en voor fietsers en voetgangers is er een verhard fietspad aan
+de noordzijde (ca. 750 m. ). Richting het zuiden (onder meer Schoonoord op ca. 15
+, km. ) is de weg De Tip de
+enige ontsluiting. Tot slot loopt er een onverhard , historisch pad aan de westzijde van het gebied.
+Conclusie: De Tip ligt op zichzelf goed ingepast in de bestaande structuur van landschap en bebouwing. De
+inrichting van de ontsluitingsweg en de aantakking van de deelgebieden daarop zijn niet optimaal.
+7. Openbare/collectieve ruimte: eigendom , inrichting , bereikbaarheid , voorzieningen , onderhouds-
+toestand , geschiktheid voor de beoogde functie.
+De inrichting van de collectieve ruimte (wegen , paden , gemeenschappelijke voorzieningen) is verschillend
+per deelgebied.
+In het meest zuidelijke , rood omkaderde gebied is de VvE eigenaar en beheerder van de collectieve ruimte.
+Bij de entree staat nog een niet meer functionerende slagboom , enkele borden en een verzameling
+brievenbussen , iets verderop is een mededelingenbord en een plattegrondsbord geplaatst. De
+afvalinzameling is centraal vanuit de VvE geregeld; de gemeente heeft daar geen bemoeienis mee. Grofvuil
+is op dit moment een probleem; eigenaren van recreatiewoningen hebben hiervoor geen pasje. De gemeente
+zal zich moeten uitspreken over de wijze van afvalinzameling in het licht van een nieuwe functie van het park.
+Het entreegebied maakt een wat rommelige indruk en de zichtbaarheid en overzichtelijkheid van de
+aansluiting op de weg De Tip is een punt van aandacht. De wegenstructuur bestaat uit een lus met enkele
+doodlopende zijtakken. De weg is verhard , smal (auto’s kunnen elkaar niet passeren) en verkeert in redelijke
+staat. De toegankelijkheid en “doorrijdbaarheid” voor bijvoorbeeld de hulpdiensten moet onderzocht en/of
+bevestigd worden. Onderhoud wordt planmatig door de VvE uitgevoerd. Voor wat betreft de aard , kwaliteit
+en maatvoering van de infrastructuur (boven en ondergronds) , de nutsvoorzieningen en andere
+voorzieningen in de collectieve/openbare ruimte zal de gemeente moeten bepalen of ze dit passend vinden
+voor een eventuele woonfunctie of dat aanpassing nodig is. Daarbij moet ook de toekomstige eigendoms-
+en beheerspositie beschouwd worden: wie wordt of blijft eigenaar en beheerder van de gemeenschappelijk
+gebruikte gronden. De VvE heeft buiten het plegen van onderhoud geen plannen voor verbetering of
+aanpassing. In vergelijking tot het noordelijke deelgebied van De Tip heeft dit gebied een wat minder
+parkachtig , natuurlijk karakter. Hoewel groener en minder dicht bebouwd dan de gemiddelde woonwijk is
+het een sober ingericht gebied dat wel een opfrisbeurt kan gebruiken. Hier liggen aanknopingspunten voor
+een kwaliteitsimpuls.
+Pagina 14 van 71 Paraaf:
+Het rood gegolfde gebied bestaat uit een smalle , halfverharde ontsluitingsweg die doodloopt. Aan één zijde
+staan 5 woningen.
+Bij de entree staan brievenbussen en de afvalinzameling wordt door de gemeente uitgevoerd. Qua uitstraling
+en staat van onderhoud geldt hetzelfde als hierboven , idem voor de aandachtspunten.
+Het blauw omkaderde gebied is anders , dunner bebouwd , groener , natuurlijker. De veelheid aan begroeiing
+en het gebrek aan onderhoud op sommige plaatsen maakt het ook rommeliger en onoverzichtelijker;
+vindbaarheid en toegankelijkheid voor hulpdiensten zijn hier ook thema’s. Ook hier is het entreegebied en
+de dimensionering van de infrastructuur een aandachtspunt. De weg is onverhard/halfverhard , hetgeen past
+bij de uitstraling , maar een aandachtspunt in het beheer is. De gemeente is eigenaar van de infrastructuur ,
+maar evengoed geldt hier dat naar de aard , kwaliteit en maatvoering van de infrastructuur (boven en
+ondergronds) , de nutsvoorzieningen (ook hier haalt de gemeente het afval op) en andere voorzieningen in
+de collectieve/openbare ruimte gekeken moet worden.
+Tot slot het blauw gegolfde gebied: twee woningen , direct ontsloten op De Tip.
+Conclusie: de deelgebieden hebben elk een eigen karakteristiek , die bij een transformatie in stand kan blijven
+en beschreven en geborgd kan worden. Voor alle gebieden geldt echter dat er naast specifieke
+aandachtspunten over een aantal zaken keuzes moeten worden gemaakt , in overleg met de gemeente. Een
+eventuele transformatie zou moeten worden aangegrepen om de kwaliteit en de uitstraling van de
+deelgebieden te verbeteren , met enkele specifieke aandachtspunten.
+8. Percelen en bebouwing: omvang , aard , kwaliteit , inrichting , onderhoudstoestand , geschiktheid
+voor de beoogde functie.
+De grootte van de particuliere percelen in de twee zuidelijke deelgebieden is vergelijkbaar en varieert zo
+tussen de 500 en 1. 000 m2 , met enkele uitschieters naar boven. De percelen in het groenere noordelijk deel
+zijn wat groter. Uiteraard zijn er verschillen in het niveau van onderhoud , maar de parkachtige inrichting en
+uitstraling is op het gehele park voelbaar , met in het noordelijk deel een wat meer bosachtige inrichting. Een
+punt van aandacht is het gezamenlijk bepalen van de kwaliteit en kwantiteit van het groen (regels voor
+bomenkap , perceelsgrenzen e. d. ) en de verharding , om de kwaliteiten ook in de toekomst te bewaren en op
+sommige plekken verdere verstening en verharding te voorkomen. Een goed beheersplan kan het
+onderscheidende karakter in stand houden , waarbij er accentverschillen tussen de deelgebieden kunnen zijn.
+Enkele percelen zijn niet bebouwd en liggen braak. Omdat er wel vergunningen voor de bouw van
+recreatiewoningen zijn verleend is dit een onderwerp dat in een eventueel transformatieproces verder
+uitgezocht en opgelost moet worden.
+De bebouwing dateert in de basis uit de jaren ’70. De meeste woningen zijn in de loop van de tijd
+gemoderniseerd en/of uitgebouwd of opgehoogd , waardoor een grote variatie aan woningen is ontstaan.
+Gebouwd mogen worden vakantiewoningen met een oppervlakte van maximaal 100 m2 , met vrijstaande
+bergingen e. d. van maximaal 20 m2 , en een bouwhoogte van maximaal 8 meter , met een goothoogte van 3
+meter. De woningen waarvoor een perceelsgebonden beschikking is afgegeven zijn als zodanig opgenomen
+in het bestemmingsplan. Door de verbouwingen , uitbreidingen en het neerzetten van vrijstaande
+bijgebouwen en overkappingen lijkt niet iedere woning binnen de toegestane maatvoeringen gebleven te
+zijn en is in de loop van de tijd een grote verscheidenheid in grootte en staat van onderhoud van de woningen
+ontstaan. In een transformatieproces zal bepaald moeten worden wat bij het (karakter van) het gebied en
+de wensen passende maatvoeringen zijn. Op grond van indrukken aan de buitenzijde en gelet op het
+oorspronkelijke bouwjaar zal een aantal woningen aan modernisering en/of verduurzaming toe zijn; een
+collectief plan voor verduurzaming kan als kwaliteitsimpuls/meerwaarde worden gezien. In hoeverre de
+woningen voldoen aan de eisen die voor permanente bewoning gelden zal nader onderzoek moeten
+uitwijzen. Daarbij moeten de uitkomsten uit de controle die in 2003 heeft plaatsgevonden (naar aanleiding
+van het toewijzen van een gedoogstatus voor een aantal woningen/bewoners) worden meegenomen.
+Pagina 15 van 71 Paraaf:
+Conclusie: de bebouwde en onbebouwde ruimte ziet er in het algemeen redelijk goed uit. Voor de woningen
+moet geïnventariseerd worden in hoeverre ze aan de wettelijke eisen voor het beoogde gebruik voldoen ,
+waar kansen voor verbetering en verduurzaming liggen en wat de bebouwingsbepalingen zouden moeten
+zijn. Ook moet bezien worden welke regels er voor het groen (kwaliteit en kwantiteit) gesteld moeten
+worden.
+9. Sociaal: aanwezigheid kwetsbare groepen , sociale structuur , sociale veiligheid.
+Noch vanuit de ervaringen vanuit de leden van de werkgroep , noch vanuit de gemeente zijn er signalen dat
+er personen uit kwetsbare groepen op het park verblijven en/of dat er criminaliteit plaatsvindt. In één woning
+schijnen een aantal weken per jaar arbeidsmigranten te wonen. De gezinnen met kinderen die er wonen
+staan niet als problematisch bekend; de kinderen gaan gewoon naar school in De Kiel (en dragen daarmee
+bij aan de instandhouding van die school). Bij een eventuele uitwerking van het concept specifiek woonmilieu
+(voor ouderen en starters) is er wel een aandachtspunt: wanneer zich senioren zouden vestigen die op enig
+moment beroep doen op regelingen en toeslagen kan dat financiële gevolgen hebben voor de gemeente.
+Conclusie: Op dit moment is er geen sprake van sociaal-maatschappelijke problematiek. Bij de uitwerking
+van de te kiezen woonconcepten is dit wel een punt van aandacht.
+10. Planologische toets op hoofdlijnen: aanwezigheid functies/gebruik/plannen in de omgeving die
+een aandachtspunt of een knock-out zijn in relatie tot de beoogde functie.
+Voor het park is het bestemmingsplan De Kiel , De Tip (vastgesteld 3 februari 2015) van kracht. Hierin heeft
+het terrein overwegend de bestemming ‘Recreatie’ , waarop de 19 percelen waar permanente bewoning is
+toegestaan vanwege een perceelsgebonden gedoogbeschikking als zodanig zijn aangemerkt. Enkele percelen
+hebben een bestemming ‘wonen’. De westelijke rand heeft de bestemming ‘groen’ en voor het gehele
+gebieden geldt de aanduiding ‘archeologische verwachtingswaarde’. Hieronder een uitsnede van de
+verbeelding (plankaart) bij dit bestemmingsplan:
+Pagina 16 van 71 Paraaf:
+In de omgeving van het park zouden zich functies kunnen bevinden die van invloed zouden kunnen zijn op
+het mogelijke of toelaatbare op het park , vice versa. De Tip ligt niet in of nabij Natura 2000-gebied of binnen
+het Natuurnetwerk Nederland en dat betekent dat er vanuit de natuurwetgeving geen beperkingen zijn om
+het gebied een woonfunctie te geven. In de directe omgeving zijn geen agrarische of andere bedrijven te
+vinden die voor wat betreft hun mogelijkheden beperkt zouden kunnen worden door De Tip een woonfunctie
+te geven; eventuele bedrijven die er zijn worden al beperkt door bestaande woningen die zich dichterbij
+bevinden. Een punt van aandacht is wel de ligging ten opzichte het chalet De Eeke en de bijbehorende
+dagrecreatieve en verblijfsrecreatieve functies. Deze zijn weliswaar functioneel en fysiek gescheiden door
+een beplantingsstrook , maar de afstand tussen de meest noordelijk gelegen chalets en de meest zuidelijke
+gelegen woningen in De Tip is klein. Onderzoek en overleg zal moeten uitwijzen of en hoe beide functies hier
+op een verantwoorde manier naast elkaar kunnen bestaan en/of dat maatregelen nodig zijn.
+Conclusie: een punt van aandacht en studie is de verhouding tussen het bestaande recreatieve bedrijf aan
+de zuidkant van De Tip (chaletpark De Eeke en aanverwanten) en een eventuele woonfunctie op De Tip.
+Onderzocht moet worden of en hoe beide naast elkaar kunnen bestaan.
+Eindconclusie
+Het verder verkennen van de mogelijkheden van transformatie naar een gedeeltelijke woonfunctie (in een
+combinatie permanente bewoning en gebruik als tweede woning) voor het gebied De Tip is kansrijk. Bij een
+transformatie moeten in ieder geval de volgende aandachtspunten meegenomen worden:
+Status en mandaat werkgroep
+Wijze van terugkoppeling/communicatie naar eigenaren/bewoners
+Kaart met bestaand en gewenst gebruik , in combinatie met de huidige bestemmingen en de juiste
+begrenzingen van het park opstellen , bijvoorbeeld mede op basis van een enquête.
+Onderbouwing/uitwerking relatie De Kiel – De Tip
+Oplossen kwestie nog niet benutte bouwrechten
+Kwestie inrichting , eigendom en beheer van de weg De Tip en de aansluitingen daarop
+Inrichting entreegebieden (kwaliteit , maatvoering , voorzieningen)
+Wijze van afvalinzameling
+Toegankelijkheid en doorrijdbaarheid voor hulpdiensten
+Bepalen geschiktheid
+en
+onderhoudsniveau
+kwaliteit ,
+aard ,
+voorzieningen (boven- en ondergronds) , gelet op de nieuwe functie
+Bepalen eigendoms- en beheerspositie van de openbare/collectieve voorzieningen
+Uitwerken mogelijkheden voor kwaliteitsimpuls in de openbare/collectieve ruimte
+Bepalen regels voor kwaliteit en kwantiteit van het groen (zo nodig per deelgebied) , ook in relatie tot
+mate van verharding
+Bepalen gewenste maatvoering e. d. van de woningen
+Uitwerken mogelijkheid tot collectieve verduurzaming , als mogelijke meerwaarde/kwaliteitsimpuls
+Onderzoeken of woningen aan eisen van Bouwbesluit voldoen
+Bij uitwerken specifiek woonmilieu voor ouderen: inschatten financiële gevolgen voor de gemeente
+Afstemming recreatief gebruik De Eeke – woonfunctie De Tip
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10. van de openbare/collectieve
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+Pagina 17 van 71 Paraaf:
+Bijlage 3 – Streefbeeld oktober 2024
+‘Parkachtig wonen in De Tip’
+Streefbeeld transformatiepark De Tip , De Kiel
+Definitief , oktober 2024
+Pagina 18 van 71 Paraaf:
+Inleiding
+Aanleiding
+De gemeenteraad van Coevorden heeft een aantal parken aangewezen waar onderzocht wordt of
+transformatie naar een andere bestemming haalbaar is. Een van die parken is De Tip in De Kiel. Hier is
+transformatie van recreatie naar permanente bewoning aan de orde. Het mogelijk maken van permanente
+bewoning in alle woningen op dit park doet recht aan de huidige feitelijke situatie , waarin een groot deel van
+de woningen al permanent bewoond wordt. Deels is dat al toegestaan op basis van een perceels- of
+persoonsgebonden beschikking , deels niet. Met name de aanwezigheid van perceelsgebonden beschikkingen
+maakt dat een terugkeer naar volledig recreatief gebruik niet realistisch wordt geacht.
+In het verlengde hiervan is gestart met een transformatieproces , waarin gemeente , een werkgroep uit het
+park met ondersteuning van Vitale Vakantieparken Drenthe samenwerken om de beoogde transformatie tot
+stand te brengen. Het voorliggende Streefbeeld is een stap in het transformatieproces.
+Einddoel
+Het einddoel van de transformatie is dat er in beginsel voor alle percelen op De Tip een ‘woonbestemming’
+geldt die permanente bewoning mogelijk maakt. Voor de eigenaren die hun woning recreatief willen
+gebruiken is dat binnen een ‘woonbestemming’ mogelijk op grond van overgangsrecht. Voor de eigenaren
+die pertinent geen ‘woonbestemming’ wensen is het mogelijk de huidige recreatie-bestemming te
+handhaven.
+Het einddoel zal worden vastgelegd in een herziening van het omgevingsplan die specifiek voor De Tip wordt
+opgesteld en vastgesteld door de gemeenteraad. Bij dit plan horen afspraken tussen de gemeente en de
+gezamenlijke/individuele eigenaren over de uitvoering van concrete maatregelen die noodzakelijk of
+wenselijk zijn in verband met deze transformatie. Deze worden vastgelegd in het Transformatieplan en een
+anterieure overeenkomst tussen de VvE/de eigenaren en de gemeente.
+Proces
+De transformatie van De Tip verloopt globaal volgens het Stappenplan Transformatie , dat als bijlage 1 is
+toegevoegd. In dit proces wordt uitgegaan van een samenwerking tussen een vertegenwoordiging vanuit het
+park en de gemeente , onder leiding van een projectleider. Vanuit deze samenwerking worden voorstellen
+voorbereid , met ondersteuning van de betreffende vakambtenaren van de gemeente. Deze voorstellen
+worden voorgelegd aan de ‘achterban’ , bestaande uit de eigenaren op De Tip en het gemeentebestuur. De
+werkgroep van De Tip bestaat uit enkele eigenaren vanuit het VvE-gedeelte en van daarbuiten. De werkgroep
+en de gemeente komen eens per drie weken bijeen. 3
+Huidige situatie
+Bestemmingsplan
+Hieronder links een afbeelding van het geldende bestemmingsplan (De Kiel , De Tip , vastgesteld op 3 februari
+2015). Hierin is het gebied te zien waar deze transformatie betrekking op heeft. De lichtgroene kleur duidt
+de recreatieve bestemming aan (59 percelen). Voor de percelen met een omkadering (20) geldt dat deze
+weliswaar een recreatieve bestemming hebben , maar er ook permanente bewoning toegestaan is. Verder
+zijn er nog een aantal (momenteel 9) persoonsgebonden beschikkingen voor permanente bewoning van
+kracht. De vijf geel gekleurde delen zijn uitgezonderd van de transformatie; hier ligt al een woonbestemming
+op. De iets donkerder groene kleur aan de westelijke rand heeft betrekking op de groenstrook , de grijze aan
+de oostkant op de weg. Op het gehele gebied ligt een zogenaamde archeologische verwachtingswaarde ,
+aangeduid met ‘+’-tekens.
+Pagina 19 van 71 Paraaf:
+Ligging
+Het gebied zoals dat in het bestemmingsplan is opgenomen bestaat uit drie deelgebieden , zie het kaartje aan
+de rechterzijde:
+De noordelijke punt , tot aan de gele lijn , met de adressen De Tip 111 – 133. Hier staan 9 woningen
+met een recreatiebestemming , die worden ontsloten door een gemeentelijke weg.
+De percelen met de huisnummers 101 – 109 , tot aan de oranje streep , liggen aan een weg die over
+de betreffende percelen loopt (recht van overpad).
+Het zuidelijke deel , tot aan de blauwe streep , met de adressen De Tip 11 – 99. Hier staan 42 woningen
+met een recreatiebestemming. De eigenaren van de percelen in dit gebied zijn verenigd in een
+Vereniging van Eigenaren (VvE). Zij zijn ontsloten aan een ringweg die eigendom is van deze VvE en
+aansluit op de openbare weg.
+De reguliere woningen , met woonbestemming , langs De Tip vallen buiten het transformatieproces. 4
+1.
+2.
+3.
+Leeswijzer
+In dit Streefbeeld is per thema beschreven wat de huidige situatie is, waar knelpunten zitten of ruimte of
+noodzaak voor verbetering is en welke afspraken daarover zijn/worden gemaakt tussen de gemeente en het
+park. Ter inleiding is uitgelegd hoe tot de verschillende thema’s is gekomen. Aan het eind is een doorkijk naar
+de volgende fase en de bijbehorende voorgenomen planning gemaakt. In dit streefbeeld noemen we het
+geheel van de drie deelgebieden ‘het park’ of ‘De Tip’.
+De thema’s
+Zoals benoemd is het doel van het streefbeeld om te schetsen hoe De Tip er over een aantal jaren zou
+kunnen/moeten uitzien , als de bestemming die permanent wonen mogelijk maakt is verwezenlijkt. Aan zo’n
+bestemming zijn namelijk eisen en wensen verbonden , die betrekking hebben op zowel de inrichting van het
+park als de staat van de woningen. Het streefbeeld dient daarmee als visiedocument.
+Pagina 20 van 71 Paraaf:
+Om duidelijk te krijgen wat goed is zoals het is en wat beter of anders kan of moet , zijn alle aspecten die van
+belang zijn bekeken. Hierbij is onder meer gebruik gemaakt van de zogenaamde Kwaliteitskaarten , die in een
+sessie in Wezup met betrokken eigenaren en de gemeente zijn ingevuld. De opbrengst van deze sessie is als
+bijlage 2 bijgevoegd.
+De relevante onderwerpen die uit de kwaliteitskaarten naar voren kwamen zijn gerubriceerd per thema en
+vervolgens inhoudelijk uitgediept in aanwezigheid van de werkgroep en de betreffende vakspecialist van de
+gemeente. Dit heeft geresulteerd in een goed inzicht in de opgave en een aanzet voor een actie/oplossing.
+Deze aanzet moet in meer of mindere mate verder worden uitgewerkt en dat gebeurt in de volgende fase:
+het transformatieplan. In dat plan worden alle acties concreet: wie doet wat , wanneer en voor wiens
+rekening. Zie ook aan het eind van dit stuk , bij ‘vervolg’.
+Hierna volgen per thema de onderwerpen die er voor De Tip toe doen , bestaande uit een beschrijving van de
+huidige situatie en de gewenste situatie (wat kan/moet beter of anders). Aan het eind is een tabel
+opgenomen met daarin de acties en degene bij wie de uitwerking van deze actie ligt. Dat uitwerken vindt dus
+plaats in het kader van het transformatieplan en de wijziging van het omgevingsplan. 5
+Thema 1: Gebruik , bouwen en erf
+Huidige situatie
+In de huidige situatie geldt de bestemming ‘Recreatie’ , met voor de percelen waar permanente bewoning al
+toegestaan is een aanduiding , zoals geschetst in de inleiding. Het toegestane aantal recreatiewoningen op
+het park is 59 , waarvan er 20 over genoemde aanduiding beschikken
+Op ieder perceel mag een vrijstaande recreatiewoning van maximaal 100 m2 met een bijgebouw (vrijstaand
+of aangebouwd) van maximaal 20 m2. De afstand tussen de hoofdgebouwen dient tenminste 20 meter te
+zijn , met een mogelijkheid dat onder voorwaarden naar 10 m. te verkleinen. Binnen de bestemming behoren
+ook de erven , tuinen , beplanting en bebossing , wegen en paden , parkeervoorzieningen , sloten en
+waterpartijen.
+Wat kan/moet beter of anders
+In beginsel krijgen alle percelen een bestemming die permanent wonen mogelijk maakt. Bestaand recreatief
+gebruik kan worden voortgezet op grond van het overgangsrecht. Voor de eigenaren die willen blijven
+recreëren en geen prijs stellen op een ‘woonbestemming’ is er de mogelijkheid de huidige
+recreatiebestemming te behouden. In dat geval mag er niet gewoond worden en zijn er (zie hieronder) geen
+bouwmogelijkheden. Er wordt bezien of bij zo’n recreatiebestemming de mogelijkheid kan worden
+toegevoegd om op enig moment toch naar een woonbestemming te gaan , onder dezelfde voorwaarden als
+nu worden gesteld.
+Wanneer alle woningen permanent bewoond mogen worden is de verwachting dat er meer wensen en
+plannen komen voor vernieuwing en uitbreiding van de woningen. Het is verstandig daar heldere regels voor
+op te stellen. Deze moeten duidelijk zijn , handhaafbaar zijn en gericht zijn op het borgen en beschermen van
+de karakteristieken die De Tip onderscheidend maken van een ‘gewone’ woonwijk: de ligging in het groen ,
+met grote percelen met daarop veel beplanting , betrekkelijk bescheiden bebouwing , weinig verstening
+enzovoorts. Samen te vatten als ‘geen woonwijk , maar een woonpark’.
+De belangrijkste bepalingen blijven ongewijzigd: er mogen geen nieuwe woningen worden toegevoegd. De
+hoofdgebouwen zijn maximaal 100 m2 en staan tenminste 20 m1 uit elkaar (met een mogelijkheid dit te
+verkleinen naar tenminste 10 m1). De goot- en bouwhoogte blijven respectievelijk ten hoogste 3 m1 en 8 m1.
+De mogelijkheden voor bijgebouwen (vrijstaand of aan het hoofdgebouw) worden verruimd: in plaats van 20
+m2 wordt 50 m2 mogelijk , met de mogelijkheid van een carport. De goot- en bouwhoogte van bijgebouwen
+blijven 3 m1 en 6 m1. Op deze manier wordt recht gedaan aan de wat grotere ruimtebehoefte die past bij
+een woonbestemming , maar blijft het open , parkachtige karakter in stand.
+Pagina 21 van 71 Paraaf:
+Om het open , groene beeld te handhaven en omwille van de verkeersveiligheid komen er regels voor de
+plaats van de bijgebouwen. Als voorstel ligt er nu de volgende formulering: ‘een bijgebouw mag niet voor de
+naar de weg gerichte gevel(s) van een hoofdgebouw staan , tenzij de afstand tussen die gevel(s) en de as van
+de weg meer is dan 5 m1 In dat geval dient het bijgebouw op tenminste 5 m1 van de as van de weg te staan.
+Carports moeten in alle gevallen op tenminste 5 m1 van de weg worden geplaatst.
+Vergunningsvrij bouwen wordt zoveel als mogelijk beperkt , om het parkachtige karakter te handhaven en
+verstening te voorkomen. Dit wordt nog verder uitgewerkt. Bedrijven aan huis zijn onder voorwaarden
+mogelijk. Een belangrijk criterium is dat overlast voor de omgeving en verkeersaantrekkende werking
+uitgesloten.
+Om het park groen te houden worden schuttingen , muren en andere niet-natuurlijke erfbegrenzingen
+uitgesloten. Ook wordt een maximaal verhardingspercentage opgenomen , zodat ‘verstening’ van de
+percelen wordt voorkomen. Dit betekent dat vastgelegd wordt welk percentage van het perceel buiten de
+bebouwing verhard mag worden. Een percentage van 20 lijkt werkbaar.
+Er zullen bestaande situaties zijn die afwijken van wat onder het huidige bestemmingsplan of het nieuwe
+omgevingsplan is toegestaan. De gemeente moet bepalen of en zo ja , welk overgangsrecht hierop van
+toepassing verklaard wordt. Bebouwing die past binnen het huidige bestemmingsplan , maar in strijd is met
+het nieuwe omgevingsplan kan in ieder geval blijven staan. Dat geldt ook voor bebouwing die in strijd is met
+het huidige bestemmingsplan , maar past binnen het nieuwe omgevingsplan. Bebouwing die in strijd is met
+het huidige én het toekomstige bestemmingsplan valt niet onder het overgangsrecht. De insteek is dat
+dergelijke bebouwing mag blijven staan , maar dat er niet mag worden vergroot , herbouwd of gewijzigd. Dit
+zal in het omgevingsplan worden opgenomen.
+Acties
+Thema 2: Groen
+Huidige situatie
+De aanwezigheid van veel groen op het park is een onderscheidende kwaliteit en het is de wens van zowel
+de eigenaren als de gemeente om dat karakter te behouden.
+De basis van het groene karakter van het gebied zijn de (grote) bomen , de hagen en het vrijwel ontbreken
+van schuttingen en muren. Deze basis vormt de groene structuur/raamwerk die het karakter van het park
+bepaalt. De beplanting in de tuinen en op de gezamenlijk eigendommen (in het VvE-gedeelte) vullen het aan.
+Voor de inpassing van het gebied in de omgeving zijn de randen van belang , met name de rand aan de
+westzijde.
+Pagina 22 van 71 Paraaf:
+Wat kan/moet beter of anders
+De transformatie naar een woonbestemming , in combinatie met het toestaan van grotere bijgebouwen zal
+waarschijnlijk leiden tot meer bouwactiviteiten en een intensiever gebruik van erven en tuinen. Dit kan van
+invloed zijn op de kwaliteit en de kwantiteit van het groene raamwerk en om dat te beschermen is het
+verstandig (spel)regels op te stellen. Deze moeten duidelijk , realistisch en werkbaar zijn. Dat betekent oog
+voor de praktische zaken en behoeften die bij het permanent wonen horen , zonder het groene karakter te
+verliezen. De regels kunnen voor zover mogelijk in het nieuwe omgevingsplan worden opgenomen en
+aanvullend in een bijlage , een ‘groenplan’.
+De grotere bomen , zowel in de particuliere tuinen als in het gezamenlijke VvE-grondgebied , zijn belangrijke
+dragers van de groene structuur. Dat geldt niet voor alle bomen: de ene boom draagt meer bij aan het groene
+karakter door de soort of standplaats dan de andere. Om de ‘waarde’ van een boom goed te kunnen
+inschatten is het zinvol een inventarisatie uit te voeren en op basis daarvan vast te leggen welke bomen
+bepalend en behoudenswaardig zijn en welke minder of niet. Het betekent niet dat iedere boom van enige
+omvang moet blijven staan: In sommige gevallen staan bomen dicht op elkaar en kan het verstandig zijn
+enkele bomen op te offeren om andere bomen levensvatbaarder te maken. Ook kunnen bomen te dicht op
+de bebouwing staan of kunnen ze te beperkend zijn voor een uitbreiding of verbouwing van een woning.
+Daarnaast hebben bomen niet het eeuwige leven of zijn ze om klimatologische redenen minder
+toekomstbestendig. Naast de inventarisatie is het daarom belangrijk criteria op te stellen aan de hand
+waarvan bepaald kan worden of een boom kan verdwijnen of niet en of herplant aan de orde zou moeten
+zijn of niet. Die criteria houden verband met de soort , de plek , de status/gezondheid , de ecologische waarde
+en de toekomstbestendigheid van de boom. De criteria moeten worden verwerkt tot heldere regels die
+worden opgenomen in het omgevingsplan en het ‘groenplan’. Het groenbeheersplan van de VvE zou hierop
+moeten aansluiten.
+Op dit moment zijn de kavelgrenzen in veel gevallen gemarkeerd met hagen en deze dragen sterk bij aan het
+groene raamwerk. Het zou onwenselijk zijn de hagen te vervangen door bijvoorbeeld schuttingen of muren.
+Dat kan voorkomen worden door in het omgevingsplan regels te stellen voor nieuwe erfscheidingen: deze
+mogen niet van niet-natuurlijk materiaal zijn.
+Niet ieder type haag is even geschikt als erfscheiding. Zo zijn coniferenhagen gevoeliger voor brand dan
+andere soorten. Ook zijn bepaalde soorten minder toekomst- en klimaatbestendig , zoals de beukenhaag. Dat
+betekent niet dat die niet toegepast kan worden , maar bij nieuwe aanplant kunnen andere soorten
+verstandiger zijn.
+Er is geen aanleiding regels te stellen over het overige groen in de particuliere tuinen , dat zou te ver voeren.
+Suggesties over gebiedseigen en toekomstbestendige soorten struiken en planten zullen wel worden
+opgenomen in het groenplan. Om te voorkomen dat percelen teveel versteend/verhard raken is het
+verstandig een maximaal verhardingspercentage op te nemen in het omgevingsplan. Dat betekent dat
+vastgelegd wordt welk percentage van het perceel buiten de bebouwing verhard mag worden. 8
+Op de westelijke rand van het gebied (een strook van 5 m. breed op de particuliere percelen die aan deze
+rand liggen) ligt op dit moment al een bestemming ‘groen’. Bebouwing is daar niet toegestaan en het
+weghalen van bestaand groen , uitgezonderd onderhoud , evenmin. De gedachte achter deze groene rand is
+dat het gebied De Tip als geheel goed ingepast moet zijn in het landschap. Deze bestemming ‘groen’ zal van
+kracht blijven en nader worden ingevuld in het Groenplan. Van belang is in ieder geval dat er een duidelijke
+bomenrij aanwezig blijft; dat zal worden meegenomen in de bomeninventarisatie. Aan de zuidelijke rand van
+het gebied (de grens met De Eeke) wordt een strook van 2 m. met dezelfde bestemming ‘groen’ op de
+particuliere percelen toegevoegd. Deze vormt samen met de vergelijkbare strook van 8 m. op het
+grondgebied van De Eeke , een groene ‘buffer’ tussen De Tip en De Eeke. Eventuele bestaande bebouwing in
+deze strook kan blijven staan , nieuwe bebouwing is niet toegestaan en deze strook dient een groene invulling
+te houden.
+Pagina 23 van 71 Paraaf:
+Acties
+Thema 3: inrichting openbare/collectieve ruimte (wegen en bermen)
+Huidige situatie
+De weg die door het VvE-deel loopt is in eigendom en beheer van de VvE. De weg is voor een ieder
+toegankelijk (geen slagboom) en is daarmee ‘openbaar’. Dat betekent dat de verkeersregelgeving uit de
+Wegenverkeerswet van kracht is. De weg is functioneel; er worden door de gebruikers geen problemen
+ervaren. De staat van de weg is op orde en onderhoud vindt planmatig plaats. Ook de riolering in dit deel van
+het park is in eigendom en beheer bij de VvE en functioneert naar wens. De straatverlichting (ook in eigendom
+en beheer bij de VvE) is verouderd.
+De huisnummering is onlogisch en daarmee is de vindbaarheid lastig. Parkeren langs de weg is niet
+toegestaan , maar feitelijk ook niet mogelijk vanwege de geringe breedte en gebeurt ook niet; op de erven is
+voldoende parkeergelegenheid. De entree vanaf de ontsluitende weg De Tip oogt wat rommelig en is vrij
+onoverzichtelijk , zowel vanuit het park als vanaf de openbare weg. Dit zal verbeterd moeten worden.
+Het middendeel (de vijf woningen) wordt ontsloten met een eigen weg (halfverharding) die over de vijf
+percelen loopt. Door het noordelijk deel loopt een gemeentelijke weg , ook in halfverharding , die eigendom
+is van en onderhouden wordt door de gemeente. De uitstraling van beide halfverharde wegen past bij het
+parkachtige karakter van het gebied. Het beheer en onderhoud is wel een aandachtspunt. Parkeren langs de
+weg is ook hier niet mogelijk , maar er is voldoende ruimte op de erven.
+Wat kan/moet beter of anders
+Er is geen aanleiding voor grote ingrepen of aanpassingen in de wegenstructuur. Inmiddels is besloten dat
+het eigendom van de weg (en de ondergrondse infrastructuur) in het VvE-gedeelte bij de VvE blijft; de
+gemeente neemt het niet over. Ook het eigendom in het noordelijk deel verandert niet. De straatverlichting
+wordt vernieuwd , waarbij overgeschakeld wordt naar ledverlichting.
+Overwogen wordt of de vindbaarheid verbeterd moet worden , bijvoorbeeld door een nieuwe
+huisnummering of een betere bewegwijzering. Om de positie van de wegen wat duidelijker vast te leggen
+krijgen de wegen een bestemming ‘verkeer’ in het omgevingsplan.
+Pagina 24 van 71 Paraaf:
+De wat onoverzichtelijke situatie bij de entree van het VvE-gedeelte wordt in ieder geval verbeterd door het
+aanbrengen van haaientanden , zodat duidelijker wordt dat verkeer op De Tip voorrang heeft boven verkeer
+van en naar het park. Ook wordt een bord ‘eigen weg’ geplaatst.
+Een punt van aandacht voor het gehele gebied is de bereikbaarheid voor de hulpdiensten. Deze moeten over
+voldoende rij- en manoeuvreerruimte beschikken , zodat ze alle woningen vlot kunnen bereiken. De
+gemeente heeft hierover advies gevraagd bij de Veiligheidsregio (VRD). Wanneer dit advies er is zal bezien
+worden of en zo ja welke aanpassingen nodig zijn. Dit wordt opgenomen in het Transformatieplan (zie bij
+‘Vervolg’).
+Thema 4: Afvalinzameling
+Huidige situatie
+Het huisvuil binnen het VvE-gedeelte wordt als bedrijfsafval ingezameld. De eigenaren daar betalen geen
+afvalstoffenheffing en hebben geen milieupas die toegang geeft tot de milieustraten. Op een centrale plaats
+op het park staat een verzamelcontainer waar de eigenaren hun afval naartoe brengen. Buiten het VvE-
+gedeelte zamelt de gemeente het afval op de gebruikelijke manier in: de eigenaren hebben kliko’s die de
+gemeente ophaalt. Deze eigenaren betalen wel afvalstoffenheffing en hebben een milieupas.
+Wat kan/moet beter of anders
+De gemeente is op grond van de Wet milieubeheer verantwoordelijk voor de inzameling van afval. Dit
+betekent dat er voor het VvE-gedeelte van het park het nodige verandert. In overleg met de VvE is besloten
+tot een systeem van ondergrondse afvalinzameling voor het VvE-gedeelte van het park. Naast de ingang tot
+dit gedeelte zullen een aantal ondergrondse containers worden geplaatst op en locatie in eigendom van de
+VvE. Vanaf een nader te bepalen moment begin 2025 zal deze inzameling operationeel worden. Eigenaren
+ontvangen een pasje waarmee zij de containers kunnen openen om hun afval erin te werpen. Ook krijgen ze
+toegang tot de milieustraten voor het grofvuil. Zij gaan ook de reguliere afvalstoffenheffing betalen. Voor de
+eigenaren buiten het VvE-gedeelte komt er een keuzemogelijkheid: zij kunnen hun kliko’s behouden of zij
+gaan mee in de ondergrondse inzameling op de genoemde locatie.
+Acties
+Pagina 25 van 71 Paraaf:
+Thema 5: Bouwbesluit (BblF)
+Huidige situatie
+Alle woningen (en andere gebouwen) moeten voldoen aan het Besluit bouwwerken en leefomgeving (Bbl ,
+voorheen het Bouwbesluit 2012). Daarin staan regels voor veiligheid , gezondheid en dergelijke. De eigenaar
+van de woning is verantwoordelijk voor het voldoen aan de regels , de gemeente kan deze controleren. De
+regels voor recreatiewoningen zijn anders/minder streng dan de regels voor ‘normale’ woningen. Dit heeft
+ermee te maken dat mensen over het algemeen niet voortdurend of lange tijd in een recreatiewoning
+verblijven en wel in hun ‘normale’ woning. Verder is er een groot verschil tussen de eisen voor nieuwe
+woningen en voor bestaande woningen. Omdat de woningen er bij De Tip al staan gelden de eisen voor
+bestaande woningen.
+De eigenaren van de woningen op De Tip die hun woning recreatief gebruiken moeten hun woning laten
+voldoen aan de eisen die voor bestaande recreatiewoningen gelden. Voor de eigenaren die er permanent
+wonen , of verhuren voor permanente bewoning , moet hun woning aan de strengere eisen voor bestaande
+‘normale’ woningen voldoen. Er geldt dus op dit moment een verschil in eisen.
+Wat kan/moet beter of anders
+In de toekomstige situatie mag er permanent gewoond worden in alle woningen , voor zover ze een
+bestemming ’wonen’ krijgen. Dat betekent dat alle woningen op het park moeten voldoen aan het Bbl voor
+bestaande bouw , voor reguliere woningen. Iedere eigenaar is daarvoor zelf verantwoordelijk.
+Er is inmiddels voor bijna alle woningen in kaart gebracht in hoeverre ze voldoen aan de genoemde eisen.
+Hiertoe is een bouwkundige in de arm genomen. De eigenaren van de geïnspecteerde woningen hebben een
+inspectierapport ontvangen en de gemeente een afschrift.
+Uit de inspectie zijn geen grote onvolkomenheden gekomen. Met eigenaren van woningen die niet voldoen
+aan de eisen wordt een termijn afgesproken om de noodzakelijke aanpassingen uit te voeren. De gemeente
+zal steekproeven nemen om te kijken of de aanpassingen doorgevoerd zijn. Ook woningen die niet zijn
+geïnspecteerd , omdat de eigenaar dat niet nodig achtte , worden in de steekproeven meegenomen. Tegen
+het niet voldoen aan het Bouwbesluit kunnen sancties worden opgelegd.
+Acties
+Pagina 26 van 71 Paraaf:
+Vervolg
+De acties zoals die hierboven genoemd zijn , zijn tot stand gekomen in het periodieke overleg tussen de
+werkgroep en de gemeente op ambtelijk niveau , afgestemd met de betrokken vakambtenaren. Voordat de
+acties in gang gezet kunnen worden moet er instemming plaatsvinden door de beide ‘achterbannen’ , te
+weten het college van burgemeester en wethouders van de gemeente en de eigenaren in het gebied , zowel
+de leden van de VvE als de niet-verenigde eigenaren. Die ‘instemming’ houdt in het instemmen met het
+streefbeeld en de daarin opgenomen acties.
+Na de toezending en de presentatie van het concept-streefbeeld in juli 2024 hebben de eigenaren de
+gelegenheid gehad reacties in te dienen. Enkele eigenaren hebben daar gebruik van gemaakt (zie het
+overzicht in bijlage 3) en dat heeft geleid tot enkele bijstellingen en verduidelijkingen. Burgemeester en
+wethouders van Coevorden hebben het streefbeeld in oktober 2024 vastgesteld. Het is vervolgens naar alle
+eigenaren gestuurd.
+Inmiddels is begonnen met de uitwerking en concretisering , stap 4 volgens het Stappenplan Transformatie.
+Dat zal bij het ene actiepunt eenvoudiger gaan dan bij het andere. Het kan ook leiden tot bijstelling , omdat
+bepaalde maatregelen bij nader inzien niet haalbaar of wenselijk blijken of omdat er nieuwe ideeën ontstaan.
+Uiteindelijk moet in het transformatieplan duidelijk worden wie wat wanneer en voor wiens rekening gaat
+doen.
+In deze fase wordt ook meegenomen het uitwerken van een kwaliteitsimpuls. Dit komt voort uit een eis van
+de Provincie Drenthe dat de transformatie van een park gepaard moet gaan met een of meer maatregelen
+die de kwaliteit van/op het park verbeteren. Dat kan zijn op ruimtelijk , landschappelijk en/of maatschappelijk
+gebied. Hoe die impuls eruit moet zien is niet omschreven. Dat hangt af van de omstandigheden , kansen en
+mogelijkheden op het park zelf. Het is vooral aan het park om hier invulling aan te geven. De werkgroep heeft
+inmiddels enkele ideeën en gaat die de komende tijd uitwerken. Ze zullen uiteindelijk worden opgenomen in
+het transformatieplan.
+Pagina 27 van 71 Paraaf:
+Bijlage 4 – Transformatieplan juni 2025
+Pagina 28 van 71 Paraaf:
+Inleiding
+Aanleiding
+De gemeenteraad van Coevorden heeft een aantal parken aangewezen waar onderzocht wordt of
+transformatie naar een andere bestemming haalbaar is. Een van die parken is De Tip in De Kiel. Hier is
+transformatie van recreatie naar permanente bewoning aan de orde. Het mogelijk maken van permanente
+bewoning in alle woningen op dit park doet recht aan de huidige feitelijke situatie , waarin een groot deel van
+de woningen al permanent bewoond wordt. Deels is dat al toegestaan op basis van een perceels- of
+persoonsgebonden beschikking , deels niet. Met name de aanwezigheid van perceelsgebonden beschikkingen
+maakt dat een terugkeer naar volledig recreatief gebruik niet realistisch wordt geacht.
+In het verlengde hiervan is gestart met een transformatieproces , waarin gemeente , een werkgroep uit het
+park met ondersteuning van Vitale Vakantieparken Drenthe samenwerken om de beoogde transformatie tot
+stand te brengen. Een belangrijke stap in dat proces was het vaststellen van het streefbeeld in oktober 2024.
+Het streefbeeld is als bijlage 1 bijgevoegd.
+In de maanden daarna is gewerkt aan de uitwerking van allerlei zaken die een plaats hebben gevonden in dit
+transformatieplan , in combinatie met het opstellen van een herziening van het omgevingsplan (in de vorm
+van een zogenaamd TAM-omgevingsplan , de opvolger van het vroegere bestemmingsplan) en
+overeenkomsten over de uitvoering van de diverse maatregelen. Het transformatieplan is de schakel tussen
+het omgevingsplan en de uitvoering van concrete maatregelen zoals die geborgd wordt in de anterieure
+overeenkomst tussen de eigenaren en de gemeente.
+Einddoel
+Het einddoel van de transformatie is dat er voor alle percelen op De Tip een bestemming geldt die
+permanente bewoning mogelijk maakt , waarbij er een uitzondering wordt gemaakt voor de eigenaren van
+de percelen die daar geen prijs op stellen. Dit doel zal worden vastgelegd in het omgevingsplan dat wordt
+vastgesteld door de gemeenteraad. Bij dit omgevingsplan horen afspraken tussen de gemeente en de
+gezamenlijke/individuele eigenaren over de uitvoering van concrete maatregelen die noodzakelijk of
+wenselijk zijn in verband met deze transformatie en over financiële aspecten. Deze zijn vastgelegd in het
+transformatieplan en de overeenkomsten tussen de eigenaren en de gemeente.
+Leeswijzer
+In dit transformatieplan zijn de thema’s en de daaruit voortvloeiende maatregelen uit het streefbeeld
+geconcretiseerd , zodat duidelijk is wie wat wanneer gaat uitvoeren , voor wiens rekening dat komt en in welke
+vorm het z’n beslag krijgt: als regel in het omgevingsplan , als uit te voeren actie in de anterieure
+overeenkomst , enzovoorts. Verder wordt ingegaan op de te bereiken meerwaarde/ kwaliteitsimpuls.
+Het gebied/park De Tip bestaat uit drie delen: het grootste deel aan de zuidzijde is het Bungalowpark Op De
+Kiel; de eigenaren daar zijn verenigd in een vereniging (VvE) met die naam. Wanneer het om dit deel gaat is
+in dit transformatieplan de benaming Op De Kiel gebruikt. Ten noorden van Op De Kiel ligt een straatje met
+daaraan vijf woningen zonder eigen naam of verenging. Daaraan grenst tenslotte het meest noordelijk
+gebied , ontsloten aan een gemeentelijke weg. Ook dit deel heeft geen eigen naam. Wanneer het om het
+gebied/park als geheel gaat wordt de naam De Tip gebruikt.
+Pagina 29 van 71 Paraaf:
+De thema’s uit het streefbeeld en de concretisering daarvan
+Het streefbeeld heeft als doel gehad te schetsen hoe De Tip er over een aantal jaren zou kunnen/moeten
+uitzien , als de bestemming die permanent wonen mogelijk maakt is verwezenlijkt. Aan zo’n bestemming zijn
+namelijk eisen en wensen verbonden , die betrekking hebben op zowel de inrichting van het park als de staat
+van de woningen. Om duidelijk te krijgen wat goed is zoals het is en wat beter of anders kan of moet , zijn alle
+aspecten die van belang zijn bekeken. Hierbij is gebruik gemaakt van de zogenaamde kwaliteitskaarten.
+De relevante onderwerpen die uit de kwaliteitskaarten naar voren kwamen zijn gerubriceerd per thema en
+daarna inhoudelijk uitgediept in aanwezigheid van de werkgroep en de betreffende vakspecialist van de
+gemeente. Dit heeft geresulteerd in een goed inzicht van het vraagstuk en een aanzet voor een
+actie/oplossing. Deze aanzet is in dit transformatieplan concreet gemaakt.
+Hierna per thema de onderwerpen die er voor De Tip toe doen , bestaande uit de tabel met acties uit het
+streefbeeld en een beschrijving van de concretisering daarvan.
+Thema 1: Gebruik , bouwen en erf
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 1. 1
+Eigenaren die de recreatiebestemming willen behouden en geen gebruik willen maken van het
+overgangsrecht hebben twee keuzes. De eerste is dat ze niet meegaan in de transformatie. Voor hen
+verandert er dan niets: de bestemming blijft recreatief en de bouwmogelijkheden (zie bij 1. 6) wijzigen niet.
+De tweede mogelijkheid is dat zij wel meegaan in de transformatie naar een woonbestemming en kiezen
+voor een aanduiding op hun perceel in het omgevingsplan. Die aanduiding luidt ‘recreatief gebruik
+toegestaan’. Hiermee kan er naast gewoond ook gerecreëerd worden , zij het zonder bedrijfsmatige
+exploitatie. Deze aanduiding is bedoeld voor de eigenaren die nu recreëren maar op enig moment de
+mogelijkheid willen hebben permanent te gaan wonen.
+Ad 1. 2 en 1. 5
+De Tip moet een groen park blijven. Daarom zijn er in het TAM-omgevingsplan regels opgenomen waarin
+staat dat schuttingen , hekken en muren verboden zijn als erfafscheiding. Ook is bepaald dat maximaal 20%
+van de oppervlakte van het perceel , na aftrek van wat bebouwd is , mag worden verhard met tegels en
+dergelijke. Dat is niet alleen voor de groene uitstraling , maar ook voor de waterhuishouding.
+Pagina 30 van 71 Paraaf:
+Ad 1. 3
+In het TAM-omgevingsplan is opgenomen dat bedrijven aan huis die overlast kunnen veroorzaken (geluid ,
+geur , autoverkeer , reclame-uitingen) niet zijn toegestaan. Andere vormen van bedrijvigheid , zoals een ZZP’er
+die zijn (kantoor)werk vanuit huis doet zijn toegestaan , mits ondergeschikt aan het wonen.
+Ad 1. 4
+In De Tip staan de woningen niet ‘strak in het gelid’ zoals in veel woonwijken , maar wat meer ‘speels’ schuin
+of midden op de kavel. Daarmee is er een kenmerkende uitstraling ontstaan van grote , groene kavels met
+betrekkelijk kleine woningen erop die open , ruim en parkachtig aandoet. Om die kwaliteit te behouden zijn
+er in het omgevingsplan regels opgenomen voor de plaatsing van de woningen en de bijgebouwen. De
+woningen moeten op de huidige plaats blijven staan , maar kunnen wel naar achteren en naar een zijkant
+uitgebreid worden. De bijgebouwen staan in principe achter de woningen , met de mogelijkheid daarvan af
+te wijken met een vergunning , bijvoorbeeld voor carports. Verder zijn er regels opgenomen over de afstand
+van de woningen en de bijgebouwen tot de perceelsgrenzen.
+Ad 1. 6
+De bouwmogelijkheden voor de woningen zijn gelijk gebleven: 100 m2 , een bouwhoogte van 8 m. en een
+goothoogte van 3 m. De bijgebouwen kunnen groter: 50 m2 in plaats van voorheen 20 m2. Ook kan er een
+carport worden gebouwd. Deze regels zijn opgenomen in het TAM-omgevingsplan.
+Ad 1. 7
+Om het karakter van het park te behouden zijn de mogelijkheden voor vergunningsvrij bouwen uitgesloten.
+Ad 1. 8
+Het standaard overgangsrecht is opgenomen in het TAM-omgevingsplan: wat op grond van het bestaande
+bestemmingsplan legaal is gebouwd kan blijven staan , ook als het volgens het nieuwe TAM- omgevingsplan
+niet is toegestaan. Dat geldt ook voor wat onder het bestaande plan niet mocht , maar onder het nieuwe plan
+wel is toegestaan , zij het dat een vergunning wellicht nodig is. Wat onder het bestaande plan niet mocht en
+ook niet onder het nieuwe plan , valt niet onder het overgangsrecht; dat blijft illegaal.
+Thema 2: Groen
+In het Streefbeeld zijn de volgende acties opgenomen:
+Pagina 31 van 71 Paraaf:
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 2. 1
+Gekozen is voor een iets andere uitwerking dan het opstellen van een ‘groenplan’: om invulling te geven aan
+de verplichte toevoeging van een kwaliteitsimpuls is in samenwerking tussen de werkgroep vanuit het park
+en Landschapsbeheer Drenthe een plan met de naam ‘De Tip Groener! , plan voor vergroting van de
+biodiversiteit en verbetering van de BasisKwaliteit Natuur’ opgesteld. Dat plan geeft inspiraties en
+voorbeelden voor de particuliere tuinen en bevat concrete plannen voor vergroening van de gronden die in
+gezamenlijk bezit zijn in het gebied Op De Kiel. Die plannen moeten ook worden uitgevoerd en in het TAM-
+omgevingsplan is opgenomen dat dit groen in stand moet blijven. Het plan is als bijlage bij het TAM-
+omgevingsplan gevoegd. Verder blijven voor alle eigenaren de nu ook al geldende regels voor het kappen
+van bomen gelden en is er , zoals eerder genoemd , een verbod op schuttingen , muren en overmatige
+verharding van de particuliere percelen. Ook zijn groenstroken aan de west- en de zuidzijde opgenomen , zie
+ad 2. 8.
+Ad 2. 2 en 2. 3
+Een bomeninventarisatie en het maken van afspraken met eigenaren die bomen op hun erf hebben die
+behouden moeten blijven is een te ingewikkelde , dure en ingrijpende zaak gebleken. In plaats daarvan is
+gekozen voor het opstellen van een plan zoals genoemd onder 2. 1 en blijven de bestaande regels voor het
+kappen van bomen in stand.
+Ad 2. 4 en 2. 7
+Zie Ad 1. 2 en 1. 5
+Ad 2. 5 en 2. 6
+In het plan dat onder 2. 1 is genoemd zijn plannen opgenomen voor het groen op de gezamenlijke gronden
+in Op De Kiel , waarin aandacht is besteed aan passende beplanting (streekeigen , geschikt voor de locatie en
+de ondergrond). Ook zijn tips en suggesties opgenomen voor passende beplanting (struiken , hagen) in de
+particuliere tuinen waar bewoners hun voordeel mee kunnen doen. Door het uitsluiten van schuttingen en
+dergelijke zullen de hagen (bestaande en nieuwe) het beeld blijven bepalen.
+Ad 2. 8
+Aan de westelijke rand van het park ligt volgens het geldende bestemmingsplan een groenstrook van circa 6
+m. Deze strook is bedoeld om het park in te passen in de (landelijke) omgeving en als overgang tussen
+aangrenzende agrarische gebied en het park. De strook ligt over de particuliere tuinen en binnen deze 6
+meter moet het groen in stand blijven en mag niet worden gebouwd. In het TAM-omgevingsplan is deze
+strook opnieuw opgenomen en is wederom bepaald dat er geen bebouwing (zoals schuren , houtopslag ,
+speelvoorzieningen en dergelijke) geplaatst mogen worden en dat het aanwezige groen niet mag worden
+verwijderd/gekapt , behalve voor normaal onderhoud.
+Om een betere scheiding te vormen tussen het zuidelijk gelegen park De Eeke is nu ook een dergelijke
+groenstrook opgenomen aan de zuidzijde van De Tip. Deze is 3 m breed en vormt met de groenstrook die al
+aanwezig is op het terrein van De Eeke een buffer tussen beide parken.
+Pagina 32 van 71 Paraaf:
+Ad 2. 9
+De gezamenlijke gronden binnen Op De Kiel zullen voor wat betreft het groen worden ingericht volgens het
+plan genoemd onder ad 1. Het onderhoud en beheer zal daarop worden aangepast.
+Thema 3: Openbare/collectieve ruimte (wegen en bermen)
+In het streefbeeld zijn de volgende acties opgenomen:
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 3. 1
+In 2024 zijn op de bestaande masten nieuwe armaturen geplaatst , met LED-verlichting en een nachtstand
+met sensor.
+Ad 3. 2
+De gemeente heeft in een brief aan het bestuur van de VvE als eigenaar en beheerder van de weg door Op
+de Kiel enkele voorwaarden gesteld aan de wegen. Deze voorwaarden hebben te maken met een goede
+toegankelijkheid en het onderhoud en beheer in de situatie na de transformatie. Verwacht wordt dat het
+gebruik van de wegen intensiever wordt nu permanente bewoning officieel is toegestaan. Een dergelijke brief
+is ook gestuurd aan de eigenaren van de 5 woningen die een eigen weg in bezit hebben. In de brief is verder
+opgenomen dat de VvE Op De Kiel , respectievelijk de eigenaren in overleg met de gemeente de aansluiting
+van ‘hun weg’ op de openbare weg De Tip verbeteren , onder meer door het plaatsen van borden die
+aanduiden dat het om een eigen weg gaat , die niet onder het beheer van de gemeente valt. De
+geadresseerden hebben ingestemd met de inhoud van de brief en dit aan de gemeente laten weten.
+Ad 3. 3
+Vanaf de weg De Tip zal de gemeente Coevorden nieuwe bordjes plaatsen bij de drie ingangen , waarop de
+betreffende huisnummers die aan de ingang grenzen staan aangegeven. De VvE Op De Kiel plaatst nieuwe
+reflecterende huisnummerbordjes binnen de weg door het park.
+Ad 3. 4
+De Veiligheidsregio Drenthe heeft onderzocht of alle woningen goed bereikbaar zijn voor de hulpdiensten
+(ambulance , brandweer , politie). Gebleken is dat de wegen weliswaar niet voldoen aan de normen voor wat
+betreft breedte , bochtstralen en dergelijke , maar dat de bereikbaarheid voldoende is , mits niet op de weg
+wordt geparkeerd of er andere obstakels op staan. In Op De Kiel moet de bestaande doorgang naar de
+westkant , naar de Kwekebosweg , geschikt gemaakt worden als doorgang bij calamiteiten. De VvE Op De Kiel
+zal hier een hek plaatsen dat te openen is door de hulpdiensten. Dit is vastgelegd in de brief onder ad 3. 2
+genoemd.
+Ad 3. 5
+De bestaande wegen en bermen hebben een bestemming ‘verkeer’ gekregen , zodat duidelijk is waarvoor ze
+bedoeld zijn.
+Thema 4: Afval
+In het streefbeeld zijn de volgende acties opgenomen:
+Pagina 33 van 71 Paraaf:
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Ad 4. 1 en 4. 2
+Op grond van bepalingen in de Wet milieubeheer heeft een gemeente de plicht huishoudelijk afval in te
+zamelen. In het noordelijk deel van De Tip gebeurt dat al. In Op De Kiel wordt de afvalinzameling nog door
+de VvE georganiseerd , omdat het in het verleden werd gezien als bedrijfsmatig afval. De afvalinzameling
+binnen Op De Kiel zal ook worden verzorgd door de gemeente. Omdat de weg door Op De Kiel niet geschikt
+is voor een vuilniswagen is in overleg met het VvE-bestuur besloten tot een systeem van ondergrondse
+afvalinzameling. Naast de ingang tot Op De Kiel zullen twee ondergrondse containers worden geplaatst , voor
+PMD (plastic , metalen , drankenverpakkingen) en restafval , en een bovengrondse container voor groenafval.
+Eigenaren ontvangen een pasje waarmee zij de containers kunnen openen om hun afval erin te werpen. Ook
+krijgen ze toegang tot de milieustraten voor het grofvuil. Zij gaan ook de reguliere afvalstoffenheffing betalen.
+De eigenaren in het overige gedeelte van De Tip hebben de keuze gekregen: zij kunnen hun kliko’s behouden
+of gaan gebruik maken van de ondergrondse inzameling op de genoemde locatie.
+Ad 4. 3
+Het nieuwe systeem van afvalinzameling gaat in per januari 2026.
+Thema 5: Bouwbesluit (Besluit bouwwerken leefomgeving , Bbl)
+In het streefbeeld zijn de volgende acties opgenomen:
+Deze zijn als volgt uitgewerkt en geconcretiseerd:
+Pagina 34 van 71 Paraaf:
+Ad 5. 1 en 5. 2
+Er is voor bijna alle woningen in kaart gebracht in hoeverre ze voldoen aan de bouwkundige eisen op grond
+van het Besluit bouwwerken leefomgeving (het vroegere Bouwbesluit) zoals die voor reguliere woningen
+gelden. De eigenaren van de geïnspecteerde woningen hebben een inspectierapport ontvangen en de
+gemeente een afschrift.
+Ad 5. 3 en 5. 4
+Met eigenaren van woningen die niet voldoen aan de eisen zal de gemeente een termijn afspreken
+waarbinnen de noodzakelijke aanpassingen uitgevoerd moeten zijn. De gemeente zal steekproeven nemen
+om te kijken of de aanpassingen doorgevoerd zijn. Ook woningen die niet zijn geïnspecteerd , omdat de
+eigenaar dat niet nodig achtte , worden in de steekproeven meegenomen. Tegen het niet voldoen aan de
+regels kunnen sancties worden opgelegd.
+De kwaliteitsimpuls
+De Provincie Drenthe verlangt dat bij transformatie een kwaliteitsimpuls , in de vorm van een meerwaarde
+op landschappelijk , natuurlijk of maatschappelijk gebied wordt toegevoegd. Dat kan worden ingevuld op een
+manier die bij het park past. Voor de transformatie van De Tip is gekozen voor behoud van het groene
+karakter en vergroting van de biodiversiteit op het park. Dat is uitgewerkt in een plan dat in samenwerking
+tussen de werkgroep transformatie en Landschapsbeheer Drenthe is opgesteld. De Gemeente Coevorden ,
+de Provincie Drenthe en Vitale Vakantieparken Drenthe hebben een bijdrage geleverd aan het mogelijk
+maken van dit plan. De strekking van het plan is hierboven al uitgelegd en uitgewerkt en het plan ‘De Tip
+Groener! , plan voor vergroting van de biodiversiteit en verbetering van de BasisKwaliteit Natuur’ is als bijlage
+bij het TAM-Omgevingsplan gevoegd.
+De investeringen
+Zoals ook al benoemd in het Streefbeeld: transformatie is een investering. Een heldere , eenduidige
+bestemming die recht doet aan het feitelijke gebruik , het oplossen van een aantal knelpunten en het
+oppakken van kansen voor verbetering kosten geld , maar dragen bij aan het woongenot en de waarde van
+het perceel met de woning. Die investeringen zijn en worden gedragen door zowel de gemeente als de
+eigenaren.
+De kosten zijn nu bekend. Een deel daarvan zal door de individuele eigenaren gedragen moeten worden en
+daartoe zijn anterieure overeenkomsten tussen de gemeente en de eigenaren opgesteld. Daarnaast hebben ,
+vooral in het traject om te komen tot dit transformatieplan en het omgevingsplan , andere partijen diverse
+kosten op zich genomen , die hieronder staan vermeld. De inzet in tijd en moeite van de werkgroep transitie
+en de gemeente zijn niet meegenomen , maar zijn onmisbaar gebleken!
+Voor rekening van de eigenaren die meegaan in de transformatie:
+Kosten taxatie t. b. v. vereveningsbijdrage (aandeel eigenaren)
+Vereveningsbijdrage
+Kosten voor het omgevingsplan (deels)
+Kosten kwaliteitsimpuls (deel van de kosten voor het plan en kosten uitvoering)
+Kosten van de bouwkundige inspectie
+Inzet door de werkgroep transitie , namens de eigenaren
+•
+•
+•
+•
+•
+•
+Pagina 35 van 71 Paraaf:
+Voor rekening van de Gemeente Coevorden:
+Kosten taxatie t. b. v. vereveningsbijdrage (gemeentelijk aandeel)
+Kosten voor het omgevingsplan (deels)
+Kosten plan kwaliteitsimpuls (deels)
+Kosten projectleiding (deels)
+Ambtelijke inzet
+•
+•
+•
+•
+•
+Voor rekening van Vitale Vakantieparken Drenthe komen:
+Kosten plan kwaliteitsimpuls (deels)
+Scan risicoanalyse nadeelscompensatie (planschade)
+Kosten projectleiding (deels)
+•
+•
+•
+Tot slot
+Met dit transformatieplan , in combinatie met het TAM-omgevingsplan en de anterieure overeenkomst , is
+een belangrijke stap in het transformatieproces van De Tip gezet. Nu komt het aan op de laatste onderdelen
+en de uitvoering van de plannen. De basis daarvoor is gelegd in de optelsom van alle plannen en de
+constructieve samenwerking tussen de leden van de werkgroep transitie , de Gemeente Coevorden en Vitale
+Vakantieparken Drenthe.
+Pagina 36 van 71 Paraaf:
+Bijlage 5 – Kwaliteitsimpuls juni 2025
+Pagina 37 van 71 Paraaf:
+Colofon
+Titel
+Opdrachtgevers
+Opdrachtnemer
+Contactpersoon
+Afbeeldingen
+Status
+Datum
+Pagina 38 van 71
+5 Gemeente
+Coevorden
+De Tip groener!
+Plan voor vergroting van de biodiversiteit en versterking van de Basiskwaliteit
+Natuur, De Tip, De Kiel
+Huisjeseigenaren De Tip, Provincie Drenthe, Vitale Vakantieparken Drenthe,
+Gemeente Coevorden
+BE hi:
+IM IN
+Landschapsbeheer Drenthe
+Landschapsbeheer Drenthe
+J J J
+T (0592) 316 616
+E info@lbdrenthe.nl
+W www.lbdrenthe.nl
+Medewerkers Landschapsbeheer Drenthe
+Definitieve versie
+25 juni 2025
+Paraaf:
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Inhoud
+Hoofdstuk 1
+1. 1.
+1. 2.
+1. 3.
+Intro 4
+4
+5
+6
+Aanleiding
+Biodiversiteit / Basiskwaliteit Natuur
+Ontwikkelingsrichting
+Hoofdstuk 2
+2. 1.
+2. 1. 1.
+2. 1. 2.
+2. 2.
+2. 3.
+Landschapsanalyse
+Gebiedsbeschrijving en ligging
+Landschapstype
+De Tip
+Landschapsvormende processen
+Historie
+7
+7
+7
+8
+9
+10
+Hoofdstuk 3
+3. 1.
+3. 2.
+Uitgangssituatie groen
+Huidige situatie
+Wat kan/moet beter of anders
+11
+11
+11
+Hoofdstuk 4
+4. 1.
+4. 1. 1.
+4. 1. 2.
+4. 1. 3.
+4. 1. 4.
+4. 2.
+4. 3.
+4. 4.
+4. 5.
+4. 6.
+4. 7.
+4. 8.
+4. 9.
+4. 10.
+Adviezen
+Toevoegen van nieuwe biotopen
+Takkenrillen langs randen van groene plekken
+Houtwal westelijke rand langs en op De Tip
+Houtsingel zuidelijke rand tussen De Tip en De Eeke
+Verrijken westelijke kant De Tip (langs zandpad)
+Maatregelen voor insecten
+Maatregelen voor vogels
+Maatregelen voor zoogdieren
+Stinzenplanten
+Bloemenmengsels en maaien
+Struweelhagen en -randen , houtwallen en -singels en bomenrijen
+Vasthouden water
+Waarde van soorten bomen voor biodiversiteit
+Waarde van heggen
+12
+13
+13
+13
+14
+14
+14
+18
+19
+20
+20
+21
+21
+21
+22
+Bijlage 1: BKN-koppeltabel
+Bijlage 2: Menukaart verhogen biodiversiteit
+Bijlage 3: Subsidiemogelijkheden
+Bijlage 4: Indicatieve begroting voor aanschaf materialen
+Bijlage 5: Instructiewijzers
+23
+24
+27
+28
+29
+Pagina 39 van 71 Paraaf:
+Hoofdstuk 1 Intro
+1. 1. Aanleiding
+De Tip is een recreatiepark , echter er is in toenemende mate sprake van permanente bewoning. Dit komt
+op meerdere huisjesterreinen in Drenthe voor. Tegen deze achtergrond is door de Provincie Drenthe en in
+samenwerking met de Drentse gemeenten en het Recreatieschap Drenthe een onderzoek opgesteld naar
+de vitaliteit van de verschillende vakantieparken. Hieruit komt naar voren dat een aantal parken nauwelijks
+bijdragen aan de recreatieve economie van Drenthe; dit project heet Vitale Vakantieparken Drenthe. Het
+park De Tip is aangewezen als een park dat in aanmerking komt voor transitie naar een woonpark.
+In de provinciale Omgevingsverordening is opgenomen dat bij een dergelijke transitie de voorwaarde geldt
+dat er sprake moet zijn van een ‘kwaliteitsverbetering’. Het betreffende park mag zelf onderzoeken waarin
+de kwaliteit gevonden gaat worden. In De Tip is dit in eerste instantie gezocht in het verhogen van de
+duurzaamheid van de bebouwing. Veel huisjes zijn echter in de loop van de tijd aangepast en hebben een
+verschillende uitgangspositie en ook de meningen van de eigenaren liepen uiteen. Dit werd dermate
+ingewikkeld dat dit onderzoek is gestopt. Vervolgens is gekozen voor een verhoging van de biodiversiteit.
+Binnen dit proces is Landschapsbeheer Drenthe ingeschakeld om verdere invulling te geven aan de
+uitwerking voor de kwaliteitsimpuls van de biodiversiteit op De Tip. Hierbij in ogenschouw genomen dat dit
+bijdraagt aan de Basiskwaliteit Natuur. Het voorliggende rapport is hiervan het resultaat. In hoofdstuk 1
+wordt de Basiskwaliteit Natuur beschreven. In hoofdstuk 2 komt de landschapsanalyse aan bod , waarin de
+bodem en waterhuishouding worden behandeld. In hoofdstuk 3 wordt de uitgangssituatie van het
+aanwezige groen beschreven. Tot slot komt in hoofdstuk 4 het advies voor de kwaliteitsverbetering aan de
+orde. Hierin worden concrete maatregelen voorgesteld om aan deze kwaliteitsslag te voldoen.
+Pagina 40 van 71 Paraaf:
+PD Gemeente
+Coevorden
+1.2. Biodiversiteit / Basiskwaliteit Natuur
+Bij biodiversiteit gaat het om de mate van variatie in het voorkomen van planten en dieren. Tegen de
+achtergrond dat er in Nederland sprake is van een (sterke) daling van de biodiversiteit, heeft de
+Nederlandse overheid de Basiskwaliteit Natuur (BKN) geïntroduceerd. Basiskwaliteit Natuur is het
+basisniveau dat nodig is om een
+omgeving leefbaar te houden voor natuur én mens, en om de natuur te
+herstellen en te verbeteren. Dit betekent dat er een bepaalde hoeveelheid en variatie aan planten en dieren
+aanwezig moet zijn in een gebied om dit voldoende vitaal te houden of te krijgen. Hierbij wordt niet alleen
+gekeken naar natuurgebieden, maar juist ook naar het landelijk en stedelijk gebied.
+Basiskwaliteit Natuur is een set van condities (denk aan milieu, inrichting en beheergebruik —
+zie figuur 2)
+die algemene soorten nodig hebben om algemeen te blijven of te worden in een bepaald landschapstype.
+Bij ieder landschapstype horen kenmerkende landschapselementen met de daarbij horende soorten. Dit
+wordt nader toegelicht in 2.1 Gebiedsbeschrijving en ligging.
+Biodiversiteit kan floreren als er sprake is van de 6 V's: variatie, verbinding, voedsel, veiligheid,
+voortplanting en vocht (zie figuur 3). Wanneer in een gebied aan deze 6 V's wordt voldaan, en bij het
+beheer van het gebied hier ook rekening mee wordt gehouden, dan kan de biodiversiteit toenemen en
+wordt de natuur veerkrachtiger.
+(geanonimiseerd)
+(geanonimiseerd)
+Figuur2: De drie pijlers van BEN (bron: groenebandgenaten.nl)
+Figuur
+3: De & v's (bron: groenebondgenoten.nl}
+Pagina 41 van 71 Paraaf:
+1. 3. Ontwikkelingsrichting
+Met dit kwaliteitsplan wordt een advies gegeven m. b. t. het nemen van concrete maatregelen die bijdragen
+aan het verhogen van de biodiversiteit op het park en daarmee een bijdrage leveren aan de Basiskwaliteit
+Natuur. Hierbij zijn de 6 V’s het uitgangspunt.
+Het gebied De Tip wordt gekenmerkt door een open parkachtig karakter , vanwege het ontbreken van
+schuttingen , muren en de aanwezige groenstructuren. Dat is ideaal voor fauna , die De Tip zo kan gebruiken
+als doorloopgebied. De wens vanuit bewoners is dan ook het behoud van dit open groene karakter. Hierbij
+wordt uiteraard rekening gehouden met het behoud van de huidige migratieroutes die langs deze
+groenstructuur lopen welke de verschillende zones aan elkaar verbinden.
+Binnen de ontwikkeling van het gebied wordt rekening gehouden met de diversiteit binnen het park. Het
+plangebied van De Tip is globaal in te delen in drie zones (zie figuur 4).
+Zone 1: Het noordelijke deel van het park. Dit deel is authentiek , boomrijk en bevat weinig tot geen
+gezamenlijke/openbare ruimte.
+Zone 2: Middendeel van het park. Dit deel kenmerkt zich door de open en gecultiveerde structuur
+met weinig gezamenlijke/openbare ruimte.
+Zone 3: Zuidelijk deel van het park. In dit deel zijn de tuinen meer gecultiveerd en bevindt zich
+enige gezamenlijke/openbare ruimte.
+Per zone kan gekeken worden welke adviezen het best passend zijn. Deze worden in hoofdstuk 4
+beschreven.
+Pagina 42 van 71 Paraaf:
+Hoofdstuk 2: Landschapsanalyse
+a. Gebiedsbeschrijving en ligging
+i. Landschapstype
+De Tip is gelegen in het esdorpenlandschap dat gekenmerkt wordt door een aantal vaste elementen zoals
+de es , het dorp , het beekdal en de velden , bossen en heide. Deze hebben allemaal een onderlinge relatie.
+Vanuit het dorp werd het vee (schapen) de heide op gelaten om overdag te grazen , ’s avonds werd het vee
+terug de potstal in gelaten waar heideplaggen in lagen die het vee verrijkte met mest. Deze bemeste
+heideplaggen werden opgebracht op de akkers waardoor , met verloop van tijd , essen ontstonden. In de
+beekdalen bevonden zich de hooilanden , met soorten als de margriet , smalle weegbree of rode klaver ,
+waar het gras gehooid werd en als wintervoer voor het vee diende. In het beekdal tussen de hooilanden
+bevonden zich houtsingels die als veekering dienden voor wanneer het vee in de beekdalen mocht grazen.
+De aanwezigheid van de kenmerkende elementen zorgen voor het streekeigen karakter van het landschap
+en geven het landschap een eigen identiteit.
+Gekoppeld aan het boerenkarakter van de omgeving , kwamen ook andere elementen als heggen ,
+(hakhout)bosjes of solitaire bomen veelvuldig voor. Deze elementen hadden allemaal een functie in het
+boerenbestaan , maar ook voor de biodiversiteit. Veel van deze elementen herbergen namelijk verschillende
+dier- en plantensoorten die kenmerkend zijn in dit landschapstype. Denk hierbij bijvoorbeeld aan de
+steenuil in de knotbomen , de bunzing die zich verplaatst langs lijnvormige elementen , het koevinkje dat
+overjarige grassen nodig heeft voor de voortplanting of een zanglijster die foerageert bij besdragende
+struiken. In onderstaande figuur 5 is het esdorpenlandschap met haar typerende landschapselementen
+weergegeven.
+Pagina 43 van 71 Paraaf:
+ii. De Tip
+Het terrein van De Tip ligt op een ondergrond van arme zandgronden aan de oppervlakte. Het terrein is in
+zijn geheel hoger gelegen dan de omliggende landerijen en bossen. Op het terrein zijn geen natuurlijke
+waterpartijen aanwezig vanwege de hoge , droge ligging en de goed doorlaatbare zandbodem en de
+minimale hoeveelheid verharding. Beplanting op het park moet dus bestand zijn tegen arme en droge
+omstandigheden. Op dit moment bestaat er een relatief goede samenhang tussen de bodem en aanwezige
+beplanting.
+Pagina 44 van 71 Paraaf:
+b. Landschapsvormende processen
+Om weloverwogen beslissingen te maken voor maatregelen is het kijken naar de ontstaansgeschiedenis
+van het landschap relevant. Dit toont hoe het landschap en de bodem gevormd zijn.
+De Tip ligt op een ijsstroomheuvelrug , gearceerd met de donkerroze kleur. Dit is een landschapsvorm
+waarbij de bodem door landijs omhoog en zijwaarts gedrukt is waardoor langgerekte patronen van ruggen
+en laagtes konden ontstaan. Het geel gearceerde gedeelte in figuur 7 is een complex van
+dekzandwelvingen. Deze flauwe hellingen (welvingen) bestaan uit dekzand , wat hier door de wind is afgezet
+tijdens het Weichseliën (de laatste ijstijd) circa 116 tot circa 12 duizend jaar geleden.
+Dit is terug te zien op een doorsnede van de bodem (zie figuur 8). Hierop is te zien dat er tijdens het
+Elsterien een dik pakket zand is afgezet , dit wordt in onderstaande figuur weergegeven als de formatie van
+Peeloo (NUPE). Daarop is een afzetting van keileem ontstaan in het Saalien welke verspreid voorkomt en
+varieert in dikte en onderdeel uitmaakt van de formatie van Drente (NUDR). Bovenop deze bodem laag
+bevindt zich wederom een zandige bodemlaag welke in de laatste ijstijd is afgezet , in de figuur aangeduid
+als de formatie van Boxtel (NUBX). Door de hoge ligging van het gebied , kent het geen open water in de
+vorm van sloten of greppels.
+De bodem van De Tip is geclassificeerd als een veldpodzolgrond met lemig fijn zand. Dit betekent dat de
+grond een voedselarm en droog karakter heeft. Podzolgronden worden gekenmerkt door in- en
+uitspoelingslagen van organisch materiaal (humuspodzolgronden). Daarnaast is er in de bodem van De Tip
+verspreid keileem in de bodem op minder dan 120cm diepte.
+Pagina 45 van 71 Paraaf:
+c. Historie
+Historische kaarten laten zien wat de ontwikkeling is geweest in het landschap en dus waar het huidige
+landschap vandaan komt , welke elementen er voorkwamen , waar de wegen liepen en waar bos , heide ,
+bebouwing of landbouw aanwezig was. Sommige elementen zijn belangrijk geweest voor de ontwikkeling
+van de omgeving en ‘vertellen’ een deel van het verhaal over de ontstaanswijze van het landschap van
+vandaag. Deze landschapselementen geven het landschap haar streekeigen karakter en zijn waardevolle
+voedselbronnen en verbindingswegen met veel variatie voor plant en dier.
+In de periode van 1850 tot 1925 zien we relatief weinig veranderingen in het gebied. Het heidelandschap is
+nog grotendeels intact , hoewel in 1925 de eerste ontginningen zichtbaar zijn als lichte vlakken in het
+heideterrein. Ook is in 1925 de eerste bebouwing zichtbaar. Vanaf 1960 tot 1980 wordt de eerste bebouwing
+van De Tip zichtbaar op de kaart. In 2000 is te zien dat het park in haar huidige vorm zichtbaar is op de kaart
+en op de meest recente kaart is ook het Vakantiepark De Eeke (aan de zuidkant van De Tip) zichtbaar. Wat
+betreft de landschapselementen is een beperkte afname te zien rondom De Tip.
+Pagina 46 van 71 Paraaf:
+Hoofdstuk 3 Uitgangssituatie groen
+3. 1. Huidige situatie
+Het uitgangspunt op De Tip is een groen park met een parkachtig karakter. De wens vanuit de
+bewoners/eigenaren , alsmede de gemeente is om dit karakter te behouden. Op het park bevinden zich
+(grote) bomen en diverse hagen. Vanuit de werkgroep wordt gestreefd naar zo min mogelijk schuttingen
+en andere niet-natuurlijke afscheidingen.
+De aanwezige groene basis bepaalt het karakter van het park , mede door de aangrenzende beplanting op
+particuliere eigendommen. Hier zijn nog kansen aanwezig voor de bevordering van de biodiversiteit.
+Daarnaast wordt er op de gezamenlijke eigendommen (VVE-gedeelte) gestreefd naar groene inpasbaarheid
+binnen dit parkachtige karakter.
+Het streven is om De Tip nog meer inpasbaar te maken in het landschap. Dit door het betrekken van de
+randen rondom De Tip. Hierbij is gekeken naar de natuurlijke elementen aan de randen van De Tip.
+a. Wat kan/moet beter of anders
+Een risico van de transformatie naar woonbestemming is dat dit kan leiden tot meer bouwactiviteiten en
+een intensiever gebruik van de percelen (erven en tuinen) , alsmede de openbare ruimte. Dit kan invloed
+hebben op de kwaliteit van het parkachtige , groene karakter van De Tip.
+De groene structuur op De Tip wordt voor een belangrijk deel gevormd door de grotere bomen. Als
+aanvulling is het uiteraard van belang dat er ook struiken , jonge bomen , klimplanten en wilde vaste planten
+aanwezig zijn. Dit biedt meer voedsel , veiligheid (schuilgelegenheid) en variatie in soorten. In geval bomen
+dicht op elkaar staan wordt in het advies meegenomen wat een goede ingreep zou kunnen zijn voor het
+behoud van de toekomstbestendige groene structuur op De Tip. Verder wordt er in het advies opgenomen
+welke bomen en struiken waardevol zijn om de biodiversiteit (en BKN) te versterken.
+Hagen zorgen op De Tip voor afscheiding van kavelgrenzen en zorgen voor een groen raamwerk en groene
+verbinding. Daarnaast bieden hagen een goede dekking (veiligheid) voor de fauna. Voor de biodiversiteit
+en de groene parkachtige structuur op het park zou het onwenselijk zijn om de hagen te vervangen door
+schuttingen. Wel is in dit advies meegenomen dat hagen een bijdrage leveren aan de variatie van het
+gebied , zeker als ze uit verschillende soorten bestaan , en op die manier een bijdrage leveren aan de
+biodiversiteit.
+In het advies in dit kwaliteitsplan zijn ook ideeën opgenomen aangaande het beperken van verharding. Dit
+zorgt ervoor dat het vocht/de regen de bodem in kan zakken zodat dit ter beschikking komt voor de
+beplanting.
+De westelijke rand van het gebied (strook van 5 meter breed) op particuliere percelen heeft de bestemming
+Groen en is in dit advies meegenomen om qua biodiversiteit te verrijken. Het behoud van de houtwal is
+hierbij van belang in het advies. Dit biedt namelijk een mooie verbinding waarlangs dieren zich kunnen
+verplaatsen en veiligheid kunnen vinden.
+Aan de zuidelijke rand van het gebied aan de grens met De Eeke is een strook van 2 meter met de
+bestemming groen toegevoegd. Deze rand loopt over particuliere percelen. Samen met de 8 meter brede
+rand op De Eeke vormt dit een groene buffer tussen De Tip en De Eeke. Op de menukaart zijn
+mogelijkheden voor praktische invulling van de groene buffer opgenomen.
+Pagina 47 van 71 Paraaf:
+Hoofdstuk 4 Adviezen
+Hieronder zijn de adviezen uitgewerkt om zowel de openbare/gezamenlijke ruimte als de particuliere kavels
+een kwaliteitsimpuls te geven met behulp van de 6 V’s op het gebied van de Basiskwaliteit Natuur (te
+weten: variatie , verbinding , voedsel , veiligheid , voortplanting en vocht). Bij uitvoering van de maatregelen
+is het belangrijk om het groene parkachtige karakter in ogenschouw te houden. Vaak kunnen de genoemde
+adviezen zowel op de openbare als particuliere terreinen worden toegepast.
+Op de kaart zijn de maatregelen weergegeven die op de openbare terreinen genomen kunnen worden (zie
+figuur 9). In bijlage 1 – BKN-koppeltabel is weergegeven welke soorten profiteren als de genoemde
+landschapselementen voorkomen.
+Pagina 48 van 71 Paraaf:
+4. 1. Toevoegen van nieuwe biotopen
+4. 1. 1. Takkenrillen langs randen van groene plekken
+Aan de randen van de diverse open plekken op De Tip kunnen takkenrillen aangelegd worden. Ook kan dit
+in de eigen tuinen toegepast worden. Op deze manier wordt als het ware een ecosysteem toegevoegd met
+eigen soorten , waardoor de biodiversiteit in het gebied toeneemt. Takkenrillen hebben diverse voordelen:
+Snoeihout kan ter plekke verwerkt worden. Afvoeren van takken is dan niet meer nodig.
+De takkenrillen bieden een veilige schuilplek voor vele verschillende dieren , zoals amfibieën ,
+zoogdieren en bij een losse takkenril broedgelegenheid voor vogels (bijvoorbeeld de
+winterkoning).
+Dood hout is een voedingsbron voor kevers , schimmels , insecten , mijten , etc.
+-
+-
+-
+Ter behoud van het parkachtige karakter adviseren we op het terrein om de takkenrillen te creëren tussen
+palen (zie figuur 10). Het advies is om voor de palen eikenhouten takken te gebruiken die bij het snoeien
+vrijkomen. Indien te weinig geschikte eikenhouten takken beschikbaar zijn , kan er ook gekozen worden
+voor de aankoop van kastanjehouten of robiniahouten palen.
+4. 1. 2. Houtwal westelijke rand langs en op De Tip
+Aan de westelijke rand langs De Tip en op de particuliere terreinen is het advies om de houtwal te behouden
+en waar mogelijk te versterken met passende soorten. De hoofdsoort die hier voorkomt is de eik. Eiken
+zijn van grote ecologische waarde en het is landschappelijk , cultuurhistorisch alsmede voor de biodiversiteit
+dus waardevol om deze groenstructuur waar mogelijk door te trekken met de aanplant van nieuwe
+boomvormers en bij voorkeur met eiken. Dit kan afgewisseld worden met ruwe berken , waardoor een
+mooie verbinding ontstaat middels een eiken-berkenlaan of -singel waarlangs diverse vleermuizen kunnen
+migreren. Ook is aan te raden de houtwal mee te nemen in de bomeninventarisatie.
+Het zou voor het verhogen van de biodiversiteit ook waardevol zijn om de groenstructuur te versterken
+met inheemse (autochtone) struiken (zie paragraaf 4. 7 aangaande de geadviseerde soorten). BKN-soorten
+die hiervan kunnen profiteren zijn o. a. rode eekhoorn , vleermuizen , of klimplanten zoals wilde
+kamperfoelie.
+Ook een losse takkenril in de houtwal kan een grote bijdrage leveren aan het verhogen van de biodiversiteit.
+Het snoeimateriaal kan dan ter plekke verwerkt worden. Aangezien dit aan de rand van het park ligt , zullen
+deze takkenrillen anders blootgesteld worden aan elementen als zon en regen dan de takkenrillen op De
+Tip , waardoor deze mogelijk geschikt worden voor andere soorten dan in de takkenrillen op De Tip.
+Pagina 49 van 71 Paraaf:
+4. 1. 3. Houtsingel zuidelijke rand tussen De Tip en De Eeke
+De zuidelijke rand tussen De Tip en De Eeke bevindt zich een strook met een variërende breedte van
+maximaal 10 meter. Deze bevindt zich op particulier terrein. Deze locatie is zeer geschikt om een houtsingel
+te creëren/versterken. Door hier gelaagdheid aan te brengen met zowel kruidachtige beplanting ,
+struweelranden en bomen wordt de meest waardevolle biotoop gecreëerd en creëert het een natuurlijke
+buffer tussen De Tip en De Eeke. In deze geleidelijke overgang kunnen soorten als kleine zoogdieren ,
+insecten of vogels dekking of voedsel vinden , denk hierbij aan BKN-soorten als oranje zandoogje , groot
+dikkopje , lijsters of de geelgors. De eventuele bestaande bebouwing kan gehandhaafd worden , maar
+nieuwe bebouwing is niet toegestaan. Deze strook dient een groene invulling te krijgen. De breedte van
+deze strook is afhankelijk van de beschikbare ruimte.
+Voor het aanplant van de bomen en struiken adviseren wij een mix aan te planten van de soorten die
+genoemd staan in paragraaf 4. 7. van dit adviesplan.
+4. 1. 4. Verrijken westelijke kant De Tip (langs zandpad)
+Aan de westkant van het gebied bevindt zich tegen de houtwal aan een strook van circa 5 meter breed met
+een ‘groen’ bestemming. Dit is particulier gebied. Hier is bebouwing niet toegestaan en moeten de huidige
+groene elementen behouden en onderhouden blijven. Dit om De Tip als geheel landschappelijk in te passen.
+Van belang is dat de groenstrook de aanwezige houtwal niet belemmerd in groei.
+Daarnaast kan er op deze locatie gekeken worden naar het verwijderen van niet-inheemse soorten en het
+gebruiken van de beschikbare ruimte voor het aanplanten van inheemse soorten , bij voorkeur autochtoon.
+De aanwezige inheemse soorten worden gehandhaafd. Door te streven naar een grotere soortenrijkdom
+en leeftijdsvariatie draagt het ook bij aan het versterken van de biodiversiteit. Inheemse struikvormers
+(tevens BKN-soorten) die toegepast kunnen worden zijn hulst en tweestijlige meidoorn (op potklei).
+4. 2. Maatregelen voor insecten
+Insectenhotels
+Dieren , waaronder ook insecten , zijn afhankelijk van voedsel , vocht , voortplanting en veiligheid in de
+verschillende levensstadia. Om insecten tegemoet te komen in het aanbieden van beschutting en
+voortplantingsgelegenheid kunnen insectenhotels een uitkomst bieden. Insectenhotels kunnen in
+verschillende formaten worden opgehangen of neergezet en op verschillende locaties op het park. Het
+meest effectief is gebleken om deze gericht op het zuiden te plaatsen op een zonnige locatie. Echter blijken
+insectenhotels ook op andere locaties (in mindere mate) bij te dragen aan het tegemoetkomen in de
+behoefte aan schuil- en voortplantingsgelegenheid. Let hierbij wel op dat een insectenhotel wat anders is
+dan een bijenhotel. In een bijenhotel zijn vooral bamboe , hout en andere materialen aanwezig met daarin
+(gladde) gangetjes voor de voortplanting.
+Pagina 50 van 71 Paraaf:
+In een insectenhotel worden ook andere materialen toegepast als schuilgelegenheid voor een heel scala
+aan insecten , zoals lieveheersbeestjes , oorwormen en gaasvliegen. Het afdekken van de voorkant van een
+insectenhotel is aan te raden om te zorgen dat onder andere vogels niet bij de insecten kunnen.
+Het plaatsen van een insectenhotel is over het algemeen alleen nuttig wanneer ook voldoende voedsel in
+de omgeving te vinden is voor de insecten die logischerwijs gebruikmaken van het
+insectenhotel. Behalve op delen van de Tip , kan ook in overleg met Staatsbosbeheer een insectenhotel
+geplaatst worden in het voedselbos ten noorden van het park (dit is van SBB).
+Pagina 51 van 71 Paraaf:
+Hommelkast/Hommelpot
+Hommels zijn zeer waardevolle bestuivers. Voor diverse hommels kunnen er speciale hommelpotten
+aangeboden worden. Deze hommelpotten bieden nestgelegenheid voor de hommels. Tevens maken
+voornamelijk boomhommels regelmatig gebruik van oude nesten van vogels in nestkastjes. Het is wel van
+belang hierbij rekening te houden met de volgende zaken. Plaats een hommelnestkast op een baksteen of
+begraaf het zo diep onder de grond tot de onderzijde van de rand van de vliegopening. Het meest ideaal is
+het wanneer de kast ’s ochtends wordt opgewarmd door de zon en de rest van de dag in de schaduw
+staat/hangt.
+Vlinders
+Vlinders spreken tot ieders verbeelding en diverse soorten vlinders komen ook in parkachtige omgevingen
+voor. Vlinders zijn gebaat bij variatie en elke soort heeft haar eigen waardplanten die van belang zijn voor
+de voortplanting. Daarnaast is de aanwezigheid van voedsel belangrijk in de vorm van onder andere
+nectarplanten.
+De hierboven genoemde waardplanten zijn voor een groot deel inheems of cultuurhistorisch passend in ons
+landschap. Binnen het parkachtige karakter van De Tip is het mogelijk om een aantal van deze soorten te
+integreren binnen de openbare ruimte. Ook kan deze lijst toegepast worden op de particuliere delen binnen
+het park.
+Pagina 52 van 71 Paraaf:
+Overhoekjes met grote brandnetel kunnen een zeer gunstige uitwerking hebben aangaande de
+aanwezigheid van vlinders. Dit biedt mogelijkheid (vooral op zonnige plekken) voor de vlinders om hun
+eitjes af te zetten. Een soort dit hier ontbreek , maar zeker ook op de meer schaduwrijke plekken op het
+park gezien zou kunnen worden , is het bont zandoogje. Enkele waardplanten van deze soort zijn grassen
+als: kropaar , smele , kweek , witbol , pijpenstrootje en beemdgras. Als nectarplant wordt vooral klimop
+bezocht.
+Bodemleven
+Er zijn veel insecten die in of op de bodem leven en profiteren van afgevallen bladeren , takken e. d. Het
+aanleggen van bladhopen en takkenrillen kan in grote mate bijdragen aan het stimuleren van het
+bodemleven rondom die plekken. De insecten die hiervan leven zetten dode materialen om in voedsel voor
+planten. Op deze manier wordt het materiaal afgebroken en teruggegeven aan de natuur.
+Op het terrein kunnen ook composthopen gemaakt worden. Dit organisch materiaal kan vervolgens
+verwerkt worden om de bodem te voorzien van voeding. Hiermee wordt zoveel mogelijk gestreefd naar
+een gesloten kringloop op het terrein.
+Pagina 53 van 71 Paraaf:
+4. 3. Maatregelen voor vogels
+Voor vogels kunnen verschillende maatregelen worden genomen op het park. Op De Tip zijn al veel heggen
+en bomen aanwezig. Ook hangen er al nestkasten op de privépercelen. Hierbij enkele handreikingen voor
+een nog betere afstemming van maatregelen voor vogels.
+Nestkasten
+Een deel van de vogels die in parkachtig gebied voorkomen zijn holenbroeders. Deze holenbroeders kunnen
+gefaciliteerd worden met nestkasten in diverse maten voor verschillende vogelsoorten. Er zijn veel
+nestkasten in de verkoop die geschikt zijn om op te hangen. Ook kan dit eenvoudig zelf worden gemaakt.
+Kijk daarbij naar het gebruik van duurzaam materiaal dat bestand is tegen weer en wind. Nestkasten voor
+vogels worden over het algemeen opgehangen aan de noordoost zijde van bomen of gebouwen. Dit om te
+zorgen dat de nestkasten het grootste deel van de dag in de schaduw hangen. Hiermee wordt voorkomen
+dat het te warm wordt in de nestkasten voor de broedende vogels en de jongen. Houd ook altijd rekening
+met voldoende ruimte tussen de nestkasten van dezelfde soort i.v. m. territoriaal gedrag. Advies in een
+bosrijke/parkachtige omgeving om minimaal 10 tot 30 meter tussen de nestkasten aan te houden. Bij veel
+spechten in de omgeving is het verstandig om de vliegopening te verstevigen met een metalen plaatje rond
+de vliegopening , zodat deze niet uitgehakt kan worden.
+Vogels willen graag via een veilige (en vaak vaste) route hun nestkast kunnen bereiken. Dit doen ze vaak
+door tussenstops te maken in struweelhagen of -randen dichtbij de nestkast.
+Op De Tip zouden de volgende soorten nestkasten effectief ingezet kunnen worden:
+Koolmees (vliegopening 32 mm) -- > wordt ook gebruikt door pimpelmees , bonte vliegenvanger ,
+kuifmees.
+Pimpelmees (vliegopening 28 mm) -- > kan ook gebruikt worden door zwarte mees.
+Huismussen (vliegopening 34 mm) -- > zijn koloniebroeders , dus kunnen dicht bij elkaar gehangen
+worden aan bijvoorbeeld een muur van een woning of schuur. Nestkasten worden ook wel gebruikt
+door boomklever , bonte vliegenvanger en gekraagde roodstaart.
+Spreeuwen (vliegopening 45 mm) -- > zijn koloniebroeders , dus kunnen dicht bij elkaar worden
+gehangen. Worden ook gebruikt door grote bonte specht.
+Bosuil (130 mm) -- > op het park maximaal 2 nestkasten ophangen op uiteinden van het park of
+één in het midden. Aanvliegroute vrij open en liefst met een tak eronder , zodat de takkelingen
+(jongen) vanuit de kast op de tak kunnen komen en ook weer terug de kast in kunnen. Deze
+nestkasten worden ook regelmatig gebruikt door holenduiven en kauwen.
+Halfopen nestkasten voor onder andere roodborst en grauwe vliegenvanger. Voor de roodborst
+beschut ophangen in een haag of andersoortige klimplant. Grauwe vliegenvanger zit vaak iets
+opener.
+-
+-
+-
+-
+-
+-
+Beplanting
+Naast nestgelegenheid draagt ook de aanwezige beplanting bij aan de aanwezigheid van vogels. Zowel in
+het broedseizoen als daarbuiten. Besdragende inheemse struiken , zoals hulst , lijsterbes , meidoorn , vlier ,
+vuilboom en klimop dragen bij aan het voedselaanbod van de besetende vogels , zoals merels en lijsters.
+Waardplanten voor vlinders kunnen rupsen bevatten die voor de jongen van de broedende vogels van grote
+waarde kunnen zijn. Ook de rupsen van de wintervlinder die in het voorjaar de eiken kaal vreten zijn van
+grote waarde als voedselaanbod voor de jonge vogels.
+Variatie in struiken en klimplanten zorgt er daarnaast voor dat ook niet-holenbroeders , zoals vinken ,
+merels , lijsters , putters en kneuen een beschut en geschikte plek hebben om hun nest te maken en te
+broeden.
+Heggen
+Heggen dragen in grote mate bij aan een veilige vluchthavens voor vogels. De dichtheid van een heg is
+hierbij essentieel. Meidoornheggen , beukenheggen , gemengde heggen en ligusterheggen zijn vaak open
+genoeg voor vogels zoals roodborstje , grasmus of zanglijsters om als schuilplek , foerageerplek en slaapplek
+te dienen. Heggen van coniferen en laurier worden vaak te dicht door regelmatige snoei , zodat ze daardoor
+minder geschikt zijn voor vogels (zie ook 4. 10. de waarde van heggen).
+Pagina 54 van 71 Paraaf:
+4. 4. Maatregelen voor zoogdieren
+Voor diverse zoogdieren kunnen maatregelen genomen worden waarvan deze soorten profiteren.
+Vleermuizen
+Vleermuizen maken gebruik van lijnen in het landschap (houtsingels , -wallen , bomenrijen) om vanaf hun
+(gezamenlijke) slaapplaatsen naar foerageergebieden te migreren. Het behoud van de lijnstructuren zoals
+hierboven omschreven is van groot belang om deze migratieroutes voor vleermuizen te behouden.
+Daarnaast zijn vleermuizen afhankelijk van toegankelijke overwinteringsplekken met een stabiele
+temperatuur (spouwmuren , achter boeiplaten van woningen , etc. ). Door isolatie en renovatie verdwijnen
+deze plekken voor vleermuizen. Om ze alternatieven te bieden kan er gekozen worden voor het
+ophangen/plaatsen van vleermuiskasten. De vleermuiskasten zijn vooral zomerverblijven. Het meest
+effectief is het ophangen van vleermuiskasten die aansluiten bij de vleermuispopulatie in het gebied. Er
+zijn dan ook verschillende modellen vleermuiskasten in de verkoop. Een inventarisatie met een
+vleermuiswerkgroep kan een goede uitgangsbasis zijn voor het bepalen voor welke soorten het effectief is
+om kasten op te hangen.
+- Een aantal zaken dient rekening mee gehouden te worden:
+Hang de kast aan een stevige boom of aan een gebouw.
+Hang de kast met de voorzijde naar het zonlicht (zuid of zuidwest).
+Hang de kast op een rustige plek , met weinig verstoring.
+Hang de kast in de luwte.
+Zorg voor een vrije aanvliegroute.
+Hang de kast op minimaal 3 meter hoogte.
+Vleermuiskasten kunnen het hele jaar door opgehangen worden , maar het liefst in het voorjaar.
+Hang meerdere kasten op , zodat het aanbod vergroot wordt.
+(bron: vivara. nl)
+-
+-
+-
+-
+-
+-
+-
+-
+Verschillende soorten vleermuizen pakken verschillende soorten prooien. Zo vangen de kleine
+vleermuissoorten onder andere muggen en de grotere soorten vangen nachtvlinders (zoals die van de
+eikenprocessierups).
+Egels
+Egels zijn voornamelijk ’s nachts actief en komen voor aan de randen van bossen , in parken en
+dichtbegroeide tuinen.
+Egels hebben baat bij diverse maatregelen:
+Niet te netjes. Laat in het najaar (en gedurende de hele winterperiode) bladerhopen liggen waarin
+de egel kan overwinteren. De tuinen niet te netjes te maken , biedt ook veiligheid aan andere
+kleine zoogdieren.
+Plaats egelhotels/huizen. Let op dat je hierbij gaat voor een goedgekeurd egelhuis. Op de site van
+de egelbescherming staat een lijst met gekeurde egelhuizen
+(https://www. egelbescherming. nl/de-egel/egelslaaphuizen/).
+Zorg voor een goede variatie aan struweel waar de egel kan rondscharrelen.
+Hagen zorgen ervoor dat de egel van tuin naar tuin kan lopen. Barrières als schuttingen en hekken
+(gaas) zijn een grote belemmering voor egels.
+Voordelen van egels:
+Egels zijn voornamelijk insecteneters. In de natuur eten ze rupsen , larven , wormen , pissebedden ,
+oorwurmen en vooral ook slakken. Ze helpen op een natuurlijke manier bij het bestrijden van
+slakken.
+Daarnaast eten ze soms een dode muis , een nestje jonge muizen , kikkers en padden.
+-
+Egels maken een nest van mos , gras en bladeren waarin ze hun jongen ter wereld brengen. Meestal krijgen
+ze drie tot zes jongen per keer. Deze worden tussen eind juli en half oktober geboren.
+De grootste vijand van de egel is de mens , maar ook vossen , dassen , grote roofvogels en grote honden
+kunnen een bedreiging vormen. Pas bij egels op met het gebruik van (biologische) bestrijdingsmiddelen ,
+zoals slakkengif.
+-
+-
+-
+-
+-
+Pagina 55 van 71 Paraaf:
+ie Gemeente
+Coevorden
+Rode eekhoorns
+Om rode eekhoorns te helpen zijn verschillende maatregelen te nemen. Het voorkomen van rode eekhoorns
+is afhankelijk van het voedselaanbod. Het aanplanten van hazelnoot, walnoot, beuk (beukennootjes) en
+eiken kan bijdragen aan het voedselaanbod voor de eekhoorn. Daarnaast is het mogelijk om
+eekhoornnestkasten op te hangen op De Tip ten behoeve van schuil-, voortplantings- en slaapgelegenheid.
+4.5. Stinzenplanten
+Stinzenplanten zijn verwilderde knol-, bol en wortelgewassen die bij borgen, kastelen, kerkhoven,
+stadswallen, huizen van notabelen en buitenplaatsen te vinden zijn en die oorspronkelijk niet inheems
+waren of niet in de regio voorkomen. Het mooie van stinzenplanten is dat ze in grote mate bijdragen aan
+de beleving en biodiversiteit in een
+omgeving. Een aantal soorten die interessant zijn voor De Tip worden
+hieronder uitgelicht. Hierbij is gelet op het droge karakter van het gebied. Interessante soorten kunnen
+bijvoorbeeld zijn:
+-
+Gewone vogelmelk --> Groeit in losse groepen. Doet het goed in voedselrijke bermen.
+-
+Gevlekt longkruid --> Een plant die van nature groeit in de halfschaduw in loofbossen op
+voedselrijke, leemachtige of kalkrijke gronden.
+-
+Holwortel --> Heeft de voorkeur voor een vochtige en voedselrijke grond in de halfschaduw onder
+loofbomen.
+-
+Boerenkrokus --> Groeien graag onder de lichte schaduw van loofbomen op voedselrijke niet te
+droge plekken.
+-
+Gewoon sneeuwklokje --> Groeien goed op voedselrijke gronden in halfschaduw.
+-
+Lenteklokje --> Komt voor op voedselrijke grond in loofbossen en doet het goed samen met
+holwortel.
+(bron: Basisgids Stinzenplanten, GE ON. KNNV Uitgeverij,
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+2020)
+Om de biodiversiteit te verhogen, de belevingswaarde te vergroten en daarbij voor de insecten vroege
+bloeiers aan te bieden, is het aan te raden om op de Tip op verschillende plekken verschillende
+stinzenplanten toe te passen.
+4.6. Bloemenmengsels en maaien
+Om de bermen op De Tip bloemrijk te krijgen moet gekeken worden naar verschillende aspecten. Uiteraard
+moet de berm geschikt zijn om in te zaaien of te verschralen door te maaien. Om te verschralen met
+maaibeheer dient er tweemaal per jaar gemaaid te worden (juni/juli en september/oktober) en dient het
+maaisel afgevoerd te worden. Een berm die als uitwijkmogelijkheid wordt gebruikt voor het verkeer is
+minder geschikt om in te zaaien.
+Een berm die zonnig gesitueerd is, is geschikter om in te zaaien dan een berm onder bomen.
+Mengsels die het goed doen als ingezaaide stukken zijn de volgende biologische mengsels van de Cruydt
+Hoeck. Het betreft hier inheemse bloemenmengsels die bijdragen aan een verhoging van de biodiversiteit.
+-
+M5 Nectar onder het maaimes (laag mengsel, dat ook met enige regelmaat gemaaid kan worden)
+-
+G5 Bloemrijke bermen (hoger mengsel voor
+matig voedselrijke grond, doet het over het
+algemeen op veel plekken goed.)
+-
+03 Onderbegroeiing bosplantsoen (vooral waardevol na aanplant, zodat de grasdruk wordt
+tegengegaan die de aanplant van bosplantsoen kunnen overwoekeren.) Een goedkopere variant
+is het inzaaien met een klavermengsel.
+Vaak is het niet nodig om te zaaien, maar kan met maaien een soortgelijk resultaat bereikt worden. Hier
+gaat alleen wel wat meer tijd overheen. De soorten die dan spontaan opkomen voelen zich thuis op die
+plek en passen op die specifieke plek. Daarvoor is verschralend maaibeheer wenselijk. Dat betekent dat er
+minimaal twee keer per jaar wordt gemaakt en het maaisel wordt afgevoerd. Om reeds schrale bermen in
+stand te houden kan met één keer maaien in september/oktober worden volstaan. Het creëren van
+bloemrijkere vegetaties bevoordeeld kruiden als gewoon biggenkruid, duizendblad, gewone brunel,
+margriet en diverse havikskruiden. Deze soorten zijn weer belangrijk als voedselbron voor insecten.
+Pagina 56 van 71 Paraaf:
+4. 7. Struweelhagen en -randen , houtwallen en -singels en bomenrijen
+Inheemse struiken en bomen geven een belangrijkere bijdrage aan de biodiversiteit dan uitheemse soorten.
+Dit kan toegepast worden in elementen zoals struweelhagen en -randen , houtwallen en -singels en
+bomenrijen. De insecten en vogels die in Nederland leven zijn namelijk op deze soorten afgestemd. In de
+BKN-koppeltabel (zie bijlage 2 – BKN-koppeltabel) is weergegeven welke soorten voorkomen in de
+verschillende landschapselementen.
+Vogels maken gebruik van de bessen of gebruiken het als nestelgelegenheid zoals de grauwe klauwier ,
+insecten profiteren van de nectar en de rupsen van vlinders eten van de bladeren , denk hierbij aan het
+zwartsprietdikkopje of het oranje zandoogje. Welke struiken geschikt zijn voor De Tip staat hieronder. Dit
+zijn soorten die geschikt zijn voor matig vochtige tot droge omstandigheden op zandgrond:
+4. 8. Vasthouden water
+De aanwezigheid van water zorgt voor een grote plus op de biodiversiteit. In het openbare deel van De Tip
+is weinig tot geen ruimte om een plek te creëren om water vast te houden. Op de particuliere delen zou dit
+wel kunnen. Een optie hiervoor is het aanleggen van een vijver , waarbij vogels , egels en andere dieren
+kunnen drinken. Een natuurlijke vijver zonder vissen heeft de voorkeur , aangezien de larven van in het
+water levende soorten zoals kleine watersalamander of gewone pad dan beter weten te overleven.
+4. 9. Waarde van soorten bomen voor biodiversiteit
+Op het terrein van de Tip bevindt zich een groot aantal bomen , voornamelijk in het noordelijk deel. Deze
+bomen zijn de basis voor de groenstructuren en van grote waarde voor de biodiversiteit op het terrein.
+Deze structuren dienen als migratieroutes voor vleermuizen en wanneer oudere bomen holtes krijgen ,
+bieden deze ook veilige nestelgelegenheid voor diverse vleermuizen , rode eekhoorns en holenbroeders. De
+aanwezigheid van oudere bomen is dus van belang , aandachtspunt daarbij is dat ze voldoende ruimte
+hebben om zich te ontwikkelen en een hoge leeftijd te bereiken. Naast holen bevatten oudere bomen vaak
+ook dode of minder vitale takken welke , mits dit geen veiligheidsrisico vormt (voer hiervoor VTA-controles
+uit) , een plek kunnen bieden voor insecten om zich in te vestigen. Deze insecten zijn een goede voedselbron
+voor insecteneters zoals spechten en mezen.
+De ruwe stam van sommige bomen kunnen gebruikt worden door klimplanten als klimop en wilde
+kamperfoelie. Welke weer nestelgelegenheid kunnen bieden aan vogels en als voedselbron kunnen dienen
+voor insecten. Wel bemoeilijken klimplanten de VTA-controles doordat de bomen ingepakt worden.
+Pagina 57 van 71 Paraaf:
+In de bodem maken bomen veel verbindingen met schimmels via de wortels , waarmee deze
+voedingsstoffen met elkaar uitwisselen en elkaar verder helpen ontwikkelen. De bladeren die de loofbomen
+elk jaar laten vallen , kunnen weer dienen als voeding voor de bodem via compost of ‘gewoon’ laten
+verteren. Het kan in de zure omstandigheden wel wenselijk zijn om basische (voedings-)stoffen toe te
+voegen in het systeem om zo de zuurgraad op peil te houden.
+4. 10. Waarde van heggen
+Momenteel zijn veel erfscheidingen aangegeven met hagen die in hoge mate bijdragen aan de
+groenstructuren van De Tip. Om ervoor te zorgen dat de hagen , en de bijbehorende waarde ervan ,
+behouden blijft , kunnen er regels opgenomen worden in het omgevingsplan waarin zou kunnen staan dat
+deze moeten bestaan uit natuurlijk materiaal of ‘levend’ materiaal.
+Ieder type haag heeft andere karaktereigenschappen waar rekening mee gehouden moet/kan worden bij
+nieuwe aanplant. Coniferenhagen zijn brandgevoelig en beuk is in mindere mate toekomstbestendig in
+verband met de klimaatverandering. Hierom zou gekeken kunnen worden naar soorten die hier minder
+gevoelig voor zijn zoals meidoorn. Een meidoornhaag heeft voor de biodiversiteit een grote meerwaarde
+en is cultuurhistorisch passend in deze omgeving. Als alternatief kan ook nog gekeken worden naar
+ligusterhagen. Welke iets moderner van aard zijn , maar wel passend in Drenthe. Verder kan in de meer
+gecultiveerde tuinen gedacht worden aan de haagbeuk.
+Wanneer hagen een hogere leeftijd krijgen , komen hier van nature ook meer soorten in zoals vlier ,
+vuilboom of hulst. Deze natuurlijke toevoegingen in combinatie met de hogere leeftijd van de haag , maken
+dat de biodiversiteitswaarde van de haag toeneemt naarmate deze ouder wordt. BKN-soorten die
+gebruikmaken van deze knip- en scheerheggen zijn soorten als staartmees , zwartkop of een zanglijster.
+Wanneer langs de heggen een grassige vegetatie blijft staan , profiteren dagvlinders als het koevinkje
+daarvan.
+Pagina 58 van 71 Paraaf:
+Pagina 59 van 71 Paraaf:
+Pagina 60 van 71 Paraaf:
+Pagina 61 van 71 Paraaf:
+Pagina 62 van 71 Paraaf:
+Pagina 63 van 71 Paraaf:
+Pagina 64 van 71 Paraaf:
+Pagina 65 van 71 Paraaf:
+Een wikktarren hotel voor
+(vliegende) gasten
+erarear
+a raen,
+Wat a belargdchat het
+werkt. geeneen
+benden vari
+an vern degene
+En erschienen
+enig
+het vaken be stargate de
+wenge
+mrataciaden zaakbaaratarurs
+jeurra rien barah merker, rititsrgeh,
+caraanigeke balearen
+reetgran, cre
+dag tan baanean
+la densar
+hets
+ante sede de beurt
+vaa od hadidd ratelen Haasd dt in
+gedachtens
+aku vo babel gartadlen.
+arbroiiemen
+zen veeg
+gang aj en
+eha he
+mam
+Pagina 66 van 71
+shadvas diva
+Ia
+wtb
+Lit opt Hit balig di de beige
+aarde chaba ch ht bl jen beras kart sbat
+berde vlerheat.
+al icttergels zaagt
+s darmep
+raagnnkele haan
+armand van
+bath has Death wad manprijk grenaait daa
+da pesce
+Beert da Werle acts
+Leta ann
+nee geeist
+RES province Drente EER
+(geanonimiseerd) (geanonimiseerd)
+a
+Gemeente
+Coevorden
+Paraaf:
+Pagina 67 van 71 Paraaf:
+Pagina 68 van 71 Paraaf:
+Pagina 69 van 71 Paraaf:
+RUIMTE
+VCOR PLANTEN
+DIER 7: Ee
+te
+geuehiitn aanrige
+plak ber Lt
+op etri zich
+Lan aaan an
+geet in
+het ste jaar nag merig ed
+vanaf het vamede a act
+deca jar
+verdie bat
+rard claas laar Jac Mat
+dajuilebehaae matragplen,
+ven dan gmg Fet hed jaar vond, al
+he maaar eet nest. estate
+dag De
+berte perce oen le
+zamen in
+oe maren varende malle
+zanden baarn inhet erwege voosjaar De bodeemgesterd
+held begaat wek
+rme pmen [zahlen bek schraal. mai wandel ol rat
+Tl Bewerk
+degeondan mirdenaal mage. Ct
+isbeter soor de
+banen ners ur en
+care vonden da
+oevirukdacen apkemven cn,
+woerkingsstatten
+wijkorten.
+zhapibeheer Drenthe E
+Pagina 70 van 71
+Aanleg- en onderhoudswijzer bloemrijk graslandmengsel
+Tt valide utganpentus
+een bestaand geen
+algrmland Frees de
+meae vit sok, reaar lag
+of schraap
+dere afl Za moontan u
+dalgrassen sne
+dn
+oee tharsd vagrans was blamage
+Een ahzore
+hode” dien voc bijver raden van ecderzatig
+stgrzanerim dn gemd Has waart
+ie te maslan deel zon blne gaens,
+maaar moar gewacht
+met naties. Cebemande
+crib aen warden
+om ce
+zjehen open zomslge cgs
+om bop geschoefeld
+Deer dt eon
+pose koer
+vanber de tt actuaerenhn
+de Wergea aat Daaraisn
+en warden,
+gert!
+AE jaan
+ijver gezien vanhet bie:
+met bier vit jaarijks maaken
+en afvoeren.
+geaaid eeigen erg
+de lekere
+voadsekipndon Ers
+algemene cht
+per par segt Jl woal
+vaten zc
+pa ja bijvrai vechaijk (j amaapl |
+par jas bij vac ijk
+heinde
+juni ee
+vert Inboat eerde
+maaken alssngensdende
+osaiden zich asten
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Gemeente
+Coevorden
+Paraaf:
+Bijlage 6 - Specificatie kostenverhaal en vereveningsbijdrage
+Kosten woning Eigenaar
+Ruimtelijke ordening
+Inclusief procedurele kosten
+Bedrag per woning
+Bouwkundige inspectie
+Bedrag per woning
+Waardebepaling (taxatie)
+Bedrag per woning
+Uitvoering Kwaliteitsimpuls
+Bedrag per woning
+Vereveningsbijdrage
+Bedrag per woning
+Totaal
+€
+€
+€
+€
+€
+€
+,
+19700
+,
+6600
+,
+6000
+,
+20000
+,
+6.80000
+,
+7.32300
+Pagina 71 van 71 Paraaf:
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+n Gemeente
+Coevorden
+In de afgelopen weken zijn er verschillende vragen van eigenaren binnengekomen met
+betrekking tot de plannen voor het transformeren naar woonbestemming van De Tip en de
+stappen die hierin worden genomen. In onderstaand overzicht vindt u alle vragen en het
+antwoord hierop.
+Vereveningsbeleid
+https://repository.officiele-
+overheidspublicaties.nl/CVDR/CVDR673543/1/html/CVDR673543 _1.html
+1. In wiens opdracht is de waardebepaling gedaan?
+In overleg met de eigenaren is in een eerdere bijeenkomst besloten om één gezamenlijke
+taxateur samen met de gemeente in te schakelen. De opdracht is gegund aan Door
+gezamenlijk 1 waardebepaling uit te voeren resulteert dit in een lager bedrag voor het
+kostenverhaal.
+(geanonimiseerd)
+2. Er zijn vijf kavels die nu missen in de lijsten en weg bestemd zijn uit het
+bestemmingsplan. Er zijn wel bouwvergunningen verleend die van kracht blijven. Zijn
+deze kavels/te bouwen woningen nu bestemd voor recreatie of voor wonen?
+Er is contact geweest met de makelaar maar de percelen zijn uit de verkoop gehaald. Er is
+vervolgens rechtstreeks contact gezocht met de eigenaar. Blijkt dat er een nieuwe makelaar
+voor de verkoop is. Er is contact geweest met de nieuwe makelaar en potentiële kopers. Er zijn
+nu twee percelen in de verkoop die mogelijk mee doen in de transformatie.
+3. WOZ: recreatiewoningen en perceelsgebonden beschikkingen hebben dezelfde WOZ-
+waarde. Hoe kan dit? De perceelsgebonden beschikkingen zijn wel voor het dubbele
+aangekocht.
+De afdeling Belastingen kan hierop antwoorden, zie Bezwaar indienen gemeentelijke
+belastingen/WOZ | Gemeente Coevorden
+4. Waarom worden de eigenaren met een in het verleden gratis verkregen
+perceelsgebonden beschikking geen vereveningsbijdrage in rekening gebracht?
+Bij 20 perceelsgebonden aanwijzingen is door de taxateur vastgesteld dat er geen
+waardeverandering plaatsvindt, dit houdt in dat er geen vereveningskosten in rekening worden
+gebracht. Ze zijn wel meegenomen in het transformatieproces, bij transformatie naar
+woonbestemming zijn deze percelen wel het kostenverhaal verschuldigd.
+5. Op basis waarvan wordt de vereveningsbijdrage vastgesteld: op de prijs die in het
+rapport die voor oktober 2022 gold of op de actuele waardestijging op het moment van
+sluiten van de overeenkomst of op het moment dat het bestemmingsplan in werking
+treedt?
+Op de prijs die in het rapport is vastgesteld. Dit geeft heldere uitgangspunten op basis
+waarvan iedere eigenaar kan besluiten.
+Anterieure overeenkomst
+6. Wat is een anterieure overeenkomst?
+Overeenkomst tussen gemeente en de eigenaren over het kostenverhaal van het project, de
+vereveningsbijdrage en de uitvoering van de transformatie, gesloten voor de vaststelling van
+een (eventueel) exploitatieplan.
+7. In de anterieure overeenkomst staat dat de eigenaren de kosten van de
+bestemmingsplanwijziging moeten betalen omdat zij deze wijziging willen. Ik wil er
+nogmaals op wijzen dat het initiatief in deze is genomen door de gemeente Coevorden
+en de Provincie Drenthe.
+Dit is een verkeerde aanname. De gemeenteraad heeft opdracht gegeven om samen met de
+eigenaren te onderzoeken of transformatie mogelijk is, deze opdracht (motie) is mede op
+verzoek van eigenaren van de Tip gegeven. De gemeente wil meewerken aan transformatie en
+begeleidt en faciliteert het proces.
+8. In de anterieure overeenkomst staan veel zaken niet ingevuld. Zo is geen reële
+inschatting van kosten te maken.
+Deze volgen nadat duidelijk is geworden of de meesten willen transformeren naar wonen.
+9, Blijft voor het hele gebied eenzelfde bestemming gelden? Welke dit ook wordt?
+Ja één park, één plan. Wel kan gebruik worden gemaakt van het overgangsrecht.
+10. Een reactie op het concept anterieure overeenkomst heb ik nog niet, de onzekerheden
+in het project zijn zo groot dat een anterieure overeenkomst voor ons op dit moment
+een sprong in het duister zou betekenen.
+In het individuele gesprek worden de persoonlijke gegevens en verschuldigde ontbrekende
+bedragen ingevuld. Hierdoor worden de onzekerheden weggenomen.
+Transformatieplan
+In het transformatieplan worden de afspraken opgenomen die later in het concept
+bestemmingsplan komen.
+11. Wil de gemeente de infrastructuur van de VvE overnemen? De andere parkjes aan De
+Tip kennen geen VVE, dus daar is de Gemeente al verantwoordelijk voor alle
+“gemeentelijke woonwijk” zaken, zoals riolering, wegen, openbaar groen, verlichting en
+afval.
+Begrijp ik het goed dat de gemeente de VVE van Bungalowpark Op de Kiel na een
+eventuele transitie wil laten bestaan. Ik vind dit een vreemde eend in het totale
+bestemmingsplan De Tip. Bovendien wil de gemeente de kosten van een
+planschadeprocedure door de VVE laten betalen. Dit kan niet waar zijn. De eventuele
+kosten zijn niet te overzien en dit zou nog meer tweespalt tussen de eigenaren op het
+park teweeg kunnen brengen. Recreanten hebben daarin nu al geen enkele positie en
+dat wordt dan alleen nog minder. M.a.w. de oorspronkelijke bewoners/eigenaren,
+recreanten worden totaal monddood gemaakt.
+De gemeente gaat dit in principe niet overnemen. Als we het over willen nemen zal er eerst
+een inspectie op de staat en rest levensduur van zowel de riolering als de weg moeten plaats
+vinden (dit geldt voor alle beheereenheden die ter overname worden aangeboden van groen
+tot riool). Daarbij is de kans groot dat de weg (indien deze bestaat uit asfalt deze) teer
+houdend is, dit is kostbaar aangezien dit afgevoerd moet worden als er iets met de weg moet
+gebeuren. Een voordeel van wel overnemen kan zijn dat er geen onduidelijkheid is wie
+eigenaar en onderhoudsplichtig is voor de openbare ruimte op deze parken. In de
+waardebepaling is voor de percelen van de eigenaren die lid zijn van de WE een lagere
+waardestijging afgegeven. Hierbij is rekening gehouden met het feit dat de infrastructuur
+eigendom blijft van de VVE.
+Eventuele overname van de infrastructuur kan ook los van de transformatie plaatsvinden.
+Wij zullen samen met het verantwoordelijke domein binnen de gemeente deze vraag verder
+oppakken. In principe is het zo dat in de gehele openbare ruimte geïnventariseerd moet
+worden (wegen, riool, openbare verlichting enz. enz.).
+Ook als de gemeente de weg niet overneemt kunnen er natuurlijk wel eisen worden gesteld
+aan de inrichting: als je permanent wonen toestaat mag je in het kader van de onderhandeling
+best iets vinden van de weg.
+12. Is de beslissing dat het bestemmingsplan wordt gewijzigd in woonbestemming al
+genomen? Zo ja wanneer is dat gebeurd? In de presentatie van deze plannen is gezegd
+dat 90% van de eigenaren mee moet doen wil de gemeente de transitie in gang zetten.
+Ik heb nooit gehoord dat dit percentage is bijgesteld, Volgens mij is deze 90% niet
+gehaald.
+Nee, deze beslissing is nog niet genomen. Eerst wordt nu geïnventariseerd wie allemaal wil
+transformeren.
+13. De inspectie door de veiligheidsdiensten heeft aangetoond dat die diensten voldoende
+ruimte hebben, maar of de constructie van het wegdek die zware voertuigen
+(brandweer?) aan kan is niet onderzocht. Er geldt niet voor niets een beperking voor
+zware voertuigen op de VVE-grond. Wie draait op voor de herstelkosten voor het geval
+dat?
+Dat zal niet veranderen dit blijft, net als nu ook het geval is nu het gebied recreatie
+bestemming heeft, voor de eigenaar van de weg.
+14. Wat is het beleid van de gemeente m.b.t. het bouwtoezicht (overkappingen,
+erfafscheidingen etc.)? Hoe gaan die bouwvlakken bepaald worden i.v.m. de huidige
+situatie?
+De eigenaren hebben aangegeven geen grotere bouwblokken te willen. Wel zal de huidige
+locatie van de woning worden vastgelegd, zodat dat bij herbouw alleen op dezelfde locatie mag
+worden gebouwd. Wanneer er wordt getransformeerd naar woonbestemming zijn er ruimere
+regels voor vergunningvrij bouwen.
+15. Kan het opgestelde landschapsplan toegezonden worden?
+Ja, dit is op te vragen door een mail te sturen aan
+vvp-coevorden @coevorden.nl
+16. Is het gewoon om eigendommen dubbel te belasten: eerst alle kosten in rekening
+vvp-coevorden @coevorden.nl
+brengen en dan als gemeente de extra opbrengst door waardestijging (WOZ) en
+vvp-coevorden @coevorden.nl
+uitkering uit het gemeentefonds opstrijken?
+vvp-coevorden @coevorden.nl
+Er is geen sprake van dubbel belasten. De verevening en het kostenverhaal zijn eenmalige
+vvp-coevorden @coevorden.nl
+kosten. WOZ is een jaarlijks terugkerende belasting.
+vvp-coevorden @coevorden.nl
+17. Zijn er ontheffingen afgegeven om de minimale afstand van 20 meter te verkorten naar
+vvp-coevorden @coevorden.nl
+10 meter?
+vvp-coevorden @coevorden.nl
+Ja. Voor meer informatie hierover zie bestemmingsplan, artikel 4.3.1,
+vvp-coevorden @coevorden.nl
+https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0109.300BP00006-
+vvp-coevorden @coevorden.nl
+0003/r_NL.IMRO.0109.300BP00006-0003.html# 4 Recreatie.
+vvp-coevorden @coevorden.nl
+18. Helderheid geven over het meenemen van het streefbeeld.
+vvp-coevorden @coevorden.nl
+Het streefbeeld is meegenomen in het transformatieplan.
+vvp-coevorden @coevorden.nl
+19. Kostenverhaal VvE —
+jaarlijkse bijdrage is niet meer 250 euro, maar inmiddels 350
+vvp-coevorden @coevorden.nl
+euro. Kan dit aangepast worden?
+vvp-coevorden @coevorden.nl
+Hier is uitgegaan van een gemiddelde WE bijdrage welke als uitgangspunt is gehanteerd door
+vvp-coevorden @coevorden.nl
+de taxateur.
+vvp-coevorden @coevorden.nl
+20. Twijfel bij toegepaste methode bij waardebepaling; op basis waarvan is deze methode
+vvp-coevorden @coevorden.nl
+gebruikt?
+vvp-coevorden @coevorden.nl
+Antwoord is nog niet binnen —
+kan evt. later via opgevraagd
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+worden.
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+21. Als bestemmingsplanwijziging nog twee jaar duurt, komen er dan waarde aanpassingen
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+(marktwerking)?
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+Nee. Wij gaan uit van de waardes die nu gelden en vastgelegd zijn in de anterieure
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+overeenkomst.
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+22. Hoe lang duurt het overgangsrecht?
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+Hier is officieel geen einddatum aan verbonden.
+vvp-coevorden @coevorden.nl
+vvp-coevorden @coevorden.nl
+23. VvE is er nu voor het onderhoud. Hoe gaat dit straks? M.b.t. afval, riolering, bestrating
+etc.
+WE blijft verantwoordelijk voor het onderhoud. Afval (mogelijk ondergrondse containers met
+kanttekening afvalstoffenheffing voor
+iedereen).
+Inkomsten en uitgaven: onderzoeken en consequenties in beeld brengen. Kosten inzichtelijk
+maken.
+24, Kan de gemeente de WE verplichten stoepen, fietspaden etc. aan te leggen?
+Nee. Wel als bewoners en eigenaren bespreken hoe dit aan te pakken. Vastleggen hoe je met
+elkaar omgaat; zijn onderlinge afspraken.
+25. Kwaliteitsimpuls; de vraag is of de Provincie genoegen neemt met de maatregelen.
+Kosten zijn voor rekening van de eigenaren.
+Dit wordt bekend nadat ze het transformatieplan hebben ontvangen. Er is geadviseerd om
+naast verduurzaming ook biodiversiteit op te nemen.
+Vragen deskundige rapportage
+26, Wie heeft deze rapportage ondertekend?
+In bijeenkomst van de eigenaren is maart 2022 is de opdracht gegund aan De heer
+heeft op verzoek van de taxateur getekend .
+(geanonimiseerd)
+(geanonimiseerd)
+27. Kunnen wij de ondertekende opdracht ontvangen voor de deskundige rapportage?
+Niet duidelijk is wie namens wie de opdracht hebben ondertekend.
+Ja, dit is op te vragen door een mail te sturen aan vvp-coevorden@coevorden.nl
+28. Deze nutsvoorzieningen hebben een voldoende capaciteit voor het huidige en
+toekomstige gebruik van het object: dat uitgangspunt is aanvechtbaar omdat
+rijksbeleid er van uitgaat dat op termijn de woningen van het gas af zouden moeten.
+Dat betekent dat de stroomvoorziening met aan zekerheid grenzende waarschijnlijkheid
+moet worden verzwaard. Op het terrein van de VVE betekent dat dat de VVE daartoe
+een forse investering moet doen waarvan de kosten op dit moment niet te overzien
+zijn. Daar komt nog bij dat de nutsvoorzieningen in het VVE-gebied niet overal in de
+grond van de VVE liggen maar deels dwars over de particuliere percelen lopen.
+Overigens zijn de huisaansluitingen van gas recent vernieuwd.
+Hier zitten een aantal aannames. Het is niet zeker of het electriciteitsnetwerk moet worden
+verzwaard, wellicht zijn er te zijner tijd andere bronnen van hernieuwbare energie
+beschikbaar.
+29. Onder punt 3.4 staat dat er op dit moment forse onzekerheden zijn over de waarde
+zoals op de waarde peildatum is vastgesteld. Hoe wordt daarmee rekening gehouden bij
+de vaststelling van de “vereveningsbijdrage”?
+We hanteren de waarde zoals deze is vastgesteld in het rapport opgemaakt door de heer
+30. Pagina 19 en 20: De jaarlijkse bijdrage aan de VVE wordt gesteld op 250,00 euro per
+jaar, die bijdrage is echter op dit moment 350,00 euro per jaar en zal in de toekomst
+wanneer de WE eigenaar blijft en de infrastructuur moet worden gewijzigd (verzwaard)
+vanwege bovengenoemd rijksbeleid- aanzienlijk verhoogd moeten worden. Op pagina
+20 zal de post “Infrastructuur eigendom derden” dan ook minimaal 7.000,00 euro
+moeten bedragen en, wanneer de WVE eigenaar blijft van de gemeenschappelijke
+gronden, zal dat zeer
+waarschijnlijk aanzienlijk hoger moeten zijn. De kavelwaarde
+totaal zal dan 107.000,00 euro en zeer waarschijnlijk minder bedragen. De meerwaarde
+per kavel (pag.20) zal navenant lager uitvallen. Vraagpunt blijft hoe de waardestijging
+in de toekomst verandert (en inmiddels al verandert is). Ook dat kan relevant zijn voor
+de vraag of meewerken aan de bestemmingswijziging op dit moment wel verstandig is.
+Antwoord is nog niet binnen —
+kan evt. later via vvp-coevorden@coevorden.nl opgevraagd
+worden.
+(geanonimiseerd)
+(geanonimiseerd)
+31. Vraagpunt is hoe de gemeente in de toekomst om zal gaan met toerekening van kosten
+en bepalen van de “waardestijging” wanneer niet nu maar later gekozen wordt voor
+bestemmingswijziging.
+Wanneer een eigenaar besluit om op een later moment de bestemming te wijzen zullen alle
+facetten van het proces ook moeten worden doorlopen. Alle kosten zijn dan ook voor de
+individuele eigenaar.
+Overige vragen
+32, Wilt u nog eens uitleggen wat de status van de Klankbordgroep is?
+Door een enkel VVE-lid wordt nog steeds gedacht dat de klankbordgroep een commissie
+is van de VVE. Er is geen enkele link met de VVE. In de klankbordgroep zitten eigenaren
+van het bestemmingsplan De Tip op puur persoonlijke titel.
+Toevallig zijn nu alle deelnemers eigenaren cq hebben ze een connectie met het
+bungalowpark Op de Kiel. 2 deelnemers zijn trouwens geen eigenaar en ook geen lid
+van de VVE.
+Misschien moet daar nog eens naar gekeken worden en ook of er eigenaren van de
+overige delen van het bestemmingsplan De Tip weer willen deelnemen. Dat zou een
+meer evenwichtige verdeling van deelnemende eigenaren zijn.
+De Klankbordgroep heeft geen status of bevoegdheid. Daarom wordt met iedere eigenaar een
+individueel gesprek gevoerd om een besluit te nemen.
+33. Als het woonbestemming wordt kunnen wij en onze rechtsopvolgers daar dan blijven
+recreëren in lengte van dagen? Is een gecombineerde bestemming recreatie/wonen
+mogelijk om te voorkomen dat de gemeente ons en onze
+rechtsopvolgers de
+verplichting kan gaan opleggen dat we daar moeten wonen?
+Doet u niet mee, dan kunt u gebruik maken van het overgangsrecht. Dit wordt vastgelegd in
+het bestemmingsplan. Het is niet mogelijk een gecombineerde (duale) bestemming te
+verkrijgen.
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Van:
+Verzonden:
+Aan:
+Onderwerp:
+Categorieën:
+A lev talevakantieparkendrenthe.nl>
+(geanonimiseerd)
+Friday, November 21, 2025 9:35 AM
+J
+FW: Deelname werkgroep Transformatie De Tip
+Vitale Vakantie Parken
+Op 16 feb. 2024, om 11:00 heeft Gemeente Coevorden | VVP-Coevorden <VVP-
+Coevorden@coevorden.nl> het volgende geschreven:
+Goedemorgen,
+Op 24 januari heeft u een nieuwsbrief gekregen over de transformatie van De Tip naar
+een woonfunctie.
+Hierin werd ook gesproken over de werkgroep. Deze werkgroep willen wij graag
+uitbreiden met eigenaren van buiten het VvE gebied.
+Zou u willen deelnemen aan deze werkgroep?
+Toelichting
+Op 13 februari was er een overleg tussen de werkgroep vanuit het park en de
+gemeente, onder leiding van de nieuwe projectleider
+In een goede sfeer zijn er afspraken gemaakt over wat er de komende tijd nog te doen
+staat om de transformatie te kunnen voltooien.
+De werkgroep en de gemeente zullen intensiever gaan samenwerken: de komende tijd
+wordt er iedere drie weken een overleg gehouden. Steeds op een dinsdagavond van
+18.30 tot 20.00 uur.
+Het eerstvolgende overleg is dinsdag 5 maart 2024 in het dorpshuis in Schoonoord.
+(geanonimiseerd)
+Samenstelling werkgroep
+Op dit moment zitten er alleen eigenaren van woningen in het deel van het park dat
+onder de Vereniging van Eigenaren valt in de werkgroep.
+Het zou goed zijn dat ook eigenaren van de andere gebieden (adressen)
+vertegenwoordigd zijn. Het gaat immers ook over hun belangen.
+Wij roepen eigenaren in deze gebieden dan ook op om mee te doen in de werkgroep.
+Voor alle duidelijkheid: de werkgroep neemt geen besluiten, maar komt met voorstellen
+en bereidt besluitvorming voor.
+Dat gaat in goed overleg tussen de werkgroep en de gemeente, onder begeleiding van
+de projectleider.
+Deelname werkgroep
+Wilt u deelnemen aan deze werkgroep of heeft u er nog vragen over? Reageer dan op
+deze mail en wij nemen contact met u op.
+(geanonimiseerd)
+(geanonimiseerd)
+Alvast bedankt!
+Hartelijke groet,
+Namens BN, projectleider De Tip
+(geanonimiseerd)
+Medewerker
+e
+_ Programma Vitale Vakantie Parken Coevorden
+e
+_ Programma Realisatie Regionale Woondeal Zuidoost-Drenthe
+<image001.png>
+Kasteel 1
+Postbus 2, 7740 AA Coevorden
+M O6-WR (via WhatsApp beter bereikbaar)
+(geanonimiseerd)
+www.coevorden.nl
+Werkdagen: ma/do tot 16.30 uur en vrijdag tot 12.00 uur
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Deskundige rapportage
+Waardeverandering wijziging
+bestemming Recreatie in Wonen
+Recreatiepark De Tip te De Kiel
+Datum deskundige rapportage:
+Datum addendum:
+Datum aangepaste rapportage:
+Waardepeildatum:
+Deskundige:
+Controlerend taxateur:
+18 januari 2023
+16 februari 2023
+01 mei 2023
+7 oktober 2022
+De heer RM RT
+Makelaardij
+(geanonimiseerd)
+(geanonimiseerd)
+De heer MRICS REV RT
+Recratief Bedrijfsmakelaars B.V.
+(geanonimiseerd)
+Inhoudsopgave
+Inhoudsopgave . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Algemene gegevens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Doel van de rapportage/ te taxeren belang . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Verklaringen van de deskundige . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Planologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Privaatrechtelijke aspecten . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Waardering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Bijlagen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+1.
+2.
+3.
+4.
+5.
+6.
+6.
+2
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+1. Algemene gegevens
+1.1 Opdrachtgever
+Naam opdrachtgever: Recreatiepark De Tip
+1
+Adres opdrachtgever:
+Postcode en woonplaats: (geanonimiseerd)
+(geanonimiseerd)
+Hierna te noemen opdrachtgever 1.
+Opdracht verstrekt door: De heer
+Hoedanigheid:
+Telefoonnummer(s):
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Emailadres: coevorden.nl
+Naam opdrachtgever: Gemeente Coevorden
+Adres opdrachtgever: Kasteel 1
+Postcode en woonplaats: 7741 GC Coevorden
+Hierna te noemen
+opdrachtgever 2.
+Opdracht verstrekt door:
+Hoedanigheid:
+Telefoonnummer(s):
+Emailadres: vitalevakantieparkendrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Naam opdrachtgever: Vitale Vakantieparken Drenthe
+Adres opdrachtgever: 5
+(geanonimiseerd)
+Postcode en woonplaats:
+Hierna te noemen
+opdrachtgever 3.
+(geanonimiseerd) (geanonimiseerd)
+De opdrachtgevers tezamen te noemen als opdrachtgever.
+1
+Bezoekadres Vereniging van Eigenaren van “Bungalowpark op De Kiel".
+Tile ae
+zer
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+(geanonimiseerd)
+1.2 Deskundige
+Contactgegevens kantoor:
+Naam kantoor:
+Adres:
+Postcode en woonplaats:
+Internetpagina:
+Taxateur:
+Telefoon:
+E-mailadres:
+Kwalificaties van de taxateur:
+Lid van/ aangesloten bij:
+Ingeschreven in de registers:
+Registratie 1:
+Registratie 2:
+Deskundigheid taxateur:
+Specialisatie/ werkgebied:
+Specialisatie/ deskundigheid:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Makelaardij
+nl
+RM RT
+/ Nederlandse Vereniging voor Makelaars
+(NVM), sectie Wonen;
+Y Nederlands Woning Waarde Instituut
+(NWWI)
+Nederlands Register Vastgoed Taxateurs
+(NRVT), als Register-Taxateur (RT).
+Kamer: Wonen en Bedrijfsmatig Vastgoed
+Stichting VastgoedCert, als Register-
+Makelaar (RM).
+Kamer: Wonen
+Bemiddeling in en de aankoop en het
+taxeren van (recreatie-) woningen in en
+rondom de gemeenten Borger-Odoorn,
+Stadskanaal, Westerwolde, Coevorden en Aa
+en Hunze
+Het verrichten van makelaars- en
+taxatiewerkzaamheden van (recreatie-)
+woningen in en rondom de gemeente
+Borger-Odoorn, Stadskanaal, Westerwolde,
+Coevorden en Aa en Hunze
+Hierna te noemen deskundige of taxateur.
+Waar in dit taxatierapport “deskundige of taxateur” vermeld staat wordt bedoeld
+de Register-Taxateur.
+Register-Taxateur:
+De vastgoedtaxateur die in het register is ingeschreven en uit hoofde van die
+inschrijving gerechtigd is de titel RT (Register-Taxateur) te voeren.
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+Register:
+Het openbaar register zoals gehouden door NRVT waarin Vastgoedtaxateurs
+worden ingeschreven; het Register kan bestaan uit verschillende Kamers.
+NRVT:
+De Stichting Nederlands Register Vastgoed Taxateurs, met zetel in de gemeente
+Rotterdam.
+Object:
+Waar in dit rapport vermeld staat het object wordt daarmee bedoeld het
+vakantiepark waarover geadviseerd wordt. Het betreft het Recreatiepark De Tip.
+1.3 Controlerend taxateur
+Contactgegevens kantoor:
+Naam kantoor:
+Adres:
+Postcode en woonplaats:
+Internetpagina:
+Taxateur:
+Telefoon:
+E-mailadres:
+Regulated Firm by RICS:
+Kwalificaties van de taxateur:
+Lid van/ aangesloten bij:
+Ingeschreven in de registers:
+Registratie 1:
+Registratie 2:
+Registratie 3:
+Registratie 4:
+Deskundigenrapport Waardeverandering De Tip
+Recratief Bedrijfsmakelaars B.V.
+www.recratief-bedrijfsmakelaars.nl
+De heer Ml MRICS REV RT
++31 (0)592 462 844 of
++31 (0)6 2232 1010
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Blerecratief-bedrijfsmakelaars.nl
+Registratienummer: 749023
+(geanonimiseerd)
+Y Professioneel lid c.q. Member of RICS
+(Royal Institution of Chartered
+Surveyors);
+Y Als Top Supplier van de
+branchevereniging Hiswa-Recron;
+/ Sectie Bedrijfsmatig Vastgoed van
+VastgoedPro
+Van RICS (Royal Institution of Chartered
+Surveyors) als Registered Valuer en
+Accredited Mediator
+Van TEGOoVA (The European Group of
+Valuers' Associations), als Recognised
+European Valuer
+Nederlands Register Vastgoed Taxateurs
+(NRVT). Kamers:
+/_ Bedrijfsmatig Vastgoed;
+Y_Groot Zakelijk Vastgoed;
+/ WOZ.
+Stichting VastgoedCert, als Register
+Makelaar (RM).
+Kamer: Bedrijfsmatig Vastgoed
+[halen
+me
+zer
+Paraaf deskundige
+Deskundigheid taxateur:
+Specialisatie/ werkgebied: Bedrijfsgerelateerde vastgoedobjecten, die
+gewaardeerd worden op hun
+handelspotentieel in de dag- en
+verblijfsrecreatieve sector, zoals campings,
+bungalowparken, sport- en
+wellnessbedrijven, attractieparken en
+watersportgebonden bedrijven, zoals
+jachthavens en zeilscholen
+Specialisatie/ deskundigheid: Taxaties op basis van de Internationale
+taxatiestandaarden: IVS (Red book, RICS),
+taxaties op basis van de Europese
+taxatiestandaarden: EVS (Blue Book,
+TEGoVA) en taxaties volgens de
+reglementen van het taxateursregister
+NRVT.
+De taxateur is door de taskforce Vitale
+Vakantieparken aangesteld als
+overkoepelend taxatieregisseur
+Hierna te noemen overkoepelend taxatieregisseur en/of controlerend taxateur.
+1.4 Waardepeildatum en andere relevante data
+Datum opdracht: Op 12 september 2022 heeft er een overleg
+plaatsgevonden op het gemeentehuis in
+Coevorden tussen de taxateur, de
+overkoepelend taxatieregisseur en
+opdrachtgever 2 en 3. De opdracht is door
+opdrachtgever 2 en 3 mondeling ter plaatse
+verstrekt.
+Opdrachtgever 1 heeft de opdracht
+telefonisch verstrekt
+Waardepeildatum: 7 oktober 2022
+Opnamedatum: 7 oktober 2022
+Opname door: De heer RM RT
+Aanwezig bij de opname: De opdrachtgever was zelf niet aanwezig bij
+(geanonimiseerd)
+de opname ter plaatse.
+De taxateur heeft de opname zelfstandig ter
+plaatse verricht
+Schriftelijke vastlegging opdracht: De opdracht is ondertekend op
+respectievelijk 24 november en
+25 november 2022.
+De ondertekende opdracht is als bijlage
+bijgevoegd
+[halen me
+-_n
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+Werkzaamheden controlerend Het verrichten van een plausibiliteitstoets op
+taxateur: de aannemelijkheid en geloofwaardigheid
+van de professionele taxatiedienst.
+De controlerend taxateur heeft geen
+afzonderlijke verklaring opgesteld, maar
+heeft deze rapportage beoordeeld en
+ondertekend
+Concepten: Er zijn geen concepten verstrekt. Er is een
+addendum gemaakt op: 16 februari 2023.
+Naar aanleiding van enkele opmerkingen is
+de rapportage gewijzigd op 1 mei 2023
+Afwijking in procenten of euro's: Niet van toepassing
+2. Doel van de rapportage/ te taxeren belang
+2.1 Procesbeschrijving
+Op Drents niveau is door de taskforce Vitale Vakantieparken (VVP) een
+procesbeschrijving gemaakt voor het taxeren in verband met de
+waardeverandering bij een bestemmingsplanwijziging, waarbij het desbetreffende
+vakantiepark en de gemeente of elk in hun opdracht en voor hun rekening of
+gezamenlijk een professionele taxatiedienst, hierna te noemen “de
+taxatieopdracht”, laten uitvoeren door een NRVT-erkende register-taxateur 0.z.,
+hierna te noemen “taxateur’.
+Vitale Vakantieparken vervult in deze een regisserende rol, die in haar opdracht en
+voor haar rekening wordt uitgevoerd door de overkoepelend taxatieregisseur als
+genoemd in genoemde procesbeschrijving. Genoemde overkoepelend
+taxatieregisseur vervult in voorkomende gevallen als beschreven de rol als derde
+register-taxateur. Hij kan de taxateur tevens voorzien van aanvullende informatie
+als de taxateur daarom verzoekt.
+Recreatiepark De Tip is een bijzonder vakantiepark met 59 recreatiewoningen. Er
+is hierbij geen verplicht georganiseerd verband. Er bestaat een Vereniging van
+Eigenaren (“Bungalowpark op de Kiel”) waarvan circa 70% van de eigenaren van
+recreatiewoningen lid is. Het lidmaatschap is verplicht (geregeld in
+eigendomsakten, met kettingbeding).
+De opdracht is verstrekt aan de heer van
+(geanonimiseerd)
+Makelaardij, die vervolgens mondeling gevraagd heeft aan de overkoepelend
+taxatieregisseur om zijn taxatierapport te beoordelen.
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+(geanonimiseerd)
+2. 2 Onderwerp van de taxatie
+Recreatiepark De Tip is een bijzonder vakantiepark met circa
+59 recreatiewoningen , die allemaal variëren in bouwwijze en kaveloppervlakte. De
+2
+kavels variëren in grootte van circa 575 mtot circa 2. 200 m.2
+Alle percelen zijn
+verkaveld (c. q. individueel verkocht) en er is overwegend sprake van permanente
+bewoning.
+2. 3 Doel van de opdracht
+Het doel van de opdracht is om:
+Onafhankelijk de waardeverandering vast te leggen die de percelen gelegen op
+het genoemde bungalowpark zullen krijgen als gevolg van de voorgenomen
+wijziging van de bestemming , zijnde een wijziging van een recreatieve
+bestemming naar een bestemming die permanente bewoning op het
+bungalowpark mogelijk maakt.
+Het doel is dus om onafhankelijk de waardeverandering vast te leggen als gevolg
+van de voorgenomen wijziging van de bestemming , zijnde een wijziging van een
+recreatieve bestemming naar een bestemming die permanente bewoning op het
+park mogelijk maakt. Het gaat met andere woorden om een waardering van het
+recht om op die percelen te mogen wonen en dus niet alleen maar recreatief te
+mogen verblijven. De waardeverandering (ontwikkeling) van de vakantiewoningen
+op die percelen blijft buiten beschouwing.
+2. 4 Uitgangspunten in verband met de taxatie
+Uitgangspunt:
+Een uitgangspunt betreft een veronderstelling die voor waar wordt gehouden. Een
+uitgangspunt betreft feiten , voorwaarden of situaties die van invloed zijn op het
+onderwerp of de methode van een taxatie met betrekking tot welke is
+overeengekomen dat zij niet door de geregistreerde taxateur hoeft te worden
+geverifieerd in het kader van de professionele taxatiedienst.
+Professionele taxatiedienst
+De door de taxateur verrichte werkzaamheden vallen onder de werkzaamheden
+van een professionele taxatiedienst. Hieronder wordt verstaan: het door een
+geregistreerde taxateur schatten van en schriftelijk rapporteren over de waarde
+van vastgoedobjecten , zodanig dat aan de schatting en rapportering in het
+economische en maatschappelijk verkeer vertrouwen kan worden ontleend.
+Het getaxeerde betreft niet één specifiek object , maar wordt verricht om een
+waardeverandering in zijn algemeenheid vast te stellen. Er is derhalve sprake van
+een wettelijke taxatie. Hieronder wordt verstaan:
+8
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+Wettelijke Taxatie:
+Professionele Taxatiedienst waarbij op basis van wet- en regelgeving en
+jurisprudentie afgeweken moet worden van één of meer bepalingen uit de NRVT
+Reglementen of de internationale standaarden.
+Een taxateur kan alleen afwijken indien en voor zover de wet of vaste
+jurisprudentie hem daartoe dwingt. Waar dat niet zo is , zijn de regels voor een
+Professionele Taxatiedienst onverkort worden gevolgd.
+De taxateur die een Wettelijke Taxatie uitvoert is onverkort gehouden aan de
+fundamentele beginselen verwoord in het Reglement Gedrags- en Beroepsregels:
+professioneel gedrag; vakbekwaamheid; integriteit; objectiviteit en
+onafhankelijkheid; zorgvuldigheid en transparantie; vertrouwelijkheid.
+Algemene uitgangspunten:
+Voor deze taxatie is taxateur van de volgende algemene uitgangspunten
+uitgegaan , tenzij daar in het rapport van afgeweken wordt:
+In het kader van deze taxatie is geen onderzoek uitgevoerd naar de
+gesteldheid van de bodem en/of het grondwater. Als uitgangspunt geldt dat
+de gesteldheid van de grond , het grondwater , en de verwerkte materialen
+geen belemmering vormen voor het huidige en toekomstige gebruik;
+Op het getaxeerde zijn alle nutsvoorzieningen , waaronder tenminste gas- ,
+water- , elektra- , en rioolaansluiting aanwezig. Deze nutsvoorzieningen
+hebben een voldoende capaciteit voor het huidige en toekomstige gebruik
+van het object;
+Deze rapportage is samengesteld aan de hand van de opgegeven informatie
+door de opdrachtgever. De deskundige kan niet instaan voor de juistheid van
+de aangeleverde en gebruikte gegevens. De deskundige heeft zelf de
+minimaal vereiste gegevens verzameld die nodig zijn om een waardeoordeel
+af te geven;
+In deze rapportage is een nadere omschrijving van het getaxeerde
+opgenomen. Het doel van de omschrijving van de gronden en opstallen is het
+geven van een globale indruk van de omvang , de toestand en de sfeer van
+de hoofdzaken van het getaxeerde. De genoemde aantallen ,
+onderhoudstoestanden , capaciteiten , etc. zijn hetzij schriftelijk , hetzij
+mondeling verstrekt: er heeft geen exacte telling of controle plaatsgevonden.
+9
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+3. Verklaringen van de deskundige
+Aan de deskundige is opdracht gegeven om een rapport uit te brengen van het
+getaxeerde object. De deskundige verklaart hierbij dat hij over voldoende
+vakinhoudelijke kennis en ervaring beschikt met betrekking tot het advies van dit
+type vastgoed in de plaats en de categorie waaronder het desbetreffende
+vastgoedobject valt.
+Onder het begrip opdracht wordt daarbij verstaan: de opdracht tot het verrichten
+van een professionele taxatiedienst overeenkomstig de opdrachtvoorwaarden.
+Deskundigenrapport
+De schriftelijke en gemotiveerde vastlegging van de professionele taxatiedienst ,
+overeenkomstig de opdrachtvoorwaarden en ondertekend door de Register-
+Taxateur. Zoals vermeld betreft het een wettelijke taxatie.
+Schatting:
+Een kwantificering (in geld) onder onzekerheid.
+Onafhankelijkheid en integriteit
+Een taxateur is per definitie onafhankelijk en handelt ongeacht het belang
+van zijn opdrachtgever;
+Een taxateur dient te allen tijde de hoogste normen van eerlijkheid en
+integriteit te hanteren;
+Een taxateur moet zowel aan de eisen van de opdrachtgever kunnen voldoen
+als aan de regels , wetgeving en gedragscodes die van belang zijn voor de
+opdracht.
+Taxateur valt onder de Wet ter voorkoming van witwassen en financieren van
+terrorisme (Wwft). Zie ook www. fiu-nederland. nl.
+3. 1. Verklaringen , privacy en plausibiliteit
+Verklaringen intern/extern: De deskundige verklaart niet in
+dienstbetrekking te staan tot de
+opdrachtgever , de eigenaar ,
+gegevensverstrekker of een aan hem
+gelieerde vennootschap
+De opdracht is ondertekend op
+respectievelijk 24 november en
+25 november 2022 en is verstrekt aan de
+deskundige per email.
+Verklaring uitvoering opdracht:
+Door de deskundige is zelf geen opdracht
+opgesteld
+Tussen het geven van de opdracht en het
+feitelijk uitbrengen van de rapportage zijn
+geen wijzingen gedaan op de opdracht
+Wijzigingen t. a. v. de opdracht:
+10
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+Plausibiliteitstoets: De deskundige heeft zijn rapport laten
+beoordelen door een controlerend taxateur ,
+waar telefonisch overleg mee heeft
+plaatsgevonden. De controlerend taxateur
+heeft deze rapportage ondertekend
+De verstrekte gegevens worden zorgvuldig
+en volgens de voorschriften van de
+Algemene Verordening
+Gegevensbescherming (AVG) verwerkt.
+Hiervoor is een privacyverklaring opgesteld
+die na te lezen is op onze website
+Privacyverklaring
+3. 2 Overige verklaringen van de taxateur:
+De deskundige verklaart dat hij:
+Dit advies onbevooroordeeld , onafhankelijk en objectief te hebben verricht;
+In welke hoedanigheid dan ook , noch contractueel , noch juridisch , noch op
+enkele andere wijze zijn gebonden aan de opdrachtgever , het getaxeerde
+object , de eigenaar van het object , de eventuele verhuurder of huurder ,
+erfpachter van het object , de financier van het object of eventueel andere
+belanghebbenden bij het object;
+Geen zakelijk of privé belang te hebben bij opdrachtgever en het object. De
+vergoeding die de deskundige ontvangt voor deze werkzaamheden is niet
+afhankelijk van de hoogte van de uitkomst van het advies;
+Niet eerder betrokken is geweest bij enige soortgelijke opdracht die
+gerelateerd is aan het object;
+Dit advies zoveel mogelijk te hebben uitgevoerd in overeenstemming met de
+Algemene Gedrags- en Beroepsregels van het Nederlands Register Vastgoed
+Taxateurs (NRVT).
+3. 3. Gehanteerde valuta
+3. 4 Verklaring beperkte geldigheid taxatie
+De taxatie is gedaan per waardepeildatum.
+Alle wijzigingen in de invloedsfeer van het object kunnen tot een andere
+marktwaarde leiden. Op het moment dat de markt grote veranderingen kent is het
+voor een taxateur soms lastig om de marktwaarde vast te stellen. Zeker als er
+verandering in wet- of regelgeving is aangekondigd maar nog niet van kracht is , is
+de vraag vanaf welk moment dit van invloed is op de waardering. De huidige
+marktomstandigheden met extreme inflatie , oplopende rente , een energiecrisis ,
+de stikstofcrisis en een zeer hoge mate van onzekerheid over de macro
+economische en (geo-) politieke ontwikkelingen vertroebelen een eenduidig
+marktbeeld.
+11
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+

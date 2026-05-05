@@ -1,0 +1,4114 @@
+---
+title: "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2"
+maps: ["2025","Woo-verzoeken","2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel"]
+source: "2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.pdf"
+date: 2026-05-05
+---
+
+Voor een taxateur geldt dat deze de marktwaarde moet vaststellen op de
+waardepeildatum. De waarde op de waardepeildatum wordt bepaald met de
+wetenschap (referenties) van gisteren en met de verwachting (visie) op de markt
+van morgen. Door de extreme situatie in de wereld verandert de markt snel en is
+grillig. Daarbij moet een taxateur op het juiste moment zijn/haar visie op de
+marktwaarde waar nodig bijstellen. Dit mag niet te vroeg maar ook zeker niet te
+laat gebeuren. De vast te stellen waarde moet recht doen aan de markt van
+vandaag. De vraag is dan ook in hoeverre de referenties van 6 maanden of zelfs
+van maar 3 maanden geleden nog passen bij de markt van vandaag. De
+overdrachten welke vandaag passeren zijn normaliter de uitkomst van een
+transactie van enige weken of maanden geleden.
+Alle taxaties zijn opinies over de prijs die gerealiseerd kan worden in een
+transactie op de waardepeildatum op basis van de vermelde uitgangspunten en/of
+bijzondere uitgangspunten. De mate van zekerheid kan , zoals bij alle opinies ,
+variëren. Deze variaties zijn het gevolg van de inherente kenmerken van het
+object , de markt of beschikbare informatie.
+Na de uitbraak van de pandemie is het mogelijk geworden om het effect hiervan
+te meten aan de hand van transacties op de markt. Voor de verblijfsrecreatieve
+sector is er overwegend sprake van een positief effect. Er zijn echter
+uitzonderingen in deze sector (zoals groepsverblijven).
+Een effect van de geopolitieke onrust als gevolg van de oorlog in Oekraïne is (nog)
+niet direct zichtbaar in de recreatiesector. Wel is het merkbaar dat er minder
+kandidaten zijn die een recreatiewoning willen kopen en dat kandidaat-kopers
+voorzichter zijn geworden. Dit met name door de extreem opgelopen inflatie (door
+prijsstijgingen van met name grondstoffen zoals olie , gas en voedsel) en de
+oplopende rente (waardoor de financierbaarheid afneemt).
+In het vierde kwartaal van 2022 zijn de huizenprijzen in Drenthe met 15
+, %
+gemiddeld gedaald ten opzichte van hetzelfde kwartaal in 2021. De woningmarkt
+lijkt hiermee een keerpunt te bereiken. Gelet op de gestegen rente wordt hiermee
+ook de beleggingswaarde van een recreatiewoning beïnvloed. De deskundige
+verwacht dan ook dat de koopsommen van recreatiewoningen een neerbuigend
+effect zullen krijgen in dit jaar (2023). Daarnaast is de verwachting dat er sprake
+zal zijn van overaanbod van recreatiewoningen in Drenthe. Na de pandemie zijn er
+veel locaties verkocht die herontwikkeld worden tot bungalow-/chaletparken. Deze
+ontwikkelingen zullen in 2023 aangeboden worden.
+We bevinden ons nu in een periode van grote onzekerheid met betrekking tot veel
+factoren die van invloed zijn op de vastgoedbeleggingen , vastgoedtransacties ,
+taxaties , financieringen en (ver)huurmarkten. Dit advies is dan ook alleen geldig
+op de waardepeildatum. Het is een momentopname.
+12
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+3. 5 Schattingsonzekerheid
+Bij het taxeren van vastgoed is er vrijwel altijd sprake van enige vorm van
+schattingsonzekerheid , zo ook in onderhavig geval. Een taxatie blijft een zo
+zorgvuldig mogelijk theoretische berekening van de waarde van het vastgoed.
+Deze schattingsonzekerheid kan het gevolg zijn van:
+Informatievoorziening;
+Een gebrek aan marktinformatie;
+Onzekerheden rond PFAS en besluit PAS;
+Algemene taxatie onnauwkeurigheid;
+Schattingsonzekerheid Coronavirus Disease 2019 (Covid-19);
+Oorlog in Oekraïne;
+De overige marktomstandigheden.
+3. 7 Copyright en bijlagen
+Deze rapportage is uitsluitend voor het genoemde doel (te taxeren belang)
+bestemd voor opdrachtgever. Ten aanzien van de inhoud wordt door de
+deskundige uitsluitend tegenover de opdrachtgever en slechts voor het doel van
+de opdracht verantwoordelijkheid aanvaard.
+Zonder voorafgaande toestemming mag het rapport niet ter beschikking worden
+gesteld aan derden (met uitzondering van de belanghebbenden en de adviseurs
+die namens hen betrokken zijn bij deze opdracht).
+De bijlagen vormen een onlosmakelijk deel van dit taxatierapport.
+13
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+4. Planologie
+4. 1 Bestemming
+Een bestemmingsplan is een juridisch bindend plan dat beschrijft hoe de grond en
+opstallen in een gemeente mogen worden gebruikt en wat de bouwmogelijkheden
+zijn. Een bestemmingsplan beoogt de ruimte te beheren en wordt gebruikt om
+gebieden te ontwikkelen. Het bestemmingsplan bestaat uit de toelichting op het
+plan , een plankaart waarop de precieze bestemming per gebied is aangegeven
+(bijvoorbeeld wonen , verblijfsrecreatie etc. ) en voorschriften waarin de bouw- en
+gebruiksmogelijkheden zijn uitgewerkt.
+Ten aanzien van het getaxeerde object is het onderstaande van toepassing.
+Impressie plankaart:
+Bestemmingsplan:
+Planstatus:
+Identificatie:
+Type plan:
+Naam overheid:
+Bron:
+Enkel bestemming:
+Dubbel bestemming:
+Gebiedsaanduidingen:
+De Kiel , De Tip
+Onherroepelijk (vastgesteld 2015-02-03)
+NL. IMRO. 0109. 300BP00006-0003
+Bestemmingsplan
+Gemeente Coevorden
+www. ruimtelijkeplannen. nl
+Recreatie (groene delen op de plankaart)
+Waarde Archeologische verwachtingswaarde
+Deels functie-aanduiding- specifieke vorm van recreatie-
+14
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+permanente bewoning
+Deze voor 'Recreatie' aangewezen gronden zijn bestemd voor:
+Een verblijfsrecreatieterrein met maximaal 59 vrijstaande recreatiewoningen;
+Uitsluitend ter plaatse van de aanduiding 'specifieke vorm van recreatie -
+permanente bewoning': permanente bewoning van de daar aanwezige
+recreatiewoningen.
+Met de daarbij behorende:
+Wegen , paden en verhardingen;
+Parkeervoorzieningen;
+Groenvoorzieningen en landschappelijke beplanting;
+Speelvoorzieningen;
+Water , waterberging en waterhuishoudkundige voorzieningen;
+Nutsvoorzieningen;
+Tuinen en erven;
+4. 2 Bouwregels
+Voor recreatiewoningen gelden o. a. de volgende regels:
+De goothoogte mag maximaal 3 meter bedragen;
+De bouwhoogte mag maximaal 8 meter bedragen;
+2
+De oppervlakte van een recreatiewoning mag maximaal 100 mbedragen;
+Een recreatiewoning moet vrijstaand gebouwd worden;
+2
+Per recreatiewoning is maximaal 20 m aan bijbehorende bouwwerken
+toegestaan met een maximale bouwhoogte van 3 meter;
+De onderlinge afstand tussen de recreatiewoningen bedraagt tenminste
+20 meter.
+-
+-
+-
+-
+-
+-
+Voor bouwwerken , geen gebouwen zijnde , gelden de volgende regels:
+De bouwhoogte van erf- en terreinafscheidingen mag in het voorerfgebied
+maximaal 1 meter bedragen; in het achtererfgebied mag de bouwhoogte van
+erf- en terreinafscheidingen maximaal 2 meter bedragen;
+De bouwhoogte van overige bouwwerken , geen gebouwen zijnde mag
+maximaal 65
+, meter bedragen.
+-
+-
+Bij een omgevingsvergunning kan worden afgeweken van de bouwregels en een
+afstand van minimaal 10 meter worden toegestaan , mits wordt voldaan aan de
+volgende voorwaarden:
+Er moet worden aangetoond dat er geen onevenredige aantasting plaatsvindt
+van in de omgeving aanwezige functies en waarden;
+Er moet worden aangetoond dat er geen onevenredige aantasting plaatsvindt
+van de belangen van eigenaren en gebruikers van omliggende gronden.
+-
+-
+Tenslotte:
+Onder gebruik in strijd met de bestemming wordt in ieder geval verstaan het
+gebruik of laten gebruiken van recreatieverblijven voor permanente bewoning ,
+met uitzondering van de recreatieverblijven ter plaatse van de aanduiding
+'specifieke vorm van recreatie - permanente bewoning' waar permanente
+bewoning is toegestaan.
+15
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+5. Privaatrechtelijke aspecten
+5. 1 Eigendom
+Volgens
+uitzondering
+Nederland;
+het
+gegevens
+uittreksel
+van de gegevens
+over
+van de
+de
+dienst
+rechtstoestand
+over hypotheken
+voor het kadaster
+van
+en
+de
+beslagen
+kadastrale
+en de
+,
+openbare
+staan
+objecten
+de objecten
+registers
+, met
+op
+in
+het park kadastraal bekend als:
+De Tip
+Huisnummers
+3
+29
+31
+33
+35
+37
+39
+43
+47
+41
+45
+49
+51
+53
+55
+57
+59
+5
+27
+81
+83
+85
+5a
+79
+77
+75
+7
+9
+13
+11
+69
+71
+73
+87
+89
+93
+Nummer Perceeloppervlakte (m)2
+4531
+5392
+4530
+4529
+4528
+4527
+4526
+4525
+4524
+4523
+4522
+4521
+4520
+4944
+4519
+4518
+4943
+3732
+4532
+4533
+4534
+4535
+5112
+4536
+4537
+4538
+4978
+4286
+4509
+4510
+4947
+4950
+4952
+4953
+4951
+4948
+Gemeente Sectie
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+1290
+982
+937
+824
+835
+827
+1000
+1317
+1524
+772
+889
+1574
+1276
+1448
+672
+749
+672
+2377
+1151
+820
+773
+662
+1845
+698
+875
+775
+2305
+1670
+1779
+794
+575
+500
+860
+715
+885
+793
+16
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+65
+67
+91
+19
+17
+15
+61
+63
+95
+97
+99
+101
+103
+105
+107
+109
+111
+113
+115
+117
+119
+127
+127a
+121
+125
+123
+129
+131
+133
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+Sleen
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+4945
+4946
+4949
+4512
+4513
+4511
+4940
+4941
+4942
+4515
+4514
+5040
+5115
+5116
+5117
+5042
+4785/3964
+4784
+4783
+4782
+4781
+4974/3963
+4975
+4976/3969
+4779
+4780
+3126
+4062
+4061
+960
+705
+1025
+948
+858
+845
+1110
+825
+735
+656
+663
+1000
+715
+630
+585
+1140
+1789
+1610
+1532
+1210
+779
+1195
+1100
+866
+1530
+1002
+2200
+1107
+853
+Gemiddelde kavelgrootte 1047
+De geel gearceerde percelen vallen buiten de opdracht omdat deze reeds een
+woonbestemming hebben.
+5. 2 Uitgangpunt m. b. t. de eigendom
+Conform opdracht is ervan uitgegaan dat de bouwmogelijkheden niet toe zullen
+nemen als gevolg van deze bestemmingswijziging. Bij dit advies is uitgegaan van
+de bouwmogelijkheden , zoals die vermeld zijn in het geldende bestemmingsplan.
+Het feit dat er zich grotere of kleinere bungalows op het bungalowpark bevinden is
+niet van invloed op de waardering.
+17
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+6. Waardering
+6. 1 Gehanteerde methodiek
+De deskundige heeft in verband met het opstellen van deze rapportage gebruik
+gemaakt van de comparatieve taxatiemethode. De comparatieve benadering is
+een taxatiemethode waarbij op basis van in de markt gerealiseerde transacties
+een vergelijk tussen verschillende vastgoedobjecten gemaakt kan worden.
+In de praktijk van de (recreatie-) woningmakelaardij worden regelmatig woningen
+en recreatiewoningen verkocht. Door dergelijke transactiesommen te analyseren
+en terug te rekenen heeft de deskundige een beeld gekregen van de
+onderliggende grondwaarden. Het beeld dat hierdoor is ontstaan is dat de
+transacties divers zijn , waarbij o. a. de kwaliteit en luxe van de opstal , de ligging ,
+als de perceelsoppervlakte van (grote) invloed zijn.
+De deskundige heeft met name transacties woningen en recreatiewoningen
+(waarin niet permanent gewoond wordt of mag worden) rondom het getaxeerde
+beoordeeld. De deskundige heeft bewust geen rekening gehouden met de
+transacties die hebben plaatsgevonden op het recreatiepark De Tip zelf , vanwege
+het feit dat niet vastgesteld kan worden wat de invloed is van het speculatieve
+karakter m. b. t. de huidige situatie.
+Deze transactiesommen zijn doorgenomen met de controlerend taxateur. Verder
+worden er momenteel bouwkavels voor recreatiewoningen op De Tip aangeboden.
+Hier heeft de deskundige rekening meegehouden.
+Tenslotte is bij de waardeverandering aansluiting gezocht bij het begrip
+marktwaarde. Hieronder wordt verstaan:
+Marktwaarde
+Het geschatte bedrag waartegen een object tussen een bereidwillige koper en een
+bereidwillige verkoper na behoorlijke marketing in een zakelijke transactie zou
+worden overgedragen op de taxatiedatum , waarbij de partijen met kennis van
+zaken , prudent en niet onder dwang zouden hebben gehandeld.
+zen te worden als de
+Waar in deze rapportage
+marktwaarde.
+In de bijlage zijn diverse referenties opgenomen die o. a. door de deskundige zijn
+gebruikt.
+18
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+6. 2 Waardering
+Bij het inzicht geven in de waardeverandering heeft de deskundige een inschatting
+gemaakt van de marktwaarde van de grond op basis van het geldende
+bestemmingsplan (verblijfsrecreatie) en op basis van een wijziging van de
+bestemming naar Wonen. Het uitgangspunt is een kavel van circa 500 m.
+2
+Dit is
+echter niet representatief is voor het object , rekening houdende met de
+gemiddelde kaveloppervlakten ter plaatse.
+De deskundige heeft daarom ook een inschatting gemaakt van de extra waarde
+van de overige gronden , rekening houdende met de bestemming.
+De deskundige heeft op basis van zijn kennis en ervaring eerst een inschatting
+gemaakt van de marktwaarde van de ondergrond van een bouwrijpe kavel , op
+basis van de huidige bestemming (verblijfsrecreatie) en vervolgens op basis van
+de toekomstige bestemming (wonen).
+De deskundige heeft dit als volgt vastgesteld:
+Waarde in de huidige staat (verblijfsrecreatie):
+2
+Oppervlakte Gemiddelde prijs per m Totaal
+500 ,
+15000 ,
+75.00000
+Waarde in de toekomstige staat (wonen):
+2
+Oppervlakte Gemiddelde prijs per m Totaal
+500 , 00 ,
+125.00000
+Bij de waardering in de toekomstige staat dient er rekening gehouden te worden
+met een aantal negatieve aspecten. Deze zijn vervolgens in mindering gebracht op
+de waarde om te komen tot de waardeverandering. Het betreft een correctie in
+verband met:
+- De infrastructuur die in eigendom is bij het park. De deskundigen zijn hierbij
+25000 per jaar x factor 20
+,
+uitgegaan van e
+2
+(yield 5%);
+Beperking van de bouwmogelijkheden. De bouwmogelijkheden zijn beperkter
+dan gebruikelijk bij woningbouw in het buitengebied. Anderzijds zal
+2
+menigeen qua hoofdgebouw (100 m te bebouwen) ruimschoots uit de
+voeten kunnen gelet op het feit dat er tot een nokhoogte van 8 meter
+gebouwd mag worden. Het enige wat de deskundige wel mager vindt is het
+maximale aantal vierkante meter aan bijgebouwen die toegestaan zijn. Er is
+2
+-
+uitgegaan van 5 m ,
+1.00000;
+2 De Engelse term voor het 'vaste' rendement (zoals dividend of rente) uitgedrukt als een
+percentage.
+19
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+- Negatieve invloed vanwege (grote) onderlinge verschillen in kwaliteitsniveau.
+kavelwaarde);
+Sloopkosten van de opstal. Het uitgangspunt bij de vergelijking is de
+grondwaarde. Echter gelet op het feit dat het hier gaat om het fictieve
+verschil te taxeren tussen het voornoemde verschil in bestemming heeft een
+correctie voor sloopkosten geen nut omdat dit zowel bij uitgangspunt 1
+(bestemming verblijfsrecreatie) als bij uitgangspunt 2 (Wonen) gelijk is. Dit
+zal het verschil in waardering per saldo dan ook niet veranderen.
+-
+Dit heeft geleid tot de volgende correcties.
+Kavelwaarde bij woningbouw
+Af: Infrastructuur eigendom derden ,
+5.00000 -
+Af: Beperking bouwmogelijkheden ,
+5.00000 -
+Af: Negatieve woonomgeving ,
+6.00000 -
+Af: Sloopkosten opstal Niet van toepassing
+Totaal ,
+109.00000
+De d ,
+34.00000 per kavel ,
+uitgaande van een gemiddelde kavel van 500 m.
+2
+Hierbij dient opgemerkt te
+worden dat uitgegaan is van een gemiddelde kavel. Dit zal per object nader
+bekeken moeten worden. Doorgaans hebben kavels aan de rand van het park
+namelijk een hogere waarde dan kavels in het park.
+Conclusie:
+,
+34.00000. De deskundige is hierbij
+De waardeverandering is vastgesteld op
+2
+uitgegaan van de huidige bebouwingsmogelijkheden (100 m).
+Hierbij dient opgemerkt te worden dat er 9 recreatiewoningen zijn die rechtstreeks
+ontsluiting hebben op de openbare weg in eigendom van de gemeente Coevorden.
+De percelen waar deze woningen op gebouwd zijn vallen buiten de correctie van
+- voor correctie infrastructuur zoals voornoemd. De waardeverandering
+bedraagt hierbij dus
+Tenslotte dient nogmaals opgemerkt te worden dat uitgegaan is van gemiddelde
+kavels. Dit zal per object nader bekeken moeten worden. Doorgaans hebben
+kavels aan de rand van het park namelijk een hogere waarde dan kavels in het
+park. Tenslotte zijn de kavels op het park een stuk groter dan waarvan uitgegaan
+is. De meerwaarde van de overige grond (veelal tuingrond) die in eigendom is ,
+maar waarbij er geen bouwmogelijkheden zijn , is doorgaans beperkt tot circa
+0-
+, per m.
+2
+Dit is afhankelijk van de kaveloppervlakte. Hoe groter de
+5-
+,
+2
+kavel , hoe lager de meerwaarde per m is. Het maakt hierbij niet uit of er sprake
+is van een recreatieve bestemming of de bestemming wonen.
+20
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+6. 3 Geraadpleegde informatie
+Door de deskundige is gebruik gemaakt van de volgende informatiebronnen:
+Eigen database van de deskundige;
+Informatie opdrachtgever; - Quick Scan Transformatie-
+, Motie
+bestemmingsplan recreatieparken ,
+Bestemmingsplaninformatie (via www. ruimtelijkeplannen. nl);
+Database NVM;
+Uittreksel KVK;
+Programma Vitale Vakantie Parken Coevorden;
+Uitvoeringsplan en fase I Vitale Vakantie Parken Coevorden (VVPC)
+Waarneming ter plaatse door de deskundige.
+21
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+6.4 Datum en ondertekening
+Ik vertrouw erop te hebben gehandeld overeenkomstig de strekking van de
+opdracht en de ter beschikking gestelde gegevens correct te hebben
+geïnterpreteerd en te hebben weergegeven.
+Ondergetekende verklaart dan ook dat het onderhavige rapport opgemaakt is naar
+beste kennis, wetenschap en te goeder trouw.
+Aldus getekend:
+Borger, 1 mei 2023
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+J
+De heer RM RT
+Register-Taxateur 0.z.
+Voor akkoord gezien door de controlerend taxateur:
+MRICS REV RT
+RICS Registered Valuer / Recognised European Valuer
+Top Supplier HISWA-RECRON
+7. Bijlagen
+Bijlage 1: Getekende overeenkomst tot het laten uitvoeren van de taxatie
+Bijlage 2: Diverse referenties
+22
+Deskundigenrapport Waardeverandering De Tip Paraaf deskundige
+Addendum Deskundige rapportage
+“Waardeverandering wijziging bestemming Recreatie in Wonen”,
+-
+_Waardepeildatum 7 oktober 2022
+Reden addendum op Deskundige rapportage:
+Uit een nader onderzoek van
+opdrachtgever is gebleken dat er geen vermelding was
+gemaakt van het effect
+van de perceels- en
+persoonsgebonden beschikkingen op de waarde.
+Deskundigen verklaren hierover:
+Het effect van de perceels- en persoonsgebonden beschikkingen is bij nader inzien inderdaad niet naar voren
+gekomen in het rapport.
+Uit het document
+"
+Quick Scan" is gebleken dat er sprake is van 36 recreatiewoningen welke permanent
+bewoond worden. Hiervan hebben er 19 recreatiewoningen een perceelsgebonden beschikking en
+7 recreatiewoningen een persoonsgebonden beschikking.
+Perceelsgebonden beschikking:
+De deskundige gaat er vanuit dat de perceelsgebonden beschikking notarieel over te dragen is. Door de
+huidige bestemming "recreatie"-zijn deze objecten moeilijker te verkopen dan met de bestemming "wonen".
+Hierdoor kunnen potentiële kopers afhaken, omdat het lastiger kan zijn om een financiering op deze objecten
+te verkrijgen. Geldverstrekkers moeten overtuigd worden door bijvoorbeeld extra documentatie hieromtrent.
+Uiteindelijk heeft dit wel een goede kans van slagen. De deskundige gaat er dan ook vanuit dat
+een recreatiewoning met de bestemming "verblijfsrecreatie met perceelsgebonden beschikking” qua
+mogelijke opbrengstprijs c.q. marktwaarde gelijkgesteld kan worden met een recreatiewoning
+met de bestemming “wonen”.
+Persoonsgebonden beschikking:
+De deskundige gaat er hierbij vanuit dat de persoonsgebonden beschikking niet notarieel over te dragen is.
+De meerwaarde van de persoonsgebonden beschikking is bij verkoop dan ook verwaarloosbaar. Het is
+immers persoonsgebonden. De waarde van een
+recreatiewoning met de bestemming "verblijfsrecreatie met
+persoonsgebonden beschikking" is gelijk aan de waarde van een recreatiewoning met de bestemming
+(verblijfsrecreatie).
+Aldus getekend: Voor akkoord gezien door de controlerend taxateur:
+Borger, 16 februari-2023
+(geanonimiseerd) (geanonimiseerd)
+De heer RM RT Register-Taxateur O.Z. De heer MRICS REV RT
+RICS Registered Valuer / Recognised European Valuer
+Top Supplier HISWA-RECRON
+(geanonimiseerd) (geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Memo
+Veel gestelde vragen verevening en transformatie in Coevorden
+Oktober 2021
+Plan per park
+1 De gemeente wil samenwerken met ons park voor transitie. Uit de stukken blijkt mij niet dat de gemeente
+een goed en een toereikend beeld heeft van het park. Welke inspanning gaat de gemeente doen in dit
+kader?
+Vanuit het programma Vitale Vakantie Parken investeren we in het bijeen brengen van de juiste informatie.
+Daarbij gelden twee zaken: in het kader van de Algemene Verordening Gegevensbescherming (AVG)
+beschikken we niet over automatisch over informatie die bij andere afdelingen van de gemeente vastligt. In
+het kader van uw privacy is dit niet toegestaan. Daarnaast verandert door verkopen en verhuringen de
+actualiteit regelmatig. Wij krijgen daar niet automatisch bericht van. Dus het kan zijn dat bepaalde kennis
+die we hebben niet meer helemaal actueel is. Door contact met bestuur en bezoeken aan het park
+proberen we steeds een zo goed mogelijk beeld te hebben van wat er leeft en speelt. We nodigen u van
+harte uit om contact te zoeken als u ons wilt informeren over zaken.
+2 Wij zien jullie als serieuze gesprekspartner. Waarom dan eerst zaken/stukken in de raad brengen ,
+gebiedsvisie vaststellen , etc. en vooraf niet met ons besproken. Hoe doen we dat de rest van het traject?
+Het programma Vitale Vakantie Parken Coevorden omhelst in ieder geval 17 parken. Als gemeente gaan we
+met elk park in gesprek om een plan per park te maken. We gaan uit van maatwerk per park. Dit maatwerk
+gebeurt altijd binnen kaders. Kaders die de gemeente heeft als het gaat om lange termijn visie , beleid of
+wet- en regelgeving. Bovendien zijn we als gemeente verantwoordelijk voor het algemeen , publiek belang.
+Dit gaat verder dan de belangen van een park , maar gaat hier bijvoorbeeld ook over de belangen van de
+eigenaren en ondernemers van omliggende parken en over de belangen van de bewoners van een nabij
+dorp. De stukken die in de raad zijn vastgesteld gaan over de kaders die de gemeente stelt. Bij de
+verevening gaat het om hetzelfde: de raad heeft een methodiek voor alle parken in Coevorden vastgesteld.
+De uitwerking van de methodiek is afhankelijk van de keuzes die per park gemaakt worden. Voor de rest
+van het traject geldt: de transformatiestappen doorlopen we met (een vertegenwoordiging van) de
+eigenaren op het park. Op de verschillende onderdelen die we tegenkomen gelden soms opnieuw kaders.
+Denk aan de kwaliteit van de huisjes. Daarvoor moet een toets aan het bouwbesluit worden uitgevoerd.
+Ook in het uitwerken van het streefbeeld van het park (hoe ziet het park er na de transformatie uit) , zult u
+wensen inbrengen en zal de gemeente kaders inbrengen. Binnen de kaders zit de speelruimte waar u
+keuzes kunt maken. Net als in wijken en dorpen. Op het definitieve plan voor de transformatie vindt het
+uiteindelijke besluit plaats. Door eigenaren en door het college.
+3 Wanneer is het project voor VVPC geslaagd? En wanneer voor de eigenaren?
+VVPC is een programma binnen de gemeente en maakt onderdeel uit van het Actieprogramma Vitale
+Vakantie Parken Drenthe. Doel van het programma is om de verblijfsaccommodaties te moderniseren en te
+laten aansluiten bij de vraag van de huidige en toekomstige toeristen. Als een park geen
+toekomstperspectief heeft in recreatie , kan gekeken worden naar een andere bestemming. Zoals wonen.
+Dit onderzoeken we op dit moment bij twee parken. Als we met de eigenaren tot een succesvolle
+transformatie naar wonen komen is voor de gemeente het traject geslaagd. Maar ook als we na serieus
+onderzoek tot de conclusie komen dat hiervoor geen draagvlak is. En we dan gezamenlijk afspraken maken
+over het opnieuw recreatief gebruiken van het park. In de wetenschap dat de vakantiehuisjes met een
+perceelsgebonden beschikkingen een woonfunctie behouden.
+4 Overgangssituatie Hoe gaat de gemeente in tussentijd om met verzoeken tot permanente bewoning?
+Worden deze verleend of oogluikend toegestaan? Of juist niet?
+We verlenen geen persoons- of perceelsgebonden beschikkingen meer. Dat deden we al enige tijd niet
+meer en ook met mogelijke de aanpassing van het Besluit omgevingsrecht , zullen we geen beschikkingen
+verlenen. Zo lang we in gesprek zijn over een transformatie naar een woonfunctie , zullen we niet starten
+met een actieve handhaving op bewoning zonder beschikkingen.
+5 Erkent de gemeente Coevorden dat zij het probleem zelf hebben gecreëerd door permanente bewoning toe
+te staan? Als nu gezegd wordt dat problematiek ontstaat door verschillen tussen recreatie en wonen?
+In het verleden is er op beleid , inzichten en afwegingen van toen gekozen voor het verstrekken van
+persoons- en perceelsgebonden beschikkingen. Inmiddels is er veel veranderd. Zowel aan kennis over
+bewoning op vakantieparken , het gebruik van vakantieparken door verschillende groepen in de
+samenleving als aan de vraag op de woningmarkt zowel in de markt voor vakantiewoningen als in de markt
+voor permanente woonruimte. Dit maakt dat voortschrijdend inzicht is ontstaan wat wel en niet wenselijk
+is. En dat er nu andere keuzes gemaakt worden dan 15-20 jaar geleden.
+6 Wat voegt het toe voor ons als park? Worden wij niet de melkkoe van de gemeente?
+Transformatie op parkniveau betekent dat het park geen vakantiepark meer is maar een gebied met
+woonhuizen (dit kan een woonpark of andere variant zijn). Er kan legaal gewoond worden of de woning kan
+worden verhuurd voor bewoning. Er ontstaat een hogere waarde op de woning door de woonfunctie. Er
+ontstaat duidelijkheid in gebruik en legalisatie van wat veelal gebeurt. Er ontstaat duidelijkheid in wat mag
+en kan. Individueel voordeel is verschillend uiteraard afhankelijk van huidige situatie , wensen , staat van de
+huidige vakantiewoning , e. d. Van de meerwaarde wordt 20% betaald aan verevening. Van de overige 80%
+worden kosten betaald , maar dit is niet persé het volledige bedrag. Wanneer de kosten laag kunnen
+worden gehouden , resteert er ook een meerwaarde voor de eigenaar zelf. Het voordeel bij transformatie is
+het grote aantal huisjes. Daarmee kunnen kosten als leges en taxatie gedeeld worden en vallen veel lager
+uit dan wanneer iemand niet meedoet met transformatie en op een later moment alsnog wil
+transformeren. Wanneer er geen transformatie volgt , kiest de gemeente voor het actief inzetten op het
+terugbrengen van de recreatiefunctie op het park. Voor enkele huidige bewoners zonder beschikking
+betekent dit dat zij op enig moment niet meer in de vakantiewoning kunnen wonen.
+7 Wie is hier de initiatiefnemer? Waarom veranderen?
+Oorspronkelijk waren (een deel van de) eigenaren van de huidige transformatieparken zelf initiatiefnemer.
+Voor de gemeente geldt dat zij transformatie op deze parken mogelijk wil maken , maar transformatie is niet
+de enige optie of een uitdrukkelijke wens. De eigenaren moeten willen transformeren naar wonen. Een
+verandering naar een woonbestemming levert op dat de huidige , deels illegale bewoningssituatie
+gelegaliseerd wordt. De gemeente werkt mee aan transformatie als het grootste deel van de eigenaren
+kiest voor transformatie. Het exacte aantal blijft een afweging en het komt niet op 1 aan. Maar van alle
+eigenaren moet toch zeker het grootste deel (plm. 90%) mee willen in de transformatie. Daarmee hebben
+de eigenaren onderling ook een gezamenlijk belang of gezamenlijke verantwoordelijkheid.
+8 Vanaf welk moment kunnen we niet meer terug en heeft besluitvorming geen wederkeer meer? Op dit
+moment , aan het einde van fase I – de verkenning , willen we als gemeente een procesovereenkomst
+sluiten. Dit is een overeenkomst waarin we gezamenlijk een serieuze intentie uitspreken om te
+onderzoeken of transformatie haalbaar is. Aan het eind van fase II wordt er een realisatieovereenkomst
+getekend. Hierin wordt het streefbeeld vastgelegd en worden financiële afspraken vastgelegd. Dat wordt
+vertaald naar een transformatieplan dat i fase III wordt gemaakt. Na fase II/III is er een definitieve afspraak.
+Dan worden ook overeenkomsten met individuele eigenaren over de vereveningsbijdrage gesloten.
+Tenslotte in fase IV vindt de bestemmingsplanwijziging plaats. Dat is de daadwerkelijke transformatie. In de
+brochure van de Taskforce van het Actieprogramma Vitale Vakantie Parken Drenthe wordt het proces het
+duidelijk toegelicht.
+Keuze transformeren
+9. Wanneer een eigenaar niet meewerkt of niet mee wil in de verevening , wijzigt de bestemming dan niet
+naar woonbestemming?
+Als de verevening redelijk en billijk is en voldoet aan de voorwaarden , kunnen we de transformatie van dat
+perceel tegenhouden , alhoewel je verevening niet voorwaardelijk mag maken. In de gesprekken is het
+belangrijk te kijken welke andere voordelen deze eigenaar kan hebben om toch van gedachten te
+veranderen.
+10 Hoe gaat het met de andere 10 als er van de 100 maar 90 willen transformeren?
+De verwachting is dat 100% deelname niet lukt. Uiteindelijk is het een keuze die we maken op de balans
+tussen belang om te transformeren en hoeveel niet meedoen. Wanneer na fase I een groot deel van de
+eigenaren serieus verder wil , dan gaan we wel door met het proces. Wellicht dat de mensen die nu niet
+willen , in fase II alsnog aanhaken. En anders transformeren ze niet mee. Dan gaan we wel starten met
+handhaving – als deze mensen er wel wonen betekent dit niet dat ze kunnen blijven wonen , want ze zijn
+niet getransformeerd.
+11 Mensen die niet meedoen in de transformatie , betalen die wel mee in de parkkosten?
+Dat is aan de VVE/CVE om dat met hen af te spreken als het gaat om centrale voorzieningen waar zij wel
+voordeel van hebben. Daarin is de gemeente geen partij.
+12 Maakt de gemeente onderscheid tussen woonpark en woonwijk? Op dit moment werken we aan enkele
+scenario’s voor toekomstige situaties van getransformeerde vakantieparken. Binnen de scenario’s zijn
+straks bepaalde keuzes te maken door de gezamenlijke eigenaren. Deze scenario’s kunnen een naam
+krijgen waarbij termen als woonpark of woonwijk kunnen worden gebruikt. Transformatie naar een
+volledige woonwijk zoals in een dorp of stad lijkt niet realistisch en wellicht ook niet wenselijk.
+Kosten transformeren
+13 Niet alle kosten van de gemeente worden doorberekend?
+Het gaat om kosten die voor een deel in de personele sfeer zitten , zoals projectleider , juridisch advies ,
+inhoudsdeskundigen. Kosten voor taxatie , inspectie en bouwleges worden wel aan de eigenaren berekend
+en kunnen worden betaald uit het kostenverhaal.
+14 Als de transformatie doorgaat. Welke kosten zijn er dan te verwachten op het gebied van infrastructuur en
+hoe worden deze kosten betaald?
+Dat hangt af van eigendom , het streefbeeld (wat wil de gemeente en wat wil het park en welke
+consequenties heeft dit voor infra) en de staat van deze infrastructuur. Als bijvoorbeeld wegen of riool van
+de eigenaren gezamenlijk zijn en er moeten aanpassingen of er moet achterstallig onderhoud worden
+gepleegd , dan kunnen de eigenaren dit onderbrengen in het kostenverhaal. Als de wegen of het riool al van
+de gemeente is, dan zit het al in het onderhoud ingepland. Als er eigendomswisseling moet plaatsvinden of
+grote aanpassingen , dan moet dit per situatie worden beoordeeld.
+15 Wat zijn de kosten structuur proces Om te transformeren naar een woonfunctie moeten er verschillende
+kosten gemaakt worden. Een aantal kosten is voor het proces. Andere kosten zijn om de woningen geschikt
+te maken voor bewoning. Proceskosten zijn bijvoorbeeld: kosten van de makelaars die taxeren , kosten van
+de leges bestemmingsplan wijziging , kosten inspectie , juridische kosten als de eigenaren advies willen
+inwinnen. Kosten om de woningen geschikt te maken zijn de bouwkosten. Of alleen de materiaalkosten als
+de eigenaar zijn woning zelf aanpast. Er kunnen ook kosten zijn voor gezamenlijk eigendom , zoals kosten
+om de gemeenschappelijke voorzieningen aan te passen , infrastructuur aan te passen , enz. enz.
+16 Wat zijn de kosten van transformatie?
+Deze kosten zijn afhankelijk van
+a. de staat van onderhoud
+b. het streefbeeld dat partijen (eigenaren en gemeente) opstellen voor de toekomst
+c. de wettelijke eisen die mogelijk van toepassing zijn als er gewoond wordt in plaats van gerecreëerd.
+Met name a en b maken dat het antwoord op de vraag per park enorm kan verschillen. In een
+transformatieproces zijn vier fasen. In fase I wordt de intentie en de haalbaarheid/wenselijkheid onderzocht
+van park- en gemeentezijde. Pas in fase II gaan partijen aan de slag met het streefbeeld. Dan worden kosten
+duidelijk die te maken hebben met aanpassingen op parkniveau en op huisjesniveau. Bij beide parken
+ronden we een dezer weken fase I af en gaan we aan de slag met fase II.
+a. Algemeen uitgangspunt is dat onderhoud voor de eigenaar is.
+b. Het streefbeeld moet in principe uit het kostenverhaal worden betaald. Hierbij geldt ook: wie heeft de
+wens. Wil de gemeente het of willen de eigenaren het. En moet er dan voor een gezamenlijke betaling
+worden gekozen? Dit is maatwerk , afhankelijk van wens , urgentie , noodzaak. De projectleider voert
+hierover de onderhandeling namens de gemeente.
+c. Wettelijke eisen moeten in principe ook worden betaald uit het kostenverhaal. Voor zover van
+toepassing. Welke kosten er ontstaan hangt dus in hoge mate af van eigendom en noodzaak. Op dit
+moment is de gemeente aan de slag om twee of drie scenario’s voor een streefbeeld te ontwikkelen. Bij elk
+scenario vullen we in wat dit betekent voor: verkeer , verlichting , groen , wegen , riool , enz. , enz. En dan
+kunnen daar kosten op schatting onder worden gezet.
+Taxatie
+18 Taxatie waardestijging ingericht op Drents niveau. Gekozen voor waardestijging grond ipv object. Waarom?
+Grond is meer objectief te bepalen. Woningen zijn nu verschillend en blijven verschillend qua materiaal ,
+grootte , kwaliteit e. d. Waardestijging is gekoppeld aan gebruikswijziging en daarmee vooral gekoppeld aan
+perceel.
+19 Wat gaan eigenaren gemiddeld aan overwaarde ontvangen?
+Dat is niet te zeggen omdat de parken/percelen nog niet getaxeerd zijn.
+20 Hoe verhoudt zich het volgende. Drenthe is een krimpregio vanwege vergrijzing. Nu veel behoefte aan
+woonruimte. We transformeren nu naar wonen. Over 15-20 jaar hangt de vlag er anders bij en keldert de
+waarde. Wat gaan we dan doen? Uitgangspunt is de marktwaarde op het moment van taxatie. Net al bij
+elke koop/verkoop van woningen , passen we dit ook bij transformatie toe. Het is altijd aan de eigenaar om
+hierin een eigen afweging te maken. Naast een risico van daling van marktwaarde is er een mogelijkheid tot
+stijging van marktwaarde , zoals de afgelopen periode is gebeurd.
+21 Is er bij de verkoop van de grond op gewezen dat de eigenaren met perceelsgebonden vergunningen in het
+voordeel zijn i. v. m. de vereveningsbijdrage? Dit is ons niet bekend. Vermoedelijk niet , omdat ten tijde van
+de verkoop van de grond geen sprake was van verevening op dat moment of in de toekomst.
+Verevening
+Verevening is min of meer het tegenovergestelde van het betalen van planschade. Als een bestemming wijzigt ,
+kan dit betekenen dat iets meer waard wordt of dat iets minder waard wordt. Als het minder waard wordt is er
+planschade. De veroorzaker betaalt een vergoeding aan de eigenaar wiens bezit minder waard wordt Als het
+bezit meer waard wordt , dan is er een meerwaarde. De veroorzaker kan een vergoeding vragen aan de
+eigenaar. Dat heet verevening.
+De totale meerwaarde , eerste kolom , is 100%.
+Van deze totale meerwaarde betaalt de eigenaar 20% aan de gemeente. Tweede kolom.
+Dan resteert er 80%. Hiervan betalen de eigenaren de gezamenlijke kosten van de transformatie. En eigen
+kosten , zoals het voldoen aan het bouwbesluit van het vakantiehuisje. Derde kolom.
+Wat resteert van de 100% is voor de individuele eigenaar. Vierde kolom.
+Hoe lager de kosten , hoe hoger de meerwaarde voor de eigenaar. Hoe groot dit percentage is, is pas bekend als
+de kosten bekend zijn. De kosten hangen af van wat eigenaren en gemeente afspreken over hoe het park er in
+de toekomst moet uitzien en welke eisen er zijn vanuit wet- en/of regelgeving. Dit gebeurt in de tweede fase
+van het stappenplan van de transformatie , het maken van het streefbeeld.
+22 Wat wordt bedoeld met waardestijging op Drents niveau? 20% verevening – wie gaat de ondergrond
+taxeren? Wat zijn ongeveer de kosten , 80% , en wat valt daar onder voor de eigenaar?
+Het gaat niet zo zeer om de waardestijging op Drents niveau. In de nota over de verevening gaat het over
+de wijze waarop de waardestijging wordt bepaald. Hiervoor hebben de Drentse gemeenten samen een
+afspraak gemaakt. “Hierin is een gezamenlijke Drentse lijn bepaald op basis van de waardestijging van de
+grond. De daarop gesitueerde woning wordt hierbij niet meegenomen. Kortgezegd komt het erop neer dat:
+- zowel gemeenten als parkeigenaren beiden op parkniveau een taxatie laten uitvoeren door een register-
+taxateur naar de marktwaarde voor en na bestemmingsplanwijziging naar wonen. Eventuele fysieke
+verbeteringen op het park worden hierbij betrokken evenals al dan niet aanwezige objectgebonden
+beschikkingen. - de uitkomst vertaald kan worden naar een marktwaarde op perceelsniveau; - beide
+register-taxateurs gezamenlijk tot een gedragen waardebepaling komen; - wanneer dit niet lukt , een derde
+register-taxateur wordt ingeschakeld om een bindend advies uit te brengen.
+De eigenaren bepalen gezamenlijk wat er wel of niet uit de 80% wordt betaald. En ook aan welke kosten de
+eigenaren met een perceelsgebonden beschikking meebetalen. Gedacht kan worden aan de kosten van de
+taxateurs , de kosten van de inspectie van de woningen , de leges voor de bestemmingsplanwijziging , kosten
+voor de kwaliteitsimpuls die de provincie vraagt , kosten voor aanpassingen in de infrastructuur of het
+groen , enz.
+23 Hoe werkt de verevening?
+Bij verevening wordt uitgegaan van de meerwaarde die ontstaat doordat de bestemming van de
+vakantiewoning wijzigt en het een woning wordt. Het gebruik als woning geeft een andere , hogere waarde.
+Deze meerwaarde is de basis voor de verevening. Hiervan betaalt de eigenaar 20% aan de gemeente. Met
+transformatie worden recreatieverblijven onttrokken aan de totale hoeveelheid recreatieverblijven. De
+gemeente zet de vereveningsbijdrage in ter compensatie. Dit betekent dat de bijdrage wordt geïnvesteerd
+in andere toeristische voorzieningen. Dit wordt vooraf beschreven in een zogenaamde structuurvisie. De
+basis voor de vereveningsbijdrage is dus afhankelijk van de taxatie.
+24 Kunt u d. m. v. een hypothese een voorbeeld geven van de verevening?
+Dit doen we niet. In de praktijk merken we dat hypothetische voorbeelden een eigen leven gaan leiden
+waar betrokkenen zich te veel aan vast houden. Bovendien is de waardestijging heel erg verschillend per
+park. Dit omdat de situatie op het park een erg belangrijke rol speelt.
+Bestemming vereveningsbijdrage
+25 De verevening wordt nu ingezet voor andere toeristische activiteiten. Kan dat niet dienen voor de te
+verwachten infrastructurele kosten? Nee , dat is niet toegestaan. De opbrengst van de verevening moet
+worden ingezet voor compensatie in de toeristisch , recreatieve sfeer. Uitgangspunt is dat je verevent omdat
+toeristisch recreatief product wordt onttrokken. Het fietsplan is een mogelijk voorbeeld van een
+bestemming. Of transformatie van een park naar natuur , dan blijft het binnen VVPC en kunnen de kosten
+die hiermee zijn gemoeid worden betaald. Dit moet vooraf worden vastgelegd in een zogenaamde
+structuurvisie. Daarin worden de doelen/bestemmingen beschreven.
+Betaling vereveningsbijdrage
+26 Betaalbaarheid: hoe wordt de vereveningsbijdrage geïnd. De verevening is een vrijwillige afspraak , anders
+dan kostenverhaal. Dus van dwang kan geen sprake zijn. Als er een overeenkomst is, dan is het natuurlijk zo
+dat de meerwaarde een papieren meerwaarde is. Per persoon kunnen we afspraken maken over hoe dit
+kan worden betaald. Binnen de organisatie wordt de komende maanden gewerkt aan een aantal opties die
+we eigenaren kunnen voorleggen. Denk daarbij aan uitgestelde betaling tot verkoop (met eindtermijn) of
+betaling in termijnen oid. Ook kan er een hypotheek voor worden verkregen.
+27 Ik heb een perceelsgebonden beschikking. Dan is er toch geen sprake van een vereveningsbijdrage? Mijn
+waarde van de woning wordt lager. Nu is het een unieke positie.
+De vereveningsbijdrage is van toepassing als er sprake is van een waardestijging. Of er bij de
+vakantiewoningen met een perceelsgebonden beschikking wel of geen sprake is van waardestijging is dus
+afhankelijk van de uitkomst van de taxatie en het oordeel van de taxateurs. Op voorhand kunnen we hier
+niets over zeggen , aangezien we geen voorbeelden kennen van andere parken waar ook perceelsgebonden
+beschikkingen waren uitgegeven. De taxatie wordt gebaseerd op de waardestijging van het gehele park als
+gevolg van de bestemmingswijziging. Dit wordt vertaald naar de percelen. De taxateurs wordt verzocht
+rekening te houden met de perceelsgebonden beschikkingen.
+Vakantiewoning/woning
+28 Moeten vakantiewoningen aan het bouwbesluit voldoen? Ja als een vakantiewoning een woonbestemming
+krijgt moet er een toets aan het bouwbesluit plaatsvinden. Overigens geldt dit ook als er een persoons- of
+perceelsgebonden beschikking wordt verstrekt.
+Vragen De Tip
+29 Wat is het verschil tussen permanente woonbestemming en een woonbestemming? Niet alle woningen
+voldoen nu aan het bouwbesluit.
+Er is geen verschil tussen permanente woonbestemming en woonbestemming. Als er toestemming is voor
+het wonen in de (vakantie)woning moet de woning voldoen aan het bouwbesluit. Of dit nu is geregeld via
+een bestemmingswijziging zoals bij transformatie. Of via een perceelsgebonden of persoonsgebonden
+beschikking. Er is een verschil in eisen tussen bestaande bouw en nieuwbouw. De vakantiewoningen
+worden getoetst aan de eisen voor bestaande bouw. Zaken waaraan gedacht kan worden zijn bijvoorbeeld
+eisen over brandveiligheid. De ervaring leert dat het meestal geen ingrijpende verbouwing oplevert , maar
+er zijn wel aanvullende eisen.
+30 Moet het park er na transformatie uitzien als een woonwijk?
+Nee , niet persé. Dit hangt af van de keuze die de gemeente maakt , die eigenaren maken en van de
+haalbaarheid en wenselijkheid. Een van de eisen die de hulpdiensten stellen is dat de woningen bereikbaar
+moeten zijn voor hun auto’s. Bij het bepalen van het streefbeeld , worden ook de hulpdiensten
+betrokken/gevraagd.
+31 Worden er eisen gesteld aan wegen , moeten zandwegen worden gewijzigd in verharde wegen?
+Nee , dit is geen eis. De eis is dat wegen begaanbaar moeten zijn. Bij gemengd gebruik gaat men uit van het
+zwaarste gebruik. Dit wordt in het gesprek over het streefbeeld ook besproken.
+32 Wij zijn recreant en blijven recreant. Als dit doorgaat hebben we 2 woonhuizen. Hoe wordt dit gezien ivm
+de leegstandswet.
+De leegstandswet is van toepassing als een woning tzt wordt gesloopt of verkocht en is hier niet van
+toepassing als een bewoner de vakantiewoning wil blijven gebruiken voor recreatie. Met eigenaren die
+willen blijven recreëren maar wel meegaan in de transformatie , maken we afzonderlijke afspraken over het
+gedogen van recreatief gebruik en het vervallen van dit recht bij verkoop (overgangssituatie).
+33 Wat moet ik doen als ik tevreden ben met de huidige bestemming?
+We adviseren u om dan na te denken of u wel of niet mee wilt transformeren. Als u niet wilt transformeren
+en de woning recreatief wilt gebruiken , dat kunt u dit aangeven. Het is goed dat u zich realiseert dat als u
+later alsnog de bestemming van uw huisje wilt laten wijzigen , de kosten voor u hoger zullen zijn. Nu kunnen
+de kosten gezamenlijk worden gedeeld. Als u wel wilt transformeren maar er niet wilt gaan wonen , dan
+geldt antwoord 32 ook voor u. Als u wilt kunnen wij u helpen de voor- en tegen argumenten op een rij te
+zetten.
+34 De waarde na bestemming bewoning zal stijgen. Waarover wordt geheven? Stort u ook terug als de waarde
+daalt?
+Er wordt geheven over de meerwaarde tussen de waarde als vakantiehuisje en de waarde als woonhuis.
+Het verschil tussen deze twee. Als de waarde daalt , is het erg verstandig als partijen (eigenaren en
+gemeente) zich afvragen waarom we willen transformeren en wie wil transformeren. Dan lijkt het
+aantrekkelijker er een goed recreatiepark van te maken.
+35 Welk percentage van de bewoners moet vóór stemmen om het door te laten gaan?
+Hiervoor hebben we geen hard percentage of aantal afgesproken. Het hangt af van de omstandigheden en
+de redenen waarom eigenaren niet mee willen in de transformatie. Als richtlijn gaan we uit van 90%. Voor
+De Tip zou dit dus ongeveer 60 voorstanders zijn. Als er nu , aan het einde van fase 1 en de start van het
+serieuze vervolgonderzoek , iets minder zijn dan gaan we verder met fase 2. Dit in de verwachting dat de
+uitwerking eigenaren andere inzichten kan geven.
+36 Graag een voorbeeld van de totale kosten voor een eigenaar van een woning bijvoorbeeld oppervlakte
+1. 000 m2 grond.
+Dit kunnen we niet geven. Omdat de meerwaarde niet bekend is. En omdat niet bekend is welke kosten
+gemaakt moeten worden om het streefbeeld te realiseren of om de woning aan te passen aan de eisen uit
+het bouwbesluit. Deze kosten ontdekken we in fase 2. Na fase 2 kunnen de eigenaren op basis van het
+totale kostenplaatje besluiten om of het streefbeeld aan te passen of om af te zien van transformatie.
+Belangrijk is steeds daarbij in gedachten te houden dat afzien van transformatie betekent dat de woningen
+zonder persoonsgebonden of perceelsgebonden beschikking een recreatiebestemming behouden en ook
+op die manier gebruikt moeten gaan worden.
+37 Mandaat: Vertegenwoordiging (werkgroep) na overleg met achterban. Traag proces. Moet structuur
+(overleg) voor komen.
+Graag. Wat we vragen is een werkgroep die voorwerk doet voor alle eigenaren. Met een brede
+vertegenwoordiging. Als de huidige werkgroep naar iemands mening niet compleet is, dan kunnen er
+mensen aansluiten. Met de werkgroep werken we als gemeente bepaalde zaken uit , die we dan voorleggen
+aan individuele eigenaren om (gezamenlijk) te besluiten. Dus de werkgroep beslist niet namens de
+eigenaren. Wel is het handig en wenselijk als de werkgroep bijvoorbeeld mag beslissen welke taxateur
+wordt ingeschakeld en – binnen kaders die ze meekrijgt , over de offerte mag beslissen. Structuur wat ons
+betreft ook heel graag. Als we binnen ongeveer anderhalf jaar alle stappen willen zetten en afronden , is het
+belangrijk een goede planning af te spreken.
+38 Graag betere informatievoorziening. Waarom niet van te voren stuk toesturen zodat we iets hebben om
+over te praten en met structuur?
+We waren in de veronderstelling dat alle eigenaren geïnformeerd waren en stukken als de quickscan en de
+transformatie informatie hadden ontvangen. Gebleken is dat dit niet zo was. Het is vervelend dat dit
+misverstand is ontstaan. Vanaf nu zullen we hier beter op letten en duidelijke afspraken maken wie wat
+doet (werkgroep/gemeente). En tijdens de bijeenkomst is iedereen verzocht contactinformatie te mailen
+naar: vvp-coevorden @coevorden.nl. Naam , postadres , email , telefoonnummer en huisje nummer. Onze
+gesprekken vinden plaats met eigenaren en niet met bewoners/huurders.
+39 Ik heb een perceelsgebonden beschikking. Welk voordeel biedt transformatie voor mij?
+De voordelen voor u zijn veel beperkter. Op dit moment woont u met een beschikking , dus met
+toestemming van de gemeente , in een vakantiewoning op een perceel met een recreatiebestemming. Na
+transformatie woont u in een woning op een perceel met een woonbestemming. Dit geeft iets meer
+zekerheden , misschien ook naar andere partijen , maar feitelijk verandert er voor u niet heel veel.
+Transformatie van het hele park biedt u – afhankelijk van de gesprekken over het streefbeeld – een
+voorbeeld dat het gehele gebied een woonbestemming krijgt en op basis daarvan gezamenlijk wordt
+ingericht.
+Kwaliteitsimpuls
+biodiversiteit De Tip in
+De Kiel 2024
+1 Aanleiding.
+Het gebied met zomerhuisjes aan De Tip in De Kiel kent samen 59 huisjes; diverse huisjes
+worden permanent bewoond, waarvan sommige al decennia. Om aan deze dubbele situatie,
+het zomerhuisjes noemen en weten dat een deel permanent bewoond wordt, is er voor
+gekozen om aan alle huisjes een woonbestemming toe te kennen. De procedure hiertoe is
+opgestart en valt buiten het bereik van deze notitie.
+Van de zijde van de provincie is al voorwaarde gesteld dat meewerken aan deze
+bestemmingsverandering alleen acceptabel is als er sprake van verhoging van de kwaliteit. En
+de eerste en meest voor de hand liggende vraag is dan, de kwaliteit van wat?
+In het voortraject is door veel tijd en energie gestoken om te kijken in hoeverre
+de huisjes zelf duurzamer gemaakt kunnen worden. Duurzame kwaliteit dus. En dat kan nog
+veel verschillende zaken omvatten: het verminderen van de energiebehoefte door isolatie
+van de huisjes of het (al dan niet met andere omwonenden) zoeken naar mogelijkheden voor
+het opwekken van duurzame energie door middel van een ‘zonnepark’.
+(geanonimiseerd)
+Uit dit onderzoek is naar voren gekomen dat er best wel mogelijkheden zijn, maar dat het
+organisatorisch een te grote opgave is. In de eerste plaats is het al een klus om uit te zoeken
+welke mogelijkheden voor subsidies er zijn, en dan komt de vraag: wie wil meedoen en
+onder welke omstandigheden en voorwaarden. Zoveel zielen zoveel wensen. Om dit op te
+zetten in het kader van een
+kwaliteitsimpuls voor verandering van de bestemming van de
+huisjes, bleek dit ‘een brug te ver’
+Vervolgens is gekeken naar de mogelijkheden om de biodiversiteit in het gebied (en directe
+omgeving) te verhogen.
+2 Het begrip biodiversiteit.
+Het is een woord dat de laatste jaren veel voor komt in de media (kranten , radio , TV , enz. ).
+dit komt omdat het aantal soorten planten en dieren de laatste decennia steeds verder en
+steeds harder achter uit gaat. En dan gaat het niet alleen om het helemaal verdwijnen van
+soorten , ook is een sprake van een verandering: zeldzamere soorten worden steeds
+zeldzamer en algemene soorten steeds meer dominant. Het gebied wordt monotoner.
+Biodiversiteit kan als volgt gezien worden. Soorten zijn onderling van elkaar afhankelijk. Een
+roofdier kan niet bestaan zonder prooidieren , en zijn dieren die planten eten en soms zijn ze
+sterk gericht op een enkele soort. Zo is een gentiaanblauwtje (een vlindersoort) geheel
+afhankelijk van het voorkomen van de Klokjesgentiaan , een plantensoort met blauwe
+bloempjes die op voedselarme vochtige plekken groeit. Verder is gebleken dat boomwortels
+vaak niet functioneren als er niet de juiste schimmels in de bodem zitten.
+Hoe diverser een gebied , hoe meer verbindingen er tussen organismen bestaan. Door de
+vele verbindingen wordt zo’n systeem minder kwetsbaar. Als er een organisme wegvalt , zijn
+er alternatieve mogelijkheden. Dit samenhangend systeem , een zogenaamd ecosysteem , is
+te vergelijken met een toren van blokjes. Als je een blokje wegneemt , valt de toren nog niet
+om. Maar als er steeds meer blokjes wegvallen , stort de toren op een gegeven moment in.
+Sinds de opkomst van de steeds meer techniek en de grote toename van het aantal mensen
+op aarde , wordt er steeds meer druk gelegd op de bestaande ecosystemen. Het gevolg is dat
+ze kwetsbaar worden , er kan zomaar een cruciaal blokje weggevallen zijn. Het gevolg is dat
+de ecosystemen kwetsbaar worden voor onder meer veranderingen in het klimaat. Grote
+regenbuien zorgen niet alleen voor grote overlast , maar ook voor veel menselijk leed en het
+kost steeds meer geld. De recente regenbuien in Polen en Oostenrijk kosten ruim 200
+miljard.
+3 De uitgangsituatie aan De Tip in De Kiel
+De uitgangsituatie voor het zomerhuisjesterrein aan De Tip in De Kiel , kan als positief
+bestempeld worden. De huisjes liggen tussen veel groen en veel groen bestaat uit bomen en
+planten die van natura thuis horen op deze hoger gelegen , en daarmee drogere ,
+zandgronden , al dan met keileem in de ondergrond. Door deze relatief hoge ligging kent het
+gebied geen sloten of greppels. Als er neerslag valt kan dit gemakkelijk wegzijgen in de
+bodem , temeer omdat de hoeveelheid verharding gering is.
+Dus een relatief goede samenhang tussen de bodem en de beplanting. Dit leidt ertoe dat de
+bestaande situatie relatief gezien kan worden als gunstig. Zo is van eiken bekend dat die
+samen werken met veel andere organismen , vooral veel bodemschimmels , en dat de eik zelf
+weer een woonplek is voor veel soorten
+insecten/spinnen/mijten/vogels/kevers/bladmineerders/enz. Van eiken is bekend dat ze
+samenwerken met honderden andere organismen. Een andere soort boom , de Fijnspar die
+nog maar kort in Nederland voorkomt (ruim 100 jaar) , is samenwerken met andere
+organismen nog maar minimaal op gang gekomen; er is samenwerking met enkele tientallen
+andere organismen.
+4 Kansen voor verbetering van biodiversiteit.
+Vanuit de gunstige uitganssituatie zijn er ook kansen om de biodiversiteit verder te verhogen.
+We willen de volgende kansen benoemen:
+4. 1 takkenrillen langs randen van groene plekken.
+Binnen het gebied komen diverse open plekken voor met een grazige vegetatie onder
+bomen. Deze bomen moeten regelmatig gesnoeid worden , niet alleen vanuit veiligheid
+(dode takken verwijderen) maar ook voor vormsnoei. Tot nu toe worden de takken
+afgevoerd. Het alternatief is om deze takken in ‘rillen’ langs de kant te leggen. In de eerste
+plaats zijn de rillen een goede schuilplek voor allerlei dieren. Maar bovendien ontstaat een
+ander soort ecotype. Dood hout is een voedingsbron voor allerlei
+kevers/schimmels/paddenstoelen/mijten/insecten/enz. Op deze manier wordt als het ware
+een ecosysteem toegevoegd met eigen soorten , waardoor de biodiversiteit in het gebied
+toeneemt.
+4. 2 takkenrillen langs de zandweg aan de westzijde
+Wat binnen het gebied zelf kan , kan ook aan de rand van het gebied. Aan de westzijde van
+het gebied staan bomen die ook regelmatig gesnoeid moeten worden. Ook van deze takken
+kan een takkenril gemaakt worden. Omdat deze dan aan de rand van het gebied ligt , is de bezonning
+en de inval van regen anders dan binnen het gebied. Voor een deel zullen dezelfde soorten zich in
+deze rillen vestigen , maar door het verschil in lichtinval en sneller opdrogen na regen , zullen er ook
+andere soorten bij komen.
+4. 3 bijplant van Sporkenhout (Rhamnus frangula)
+De opgaande beplanting aan de westzijde (zie punt 4. 2) biedt ruimte voor het planten van struiken.
+Soort die hier van nature voorkomt , is het Sporkenhout , ook wel Vuilboom geheten. Deze boom
+bloeit in feite het hele seizoen door met kleine onopvallende groene bloempjes. Kenmerk van deze
+bloempjes is dat ze relatief veel nectar bevatten en daarmee een goede voedingsbloem zijn voor
+velerlei soorten insecten. En dat gedurende vele maanden waardoor verschillende soorten insecten
+kunnen profiteren.
+4. 4 het plaatsen van een ‘insectenhotel’.
+Voor allerlei dieren geldt dat het voortbestaan afhankelijk is van voedsel , water , voortplanting en
+beschutting in verschillende stadia van hun leven. Omdat we gemiddeld genomen in Nederland een
+‘nette’ tuin hebben (kort gras , opgeruimd) is er voor vooral insecten weinig ruimte om te schuilen of
+om een volgende fase in hun leven te overbruggen. Om in deze vraag te voorzien kan een
+insectenhotel geplaatst worden. Het blijkt dat in het dorp De Kiel hier veel voorstanders van zijn en
+Staatsbosbeheer heeft aangegeven dat ze bereid zijn om materialen hiervoor beschikbaar te willen
+stellen. Door deze combinatie met het dorp en de samenwerking van Staatsbosbeheer , lijkt de
+plaatsing van het insectenhotel op het nieuwe voedselbos een logische plek (dit ligt een paar
+honderd meter ten noorden van het gebied De Tip). Ook op deze manier kan een bijdrage geleverd
+worden aan de biodiversiteit.
+4. 5 gebruik van compost
+Op het deel van de 42 huisjes wordt blad bijeen geharkt en in bladbakken gebracht. Na een lange tijd
+van composteren wordt het materiaal afgevoerd naar het terrein van de gemeente in Zweeloo. Door
+de compostering is de hoeveelheid aanzienlijk afgenomen.
+Echter , de compost van met name het onderste deel in de bladbakken , kan ook gebruikt worden in de
+tuinen van de huisjeseigenaren. Op die manier blijven de voedingsstoffen en mineralen binnen het
+gebied aanwezig. Maar vooral zal de hoeveelheid organische stof in de bodem toenemen waardoor
+er veel meer diertjes in de bodem kunnen leven. En die diertjes zijn dan weer een goede
+voedingsbron voor vogels en andere diertjes-eters.
+4. 6 behoud groene karakter in het gebied.
+De voorbereiding van de bestemmingswijziging is in volle gang. Een van de onderdelen daarvan is de
+herziening van het bestemmingsplan , thans omgevingsplan geheten. In dit plan wordt aandacht
+besteed aan bouwmogelijkheden , niet voor de huisjes en bijgebouwen , maar ook op de
+erfscheidingen.
+Ter voorbereiding op dit plan is inmiddels een streefbeeld afgerond. Dit is besproken met de
+eigenaren van de huisjes en inmiddels is het streefbeeld ook door het college van Burgemeester en
+Wethouders akkoord bevonden. In dit streefbeeld is opgenomen dat er op de erfscheidingen geen
+schuttingen en muren gebouwd mogen worden. Op die manier wordt niet alleen het groene karakter
+behouden , maar is ook de uitwisseling van planten en dieren tussen de tuinen beter mogelijk. Zo
+blijkt dat met name egels in aantal verminderen als tuinen door ondoordringbare schuttingen van
+elkaar gescheiden worden.
+Behoud van biodiversiteit door voorwaarden in het bestemmingsplan.
+4. 7 bloemen in de berm
+De straat De Tip kent aan de oostzijde een tamelijk brede berm. De vegetatie bestaat vooral uit gras
+met een gering aantal bloemen ertussen. De biodiversiteit van deze berm kan verhoogd woorden
+door het zaaien van bloemen die er van nature thuishoren. Deze soorten zullen na verloop van tijd
+ook komen door het huidig bermbeheer (aan het eind van het seizoen maaien en afvoeren). Maar
+door uitzaai van bloemen dan dit proces versneld worden.
+4. 8 oproep aan de eigenaren van de huisjes
+De biodiversiteit kan ook verhoogd worden door het beheer dat de eigenaren van de huisjes
+uitvoeren. Maatregelen die ene ieder kan nemen zijn:
+- Geen gebruik van gif. Uit onderzoek blijkt dat met name insecten gevoelig zijn voor allerlei
+soorten gif; hun aantal neemt al jaren af;
+Werken met bloemen die van nature in nederland thuishoren. Uit onderzoek is gebleken dat
+uitheemse bloemen vaak wel mooi bloeien , maar dat de insectenwereld hier niet is
+aangepast op deze uitheemse soorten. De nectar in de bloemen kan dan niet door de
+insectenwereld worden benut.
+Laat wat rommelhoekjes achter. Hoewel velen van ons zijn opgegroeid met een soort
+‘netheidssyndroom’ , is het de voor de biodiversiteit van belang dat er rommelhoekjes. Deze
+kunnen dienen als schuilplaats voor allerlei dieren of als overwinteringsplek.
+-
+-
+Wanneer bovenstaande maatregelen worden uitgevoerd is een bijdrage geleverd aan behoud en
+versterking van de biodiversiteit in het gebied. Uit ecologisch oogpunt is dit een verbetering van de
+kwaliteit.
+De Kiel , november 2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Memo
+Veel gestelde vragen verevening en
+transformatie in Coevorden
+Datum oktober 2021
+Plan per park
+1 De gemeente wil samenwerken met ons park voor transitie. Uit de stukken blijkt mij niet dat de
+gemeente een goed en een toereikend beeld heeft van het park. Welke inspanning gaat de
+gemeente doen in dit kader?
+Vanuit het programma Vitale Vakantie Parken investeren we in het bijeen brengen van de juiste
+informatie. Daarbij gelden twee zaken: in het kader van de Algemene Verordening
+Gegevensbescherming (AVG) beschikken we niet over automatisch over informatie die bij
+andere afdelingen van de gemeente vastligt. In het kader van uw privacy is dit niet toegestaan.
+Daarnaast verandert door verkopen en verhuringen de actualiteit regelmatig. Wij krijgen daar
+niet automatisch bericht van. Dus het kan zijn dat bepaalde kennis die we hebben niet meer
+helemaal actueel is.
+Door contact met bestuur en bezoeken aan het park proberen we steeds een zo goed mogelijk
+beeld te hebben van wat er leeft en speelt. We nodigen u van harte uit om contact te zoeken als
+u ons wilt informeren over zaken.
+2 Wij zien jullie als serieuze gesprekspartner. Waarom dan eerst zaken/stukken in de raad
+brengen , gebiedsvisie vaststellen , etc. en vooraf niet met ons besproken. Hoe doen we dat de
+rest van het traject?
+Het programma Vitale Vakantie Parken Coevorden omhelst in ieder geval 17 parken. Als
+gemeente gaan we met elk park in gesprek om een plan per park te maken. We gaan uit van
+maatwerk per park. Dit maatwerk gebeurt altijd binnen kaders. Kaders die de gemeente heeft
+als het gaat om lange termijn visie , beleid of wet- en regelgeving. Bovendien zijn we als
+gemeente verantwoordelijk voor het algemeen , publiek belang. Dit gaat verder dan de belangen
+van een park , maar gaat hier bijvoorbeeld ook over de belangen van de eigenaren en
+ondernemers van omliggende parken en over de belangen van de bewoners van een nabij dorp.
+De stukken die in de raad zijn vastgesteld gaan over de kaders die de gemeente stelt.
+Bij de verevening gaat het om hetzelfde: de raad heeft een methodiek voor alle parken in
+Coevorden vastgesteld. De uitwerking van de methodiek is afhankelijk van de keuzes die per
+park gemaakt worden.
+Voor de rest van het traject geldt: de transformatiestappen doorlopen we met (een
+vertegenwoordiging van) de eigenaren op het park. Op de verschillende onderdelen die we
+tegenkomen gelden soms opnieuw kaders. Denk aan de kwaliteit van de huisjes. Daarvoor moet
+een toets aan het bouwbesluit worden uitgevoerd. Ook in het uitwerken van het streefbeeld van
+het park (hoe ziet het park er na de transformatie uit) , zult u wensen inbrengen en zal de
+gemeente kaders inbrengen. Binnen de kaders zit de speelruimte waar u keuzes kunt maken.
+Net als in wijken en dorpen.
+Op het definitieve plan voor de transformatie vindt het uiteindelijke besluit plaats. Door
+eigenaren en door het college.
+3 Wanneer is het project voor VVPC geslaagd? En wanneer voor de eigenaren?
+VVPC is een programma binnen de gemeente en maakt onderdeel uit van het Actieprogramma
+Vitale Vakantie Parken Drenthe. Doel van het programma is om de verblijfsaccommodaties te
+moderniseren en te laten aansluiten bij de vraag van de huidige en toekomstige toeristen. Als
+een park geen toekomstperspectief heeft in recreatie , kan gekeken worden naar een andere
+bestemming. Zoals wonen. Dit onderzoeken we op dit moment bij twee parken. Als we met de
+eigenaren tot een succesvolle transformatie naar wonen komen is voor de gemeente het traject
+geslaagd. Maar ook als we na serieus onderzoek tot de conclusie komen dat hiervoor geen
+draagvlak is. En we dan gezamenlijk afspraken maken over het opnieuw recreatief gebruiken
+van het park. In de wetenschap dat de vakantiehuisjes met een perceelsgebonden
+beschikkingen een woonfunctie behouden.
+4 Overgangssituatie
+Hoe gaat de gemeente in tussentijd om met verzoeken tot permanente bewoning? Worden deze
+verleend of oogluikend toegestaan? Of juist niet?
+We verlenen geen persoons- of perceelsgebonden beschikkingen meer. Dat deden we al enige
+tijd niet meer en ook met mogelijke de aanpassing van het Besluit omgevingsrecht , zullen we
+geen beschikkingen verlenen. Zo lang we in gesprek zijn over een transformatie naar een
+woonfunctie , zullen we niet starten met een actieve handhaving op bewoning zonder
+beschikkingen.
+5 Erkent de gemeente Coevorden dat zij het probleem zelf hebben gecreëerd door permanente
+bewoning toe te staan? Als nu gezegd wordt dat problematiek ontstaat door verschillen tussen
+recreatie en wonen?
+In het verleden is er op beleid , inzichten en afwegingen van toen gekozen voor het verstrekken
+van persoons- en perceelsgebonden beschikkingen. Inmiddels is er veel veranderd. Zowel aan
+kennis over bewoning op vakantieparken , het gebruik van vakantieparken door verschillende
+groepen in de samenleving als aan de vraag op de woningmarkt zowel in de markt voor
+vakantiewoningen als in de markt voor permanente woonruimte. Dit maakt dat voortschrijdend
+inzicht is ontstaan wat wel en niet wenselijk is. En dat er nu andere keuzes gemaakt worden
+dan 15-20 jaar geleden.
+6 Wat voegt het toe voor ons als park? Worden wij niet de melkkoe van de gemeente?
+Transformatie op parkniveau betekent dat het park geen vakantiepark meer is maar een gebied
+met woonhuizen (dit kan een woonpark of andere variant zijn). Er kan legaal gewoond worden
+of de woning kan worden verhuurd voor bewoning. Er ontstaat een hogere waarde op de woning
+door de woonfunctie. Er ontstaat duidelijkheid in gebruik en legalisatie van wat veelal gebeurt.
+Er ontstaat duidelijkheid in wat mag en kan. Individueel voordeel is verschillend uiteraard
+afhankelijk van huidige situatie , wensen , staat van de huidige vakantiewoning , e. d. Van de
+meerwaarde wordt 20% betaald aan verevening. Van de overige 80% worden kosten betaald ,
+maar dit is niet persé het volledige bedrag. Wanneer de kosten laag kunnen worden gehouden ,
+resteert er ook een meerwaarde voor de eigenaar zelf. Het voordeel bij transformatie is het
+grote aantal huisjes. Daarmee kunnen kosten als leges en taxatie gedeeld worden en vallen veel
+lager uit dan wanneer iemand niet meedoet met transformatie en op een later moment alsnog
+wil transformeren.
+Wanneer er geen transformatie volgt , kiest de gemeente voor het actief inzetten op het
+terugbrengen van de recreatiefunctie op het park. Voor enkele huidige bewoners zonder
+beschikking betekent dit dat zij op enig moment niet meer in de vakantiewoning kunnen wonen.
+7 Wie is hier de initiatiefnemer?
+Waarom veranderen?
+Oorspronkelijk waren (een deel van de) eigenaren van de huidige transformatieparken zelf
+initiatiefnemer. Voor de gemeente geldt dat zij transformatie op deze parken mogelijk wil
+maken , maar transformatie is niet de enige optie of een uitdrukkelijke wens. De eigenaren
+moeten willen transformeren naar wonen. Een verandering naar een woonbestemming levert op
+dat de huidige , deels illegale bewoningssituatie gelegaliseerd wordt. De gemeente werkt mee
+aan transformatie als het grootste deel van de eigenaren kiest voor transformatie. Het exacte
+aantal blijft een afweging en het komt niet op 1 aan. Maar van alle eigenaren moet toch zeker
+het grootste deel (plm. 90%) mee willen in de transformatie. Daarmee hebben de eigenaren
+onderling ook een gezamenlijk belang of gezamenlijke verantwoordelijkheid.
+8 Vanaf welk moment kunnen we niet meer terug en heeft besluitvorming geen wederkeer meer?
+Op dit moment , aan het einde van fase I – de verkenning , willen we als gemeente een
+procesovereenkomst sluiten. Dit is een overeenkomst waarin we gezamenlijk een serieuze
+intentie uitspreken om te onderzoeken of transformatie haalbaar is. Aan het eind van fase II
+wordt er een realisatieovereenkomst getekend. Hierin wordt het streefbeeld vastgelegd en
+worden financiële afspraken vastgelegd. Dat wordt vertaald naar een transformatieplan dat i
+fase III wordt gemaakt. Na fase II/III is er een definitieve afspraak. Dan worden ook
+overeenkomsten met individuele eigenaren over de vereveningsbijdrage gesloten. Tenslotte in
+fase IV vindt de bestemmingsplanwijziging plaats. Dat is de daadwerkelijke transformatie. In de
+brochure van de Taskforce van het Actieprogramma Vitale Vakantie Parken Drenthe wordt het
+proces het duidelijk toegelicht.
+Keuze transformeren
+9. Wanneer een eigenaar niet meewerkt of niet mee wil in de verevening , wijzigt de bestemming
+dan niet naar woonbestemming?
+Als de verevening redelijk en billijk is en voldoet aan de voorwaarden , kunnen we de
+transformatie van dat perceel tegenhouden , alhoewel je verevening niet voorwaardelijk mag
+maken. In de gesprekken is het belangrijk te kijken welke andere voordelen deze eigenaar kan
+hebben om toch van gedachten te veranderen.
+10 Hoe gaat het met de andere 10 als er van de 100 maar 90 willen transformeren?
+De verwachting is dat 100% deelname niet lukt. Uiteindelijk is het een keuze die we maken op
+de balans tussen belang om te transformeren en hoeveel niet meedoen. Wanneer na fase I een
+groot deel van de eigenaren serieus verder wil , dan gaan we wel door met het proces. Wellicht
+dat de mensen die nu niet willen , in fase II alsnog aanhaken. En anders transformeren ze niet
+mee. Dan gaan we wel starten met handhaving – als deze mensen er wel wonen betekent dit
+niet dat ze kunnen blijven wonen , want ze zijn niet getransformeerd.
+11 Mensen die niet meedoen in de transformatie , betalen die wel mee in de parkkosten?
+Dat is aan de VVE/CVE om dat met hen af te spreken als het gaat om centrale voorzieningen
+waar zij wel voordeel van hebben. Daarin is de gemeente geen partij.
+12 Maakt de gemeente onderscheid tussen woonpark en woonwijk?
+Op dit moment werken we aan enkele scenario’s voor toekomstige situaties van
+getransformeerde vakantieparken. Binnen de scenario’s zijn straks bepaalde keuzes te maken
+door de gezamenlijke eigenaren. Deze scenario’s kunnen een naam krijgen waarbij termen als
+woonpark of woonwijk kunnen worden gebruikt. Transformatie naar een volledige woonwijk
+zoals in een dorp of stad lijkt niet realistisch en wellicht ook niet wenselijk.
+Kosten transformeren
+13 Niet alle kosten van de gemeente worden doorberekend?
+Het gaat om kosten die voor een deel in de personele sfeer zitten , zoals projectleider , juridisch
+advies , inhoudsdeskundigen. Kosten voor taxatie , inspectie en bouwleges worden wel aan de
+eigenaren berekend en kunnen worden betaald uit het kostenverhaal.
+14 Als de transformatie doorgaat. Welke kosten zijn er dan te verwachten op het gebied van
+infrastructuur en hoe worden deze kosten betaald?
+Dat hangt af van eigendom , het streefbeeld (wat wil de gemeente en wat wil het park en welke
+consequenties heeft dit voor infra) en de staat van deze infrastructuur. Als bijvoorbeeld wegen
+of riool van de eigenaren gezamenlijk zijn en er moeten aanpassingen of er moet achterstallig
+onderhoud worden gepleegd , dan kunnen de eigenaren dit onderbrengen in het kostenverhaal.
+Als de wegen of het riool al van de gemeente is , dan zit het al in het onderhoud ingepland. Als
+er eigendomswisseling moet plaatsvinden of grote aanpassingen , dan moet dit per situatie
+worden beoordeeld.
+15 Wat zijn de kosten structuur proces
+Om te transformeren naar een woonfunctie moeten er verschillende kosten gemaakt worden.
+Een aantal kosten is voor het proces. Andere kosten zijn om de woningen geschikt te maken
+voor bewoning. Proceskosten zijn bijvoorbeeld: kosten van de makelaars die taxeren , kosten
+van de leges bestemmingsplan wijziging , kosten inspectie , juridische kosten als de eigenaren
+advies willen inwinnen. Kosten om de woningen geschikt te maken zijn de bouwkosten. Of
+alleen de materiaalkosten als de eigenaar zijn woning zelf aanpast. Er kunnen ook kosten zijn
+voor gezamenlijk eigendom , zoals kosten om de gemeenschappelijke voorzieningen aan te
+passen , infrastructuur aan te passen , enz. enz.
+17 Wat zijn de kosten van transformatie?
+Deze kosten zijn afhankelijk van
+a. de staat van onderhoud
+b. het streefbeeld dat partijen (eigenaren en gemeente) opstellen voor de toekomst
+c. de wettelijke eisen die mogelijk van toepassing zijn als er gewoond wordt in plaats van
+gerecreëerd.
+Met name a en b maken dat het antwoord op de vraag per park enorm kan verschillen.
+In een transformatieproces zijn vier fasen. In fase I wordt de intentie en de
+haalbaarheid/wenselijkheid onderzocht van park- en gemeentezijde. Pas in fase II gaan partijen
+aan de slag met het streefbeeld. Dan worden kosten duidelijk die te maken hebben met
+aanpassingen op parkniveau en op huisjesniveau. Bij beide parken ronden we een dezer weken
+fase I af en gaan we aan de slag met fase II.
+a. Algemeen uitgangspunt is dat onderhoud voor de eigenaar is.
+b. Het streefbeeld moet in principe uit het kostenverhaal worden betaald. Hierbij geldt ook: wie
+heeft de wens. Wil de gemeente het of willen de eigenaren het. En moet er dan voor een
+gezamenlijke betaling worden gekozen? Dit is maatwerk , afhankelijk van wens , urgentie ,
+noodzaak. De projectleider voert hierover de onderhandeling namens de gemeente.
+c. Wettelijke eisen moeten in principe ook worden betaald uit het kostenverhaal. Voor zover van
+toepassing.
+Welke kosten er ontstaan hangt dus in hoge mate af van eigendom en noodzaak.
+Op dit moment is de gemeente aan de slag om twee of drie scenario’s voor een streefbeeld te
+ontwikkelen. Bij elk scenario vullen we in wat dit betekent voor: verkeer , verlichting , groen ,
+wegen , riool , enz. , enz. En dan kunnen daar kosten op schatting onder worden gezet. Deze
+voorbereiding kan worden ingebracht worden in een themabijeenkomst/raadsexcursie VVPC om
+deze materie samen nog eens goed door te spreken en te verkennen.
+Taxatie
+18 Taxatie waardestijging ingericht op Drents niveau. Gekozen voor waardestijging grond ipv
+object. Waarom?
+Grond is meer objectief te bepalen. Woningen zijn nu verschillend en blijven verschillend qua
+materiaal , grootte , kwaliteit e. d. Waardestijging is gekoppeld aan gebruikswijziging en daarmee
+vooral gekoppeld aan perceel.
+19 Wat gaan eigenaren gemiddeld aan overwaarde ontvangen?
+Dat is niet te zeggen omdat de parken/percelen nog niet getaxeerd zijn.
+20 Hoe verhoudt zich het volgende. Drenthe is een krimpregio vanwege vergrijzing. Nu veel
+behoefte aan woonruimte. We transformeren nu naar wonen. Over 15-20 jaar hangt de vlag er
+anders bij en keldert de waarde. Wat gaan we dan doen?
+Uitgangspunt is de marktwaarde op het moment van taxatie. Net al bij elke koop/verkoop van
+woningen , passen we dit ook bij transformatie toe. Het is altijd aan de eigenaar om hierin een
+eigen afweging te maken. Naast een risico van daling van marktwaarde is er een mogelijkheid
+tot stijging van marktwaarde , zoals de afgelopen periode is gebeurd.
+21 Is er bij de verkoop van de grond op gewezen dat de eigenaren met perceelsgebonden
+vergunningen in het voordeel zijn i. v. m. de vereveningsbijdrage?
+Dit is ons niet bekend. Vermoedelijk niet , omdat ten tijde van de verkoop van de grond geen
+sprake was van verevening op dat moment of in de toekomst.
+Verevening
+Verevening is min of meer het tegenovergestelde van het betalen van planschade.
+Als een bestemming wijzigt , kan dit betekenen dat iets meer waard wordt of dat iets minder waard
+wordt. Als het minder waard wordt is er planschade. De veroorzaker betaalt een vergoeding aan de
+eigenaar wiens bezit minder waard wordt Als het bezit meer waard wordt , dan is er een
+meerwaarde. De veroorzaker kan een vergoeding vragen aan de eigenaar. Dat heet verevening.
+De totale meerwaarde , eerste kolom , is 100%.
+Van deze totale meerwaarde betaalt de eigenaar 20% aan de gemeente. Tweede kolom.
+Dan resteert er 80%. Hiervan betalen de eigenaren de gezamenlijke kosten van de transformatie.
+En eigen kosten , zoals het voldoen aan het bouwbesluit van het vakantiehuisje. Derde kolom.
+Wat resteert van de 100% is voor de individuele eigenaar. Vierde kolom. Hoe lager de kosten , hoe
+hoger de meerwaarde voor de eigenaar. Hoe groot dit percentage is , is pas bekend als de kosten
+bekend zijn. De kosten hangen af van wat eigenaren en gemeente afspreken over hoe het park er
+in de toekomst moet uitzien en welke eisen er zijn vanuit wet- en/of regelgeving. Dit gebeurt in de
+tweede fase van het stappenplan van de transformatie , het maken van het streefbeeld.
+Verevening
+Verevening Verevening
+Kosten
+transformatie
+Kosten
+transformatie
+Eigenaar
+22 Wat wordt bedoeld met waardestijging op Drents niveau?
+20% verevening – wie gaat de ondergrond taxeren?
+Wat zijn ongeveer de kosten , 80% , en wat valt daar onder voor de eigenaar?
+Het gaat niet zo zeer om de waardestijging op Drents niveau. In de nota over de verevening
+gaat het over de wijze waarop de waardestijging wordt bepaald. Hiervoor hebben de Drentse
+gemeenten samen een afspraak gemaakt.
+“Hierin is een gezamenlijke Drentse lijn bepaald op basis van de waardestijging van de grond.
+De daarop gesitueerde woning wordt hierbij niet meegenomen. Kortgezegd komt het erop neer
+dat:
+- zowel gemeenten als parkeigenaren beiden op parkniveau een taxatie laten uitvoeren
+door een register-taxateur naar de marktwaarde voor en na bestemmingsplanwijziging
+naar wonen. Eventuele fysieke verbeteringen op het park worden hierbij betrokken
+evenals al dan niet aanwezige objectgebonden beschikkingen.
+- de uitkomst vertaald kan worden naar een marktwaarde op perceelsniveau;
+- beide register-taxateurs gezamenlijk tot een gedragen waardebepaling komen;
+- wanneer dit niet lukt , een derde register-taxateur wordt ingeschakeld om een bindend
+advies uit te brengen.
+De eigenaren bepalen gezamenlijk wat er wel of niet uit de 80% wordt betaald. En ook aan
+welke kosten de eigenaren met een perceelsgebonden beschikking meebetalen. Gedacht kan
+worden aan de kosten van de taxateurs , de kosten van de inspectie van de woningen , de leges
+voor de bestemmingsplanwijziging , kosten voor de kwaliteitsimpuls die de provincie vraagt ,
+kosten voor aanpassingen in de infrastructuur of het groen , enz.
+23 Hoe werkt de verevening?
+Bij verevening wordt uitgegaan van de meerwaarde die ontstaat doordat de bestemming van de
+vakantiewoning wijzigt en het een woning wordt. Het gebruik als woning geeft een andere ,
+hogere waarde. Deze meerwaarde is de basis voor de verevening. Hiervan betaalt de eigenaar
+20% aan de gemeente. Met transformatie worden recreatieverblijven onttrokken aan de totale
+hoeveelheid recreatieverblijven. De gemeente zet de vereveningsbijdrage in ter compensatie.
+Dit betekent dat de bijdrage wordt geïnvesteerd in andere toeristische voorzieningen. Dit wordt
+vooraf beschreven in een zogenaamde structuurvisie. De basis voor de vereveningsbijdrage is
+dus afhankelijk van de taxatie.
+24 Kunt u d. m. v. een hypothese een voorbeeld geven van de verevening?
+Dit doen we niet. In de praktijk merken we dat hypothetische voorbeelden een eigen leven gaan
+leiden waar betrokkenen zich te veel aan vast houden. Bovendien is de waardestijging heel erg
+verschillend per park. Dit omdat de situatie op het park een erg belangrijke rol speelt.
+Bestemming vereveningsbijdrage
+25 De verevening wordt nu ingezet voor andere toeristische activiteiten. Kan dat niet dienen voor
+de te verwachten infrastructurele kosten?
+Nee , dat is niet toegestaan. De opbrengst van de verevening moet worden ingezet voor
+compensatie in de toeristisch , recreatieve sfeer. Uitgangspunt is dat je verevent omdat
+toeristisch recreatief product wordt onttrokken. Het fietsplan is een mogelijk voorbeeld van een
+bestemming. Of transformatie van een park naar natuur , dan blijft het binnen VVPC en kunnen
+de kosten die hiermee zijn gemoeid worden betaald. Dit moet vooraf worden vastgelegd in een
+zogenaamde structuurvisie. Daarin worden de doelen/bestemmingen beschreven.
+Betaling vereveningsbijdrage
+26 Betaalbaarheid: hoe wordt de vereveningsbijdrage geïnd.
+De verevening is een vrijwillige afspraak , anders dan kostenverhaal. Dus van dwang kan geen
+sprake zijn. Als er een overeenkomst is , dan is het natuurlijk zo dat de meerwaarde een
+papieren meerwaarde is. Per persoon kunnen we afspraken maken over hoe dit kan worden
+betaald. Binnen de organisatie wordt de komende maanden gewerkt aan een aantal opties die
+we eigenaren kunnen voorleggen. Denk daarbij aan uitgestelde betaling tot verkoop (met
+eindtermijn) of betaling in termijnen oid. Ook kan er een hypotheek voor worden verkregen.
+27 Ik heb een perceelsgebonden beschikking. Dan is er toch geen sprake van een
+vereveningsbijdrage? Mijn waarde van de woning wordt lager. Nu is het een unieke positie.
+De vereveningsbijdrage is van toepassing als er sprake is van een waardestijging. Of er bij de
+vakantiewoningen met een perceelsgebonden beschikking wel of geen sprake is van
+waardestijging is dus afhankelijk van de uitkomst van de taxatie en het oordeel van de
+taxateurs. Op voorhand kunnen we hier niets over zeggen , aangezien we geen voorbeelden
+kennen van andere parken waar ook perceelsgebonden beschikkingen waren uitgegeven. De
+taxatie wordt gebaseerd op de waardestijging van het gehele park als gevolg van de
+bestemmingswijziging. Dit wordt vertaald naar de percelen. De taxateurs wordt verzocht
+rekening te houden met de perceelsgebonden beschikkingen.
+Vakantiewoning/woning
+28 Moeten vakantiewoningen aan het bouwbesluit voldoen?
+Ja als een vakantiewoning een woonbestemming krijgt moet er een toets aan het bouwbesluit
+plaatsvinden. Overigens geldt dit ook als er een persoons- of perceelsgebonden beschikking
+wordt verstrekt.
+Vragen De Tip
+29 Wat is het verschil tussen permanente woonbestemming en een woonbestemming? Niet alle
+woningen voldoen nu aan het bouwbesluit.
+Er is geen verschil tussen permanente woonbestemming en woonbestemming. Als er
+toestemming is voor het wonen in de (vakantie)woning moet de woning voldoen aan het
+bouwbesluit. Of dit nu is geregeld via een bestemmingswijziging zoals bij transformatie. Of via
+een perceelsgebonden of persoonsgebonden beschikking. Er is een verschil in eisen tussen
+bestaande bouw en nieuwbouw. De vakantiewoningen worden getoetst aan de eisen voor
+bestaande bouw. Zaken waaraan gedacht kan worden zijn bijvoorbeeld eisen over
+brandveiligheid. De ervaring leert dat het meestal geen ingrijpende verbouwing oplevert , maar
+er zijn wel aanvullende eisen.
+30 Moet het park er na transformatie uitzien als een woonwijk?
+Nee , niet persé. Dit hangt af van de keuze die de gemeente maakt , die eigenaren maken en van
+de haalbaarheid en wenselijkheid. Een van de eisen die de hulpdiensten stellen is dat de
+woningen bereikbaar moeten zijn voor hun auto’s. Bij het bepalen van het streefbeeld , worden
+ook de hulpdiensten betrokken/gevraagd.
+31 Worden er eisen gesteld aan wegen , moeten zandwegen worden gewijzigd in verharde wegen?
+Nee , dit is geen eis. De eis is dat wegen begaanbaar moeten zijn. Bij gemengd gebruik gaat
+men uit van het zwaarste gebruik. Dit wordt in het gesprek over het streefbeeld ook besproken.
+32 Wij zijn recreant en blijven recreant. Als dit doorgaat hebben we 2 woonhuizen. Hoe wordt dit
+gezien ivm de leegstandswet.
+De leegstandswet is van toepassing als een woning tzt wordt gesloopt of verkocht en is hier niet
+van toepassing als een bewoner de vakantiewoning wil blijven gebruiken voor recreatie. Met
+eigenaren die willen blijven recreëren maar wel meegaan in de transformatie , maken we
+afzonderlijke afspraken over het gedogen van recreatief gebruik en het vervallen van dit recht
+bij verkoop (overgangssituatie).
+33 Wat moet ik doen als ik tevreden ben met de huidige bestemming?
+We adviseren u om dan na te denken of u wel of niet mee wilt transformeren. Als u niet wilt
+transformeren en de woning recreatief wilt gebruiken , dat kunt u dit aangeven. Het is goed dat
+u zich realiseert dat als u later alsnog de bestemming van uw huisje wilt laten wijzigen , de
+kosten voor u hoger zullen zijn. Nu kunnen de kosten gezamenlijk worden gedeeld. Als u wel
+wilt transformeren maar er niet wilt gaan wonen , dan geldt antwoord 32 ook voor u.
+Als u wilt kunnen wij u helpen de voor- en tegen argumenten op een rij te zetten.
+34 De waarde na bestemming bewoning zal stijgen. Waarover wordt geheven? Stort u ook terug
+als de waarde daalt?
+Er wordt geheven over de meerwaarde tussen de waarde als vakantiehuisje en de waarde als
+woonhuis. Het verschil tussen deze twee. Als de waarde daalt , is het erg verstandig als partijen
+(eigenaren en gemeente) zich afvragen waarom we willen transformeren en wie wil
+transformeren. Dan lijkt het aantrekkelijker er een goed recreatiepark van te maken.
+35 Welk percentage van de bewoners moet vóór stemmen om het door te laten gaan?
+Hiervoor hebben we geen hard percentage of aantal afgesproken. Het hangt af van de
+omstandigheden en de redenen waarom eigenaren niet mee willen in de transformatie. Als
+richtlijn gaan we uit van 90%. Voor De Tip zou dit dus ongeveer 60 voorstanders zijn. Als er nu ,
+aan het einde van fase 1 en de start van het serieuze vervolgonderzoek , iets minder zijn dan
+gaan we verder met fase 2. Dit in de verwachting dat de uitwerking eigenaren andere inzichten
+kan geven.
+36 Graag een voorbeeld van de totale kosten voor een eigenaar van een woning bijvoorbeeld
+oppervlakte 1. 000 m2 grond.
+Dit kunnen we niet geven. Omdat de meerwaarde niet bekend is. En omdat niet bekend is welke
+kosten gemaakt moeten worden om het streefbeeld te realiseren of om de woning aan te
+passen aan de eisen uit het bouwbesluit. Deze kosten ontdekken we in fase 2. Na fase 2 kunnen
+de eigenaren op basis van het totale kostenplaatje besluiten om of het streefbeeld aan te
+passen of om af te zien van transformatie.
+Belangrijk is steeds daarbij in gedachten te houden dat afzien van transformatie betekent dat
+de woningen zonder persoonsgebonden of perceelsgebonden beschikking een
+recreatiebestemming behouden en ook op die manier gebruikt moeten gaan worden.
+37 Mandaat: Vertegenwoordiging (werkgroep) na overleg met achterban. Traag proces. Moet
+structuur (overleg) voor komen.
+Graag. Wat we vragen is een werkgroep die voorwerk doet voor alle eigenaren. Met een brede
+vertegenwoordiging. Als de huidige werkgroep naar iemands mening niet compleet is , dan
+kunnen er mensen aansluiten. Met de werkgroep werken we als gemeente bepaalde zaken uit ,
+die we dan voorleggen aan individuele eigenaren om (gezamenlijk) te besluiten. Dus de
+werkgroep beslist niet namens de eigenaren. Wel is het handig en wenselijk als de werkgroep
+bijvoorbeeld mag beslissen welke taxateur wordt ingeschakeld en – binnen kaders die ze
+meekrijgt , over de offerte mag beslissen.
+Structuur wat ons betreft ook heel graag. Als we binnen ongeveer anderhalf jaar alle stappen
+willen zetten en afronden , is het belangrijk een goede planning af te spreken.
+38 Graag betere informatievoorziening. Waarom niet van te voren stuk toesturen zodat we iets
+hebben om over te praten en met structuur?
+We waren in de veronderstelling dat alle eigenaren geïnformeerd waren en stukken als de
+quickscan en de transformatie informatie hadden ontvangen. Gebleken is dat dit niet zo was.
+Het is vervelend dat dit misverstand is ontstaan. Vanaf nu zullen we hier beter op letten en
+duidelijke afspraken maken wie wat doet (werkgroep/gemeente). En tijdens de bijeenkomst is
+iedereen verzocht contactinformatie te mailen naar: vvp-coevorden @coevorden.nl.
+Naam , postadres , email , telefoonnummer en huisje nummer.
+Onze gesprekken vinden plaats met eigenaren en niet met bewoners/huurders.
+39 Ik heb een perceelsgebonden beschikking. Welk voordeel biedt transformatie voor mij?
+1 Aanleiding
+Kader kostenverhaal en verevening voor
+transformatie vakantieparken
+1. Aanleiding
+In Coevorden zijn we binnen het programma Vitale Vakantieparken Coevorden (hierna:
+VVP Coevorden) bezig met de toekomst van onze vakantieparken. Dit met het doel om de
+kwaliteit van het totale bestand aan vakantieparken te verbeteren. Hierbij wordt niet
+alleen ingezet op de versterking van recreatieparken maar ook op het saneren van parken
+of transformatie naar reguliere woningen. Dit programma voeren we uit binnen de kaders
+van het Drentse programma voor vitale vakantieparken (hierna: VVP Drenthe). Voor de
+parken die in aanmerking komen voor transformatie naar een reguliere woonfunctie is op
+Drents niveau een transformatiestappenplan ontwikkeld.
+In Coevorden zijn er twee parken van waaruit het verzoek is gekomen om te
+transformeren. Het transformeren van recreatiewoningen naar reguliere woningen vraagt
+om een wijziging van het bestemmingsplan en leidt tot waardevermeerdering van het
+vastgoed. Omdat gemeente en initiatiefnemers kosten moeten maken voor zo’n
+transformatieproces is het gebruikelijk dat hierover afspraken worden vastgelegd in
+zogenaamde anterieure contracten. Hierbij is het gebruikelijk dat de gemeentelijke kosten
+in rekening worden gebracht bij de initiatiefnemers. Zij hebben immers ook de
+opbrengsten.
+Daarnaast geeft de Wet ruimtelijke ordening ruimte om onder voorwaarden verevening toe
+te passen. Hierbij wordt in de genoemde anterieure overeenkomsten (aanvullend op de
+afspraken over kostenverhaal) een financiële bijdrage gevraagd. Deze financiële bijdrage
+moet worden gebruikt om in de directe omgeving van het park of elders in de gemeente
+te investeren. Hiervoor geldt wel een belangrijke spelregel. Er moet sprake zijn van een
+ruimtelijke samenhang tussen de te innen bijdrage en het bestedingsdoel. Verderop in
+deze notitie wordt hier dieper op ingegaan.
+Voor twee te transformeren parken , De Tip en het Ermerzand , geldt dat deze in een
+stadium terecht komen waarin het gewenst is om duidelijkheid te verschaffen aan alle
+betrokkenen over de wijze waarop kostenverhaal en verevening concreet handen en
+voeten wordt gegeven. Dit zorgt voor transparantie en een objectief kader aan de
+voorzijde wat helpend is in het vervolgproces en duidelijkheid geeft. Dit kader vormt ook
+de basis voor eventuele transformatie van andere parken in de toekomst. Binnen het
+Drentse programma is in 2020 de lijn afgesproken dat het instrument verevening
+toegepast wordt. Met betrekking tot de mate waarin en de wijze waarop kan elke Drentse
+gemeente zijn eigen keuze maken.
+Met dit kader kunnen de gesprekken met de gesprekspartners van de te transformeren
+parken worden gestart om verdere stappen te zetten in het transformatieproces.
+Leeswijzer
+Deze notitie start met een beknopte beschrijving van het Drentse stappenplan voor
+transformatie. Dit met aandacht voor de plek die verevening binnen dit proces heeft.
+Daarna wordt kort de Coevordense situatie geschetst. Vervolgens wordt concreet
+ingezoomd op het kostenverhaal. Eerst in algemene zin waarna verdere concretisering
+plaatsvindt binnen de context van het vereveningsvraagstuk. Hierbij wordt met name
+ingegaan op de verschillende soorten kosten en de onderlinge samenhang. Dan worden de
+relevante kaders geschetst met betrekking tot het kostenverhaal zoals deze gehanteerd
+worden binnen het transformatieproces in Coevorden. Vervolgens wordt nader ingegaan op
+het instrument structuurvisie. Tot slot wordt ingegaan op de mogelijke invloed van de
+naderende Omgevingswet.
+Pagina 1
+2. Het Drentse stappenplan
+Binnen VVP Drenthe is een transformatiestappenplan ontwikkeld dat door alle Drentse
+gemeenten gebruikt wordt om op een gestructureerde wijze tot transformatie van
+recreatiewoningen naar reguliere woningen te komen. Er worden vier fasen onderscheiden
+waarvan de eerste drie binnen het programma VVP Coevorden worden uitgevoerd. De
+laatste fase (planologische traject en uitvoering) vindt binnen de lijnorganisatie plaats.
+Fase I Verkenningsfase
+In deze fase wordt allereerst vastgesteld welke parken in aanmerking komen voor
+transformatie. Vervolgens wordt op de betreffende parken een eerste haalbaarheidsstudie
+uitgevoerd en vindt een eventuele verdiepingsslag plaats. Dit mondt uit in een
+procesovereenkomst tussen park en gemeente. De gemeente treedt op als trekker van het
+proces. In deze fase worden ook de uitgangspunten voor verevening bepaald en
+vastgelegd.
+Fase II Streefbeeld
+Wanneer er een overeenkomst is afgesloten tussen gemeente en park , wordt een
+gezamenlijk streefbeeld bepaald waar het park over een aantal jaar wil staan. Aanvullend
+wordt op hoofdlijnen een financiële scan gemaakt waarbij kostenverhaal , verevening en
+overige kosten per park in beeld worden gebracht. Zowel afspraken met betrekking tot het
+streefbeeld als de afspraken over de kosten worden vastgelegd in een
+realisatieovereenkomst. De (verenigde) woningeigenaren worden in deze fase trekkers van
+het proces.
+Fase III Transformatieplan
+Deze fase leidt tot een gedragen en concreet plan van aanpak , inclusief planning en
+financiële paragraaf. Ook in deze fase ligt het initiatief bij de (verenigde) woningeigenaren.
+Nadat deze fase is afgerond , stopt de betrokkenheid van het programma
+Fase IV Bestemmingsplan en uitvoering.
+Deze fase staat in het teken van het doorlopen van de planologische procedure en de
+daadwerkelijke uitvoering.
+3. De Coevordense situatie
+Om de doelen en resultaten uit het VVP Coevorden te halen , wordt onderscheid gemaakt
+tussendrie inspanningen voor de vakantieparken die staan beschreven in het
+programmacontract en het uitvoeringsplan , zoals deze in oktober 2020 zijn vastgesteld
+door de gemeenteraad Coevorden.
+De parken die op dit moment grotendeels of alleen een recreatieperspectief kennen ,
+kunnen excelleren. Dit zijn parken met een goede kwaliteit en een goed
+toekomstperspectief die zich willen ontwikkelen tot een van de beste vakantieparken in
+hun segment. De inspanning bij deze parken is gericht op excellereren (E).
+Met de parken die op dit moment grotendeels worden bewoond en geen of een zeer matig
+recreatief toekomstperspectief hebben kijken we , mits passend binnen de gemeentelijke
+visie , naar de mogelijkheid van andere bestemmingen. We zetten gericht in op de
+transformatie (T) van niet-vitale parken omdat deze niet bijdragen aan de ambitie om
+kwalitatief hoogwaardige verblijfsrecreatie te hebben in de gemeente Coevorden.
+Transformatie van een recreatiepark hoeft overigens niet altijd het transformeren naar een
+woonbestemming te zijn. Ook transformatie naar een andere bestemming dan wonen kan
+een serieuze optie zijn.
+In principe is het hoofddoel dat recreatieve parken een recreatieve functie behouden (B).
+Daar waar wel (veel) bewoning is maar waar parken om diverse redenen niet geschikt zijn
+voor permanente bewoning of waar de eigenaar of de eigenaren van de woningen heel
+bewust kiezen voor een recreatief verblijfspark , wordt een plan gemaakt om het park weer
+terug te brengen naar recreatie. Hier zetten we in op het oplossen van ontstane
+permanente of flexibele bewoning.
+Pagina 2
+Zoals gezegd zijn er op dit moment twee parken waar al concreet
+gesproken wordt over transformatie. Deze parken zitten in fase I van het Drentse
+stappenplan: Het Ermerzand in Erm en de Tip in De Kiel.
+Park Aantal
+recreatiewoningen
+61
+195
+256
+Aantal
+eigenaren
+55
+156
+211
+Persoonsgebonden
+beschikkingen
+Perceelsgebonden
+beschikkingen
+de Tip
+Ermerzand
+Totaal
+25
+43
+68
+14
+34
+48
+Tabel 1: Overzicht de Tip en Ermerzand.
+Op basis van schattingen worden zowel op de Tip als het Ermzerzand twee op de drie
+woningen permanent bewoond. Zo’n drie procent wordt nog daadwerkelijk gebruikt als
+recreatiewoning voor de verhuur aan derden. Het overige deel is in gebruik als tweede
+woning.
+4. Kostenverhaal onder de Wro
+Afdeling 6. 4 van de Wet ruimtelijke ordening (Wro) vormt de basis van het systeem voor
+exploitatie van gronden. Een belangrijk onderdeel hiervan is het zogenaamde gemengde
+stelsel van publiek- en privaatrecht. Uitgangspunt bij het kostenverhaal is dat overheden
+en particuliere grondeigenaren bij ruimtelijke ontwikkelingen , waarbij sprake is van een
+bouwplan , op vrijwillige basis afspraken maken over het verhaal van
+grondexploitatiekosten. Dit door middel van privaatrechtelijke overeenkomsten.
+Hierbij kan onderscheid gemaakt worden tussen kosten die rechtstreeks aan een
+ontwikkeling zijn toe te rekenen (bijv. bestemmingsplankosten of kosten voor aanleg van
+openbare ruimte) en bijdragen voor ontwikkelingen buiten het exploitatiegebied
+(bijvoorbeeld voor de aanleg van een rondweg als gevolg van de ontwikkeling van een
+nieuwe woonwijk. )
+Naast plankosten die vanuit de overheid verhaald worden op particuliere eigenaren en
+eventuele bijdragen die daarnaast gevraagd worden , moeten particuliere eigenaren zelf
+ook investeringen plegen om een ontwikkeling van de grond te krijgen (bijv.
+architectenkosten , kosten t. b. v. onderzoeksrapportages , makelaarskosten , etc. ) Deze
+vallen buiten de reikwijdte van de Wro. Daar komt in het geval sprake is van transformatie
+van vakantieparken naar reguliere woningen nog bij dat vanuit de provincie als
+voorwaarde is gesteld dat een kwaliteitsimpuls moet worden bereikt in de vorm van een
+ruimtelijke / fysieke of maatschappelijke verbetering. Deze kosten wegen natuurlijk ook
+mee bij de vraag of een haalbare ontwikkeling te creëren is.
+Voor het gemak wordt in deze notitie verder gesproken over:
+Plankosten: kosten die door de gemeente gemaakt worden om de ruimtelijke
+ontwikkeling te faciliteren die in rekening worden gebracht bij de initiatiefnemer(s) ,
+1
+Particuliere investeringen: kosten die daarnaast door de initiatiefnemer(s) zelf
+gemaakt moeten worden om de ruimtelijke ontwikkeling te realiseren). Het kan gaan
+om individuele kosten , kosten per perceel of collectieve kosten.
+Verevening: een financiële bijdrage door de initiatiefnemer(s) te voldoen die door de
+gemeente wordt gebruikt om ontwikkelingen elders binnen de gemeente mogelijk te
+maken.
+o
+o
+o
+Tot slot is het goed om op te merken dat bij een ruimtelijke ontwikkeling sowieso sprake
+moet zijn van een goede ruimtelijke ordening. De beoogde ontwikkeling moet passen
+binnen de diverse beleidskaders. Er mogen ook geen wettelijke belemmeringen (bijv.
+negatief effect op Natura 2000) zijn en omliggende functies mogen niet in hun
+mogelijkheden worden belemmerd.
+1 Ook bij plankosten is natuurlijk sprake van particuliere investeringen. Deze kosten komen immers ook
+op het bordje van de initiatiefnemers terecht. Toch is ervoor gekozen om het onderscheid te maken o. a.
+omdat de gemeente hier zelf op kan sturen.
+Pagina 3
+5 Spelregels kostenverhaal en verevening
+De bevoegdheden met betrekking tot kostenverhaal zijn niet ongeclausuleerd. Met
+betrekking tot de plankosten is de praktijk sinds de inwerkingtreding van de Wro in 2008
+redelijk helder. Alle rechtstreeks aan een particuliere ontwikkeling toe te rekenen
+plankosten kunnen in rekening worden gebracht bij initiatiefnemers.
+Met betrekking tot de mogelijkheden voor verevening ligt dit een stuk genuanceerder.
+Allereerst moet er samenhang zijn tussen de ontwikkelingen waarvoor een bijdrage wordt
+gevraagd en de betreffende gebiedsontwikkeling. Ook hier geldt dat afspraken
+privaatrechtelijk , op basis van wederzijds instemming , tot stand komen. Daar komt bij dat
+er een structuurvisie moet zijn vastgesteld door de gemeenteraad waarin de genoemde
+samenhang is onderbouwd en de ruimtelijke ontwikkelingen waarvoor de bijdrage wordt
+aangewend , zijn vastgelegd.
+Daarnaast gelden de algemene bepalingen uit het Burgerlijk Wetboek met betrekking tot
+contractvorming en de algemene beginselen van behoorlijk bestuur uit de Algemene wet
+bestuursrecht. Er moet een zorgvuldige belangenafweging plaatsvinden en er mag geen
+misbruik gemaakt worden van het instrument.
+2 Met andere woorden , de bijdrage mag niet
+worden gebruikt om particuliere eigenaren een onredelijk hoge financiële bijdrage te laten
+betalen. De gevraagde bijdrage moet redelijk en billijk zijn.
+6 Uitgangspunten kostenverhaal en verevening
+Privaatrechtelijke afspraken komen in de regel alleen tot stand wanneer de beoogde
+opbrengsten van de ruimtelijke ontwikkeling hoger zijn dan de lasten. Concreet vertaald
+naar de transformatie van vakantieparken: de waardestijging van een perceel na
+omzetting van de bestemming naar een reguliere woonbestemming is hoger dan de kosten
+die moeten worden gemaakt (plankosten / investeringen / vereveningsbijdrage. ) Wanneer
+dit niet het geval is , zal het in de praktijk immers niet mogelijk zijn om op basis van
+wederzijdse instemming tot overeenstemming te komen.
+De mate waarin houdbare afspraken kunnen worden gemaakt over verevening is dan ook
+afhankelijk van een aantal factoren:
+de omvang van de waardestijging van het (individuele) perceel ,
+de omvang van de door te rekenen plankosten ,
+de omvang van de particuliere investeringen die moeten worden gedaan om de
+woning(en) gebruiksklaar te maken conform nieuwe functie.
+o
+o
+o
+Dit zijn als het ware communicerende vaten. Kort gezegd , hoe hoger de plankosten en
+investeringen , hoe minder ruimte resteert voor een vereveningsbijdrage. Dit er uiteraard
+van uitgaande dat , voor de te transformeren parken geldt dat de waardestijging sowieso
+hoger is dan de kosten.
+In onderstaande afbeelding is dit schematisch weergegeven waarbij zichtbaar wordt dat de
+ruimte om te verevenen mede wordt bepaald door de omvang van de plankosten en de
+investeringen. (In deze afbeelding is onderscheid gemaakt tussen plankosten en kosten
+bestemmingsplan maar ook bestemmingsplankosten zijn plankosten. )
+2 Er mag geen sprake zijn van betaalplanologie. Hiervan is sprake wanneer de gemeente haar
+planologische medewerking uitsluitend afhankelijk maakt van het betalen van een financiële vergoeding.
+Wanneer dit het geval is , is niet vastgelegd. De overeenkomsten moeten op vrijwillige basis tot stand
+komen.
+Pagina 4
+Afbeelding 1: Schematische weergave relaties kostenverhaal
+Voordat goede kaders voor verevening kunnen worden vastgesteld is het eerst van belang
+om inzicht te krijgen in de uitgangspunten die worden gehanteerd met betrekking tot de
+plankosten , de particuliere investeringen en de wijze waarop de waardestijging wordt
+bepaald. Hieronder worden ze een voor een langsgelopen en worden de uitgangspunten
+benoemd.
+Uitgangspunten bepaling waardestijging
+Dit is een gegeven. De wijze waarop de eventuele waardestijging bepaald wordt is
+3
+namelijk op Drents niveau vastgelegd in een procesbeschrijving. Hierin is een
+gezamenlijke Drentse lijn bepaald op basis van de waardestijging van de grond. De daarop
+gesitueerde woning wordt hierbij niet meegenomen. Kortgezegd komt het erop neer dat:
+zowel gemeenten als parkeigenaren beiden op parkniveau een taxatie laten uitvoeren
+door een register-taxateur naar de marktwaarde voor en na bestemmingsplanwijziging
+naar wonen. Eventuele fysieke verbeteringen op het park worden hierbij betrokken
+evenals al dan niet aanwezige objectgebonden beschikkingen.
+4
+de uitkomst vertaald kan worden naar een marktwaarde op perceelsniveau;
+5
+beide register-taxateurs gezamenlijk tot een gedragen waardebepaling komen;
+wanneer dit niet lukt , een derde register-taxateur wordt ingeschakeld om een bindend
+advies uit te brengen.
+o
+o
+o
+o
+Uitgangspunten plankostenverhaal gemeente
+Met betrekking tot de plankosten is het uitgangspunt dat alleen de kosten voor het in
+procedure brengen van het bestemmingsplan in rekening worden gebracht. De ambtelijke
+uren voor procesbegeleiding en eventuele kosten voor het inschakelen van externe
+expertise (juridisch advies , gemeentelijke taxaties) worden voor eigen rekening genomen.
+Wel worden binnen de af te sluiten realisatieovereenkomsten afspraken gemaakt over
+planschade.
+Uitgangspunten particuliere investeringen
+Met betrekking tot de particuliere investeringen is het uitgangspunt dat particuliere
+investeringen die redelijkerwijs aan de transformatie zijn toe te rekenen , kunnen worden
+ingebracht in het transformatieplan.
+In dit geval gaat het concreet om de volgende investeringen:
+kosten voor het opstellen van het streefbeeld en transformatieplan;
+eventuele kosten voor landschappelijke inpassing en of kosten voor
+natuurcompensatie;
+o
+o
+3 Procesbeschrijving taxeren bij transformeren van juli 2020 , Vitale vakantieparken Drenthe
+Persoonsgebonden beschikkingen blijven hierbij buiten beschouwing omdat deze immers gerelateerd
+zijn aan een eigenaar en niet aan een perceel. Bij kavels waar sprake is van perceelsgebonden
+beschikkingen (die veelal zijn vastgelegd in bestemmingsplannen) is de vraag of sprake is van
+waardevermeerdering. Op deze kavels mag nu immers ook al worden gewoond. Dit zal zich
+waarschijnlijk alleen (in beperkte mate) voordoen wanneer fysieke verbeteringen worden uitgevoerd op
+een park.
+5
+4
+Op basis van omvang perceel en gunstige of minder gunstige ligging binnen het park.
+Pagina 5
+o benodigde investeringen ten behoeve van de kwaliteitsimpuls zoals
+vanuit de provincie vereist;
+Aanpassingen aan de openbare ruimte (indien van toepassing);
+aanpassingen om woningen aan het bouwbesluit te laten voldoen;
+met de daarbij behorende kosten voor onderzoeksrapportages en kosten voor de inzet
+van externe expertise (kosten bouwkundig advies , kosten juridisch advies ,
+taxatiekosten , notariskosten).
+o
+o
+o
+Uitgangspunten verevening
+Het uitgangspunt is dat er , vanwege het verdwijnen
+van recreatief aanbod in de vorm van
+recreatiewoningen , een redelijk en billijke
+vereveningsbijdrage in rekening wordt gebracht , die
+wordt aangewend om elders binnen de gemeente
+nieuwe toeristisch recreatieve ontwikkelingen
+mogelijk te maken. De vereveningsbijdrage bedraagt
+6
+20% van de waardevermeerdering zoals op Drents
+niveau is vastgelegd.
+Dit betekent dat 80% van de waardevermeerdering
+‘in het bezit’ van de initiatiefnemer zelf blijft. Van dit
+bedrag kan de initiatiefnemer (zijn deel van) de
+bestemmingsplankosten en zijn particuliere
+investeringen financieren. Het restant is dan ‘winst’
+voor de initiatiefnemer. Mocht de situatie zich
+voordoen waarbij sprake is dat de som van de
+plankosten en de particuliere investeringen hoger is
+dan de waardestijging minus de vereveningsbijdrage
+van 20% , dan kan op basis van maatwerkafspraken
+de vereveningsbijdrage naar beneden worden
+bijgesteld.
+Afbeelding 2: visuele weergave
+systematiek verevening Coevorden
+7. Aandachtspunten Structuurvisie
+Om het instrument verevening te kunnen toepassen moet er een structuurvisie zijn
+vastgesteld door de gemeenteraad. In deze structuurvisie moet ingegaan worden op de
+wijze waarop de verevening concreet handen en voeten wordt gegeven , moet de
+samenhang tussen de financiële bijdragen aan de ene kant en de doelen waarvoor de
+gegenereerde middelen worden ingezet aan de andere kant , worden vastgelegd inclusief
+een financiële onderbouwing.
+Er zijn inmiddels meerdere gemeenten die voor dit specifieke doel een structuurvisie
+hebben vastgesteld. In de gemeente Oldebroek heeft dit geleid tot een procedure bij de
+Raad van State waarbij de ‘Oldebroekse systematiek’ de toets van de Raad van State heeft
+doorstaan. Het ligt dan ook voor de hand om hier zoveel mogelijk bij aan te sluiten in
+Coevorden.
+In Oldebroek is de samenhang als volgt onderbouwd: Het toestaan van permanente
+bewoning (…. . ) biedt extra gebruiksmogelijkheden voor de eigenaren. Ook worden deze
+objecten daarmee onttrokken aan het recreatieve aanbod. Ter compensatie (…. . ) stort de
+eigenaar een vereveningsbijdrage in de gemeentelijke recreatievoorziening (fonds) waaruit
+6 Een grove vuistregel is dat in Drenthe een vierkante meter grond met een recreatie-
+bestemming zo'n €75-, waard is en een vierkante meter woningbouwgrond op een
+vergelijkbare locatie € 150-.
+, Uiteraard met nuancering voor lokale situaties , waaronder de
+ligging van het perceel , de kwaliteit van het park of gebied , de woningmarkt ter plaatse en de
+geldende grondprijzen. Bij transformatie van recreatie naar wonen kan dus bij een perceel
+van 500 m2 , uitgaande van deze aannames , een waardestijging van € 37.500-
+, optreden.
+Noot auteur: In deze situatie zou de vereveningsbijdrage dan €7.500-
+, bedragen. (bron:
+Notitie toepassing verevening bij transformatie , taskforce VVP Drenthe , 26 november 2019 / 6
+januari 2020. )
+Pagina 6
+het toeristisch-recreatief product van de gemeente in functioneel ,
+kwalitatief en/of economisch opzicht wordt verstevigd (…. . ).
+Kort gezegd komt het erop neer dat het onttrekken van recreatiewoningen aan het
+toeristisch recreatieve aanbod alleen ruimtelijk planologisch verantwoord is wanneer het
+toeristisch recreatieve product als geheel , versterkt wordt.
+Wanneer dit vertaald wordt naar de Coevordense situatie zijn er meerdere mogelijkheden
+bijvoorbeeld:
+de vereveningsbijdragen worden ingezet binnen VVP Coevorden bijvoorbeeld ten
+behoeve van toeristisch recreatieve impulsen;
+de vereveningsbijdragen worden ingezet buiten VVP Coevorden bijvoorbeeld voor de
+financiering van maatregelen ten behoeve van recreatief fietsen zoals vastgelegd in de
+fietsnota ‘Ruimte voor de fietser;’
+het verstrekken van subsidies voor toeristisch recreatieve activiteiten;
+etc.
+o
+o
+o
+o
+Dit vraagt verdere uitwerking in de nader op te stellen structuurvisie. Hierbij verdient het
+de voorkeur om , naast de maatregelen waarvoor de vereveningsbijdragen worden ingezet
+(inclusief globale financiële onderbouwing) ook aandacht te besteden aan het
+toetsingskader voor de bestemmingswijzigingen:
+passend binnen rijk- , provinciaal en gemeentelijk beleid;
+de manier hoe het bestemmingsplan wordt opgezet;
+hoe om te gaan met mogelijkheden vergunningsvrij bouwen;
+parkeren;
+etc.
+o
+o
+o
+o
+o
+Nadat de Structuurvisie is vastgesteld moet het college van B&W jaarlijks verantwoording
+afleggen aan de gemeenteraad binnen de reguliere P&C cyclus.
+8. Kostenverhaal en verevening onder de Omgevingswet
+De Omgevingswet treedt op zijn vroegst 1 juli 2022 in werking. Vanuit VVP Drenthe is
+onlangs juridisch advies ingewonnen of ook de nieuwe Omgevingswet ruimte biedt voor
+kostenverhaal en verevening. Het voert te ver om het hele advies in deze notitie te
+bespreken maar kort gezegd komt het erop neer dat ook onder de Omgevingswet
+verevening kan worden toegepast. Hierbij moet , net als nu de financiële
+vereveningsbijdrage , op basis van een omgevingsvisie of programma , opgenomen te
+worden in een anterieure overeenkomst.
+In navolging van de genoemde uitspraak van de Raad van State inzake Oldebroek moet
+ook , onder de Omgevingswet , voor het vragen van een financiële bijdrage een
+omgevingsvisie of programma worden vastgesteld , waarin de samenhang is gelegd en
+onderbouwd tussen de transformatie van vakantieparken (wijziging van functies
+(bestemmingen) , zonder dat er sprake is van bouwen en/of verbouwen) , en de benodigde
+investeringen waarvoor een financiële bijdrage gevraagd wordt.
+Nieuw onder de Omgevingswet is dat , wanneer bij de transformatie van vakantieparken
+naast een gebruikswijziging ook sprake is van bouwen en/of verbouwen dan kan een
+vereveningsbijdrage publiekrechtelijk worden geïnd. Voordeel hiervan is dat er dan geen
+gezamenlijke instemming nodig is. Dit laatste kan een optie zijn wanneer het niet lukt om
+eigenaren te verenigen als gezamenlijke entiteit / gesprekspartner. De kanttekening die
+hierbij op dit moment nog moet worden geplaatst is dat deze optie niet mogelijk is
+wanneer alleen sprake is van een gebruikswijziging. Er wordt over nagedacht in Den Haag
+om dit , mede gelet op de transformatie van vakantieparken , wel te gaan regelen in de
+Omgevingswet.
+Pagina 7
+Gespreksverslag werkgroep de Tip
+Aanwezig: Locatie: Dorpshuis de Kiel
+(geanonimiseerd)
+Datum: 24 januari 2020
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+J
+(geanonimiseerd)
+(geanonimiseerd)
+1. Huidige situatie
+Vanwege de ontstaansgeschiedenis zijn drie verschillende gebieden aan te wijzen op het
+park. Een deel van het gebied (42 huisjes) is onder een WVE zijn samengebracht maar er is
+geen overkoepelend beheer. Er moet daarom een constructie worden bedacht om een
+gezamenlijk plan te maken, geeft aan dat dit echter ook kan betekenen dat de
+gebieden hun eigen karakter behouden.
+(geanonimiseerd)
+2,
+geeft aan dat vanuit de VVE is aangegeven dat een dubbelbestemming wonen +
+recreatie wenselijk is. Dit is echter nog geen unanieme wens van het hele gebied en
+onduidelijk is of de gevolgen van herbestemming voor iedereen inzichtelijk zijn. Gevraagd
+wordt daarnaast wat een herbestemming naar wonen voor de recreatieve functie betekent.
+geeft aan dat bij een eventuele herbestemming naar wonen in ieder geval
+aanvullende besluiten moeten worden genomen over bijvoorbeeld bouwmogelijkheden.
+voegt hier aan toe dat bij aanvang de wens wonen of recreatie kan zijn, maar dat
+in praktijk blijkt dat bijvoorbeeld een meerderheid wonen en minderheid recreatie meer
+voor de hand kan liggen. Hier moet in een bestemmingsplan rekening mee worden
+gehouden.
+Gevraagd wordt of het college of de raad al besluiten heeft genomen waarin een richting
+voor het gebied wordt aangewezen. geeft aan dat dit niet het geval is, er ligt wel
+een motie uit 2015.
+Voor wat betreft het aantal beschikkingen geeft aan dat circa 60% van de huisjes een
+beschikking heeft en dat hiermee recreatie geen realistische optie is. Het verschil tussen
+perceels-en persoonsgebonden beschikkingen wordt besproken, voegt daaraan toe
+dat vanuit de gemeente alles beschikken geen structurele oplossing is.
+Gevraagd wordt of er vanuit van de gemeente een beoogde ontwikkelrichting is voor het
+gebied; geeft aan dat er nog geen officieel standpunt is maar dat de ambtelijke
+ontwikkelrichting momenteel wonen in combinatie met recreatie is.
+Tenslotte wordt gevraagd naar wens van de gemeente over het onderhoud weg/ riool, in
+principe is het de bedoeling dat dit bij het park zelf komt te liggen.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+3. Vormgeving Proces
+Er moeten afspraken gemaakt worden over de organisatievorm en inhoud van het
+vervolgtraject. Nader wordt bepaald hoe de rest van het gebied wordt geïnformeerd en
+betrokken bij het proces. me stelt voor om eerst op korte termijn de Quickscan uit te
+voeren en vervolgens een derde partij (Jurist) te vragen om mee te denken in de
+vormgeving van het proces en samenstelling van de groep.
+(geanonimiseerd)
+4. Vervolgstappen
+Afgesproken wordt om gesprekken in het vervolg in principe op de vrijdagmiddag plaats te
+laten vinden. De datum voor de Quickscan wordt vastgesteld op 7 februari om 15.00 uur.
+geeft aan bereid te zijn de VVE te informeren .
+Aansluitend op de ledenvergadering op
+31 mei worden de uitkomsten besproken, om meer opkomst te krijgen wordt daarnaast
+aan de gemeente gevraagd om een formele uitnodiging op te stellen.
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Fa
+. .
+Vitale Vakantie®
+Quick Scan Transformatie parken Drenthe
+Naam park: De Tip te De Kiel Definitief, 11 november 2020
+Gesprek op 7 februari 2020, in aanwezigheid van
+EE
+BDE, ME (len Werkgroep) en
+NM
+BR (gemeente Coevorden) en
+MN (Taskforce VVP Drenthe).
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+De quick scan transformatie heeft tot doel te onderzoeken of er een kansrijk vertrekpunt voor trans-
+formatie is. Dit met een beschouwing op hoofdlijnen, aan de hand van de onderstaande 10 punten.
+Deze bestaan uit een combinatie van feitelijke gegevens en meningen en wensen van de relevante
+partijen. De uitkomst van de quick scan heeft geen status op zich, maar geeft een indicatie van de stand
+van zaken en kan worden gebruikt om te bepalen of het wel of niet zinvol is een transformatietraject
+te doorlopen en wat, op hoofdlijnen, de aandachtspunten daarbij zijn. De quick scan wordt uitgevoerd
+door de transformatie-adviseur van Vitale Vakantieparken Drenthe.
+Eigenaren
+1. Eigendom, mate/vorm van vereniging: is er een eigenaar en/of een VvE, wat zijn de statuten,
+hoe is het bestuur georganiseerd, welk taken, mandaat en draagvlak heeft het.
+Beeld op huidige en toekomstige situatie
+2. Huidig gebruik: omvang permanente bewoning in relatie tot recreatief gebruik, inzage in aan-
+tallen commerciële verhuur en gebruik als tweede huis, aantal ingeschrevenen, aantal per-
+soons- en/of objectgebonden beschikkingen.
+3. Beeld op de huidige situatie: vitaliteit volgens scan ZKA, beeld eigenaren, beeld en beleid ge-
+meente.
+4. Beeld op de toekomstige situatie, mate van eensgezindheid en bewustzijn: is er een gedragen
+visie op de toekomst bij eigenaren en gemeente.
+5. Procesbewust- en -bereidheid: heeft men een beeld van wat het transformatieproces inhoudt,
+wat er moet gebeuren, zijn daar middelen (menskracht, tijd, geld) voor en bereidheid toe?
+Feitelijke situatie
+6. Ligging en inpassing in de omgeving.
+7. Openbare/collectieve ruimte: eigendom, inrichting, bereikbaarheid, voorzieningen, onder-
+houdstoestand, geschiktheid voor de beoogde functie.
+8. Percelen en bebouwing: omvang, aard, kwaliteit, inrichting, onderhoudstoestand, geschikt-
+heid voor de beoogde functie.
+9. Sociaal: aanwezigheid kwetsbare groepen, sociale structuur, sociale veiligheid.
+Omgevingsfactoren
+10. Planologische toets op hoofdlijnen: aanwezigheid functies/gebruik/plannen in de omgeving
+die een aandachtspunt of een knock-out zijn in relatie tot de beoogde functie.
+Eindconclusie
+Vanuit de deelconclusies op de bovengenoemde onderdelen een beknopte beoordeling of een
+transformatie kansrijk zou kunnen zijn. Ook worden hier de aandachtspunten op een rij gezet.
+1. Eigendom , mate/vorm van vereniging: is er een eigenaar en/of een VvE , wat zijn de statuten , hoe
+is het bestuur georganiseerd , welk taken , mandaat en draagvlak heeft het.
+Het park is in vier deelgebieden te verdelen , van zuid naar noord:
+Rood omkaderd: 42 woningen op eigen kavels , met de wegen en infrastructuur in de VvE “Bun-
+galowpark Op de Kiel” ondergebracht. Het lidmaatschap van deze VvE is verplicht (geregeld in
+eigendomsakten , met kettingbeding). Deze VvE heeft als taak zorg te dragen voor de weg , de
+openbare verlichting , de riolering en de afvalinzameling. De VvE heeft geen verdere taken/be-
+voegdheden , zoals het in algemene zin zorgdragen voor het behartigen van de belangen rich-
+ting de gemeente. De VvE heeft een bestuur en houdt eens per jaar een ALV.
+Blauw gegolfd: 5 woningen op eigen kavels , waarbij de ontsluitende weg op het eigendom van
+deze kavels ligt , met een recht van overpad en bepalingen over onderhoud. Geen VvE.
+Blauw omkaderd: 9 woningen op eigen kavels langs een ontsluitende weg die in eigendom van
+de gemeente is. Geen VvE of anderszins.
+Blauw gegolfd: het meest noordelijke puntje: 2 woningen op eigen kavels , direct ontsloten op
+de openbare weg.
+In ruimtelijk opzicht en voor wat betreft het bestemmingsplan is het één gebied. De gemeente wil het
+in een eventueel transformatieproces ook als zodanig beschouwen. Dit betekent dat er één samen-
+hangende visie op het totale gebied moet komen en één transformatieplan. Omdat er deelgebieden
+te onderscheiden zijn , met een eigen karakter voor wat betreft de inrichting en verschillende vormen
+van eigendom en organisatie , zoals hierboven genoemd , moet er binnen dat ene transformatieproces
+ruimte zijn voor verschillen in inhoud , aanpak en tempo. Eén proces betekent ook dat er één
+-
+-
+-
+-
+aanspreekpunt en gesprekspartner moet zijn met wie de gemeente de stappen in het transformatie-
+proces voorbereidt. In de besluitvorming en uitvoering kan er verschil zijn tussen de deelgebieden ,
+omdat de eigendoms- en organisatiestructuur nu eenmaal verschilt. Er is nu een werkgroep gevormd
+waarin een vertegenwoordiging uit de verschillende gelederen aanwezig is. Deze werkgroep zal fun-
+geren als gesprekspartner zoals hierboven genoemd. Als het voor het proces praktisch of noodzakelijk
+is zal naar bevind van zaken een andere organisatiestructuur worden gekozen.
+Conclusie: er is geen gebiedsdekkende eigenaar of entiteit. De werkgroep , met daarin afgevaardigden
+vanuit de deelgebieden kan als overlegpartner van de gemeente optreden , maar dit heeft beperkingen
+omdat de werkgroep geen formele status en mandaat heeft. Om het werkbaar te maken zal een regel-
+matige terugkoppeling naar de individuele leden en de leden van de VvE waar van toepassing nodig
+zijn en zo nodig zullen andere oplossingen moeten worden bedacht , zoals het instellen van een nieuwe
+entiteit. Dit kan een complicerende factor zijn in een transformatieproces.
+2. Huidig gebruik: omvang permanente bewoning in relatie tot recreatief gebruik , inzage in aantallen
+commerciële verhuur en gebruik als tweede huis , aantal ingeschrevenen , aantal persoons- en/of ob-
+jectgebonden beschikkingen.
+Er zijn 60 recreatiewoningen; de 5 reguliere woningen aan de weg De Kiel tellen niet mee.
+Hiervan worden er ca. 36 permanent bewoond (60%) , 23 (38%) als tweede huis recreatief ge-
+bruikt , waarbij 2 eigenaren afkomstig zijn uit de gemeente Coevorden en 21 van daarbuiten ,
+en 1 recreatief verhuurd.
+Van de ca. 36 permanent bewoonde woningen zijn er 19 met een perceelsgebonden beschik-
+king en hebben de bewoners van tenminste 7 woningen een persoonsgebonden beschikking.
+In ca. 10 woningen wordt illegaal gewoond , afhankelijk van de exacte definitie daarvan (grens
+langdurig recreatief en permanent).
+De meeste eigenaren bezitten één woning , drie eigenaren heb er twee in bezit.
+•
+•
+•
+•
+Conclusie: een kleine meerderheid van de woningen wordt bewoond , waarvan het grootste deel op
+legale wijze , met een persoons- of perceelsgebonden beschikking. Het nog bestaande recreatieve ge-
+bruik is vooral dat als tweede woning. Een kaart waarop de diverse vormen van gebruik te zien zijn , in
+combinatie met de bestemmingen (zie onder 10. ) en de begrenzingen zou nuttig zijn voor het vervolg-
+proces , zie ook onder 4.
+3. Beeld op de huidige situatie: vitaliteit volgens scan ZKA , beeld eigenaren en gemeente.
+Het beeld dat blijkt uit de ZKA-analyse (wel toeristisch-recreatieve faciliteiten en kwaliteiten in de
+buurt , maar een park dat gaandeweg vooral een woongebied is geworden) wordt gedeeld door de
+werkgroep en de gemeente. Verwarrend is dat in het ZKA-rapport het gebruik als tweede woning ook
+als ‘bewoning’ wordt gezien; naar de letter van het bestemmingsplan klopt dat niet en vallen tweede
+woningen ook onder de recreatieve bestemming. De werkgroep voegt eraan toe dat De Tip steeds
+meer een onderdeel van het dorp De Kiel is geworden. Dit zowel volkshuisvestelijk (het vervult een
+functie voor starters en ouderen vanuit De Kiel , die daar geen passende woning (te duur/te groot)
+kunnen vinden) als sociaal-maatschappelijk en in het draagvlak voor de voorzieningen.
+De gemeente houdt beleidsmatig tot nu vast aan een recreatieve bestemming , maar deelt de analyse
+dat dit in feite geen afspiegeling van de huidige situatie is; zie ook onder 4.
+Conclusie: de analyse van ZKA en de omschrijving van de huidige situatie door de leden van de werk-
+groep en de gemeente stemmen overeen: De Tip wordt steeds meer een woonbuurt , met een eigen
+karakter en kwaliteit , maar zonder toeristisch-recreatief perspectief.
+4. Beeld op de toekomstige situatie , mate van eensgezindheid en bewustzijn: is er een gedragen visie
+op de toekomst bij eigenaren en gemeente.
+De werkgroep wil de functie die De Tip al vervult , zie hierboven , versterken en reguleren/legaliseren.
+Het beeld is een gebied met een eigen karakter , waarin mensen permanent wonen die elders in De
+Kiel geen geschikte woning kunnen vinden (starters , ouderen , spoedzoekers/tijdelijke huisvesting) en
+mensen hun woning als tweede woning gebruiken , een mix van permanente bewoning en tweede
+huisjes dus. Hiermee kan ook invulling worden gegeven aan de wens van Dorpsbelang om aan het dorp
+nog enkele woningen specifiek voor starters en ouderen toe te kunnen voegen. Die mogelijkheid is er
+binnen het dorp niet en kan wellicht in De Tip worden gevonden. De gemeente vindt de combinatie
+van echt recreatief gebruik (commerciële verhuur voor korte periode) en bewoning niet wenselijk ,
+maar kan zich wel vinden in de voorgestelde mengvorm. De gemeente wil dat uitgewerkt zien in een
+samenhangend plan , waarin het specifieke karakter van De Tip met z’n verschillende deelgebieden en
+de relatie en wisselwerking met het dorp onderbouwd wordt. Dit ook omdat een transformatie naar
+een woonbestemming op voorhand niet vanzelfsprekend is: De Tip ligt naast een kleine kern , in een
+regio waar er geen sprake is van een grote druk op de woningmarkt. Een omvorming naar een (gedeel-
+telijke) woonfunctie moet in zo’n situatie wel voorzien in een te onderbouwen behoefte.
+Een aandachtspunt zijn de nog niet gebruikte bouwrechten/vergunningen voor enkele recreatiewo-
+ningen , die in het bestemmingsplan inmiddels ‘wegbestemd’ zijn. In een transformatieplan zal duidelijk
+moeten worden wat daarmee gebeurt (zie ook onder 8. )
+Conclusie: als toekomstperspectief zien de werkgroep en de gemeente dat De Tip een gemengd gebied
+van wonen en tweede-woningen wordt , met een eigen karakter en een relatie met het dorp. Voor het
+vervolgproces zou het goed zijn een kaart te maken waarop uitgaand van de bestaande situatie het
+gewenste gebruik (permanent wonen en tweede-woning) worden ingetekend. Om een goed beeld van
+dat dat gewenste gebruik te krijgen kan het uitzetten van een enquête onder alle eigenaren nuttig zijn.
+5. Procesbewust- en -bereidheid: heeft men een beeld van wat het transformatieproces inhoudt ,
+wat er moet gebeuren , zijn daar middelen (menskracht , tijd , geld) voor en bereidheid toe?
+Deze quick scan benoemt een algemeen beeld en inschatting van de kansrijkheid van transformatie en
+aanvullend een aantal concrete aandachtspunten; zaken waarover een standpunt moet worden inge-
+nomen of die nader onderzocht moeten worden. Het is daarmee een van de eerste stappen in het
+stappenplan voor transformatie , zoals dat als leidraad (niet als blauwdruk) voor de transformatie ge-
+bruikt kan worden. In een volgende fase (bepalen streefbeeld) zal bezien moeten worden welke in-
+spanningen hiervoor nodig zijn en welke kosten hiermee gemoeid zijn. Het gaat dan om kosten voor
+bijvoorbeeld planvorming , onderzoeken , concrete noodzakelijke maatregelen op park- en individueel
+niveau. De insteek bij ruimtelijke ontwikkelingen is dat deze kosten voor rekening komen van hen die
+profiteren van de bestemmingswijziging , in dit geval de eigenaren van de recreatiewoningen.
+Een aandachtspunt is de door de Provincie Drenthe verlangde meerwaarde na transformatie. De pro-
+vincie wil terugzien dat transformatie gepaard gaat met een kwaliteitsimpuls , op ruimtelijk , landschap-
+pelijk en/of maatschappelijk gebied. Hoe die kwaliteitsimpuls/meerwaarde eruit ziet hangt af van de
+concrete situatie. In deze quick scan zijn alvast enkele aanknopingspunten te vinden.
+Ten aanzien van het onderdeel verevening (= het vragen van een financiële bijdrage bij een ruimtelijke
+ontwikkeling en deze te koppelen aan bestedingen elders) is tussen alle Drentse gemeenten afgespro-
+ken dat dit een onderdeel is van het transformatieproces. Bij het bepalen of verevening aan de orde is
+worden de te taxeren waardestijging en de te maken kosten in verband met de transformatie betrok-
+ken.
+Specifiek voor De Tip geldt dat een onderdeel van het transformatieproces is het bepalen van een
+geschikte eigendoms- en organisatievorm tijdens en na het transformeren. De werkgroep is zich van
+bovenstaande zaken bewust; dit zal te zijner tijd ook met de leden van de VvE en de niet-georgani-
+seerde eigenaren moeten worden gedeeld.
+Conclusie: gemeente en werkgroep zijn zich bewust van het transformatieproces en wat daarbij komt
+kijken.
+6. Ligging en inpassing in de omgeving.
+De deelgebieden van De Tip vormen samen met het zuidelijk aangrenzende chaletpark De Eeke een
+driehoekig gevormd gebied , dat aan de noordzijde in een punt uitloopt. Dit gebied is landschappelijk
+goed ingepast met een bossingel en ligt tussen de dorpen De Kiel en Schoonoord. Het gebied wordt
+ontsloten via de weg De Tip die aan de oostzijde langs het gebied loopt en uitkomt op de Rolderstraat ,
+de N376 (provinciale weg , 80 km/h). Bijzonder is dat de weg De Tip weliswaar openbaar is/lijkt en door
+de gemeente onderhouden wordt , maar in eigendom van verschillende eigenaren is , waaronder voor
+een deel de gemeente. In het kader van een eventuele transformatie is dit een punt van aandacht. Een
+ander punt is de afstemming van (de wijze en het niveau) van het beheer en onderhoud op de snijvlak-
+ken van de eigendommen. Verder zal bekeken moeten worden in hoeverre de weg passend is bij een
+andere functie van het gebied. Aandachtspunten zijn in ieder geval de wegbreedte (te smal voor twee
+passerende auto’s , geen voorzieningen voor fietsers en voetgangers) , de inrichting (snelheidsregime? ,
+belijning) en de aansluiting op de provinciale weg (vrij onoverzichtelijk). Aan de weg zijn zowel indivi-
+duele woningen als de drie deelgebieden aangesloten. Er is geen eenheid in de aansluitingen van de
+deelgebieden op de weg en de inrichting (maatvoering , overzichtelijkheid) is een aandachtspunt. De
+verbinding met De Kiel (en verder noordwaarts) verloopt voor het autoverkeer via de weg De Tip (ca.
+1 km. ) en voor fietsers en voetgangers is er een verhard fietspad aan de noordzijde (ca. 750 m. ). Rich-
+ting het zuiden (onder meer Schoonoord op ca. 15
+, km. ) is de weg De Tip de enige ontsluiting. Tot slot
+loopt er een onverhard , historisch pad aan de westzijde van het gebied.
+Conclusie: De Tip ligt op zichzelf goed ingepast in de bestaande structuur van landschap en bebouwing.
+De inrichting van de ontsluitingsweg en de aantakking van de deelgebieden daarop zijn niet optimaal.
+7. Openbare/collectieve ruimte: eigendom , inrichting , bereikbaarheid , voorzieningen , onderhouds-
+toestand , geschiktheid voor de beoogde functie.
+De inrichting van de collectieve ruimte (wegen , paden , gemeenschappelijke voorzieningen) is verschil-
+lend per deelgebied.
+In het meest zuidelijke , roodomkaderde gebied is de VvE eigenaar en beheerder van de collectieve
+ruimte. Bij de entree staat nog een niet meer functionerende slagboom , enkele borden en een verza-
+meling brievenbussen , iets verderop is een mededelingenbord en een plattegrondsbord geplaatst. De
+afvalinzameling is centraal vanuit de VvE geregeld; de gemeente heeft daar geen bemoeienis mee.
+Grofvuil is op dit moment een probleem; eigenaren van recreatiewoningen hebben hiervoor geen
+pasje. De gemeente zal zich moeten uitspreken over de wijze van afvalinzameling in het licht van een
+nieuwe functie van het park. Het entreegebied maakt een wat rommelige indruk en de zichtbaarheid
+en overzichtelijkheid van de aansluiting op de weg De Tip is een punt van aandacht. De wegenstructuur
+bestaat uit een lus met enkele doodlopende zijtakken. De weg is verhard , smal (auto’s kunnen elkaar
+niet passeren) en verkeert in redelijke staat. De toegankelijkheid en “doorrijdbaarheid” voor bijvoor-
+beeld de hulpdiensten moet onderzocht en/of bevestigd worden. Onderhoud wordt planmatig door
+de VvE uitgevoerd. Voor wat betreft de aard , kwaliteit en maatvoering van de infrastructuur (boven
+en ondergronds) , de nutsvoorzieningen en andere voorzieningen in de collectieve/openbare ruimte
+zal de gemeente moeten bepalen of ze dit passend vinden voor een eventuele woonfunctie of dat
+aanpassing nodig is. Daarbij moet ook de toekomstige eigendoms- en beheerspositie beschouwd wor-
+den: wie wordt of blijft eigenaar en beheerder van de gemeenschappelijk gebruikte gronden. De VvE
+heeft buiten het plegen van onderhoud geen plannen voor verbetering of aanpassing. In vergelijking
+tot het noordelijke deelgebied van De Tip heeft dit gebied een wat minder parkachtig , natuurlijk ka-
+rakter. Hoewel groener en minder dicht bebouwd dan de gemiddelde woonwijk is het een sober inge-
+richt gebied dat wel een opfrisbeurt kan gebruiken. Hier liggen aanknopingspunten voor een kwali-
+teitsimpuls.
+Het rood gegolfde gebied bestaat uit een smalle , halfverharde ontsluitsweg die doodloopt. Aan één
+zijde staan 5 woningen. Bij de entree staan brievenbussen en de afvalinzameling wordt door de ge-
+meente uitgevoerd. Qua uitstraling en staat van onderhoud geldt hetzelfde als hierboven , idem voor
+de aandachtspunten.
+Het blauw omkaderde gebied is anders , dunner bebouwd , groener , natuurlijker. De veelheid aan be-
+groeiing en het gebrek aan onderhoud op sommige plaatsen maakt het ook rommeliger en onover-
+zichtelijker; vindbaarheid en toegankelijkheid voor hulpdiensten zijn hier ook thema’s. Ook hier is het
+entreegebied en de dimensionering van de infrastructuur een aandachtspunt. De weg is onver-
+hard/halfverhard , hetgeen past bij de uitstraling , maar een aandachtspunt in het beheer is. De ge-
+meente is eigenaar van de infrastructuur , maar evengoed geldt hier dat naar de aard , kwaliteit en
+maatvoering van de infrastructuur (boven en ondergronds) , de nutsvoorzieningen (ook hier haalt de
+gemeente het afval op) en andere voorzieningen in de collectieve/openbare ruimte gekeken moet
+worden.
+Tot slot het blauw gegolfde gebied: twee woningen , direct ontsloten op De Tip.
+Conclusie: de deelgebieden hebben elk een eigen karakteristiek , die bij een transformatie in stand kan
+blijven en beschreven en geborgd kan worden. Voor alle gebieden geldt echter dat er naast specifieke
+aandachtspunten over een aantal zaken keuzes moeten worden gemaakt , in overleg met de gemeente.
+Een eventuele transformatie zou moeten worden aangegrepen om de kwaliteit en de uitstraling van
+de deelgebieden te verbeteren , met enkele specifieke aandachtspunten.
+8. Percelen en bebouwing: omvang , aard , kwaliteit , inrichting , onderhoudstoestand , geschiktheid
+voor de beoogde functie.
+De grootte van de particuliere percelen in de twee zuidelijke deelgebieden is vergelijkbaar en varieert
+zo tussen de 500 en 1. 000 m2 , met enkele uitschieters naar boven. De percelen in het groenere noor-
+delijk deel zijn wat groter. Uiteraard zijn er verschillen in het niveau van onderhoud , maar de parkach-
+tige inrichting en uitstraling is op het gehele park voelbaar , met in het noordelijk deel een wat meer
+bos-achtige inrichting. Een punt van aandacht is het gezamenlijk bepalen van de kwaliteit en kwantiteit
+van het groen (regels voor bomenkap , perceelsgrenzen e. d. ) en de verharding , om de kwaliteiten ook
+in de toekomst te bewaren en op sommige plekken verdere verstening en verharding te voorkomen.
+Een goed beheersplan kan het onderscheidende karakter in stand houden , waarbij er accentverschillen
+tussen de deelgebieden kunnen zijn. Enkele percelen zijn niet bebouwd en liggen braak. Omdat er wel
+vergunningen voor de bouw van recreatiewoningen zijn verleend is dit een onderwerp dat in een even-
+tueel transformatieproces verder uitgezocht en opgelost moet worden.
+De bebouwing dateert in de basis uit de jaren ’70. De meeste woningen zijn in de loop van de tijd
+gemoderniseerd en/of uitgebouwd of opgehoogd , waardoor een grote variatie aan woningen is ont-
+staan. Gebouwd mogen worden vakantiewoningen met een oppervlakte van maximaal 100 m2 , met
+vrijstaande bergingen e. d. van maximaal 20 m2 , en een bouwhoogte van maximaal 8 meter , met een
+goothoogte van 3 meter. De woningen waarvoor een perceelsgebonden beschikking is afgegeven zijn
+als zodanig opgenomen in het bestemmingsplan. Door de verbouwingen , uitbreidingen en het neer-
+zetten van vrijstaande bijgebouwen en overkappingen lijkt niet iedere woning binnen de toegestane
+maatvoeringen gebleven te zijn en is in de loop van de tijd een grote verscheidenheid in grootte en
+staat van onderhoud van de woningen ontstaan. In een transformatieproces zal bepaald moeten wor-
+den wat bij het (karakter van) het gebied en de wensen passende maatvoeringen zijn. Op grond van
+indrukken aan de buitenzijde en gelet op het oorspronkelijke bouwjaar zal een aantal woningen aan
+modernisering en/of verduurzaming toe zijn; een collectief plan voor verduurzaming kan als kwaliteits-
+impuls/meerwaarde worden gezien. In hoeverre de woningen voldoen aan de eisen die voor perma-
+nente bewoning gelden zal nader onderzoek moeten uitwijzen. Daarbij moeten de uitkomsten uit de
+controle die in 2003 heeft plaatsgevonden (naar aanleiding van het toewijzen van een gedoogstatus
+voor een aantal woningen/bewoners) worden meegenomen.
+Conclusie: de bebouwde en onbebouwde ruimte ziet er in het algemeen redelijk goed uit. Voor de
+woningen moet geïnventariseerd worden in hoeverre ze aan de wettelijke eisen voor het beoogde
+gebruik voldoen , waar kansen voor verbetering en verduurzaming liggen en wat de bebouwingsbepa-
+lingen zouden moeten zijn. Ook moet bezien worden welke regels er voor het groen (kwaliteit en
+kwantiteit) gesteld moeten worden.
+9. Sociaal: aanwezigheid kwetsbare groepen , sociale structuur , sociale veiligheid.
+Noch vanuit de ervaringen vanuit de leden van de werkgroep , noch vanuit de gemeente zijn er signalen
+dat er personen uit kwetsbare groepen op het park verblijven en/of dat er criminaliteit plaatsvindt. In
+één woning schijnen een aantal weken per jaar arbeidsmigranten te wonen. De gezinnen met kinderen
+die er wonen staan niet als problematisch bekend; de kinderen gaan gewoon naar school in De Kiel (en
+dragen daarmee bij aan de instandhouding van die school). Bij een eventuele uitwerking van het con-
+cept specifiek woonmilieu (voor ouderen en starters) is er wel een aandachtspunt: wanneer zich seni-
+oren zouden vestigen die op enig moment beroep doen op regelingen en toeslagen kan dat financiële
+gevolgen hebben voor de gemeente.
+Conclusie: Op dit moment is er geen sprake van sociaal-maatschappelijke problematiek. Bij de uitwer-
+king van de te kiezen woonconcepten is dit wel een punt van aandacht.
+10. Planologische toets op hoofdlijnen: aanwezigheid functies/gebruik/plannen in de omgeving die
+een aandachtspunt of een knock-out zijn in relatie tot de beoogde functie.
+Voor het park is het bestemmingsplan De Kiel , De Tip (vastgesteld 3 februari 2015) van kracht. Hierin
+heeft het terrein overwegend de bestemming ‘Recreatie’ , waarop de 19 percelen waar permanente
+bewoning is toegestaan vanwege een perceelsgebonden gedoogbeschikking als zodanig zijn aange-
+merkt. Enkele percelen hebben een bestemming ‘wonen’. De westelijke rand heeft de bestemming
+‘groen’ en voor het gehele gebieden geldt de aanduiding ‘archeologische verwachtingswaarde’. Hier-
+onder een uitsnede van de verbeelding (plankaart) bij dit bestemmingsplan:
+In de omgeving van het park zouden zich functies kunnen bevinden die van invloed zouden kunnen zijn
+op het mogelijke of toelaatbare op het park, vice versa. De Tip ligt niet in of nabij Natura 2000-gebied
+of binnen het Natuurnetwerk Nederland en dat betekent dat er vanuit de natuurwetgeving geen be-
+perkingen zijn om het gebied een woonfunctie te geven. In de directe omgeving zijn geen agrarische
+of andere bedrijven te vinden die voor wat betreft hun mogelijkheden beperkt zouden kunnen worden
+door De Tip een woonfunctie te geven; eventuele bedrijven die er zijn worden al beperkt door be-
+staande woningen die zich dichterbij bevinden. Een punt van aandacht is wel de ligging ten opzichte
+het chalet De Eeke en de bijbehorende dagrecreatieve en verblijfsrecreatieve functies. Deze zijn wel-
+iswaar functioneel en fysiek gescheiden door een beplantingsstrook, maar de afstand tussen de meest
+noordelijk gelegen chalets en de meest zuidelijke gelegen woningen in De Tip is klein. Onderzoek en
+overleg zal moeten uitwijzen of en hoe beide functies hier op een verantwoorde manier naast elkaar
+kunnen bestaan en/of dat maatregelen nodig zijn.
+Conclusie: een punt van aandacht en studie is de verhouding tussen het bestaande recreatieve bedrijf
+aan de zuidkant van De Tip (chaletpark De Eeke en aanverwanten) en een eventuele woonfunctie op
+De Tip. Onderzocht moet worden of en hoe beide naast elkaar kunnen bestaan.
+Eindconclusie
+Het verder verkennen van de mogelijkheden van transformatie naar een gedeeltelijke woonfunctie (in
+een combinatie permanente bewoning en gebruik als tweede woning) voor het gebied De Tip is kans-
+rijk. Bij een transformatie moeten in ieder geval de volgende aandachtspunten meegenomen worden:
+1. Status en mandaat werkgroep
+2. Wijze van terugkoppeling/communicatie naar eigenaren/bewoners
+3. Kaart met bestaand en gewenst gebruik, in combinatie met de huidige bestemmingen en de
+juiste begrenzingen van het park opstellen, bijvoorbeeld mede op basis van een enquête.
+Onderbouwing/uitwerking relatie De Kiel —
+De Tip
+5. Oplossen kwestie nog niet benutte bouwrechten
+6. Kwestie inrichting, eigendom en beheer van de weg De Tip en de aansluitingen daarop
+7. Inrichting entreegebieden (kwaliteit, maatvoering, voorzieningen)
+8. Wijze van afvalinzameling
+9. Toegankelijkheid en doorrijdbaarheid voor hulpdiensten
+10. Bepalen aard, kwaliteit, onderhoudsniveau en geschiktheid van de openbare/collectieve voor-
+zieningen (boven- en ondergronds), gelet op de nieuwe functie
+11. Bepalen eigendoms- en beheerspositie van de openbare/collectieve voorzieningen
+12. Uitwerken mogelijkheden voor kwaliteitsimpuls in de openbare/collectieve ruimte
+13. Bepalen regels voor kwaliteit en kwantiteit van het groen (zo nodig per deelgebied), ook in
+relatie tot mate van verharding
+14. Bepalen gewenste maatvoering e.d. van de woningen
+15. Uitwerken mogelijkheid tot collectieve verduurzaming, als mogelijke meerwaarde/kwaliteits-
+impuls
+16. Onderzoeken of woningen aan eisen van Bouwbesluit voldoen
+17. Bij uitwerken specifiek woonmilieu voor ouderen: inschatten financiële gevolgen voor de ge-
+meente
+18. Afstemming recreatief gebruik De Eeke —
+woonfunctie De Tip
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Postadres:
+Postbus 2
+7740 AA Coevorden
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl Aan
+Bezoekadres: de raad van de gemeente Coevorden
+Kasteel 1
+7741GC Coevorden
+Uw brief
+Afdeling/Team Programma VVPC
+Behandeld door
+Kenmerk 47657-2025
+Bijlage(n) -
+Coevorden 23 september 2025 Verzenddatum:
+zi
+Onderwerp Streefbeeld transformatiepark De Tip
+SEP 2025
+(geanonimiseerd)
+Geachte leden van de raad,
+Als uitvloeisel van het Programma Vitale Vakantieparken Coevorden is gewerkt aan de
+transformatie naar een
+permanente woonfunctie van park De Tip in De Kiel. Dit met als
+leidraad het Stappenplan Transformatie, zoals dat vanuit Vitale Vakantieparken Drenthe is
+aangereikt. In oktober 2024 hebben wij u geïnformeerd over het streefbeeld, als een
+belangrijke stap en de basis voor uitwerking en concretisering in een transformatieplan en een
+ruimtelijk plan, met de bijbehorende anterieure overeenkomsten tussen de eigenaren en de
+gemeente.
+Wij informeren u graag over de voortgang van het proces en uw betrokkenheid als raad.
+Stand van zaken
+Na vaststelling van het streefbeeld is gewerkt aan de concretisering hiervan in het
+transformatieplan. Ook is een ruimtelijk plan opgesteld, in de vorm van een TAM-
+omgevingsplan. Verder is een anterieure overeenkomst opgesteld waarin onder meer
+afspraken over uitvoering en kosten zijn vastgelegd en zijn eigenaren gevraagd een keuze te
+maken over het wel of niet meegaan in de transformatie. Dat heeft geresulteerd in een
+deelname van ca. 90% van de eigenaren. Degenen die niet meegaan behouden de bestaande
+bestemming.
+Vervolg
+Nu de anterieure overeenkomsten zijn gesloten hebben wij besloten het ontwerp ‘“TAM-
+omgevingsplan De Tip, De Kiel’ ter inzage te leggen. Vanaf begin oktober ligt het ontwerp
+‘“TAM-omgevingsplan De Tip, De Kiel’ ter inzage voor een periode van 6 weken. In deze periode
+kan een ieder zijn/haar zienswijze(n) kenbaar maken bij de gemeenteraad.
+Zaaknummer: 47657-2025
+Gemeente
+ses
+Coevorden
+Tot slot volgt vaststelling van het ‘TAM-omgevingsplan De Tip, De Kiel’ in uw raad, naar
+verwachting begin 2026.
+Hoogachtend,
+het college van burgemeester en wethouders van Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 47657-2025
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+en _%
+PD Gemeente
+Coevorden
+No. 2022/1737
+De raad van de gemeente Coevorden;
+Gelezen het voorstel van burgemeester en wethouders van 22 september 2020, bijlagenummer
+1737
+besluit:
+1. de deelstructuurvisie transformatie recreatiewoningen gemeente Coevorden vast te stellen van
+waarmee:
+a) Het kader wordt vastgelegd voor het toepassen van
+verevening ter compensatie van de
+nadelige toeristisch-recreatieve ruimtelijke ontwikkeling van een bestemmingsplanwijziging van
+recreatie naar wonen.
+b) De bestedingsdoelen voor de vereveningsbijdrage worden vastgelegd.
+Het besluit bekrachtigt de beleidsnota Kader kostenverhaal en
+verevening voor transformatie
+vakantieparken, zoals vastgesteld door de gemeenteraad in haar vergadering van 14 september
+2021.
+Aldus besloten in de openbare vergadering
+van 1 maart 2022
+De raad voornoemd,
+Griffier,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Kenmerk:
+7595-2022
+Ri Gemeente
+Coevorden
+Raadsvoorstel gemeente Coevorden
+Datum raadsvergadering
+Versie
+Agendapunt
+Naam rapporteur
+Rv.nr.
+Openbaar
+Portefeuillehouder
+Onderwerp
+Voorgesteld besluit
+1 maart 2022
+d
+6.5
+1737
+Ja
+Dhr. S. Stegen
+(geanonimiseerd)
+Deelstructuurvisie transformatie recreatiewoningen
+gemeente Coevorden
+Vaststellen van de deelstructuurvisie transformatie
+recreatiewoningen gemeente Coevorden waarmee:
+a) Het kader wordt vastgelegd voor het toepassen van
+verevening ter compensatie van de nadelige toeristisch-
+recreatieve ruimtelijke ontwikkeling van een
+bestemmingsplanwijziging van recreatie naar wonen.
+b) De bestedingsdoelen voor de vereveningsbijdrage
+worden vastgelegd.
+Het besluit bekrachtigt de beleidsnota Kader kostenverhaal
+en verevening voor transformatie vakantieparken, zoals
+vastgesteld door de gemeenteraad in haar vergadering van
+14 september 2021.
+Aan de raad,
+Inleiding
+In Coevorden zijn we binnen het programma Vitale Vakantieparken bezig met de toekomst van
+onze vakantieparken. Eén van de opties is om vakantieparken te onttrekken aan het recreatieve
+aanbod en te transformeren naar reguliere woningen. Binnen het Drentse programma Vitale
+Vakantieparken, waar we ons als Coevorden aan hebben geconformeerd, is hiervoor een
+stappenplan ontwikkeld om de transformatie op een gestructureerde wijze aan te pakken.
+Daarnaast zijn ook afspraken gemaakt over het verhalen van kosten op eigenaren die in
+aanmerking komen voor transformatie. Dit omdat het omzetten van recreatieve bestemmingen
+naar woonbestemmingen leidt tot een (aanzienlijke) waardevermeerdering van de grond. Hierbij is
+ook de afspraak gemaakt dat, naast afspraken over het genoemde kostenverhaal, ook nog een
+financiële bijdrage moet worden betaald door eigenaren. Deze zogenaamde vereveningsbijdrage
+wordt gebruikt om
+investeringen te doen die bijdragen aan de toeristisch recreatieve ontwikkeling.
+Daarmee wordt voorkomen dat de toeristisch recreatieve kwaliteit als geheel verslechterd doordat
+woningen worden onttrokken uit het aanbod.
+In september 2021 heeft de gemeenteraad de beleidsnota “Kader kostenverhaal en verevening
+voor transformatie vakantieparken” vastgesteld. Om het instrument verevening te kunnen
+toepassen moet er een structuurvisie zijn vastgesteld door de gemeenteraad.
+|
+je Gemeente
+Coevorden
+Argumenten
+1, De Wet ruimtelijke ordening biedt onder voorwaarden ruimte voor vereveningsafspraken
+De Wet ruimtelijke ordening (Wro) vormt de basis voor het kostenverhaal. Kort gezegd komt het
+erop neer dat gemeenten de kosten die zij maken om een ruimtelijke ontwikkeling te faciliteren, in
+rekening moeten brengen bij de initiatiefnemer van deze ontwikkeling. Hierbij gaat het dan
+bijvoorbeeld om de kosten om het bestemmingsplan te herzien of kosten die nodig zijn voor
+aanpassingen in de openbare ruimte. Het gaat hier om kosten die een directe relatie hebben met
+de ontwikkeling. Aanvullend daarop biedt de wet ook ruimte om een vereveningsbijdrage te
+vragen. Deze bijdrage moet dan wel gebruikt worden om te investeren in projecten die een
+ruimtelijke en functionele samenhang hebben met het project waarvoor de bijdrage wordt
+gevraagd. In dit concrete geval worden recreatiewoningen onttrokken aan het toeristisch
+recreatieve aanbod. Daarvoor wordt een financiële bijdrage gevraagd die wordt geïnvesteerd in
+toeristisch recreatieve projecten waardoor de toeristisch recreatieve kwaliteit als geheel, wordt
+versterkt. Deze methode heeft de toets van de Raad van State intussen doorstaan.
+2. De uitgewerkte structuurnota is een vertaling van de in september 2021 vastgestelde
+beleidsnota Kader kostenverhaal en verevening voor transformatie vakantieparken
+Met de vaststelling van de beleidsnota heeft de gemeenteraad in 2021 gekozen voor verevening,
+voor een verveningsmethodiek en voor een vereveningspercentage. De deelstructuurnota is een
+vertaling van dat beleid.
+3. De opgenomen doelen dragen bij aan het toeristisch recreatief aanbod
+Verevening mag geen doel op zich zijn. Het mag onder voorwaarden worden toegepast om
+financiële middelen te genereren die elders kunnen worden geïnvesteerd als compensatie voor het
+‘verlies’ dat wordt veroorzaakt door de ruimtelijke ontwikkeling. De investeringen komen daarmee
+weer ten dienste van de samenleving. De vereveningsbijdragen voor het onttrekken van
+recreatiewoningen aan het aanbod (het verlies) worden ingezet om (ruimtelijke) ontwikkelingen die
+de toeristische sector versterken, te financieren.
+De genoemde projecten ondersteunen de realisatie van de doelen van het programma Vitale
+Vakantieparken Coevorden en/of dragen bij aan algemene, recreatieve publieke voorzieningen ook
+buiten dit programma. Conform afspraak is de raad in de gelegenheid gesteld eigen ideeën over
+bestedingsdoelen aan te leveren en de reeds bestaande ideeën te prioriteren.
+De bedragen zijn per project gemaximeerd en dekken niet de volledige kosten van deze projecten.
+Op deze wijze kunnen de binnenkomende vereveningsbijdragen meerdere recreatieve doelen
+ondersteunen. Het aantal doelen dat kan worden gerealiseerd is afhankelijk van de
+vereveningsbijdragen die worden opgehaald. Dit hangt weer samen met het aantal
+recreatiewoningen dat wordt getransformeerd en de marktwaarde op het moment van taxatie.
+Opmerkingen
+1, Afspraken over verevening zijn aan spelregels gebonden.
+Om verevening te kunnen toepassen moet aan een aantal spelregels worden voldaan. De
+belangrijkste spelregel is dat er een structuurvisie moet worden vastgesteld door de
+gemeenteraad.
+2. Afspraken over
+verevening kunnen alleen gemaakt worden op basis van wederzijdse
+instemming.
+Het betalen van een vereveningsbijdrage kan niet worden afgedwongen. Dit moet op basis van
+wederzijdse instemming plaatsvinden. In de praktijk betekent dit dat afspraken om te verevenen
+alleen tot stand komen wanneer de waardestijging als gevolg van de transformatie naar een
+reguliere woonbestemming hoger is dan de kosten die moeten worden gemaakt inclusief
+vereveningsbijdrage.
+3. Eris in Coevorden een behoorlijk aantal persoons- en perceelsgebonden beschikkingen
+afgegeven.
+In het verleden is er al voor een flink aantal percelen perceelsgebonden beschikkingen afgegeven.
+Dit betekent waarschijnlijk in dat geval er geen grondslag is voor een vereveningsbijdrage.
+Kenmerk: :
+7595-2022
+Dt Gemeente
+Coevorden
+4, Erzijn nog veel onzekerheden.
+Het transformatieproces in Coevorden is nog in de verkenningsfase. Vanuit twee parken is de vraag
+neergelegd om te mogen transformeren naar een reguliere woonbestemming. Om de transformatie
+te laten slagen moeten echter nog veel stappen worden gezet en vraagstukken worden
+beantwoord. Wanneer deze transformaties niet slagen, zijn er geen inkomsten uit verevening.
+Naast de twee parken waar nu ingezet wordt op transformatie naar een woonbestemming kan
+ervoor worden gekozen binnen het programma Vitale Vakantie Parken Coevorden nog 1 of meer
+parken hiervoor ruimte te bieden.
+Kosten, baten, dekking
+De vereveningsbijdragen worden gestort in een speciaal hiervoor op te richten gemeentelijke
+bestemmingsreserve van waaruit de vastgelegde toeristisch recreatieve projecten worden
+gefinancierd. Hierover wordt jaarlijks gerapporteerd aan de raad in het kader van de reguliere P&C
+cyclus.
+Aanpak/uitvoering
+Tijdens het proces van transformatie wordt in de slotfase met elke eigenaar een realisatie
+overeenkomst afgesloten waarin de verevening wordt vastgelegd. Tevens worden afspraken
+gemaakt over de betaling van de bijdrage. Daarna wordt de bijdrage geïnd en in het fonds/de
+bestemmingsreserve gestort. Daarna kan de bijdrage dienen ter dekking van te maken kosten
+zoals vastgelegd in de deelstructuurvisie. De volgorde van bestemming en de prioritering daarin
+wordt ter besluitvorming voorgelegd aan het College van B&W.
+Communicatie
+Na vaststelling van de deelstructuurvisie wordt de deelstructuurvisie gepubliceerd.
+Bijlagen
+-
+Deelstructuurvisie transformatie recreatiewoningen gemeente Coevorden
+Burgemeester en wethouders van Coevorden,
+de gemeentesecretaris de burgemeester
+(geanonimiseerd)
+Kenmerk:
+7595-2022
+> Gemeente
+Coevorden
+Raadsvoorstel gemeente Coevorden
+Datum commissievergadering
+Versie
+Agendapunt
+Naam rapporteur
+Rv.nr.
+Openbaar
+Portefeuillehouder
+Onderwerp
+Voorgesteld besluit
+15 februari 2022
+1
+EL
+RE. (geanonimiseerd)
+Ja
+Dhr. S. Stegen
+Deelstructuurvisie transformatie recreatiewoningen
+gemeente Coevorden
+Vaststellen van de deelstructuurvisie transformatie
+recreatiewoningen gemeente Coevorden waarmee:
+a) Het kader wordt vastgelegd voor het toepassen van
+verevening ter compensatie van de nadelige toeristisch-
+recreatieve ruimtelijke ontwikkeling van een
+bestemmingsplanwijziging van recreatie naar wonen.
+b) De bestedingsdoelen voor de vereveningsbijdrage
+worden vastgelegd.
+Het besluit bekrachtigt de beleidsnota Kader kostenverhaal
+en verevening voor transformatie vakantieparken, zoals
+vastgesteld door de gemeenteraad in haar vergadering van
+14 september 2021.
+Aan de raad,
+Inleiding
+In Coevorden zijn we binnen het programma Vitale Vakantieparken bezig met de toekomst van
+onze vakantieparken. Eén van de opties is om vakantieparken te onttrekken aan het recreatieve
+aanbod en te transformeren naar reguliere woningen. Binnen het Drentse programma Vitale
+Vakantieparken, waar we ons als Coevorden aan hebben geconformeerd, is hiervoor een
+stappenplan ontwikkeld om de transformatie op een gestructureerde wijze aan te pakken.
+Daarnaast zijn ook afspraken gemaakt over het verhalen van kosten op eigenaren die in
+aanmerking komen voor transformatie. Dit omdat het omzetten van recreatieve bestemmingen
+naar woonbestemmingen leidt tot een (aanzienlijke) waardevermeerdering van de grond. Hierbij is
+ook de afspraak gemaakt dat, naast afspraken over het genoemde kostenverhaal, ook nog een
+financiële bijdrage moet worden betaald door eigenaren. Deze zogenaamde vereveningsbijdrage
+wordt gebruikt om investeringen te doen die bijdragen aan de toeristisch recreatieve ontwikkeling.
+Daarmee wordt voorkomen dat de toeristisch recreatieve kwaliteit als geheel verslechterd doordat
+woningen worden onttrokken uit het aanbod.
+In september 2021 heeft de gemeenteraad de beleidsnota “Kader kostenverhaal en
+verevening
+voor transformatie vakantieparken” vastgesteld. Om het instrument verevening te kunnen
+toepassen moet er een structuurvisie zijn vastgesteld door de gemeenteraad.
+Kenmerk:
+\
+7595-2022
+jr Gemeente
+Coevorden
+Argumenten
+1, De Wet ruimtelijke ordening biedt onder voorwaarden ruimte voor vereveningsafspraken
+De Wet ruimtelijke ordening (Wro) vormt de basis voor het kostenverhaal. Kort gezegd komt het
+erop neer dat gemeenten de kosten die zij maken om een ruimtelijke ontwikkeling te faciliteren, in
+rekening moeten brengen bij de initiatiefnemer van deze ontwikkeling. Hierbij gaat het dan
+bijvoorbeeld om de kosten om het bestemmingsplan te herzien of kosten die nodig zijn voor
+aanpassingen in de openbare ruimte. Het gaat hier om kosten die een directe relatie hebben met
+de ontwikkeling. Aanvullend daarop biedt de wet ook ruimte om een vereveningsbijdrage te
+vragen. Deze bijdrage moet dan wel gebruikt worden om te investeren in projecten die een
+ruimtelijke en functionele samenhang hebben met het project waarvoor de bijdrage wordt
+gevraagd. In dit concrete geval worden recreatiewoningen onttrokken aan het toeristisch
+recreatieve aanbod. Daarvoor wordt een financiële bijdrage gevraagd die wordt geïnvesteerd in
+toeristisch recreatieve projecten waardoor de toeristisch recreatieve kwaliteit als geheel, wordt
+versterkt. Deze methode heeft de toets van de Raad van State intussen doorstaan.
+2. De uitgewerkte structuurnota is een vertaling van de in september 2021 vastgestelde
+beleidsnota Kader kostenverhaal en verevening voor transformatie vakantieparken
+Met de vaststelling van de beleidsnota heeft de gemeenteraad in 2021 gekozen voor verevening,
+voor een verveningsmethodiek en voor een vereveningspercentage. De deelstructuurnota is een
+vertaling van dat beleid.
+3. De opgenomen doelen dragen bij aan het toeristisch recreatief aanbod
+Verevening mag geen doel op zich zijn. Het mag onder voorwaarden worden toegepast om
+financiële middelen te genereren die elders kunnen worden geïnvesteerd als compensatie voor het
+‘verlies’ dat wordt veroorzaakt door de ruimtelijke ontwikkeling. De investeringen komen daarmee
+weer ten dienste van de samenleving. De vereveningsbijdragen voor het onttrekken van
+recreatiewoningen aan het aanbod (het verlies) worden ingezet om (ruimtelijke) ontwikkelingen die
+de toeristische sector versterken, te financieren.
+De genoemde projecten ondersteunen de realisatie van de doelen van het programma Vitale
+Vakantieparken Coevorden en/of dragen bij aan algemene, recreatieve publieke voorzieningen ook
+buiten dit programma. Conform afspraak is de raad in de gelegenheid gesteld eigen ideeën over
+bestedingsdoelen aan te leveren en de reeds bestaande ideeën te prioriteren.
+De bedragen zijn per project gemaximeerd en dekken niet de volledige kosten van deze projecten.
+Op deze wijze kunnen de binnenkomende vereveningsbijdragen meerdere recreatieve doelen
+ondersteunen. Het aantal doelen dat kan worden gerealiseerd is afhankelijk van de
+vereveningsbijdragen die worden opgehaald. Dit hangt weer samen met het aantal
+recreatiewoningen dat wordt getransformeerd en de marktwaarde op het moment van taxatie.
+Opmerkingen
+1. Afspraken over verevening zijn aan spelregels gebonden.
+Om verevening te kunnen toepassen moet aan een aantal spelregels worden voldaan. De
+belangrijkste spelregel is dat er een structuurvisie moet worden vastgesteld door de
+gemeenteraad.
+2. Afspraken over verevening kunnen alleen gemaakt worden op basis van wederzijdse
+instemming.
+Het betalen van een vereveningsbijdrage kan niet worden afgedwongen. Dit moet op basis van
+wederzijdse instemming plaatsvinden. In de praktijk betekent dit dat afspraken om te verevenen
+alleen tot stand komen wanneer de waardestijging als gevolg van de transformatie naar een
+reguliere woonbestemming hoger is dan de kosten die moeten worden gemaakt inclusief
+vereveningsbijdrage.
+3. Eris in Coevorden een behoorlijk aantal persoons- en perceelsgebonden beschikkingen
+afgegeven.
+In het verleden is er al voor een flink aantal percelen perceelsgebonden beschikkingen afgegeven.
+Dit betekent waarschijnlijk in dat geval er geen grondslag is voor een vereveningsbijdrage.
+Kenmerk:
+Y
+7595-2022
+ar Gemeente
+Coevorden
+4. Erzijn nog veel onzekerheden.
+Het transformatieproces in Coevorden is nog in de verkenningsfase. Vanuit twee parken is de vraag
+neergelegd om te mogen transformeren naar een reguliere woonbestemming. Om de transformatie
+te laten slagen moeten echter nog veel stappen worden gezet en vraagstukken worden
+beantwoord. Wanneer deze transformaties niet slagen, zijn er geen inkomsten uit verevening.
+Naast de twee parken waar nu ingezet wordt op transformatie naar een woonbestemming kan
+ervoor worden gekozen binnen het programma Vitale Vakantie Parken Coevorden nog 1 of meer
+parken hiervoor ruimte te bieden.
+Kosten, baten, dekking
+De vereveningsbijdragen worden gestort in een speciaal hiervoor op te richten gemeentelijke
+bestemmingsreserve van waaruit de vastgelegde toeristisch recreatieve projecten worden
+gefinancierd. Hierover wordt jaarlijks gerapporteerd aan de raad in het kader van de reguliere P&C
+cyclus.
+Aanpak/uitvoering
+Tijdens het proces van transformatie wordt in de slotfase met elke eigenaar een realisatie
+overeenkomst afgesloten waarin de verevening wordt vastgelegd. Tevens worden afspraken
+gemaakt over de betaling van de bijdrage. Daarna wordt de bijdrage geïnd en in het fonds/de
+bestemmingsreserve gestort. Daarna kan de bijdrage dienen ter dekking van te maken kosten
+zoals vastgelegd in de deelstructuurvisie. De volgorde van bestemming en de prioritering daarin
+wordt ter besluitvorming voorgelegd aan het College van B&W.
+Communicatie
+Na vaststelling van de deelstructuurvisie wordt de deelstructuurvisie gepubliceerd.
+Bijlagen
+-
+Deelstructuurvisie transformatie recreatiewoningen gemeente Coevorden
+Burgemeester en wethouders van Coevorden,
+de gemeentesecretaris de burgemeester
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Het transformatieproces in 5 fasen
+Naar een nieuwe bestemming FASE 2:
+UITGANGSPUNTEN VOOR TRANSFORMATIE
+FASE 1:
+VERKENNING
+voor uw vakantiepark
+Bij het transformatieproces komt heel wat kijken. Daarom is het
+noodzakelijk vooraf afspraken te maken over een aantal uit-
+gangspunten , zodat deze voor iedereen duidelijk zijn en partijen
+daar op aanspreekbaar zijn. Het gaat onder meer over afspraken
+op het gebied van:
+• Rollen (opdrachtgever en -nemer) en verantwoordelijkheden;
+• Te volgen proces en tijdpad;
+• Inzet van middelen (expertise , tijd , geld);
+• Keuzes ten aanzien van de nieuwe functie/bestemming en
+wat dat betekent voor de verschillende belangen/soorten
+eigenaren op een park;
+• Keuzes ten aanzien van overgangssituaties , handhaven ,
+gedogen en dergelijke.
+STAP 1
+Bepalen mogelijke kandidaten voor transformatie
+Op basis van eigen beleid en planning en eventuele verzoe-
+ken van parken bepaalt de gemeente of een vakantiepark wel
+of niet eventueel in aanmerking zou kunnen komen voor
+transformatie.
+-
+TRANSFORMEREN VAN NIETVITALE PARKEN UITGANGSPUNTEN EN BEGRIPPEN
+Transformeren is ‘onder voorwaarden’ mogelijk. Die voor-
+waarden hangen af van de situatie op het park en de keuzes
+van de gemeenten , maar er zijn wel een aantal gemeen-
+schappelijke uitgangspunten te noemen:
+Verspreid over Drenthe liggen vakantieparken waar niet of nau-
+welijks nog gerecreëerd wordt. Deze parken zien er misschien
+keurig uit , maar zijn niet meer in trek bij vakantiegangers. Voor
+dit soort parken zonder toeristische toekomst kan het verstan-
+dig zijn een andere , niet-recreatieve functie en bestemming
+te zoeken. Dat noemen we het ‘transformeren van niet-vitale
+parken’.
+STAP 2
+Uitvoeren Quick Scan Transformatie: een eerste haal-
+baarheidsstudie
+Als gemeente en park daartoe bereid zijn wordt een eerste haal-
+baarheidsstudie uitgevoerd. Zij vragen of de Taskforce VVP
+een zogenaamde Quick Scan Transformatie wil uitvoeren. Met
+een bezoek aan het park en een gesprek in aanwezigheid van
+park en gemeenten wordt aan de hand van 10 punten bekeken
+of een vakantiepark rijp is voor transformatie naar een andere
+functie of niet. Onderwerpen die aan de orde komen zijn onder
+meer mandaat en draagvlak (is er een duidelijke gesprekspart-
+ner (eigenaar , bestuur VvE of anders) , wat de partijen (park en
+gemeente) willen en of de situatie zich daarvoor leent (feitelijke
+inrichting , wettelijke en beleidsmatige bepalingen).
+• ‘één park , één plan’: de ervaring heeft geleerd dat ieder
+park anders is. Dat zit ’m onder meer in de ligging , de ge-
+schiedenis , de eigendomssituatie , het gemeentelijk beleid ,
+de wensen van de eigenaren , enzovoorts. Dat betekent
+ook dat er voor ieder park een eigen transformatieplan
+opgesteld moet worden én dat het gehele park daarin
+wordt meegenomen.
+komt. Een aandachtspunt daarbij is de bevoegdheid van deze
+vertegenwoordiging voor het overleggen , onderhandelen en
+ondertekenen tijdens het transformatieproces. Behalve park
+en gemeente zijn er meer partijen betrokken bij transformatie.
+Ook de Provincie Drenthe speelt op een aantal momenten een
+rol en verder is er de Taskforce Vitale Vakantieparken Dren-
+the (VVP). Hier werken adviseurs die door de hele provincie
+werkzaam zijn en de parken en gemeenten ondersteunen bij
+transformatieprocessen.
+kosten voor de verbetering van de inrichting van het park , de
+woningen , de benodigde kwaliteitsimpuls enzovoorts. Kort-
+om: alle ingrepen en verbeteringen die nodig zijn om het park
+klaar te maken voor de toekomst en haar nieuwe functie of
+bestemming.
+De Drentse gemeenten en de Provincie Drenthe hebben in
+het kader van het programma Vitale Vakantieparken Drenthe
+(VVP) afgesproken dat het onder voorwaarden mogelijk is een
+nieuwe functie en bestemming te geven aan niet-vitale parken
+waar terugkeer naar een recreatieve functie niet haalbaar is.
+De zoektocht naar een geschikte nieuwe functie en het ordelijk
+regelen daarvan wordt ‘transformeren’ genoemd. Die zoektocht
+wordt gedaan door het park , in samenwerking met de gemeente.
+STAP 5
+Vaststellen uitgangspunten voor transformatie
+De bovengenoemde afspraken worden vastgelegd in een brief ,
+overeenkomst of andere vorm en ondertekend door gemeente
+en park. Er zijn voorbeelden/sjablonen beschikbaar.
+• Samenwerking: het maken van een transformatieplan
+is een opgave die (vertegenwoordigers van) het park en
+de gemeente samen moeten klaarspelen. Bij sommi-
+ge parken is de eigenaar de logische gesprekspartner
+voor de gemeente. Bij parken met een Vereniging van
+Eigenaren (VvE) is dat het bestuur van de VvE of een
+werkgroep namens het bestuur. Omdat het bij parken
+met meerdere (soms vele) eigenaren ondoenlijk is steeds
+met iedere eigenaar afzonderlijk te overleggen , is het be-
+langrijk dat een park zelf met een vertegenwoordiging
+• Verevening: hierboven is al benoemd dat transformatie tot
+waardestijging van (woningen en percelen op) vakantiepar-
+ken kan leiden. Gemeenten kunnen in die gevallen besluiten
+een park te vragen een financiële bijdrage te doen , dat heet
+verevenen. Daarbij zal in ieder geval rekening gehouden
+worden met de specifieke omstandigheden , zoals de mate
+van waardestijging die uit een uit te voeren taxatie blijkt. De
+vereveningsbijdrage zal besteed moeten worden aan een door
+de gemeente vastgesteld doel dat te maken heeft met recreatie
+en toerisme. Of verevening wordt toegepast hangt af van de
+keuze die de gemeente hierover maakt. Bij voorkeur is die
+keuze gemaakt voorafgaand aan het transformatieproces ,
+maar uiterlijk in de hieronder genoemde stap 8.
+Wat die nieuwe bestemming wordt , staat niet bij voorbaat vast.
+Soms is het legaliseren van permanente bewoning mogelijk.
+In andere gevallen is een park meer geschikt voor een andere
+functie of is sloop en/of ‘teruggave aan de natuur’ een betere
+oplossing. Ieder niet-vitaal park geval is anders en daarom zal
+ook iedere transformatie anders verlopen. Wel zijn er onderwer-
+pen die bij iedere transformatie terugkomen. Die worden hier
+toegelicht , net als wat er allemaal komt kijken bij transformeren.
+• Meerwaarde: hiermee wordt bedoeld dat transformeren
+meer moet inhouden dan het alleen veranderen van de be-
+stemming van een park. Bestaande knelpunten moeten wor-
+den opgelost en er moet iets worden toegevoegd; een kwaliteit-
+simpuls. Wat die precies moet/kan zijn hangt van de situatie
+af en verschilt dus per park. Het toevoegen van meerwaarde is
+een eis die de Provincie Drenthe stelt.
+FASE 3:
+STREEFBEELD
+STAP 3
+Kennisnemen van de Quick Scan
+Gemeente en park nemen kennis van en onderschrijven de
+uitkomst van de quick scan. Deze wordt ook aan de provincie
+voorgelegd , zodat provinciale belangen en uitgangspunten kun-
+nen worden meegenomen in het vervolg.
+STAP 6
+Het opstellen van het streefbeeld
+In deze stap bespreken park en gemeente waar het park over een
+aantal jaar wil/moet staan. Wat is er goed , wat zijn de kwaliteiten ,
+wat zou anders/beter kunnen of moeten , hoe wordt meerwaarde
+(een kwaliteitsimpuls) toegevoegd , enzovoort. Daarnaast ook:
+hoe wordt omgegaan met bestaande situaties die niet passen in
+het streefbeeld. Het park neemt hiervoor het initiatief en scha-
+kelt zo nodig professionele advisering en/of ondersteuning in.
+De gemeente neemt deel , stelt randvoorwaarden en stimuleert.
+De Taskforce ondersteunt waar nodig/wenselijk. Hulpmiddelen
+als de checklijst Bouwbesluit en de Kwaliteitskaarten (methode
+om alle zaken te doorlopen die met de inrichting van het park te
+STAP 4 (indien nodig)
+Uitwerking aandachtspunten
+Het kan zijn dat er uit de quick scan aandachtspunten komen
+die bepalend zijn voor de vraag of transformatie wel of geen
+kans van slagen heeft. Die punten moeten daarom als eerste
+worden uitgezocht. Het park en de gemeente nemen initiatief en
+voeren uit , zo nodig met externe ondersteuning. De Taskforce
+VVP adviseert.
+• Kosten: het doel van transformeren is het vinden van een
+nieuwe functie/bestemming voor een park. Dat kost geld ,
+maar levert ook wat op: duidelijkheid , een nieuw perspectief
+voor de toekomst , mogelijk een waardestijging van (percelen/
+huizen in) het park. Vanuit die gedachte geldt als uitgangs-
+punt dat de kosten die voortkomen uit de transformatie voor
+rekening van het park komen. Voorbeelden zijn de kosten
+om het transformatieplan en het bestemmingsplan te maken ,
+Voor wie is deze folder bedoeld?
+Deze folder is bedoeld voor eigenaren en vertegenwoordigers (bijvoorbeeld besturen van
+Verenigingen van Eigenaren) van vakantiewoningen op parken waar mogelijk een transformatie
+gaat plaatsvinden. De verschillende stappen van het transformatieproces en de uitgangspunten en voor-
+waarden voor transformatie worden hier beschreven. Wij hopen dat u zich
+na het lezen een voorstelling kunt maken van dat transformatieproces. Natuurlijk vervangt
+deze folder niet het gesprek dat u hierover met de gemeente moet hebben. Met dat gesprek
+begint het proces; de folder is handig om bepaalde zaken nog eens na te lezen.
+• Leidraad: het transformatieproces zoals dat hieronder is
+uitgewerkt geeft een leidraad voor de fases en stappen die
+het transformeren van een park doorloopt en de belangrijke
+beslismomenten daarin. Het is een (bewezen) hulpmiddel om
+dat proces zorgvuldig door te lopen en geen stappen te verge-
+ten , maar het is geen verplichte route.
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+‘Parkachtig wonen in De Tip’
+Streefbeeld transformatiepark De Tip , De Kiel
+Definitief , oktober 2024
+1
+Inleiding
+Aanleiding
+De gemeenteraad van Coevorden heeft een aantal parken aangewezen waar onderzocht wordt of
+transformatie naar een andere bestemming haalbaar is. Een van die parken is De Tip in De Kiel. Hier is
+transformatie van recreatie naar permanente bewoning aan de orde. Het mogelijk maken van
+permanente bewoning in alle woningen op dit park doet recht aan de huidige feitelijke situatie , waarin
+een groot deel van de woningen al permanent bewoond wordt. Deels is dat al toegestaan op basis van
+een perceels- of persoonsgebonden beschikking , deels niet. Met name de aanwezigheid van
+perceelsgebonden beschikkingen maakt dat een terugkeer naar volledig recreatief gebruik niet
+realistisch wordt geacht.
+In het verlengde hiervan is gestart met een transformatieproces , waarin gemeente , een werkgroep uit
+het park met ondersteuning van Vitale Vakantieparken Drenthe samenwerken om de beoogde
+transformatie tot stand te brengen. Het voorliggende Streefbeeld is een stap in het
+transformatieproces.
+Einddoel
+Het einddoel van de transformatie is dat er in beginsel voor alle percelen op De Tip een
+‘woonbestemming’ geldt die permanente bewoning mogelijk maakt. Voor de eigenaren die hun
+woning recreatief willen gebruiken is dat binnen een ‘woonbestemming’ mogelijk op grond van
+overgangsrecht. Voor de eigenaren die pertinent geen ‘woonbestemming’ wensen is het mogelijk de
+huidige recreatie-bestemming te handhaven.
+Het einddoel zal worden vastgelegd in een herziening van het omgevingsplan die specifiek voor De Tip
+wordt opgesteld en vastgesteld door de gemeenteraad. Bij dit plan horen afspraken tussen de
+gemeente en de gezamenlijke/individuele eigenaren over de uitvoering van concrete maatregelen die
+noodzakelijk of wenselijk zijn in verband met deze transformatie. Deze worden vastgelegd in het
+Transformatieplan en een anterieure overeenkomst tussen de VvE/de eigenaren en de gemeente.
+Proces
+De transformatie van De Tip verloopt globaal volgens het Stappenplan Transformatie , dat als bijlage 1
+is toegevoegd. In dit proces wordt uitgegaan van een samenwerking tussen een vertegenwoordiging
+vanuit het park en de gemeente , onder leiding van een projectleider. Vanuit deze samenwerking
+worden voorstellen voorbereid , met ondersteuning van de betreffende vakambtenaren van de
+gemeente. Deze voorstellen worden voorgelegd aan de ‘achterban’ , bestaande uit de eigenaren op De
+Tip en het gemeentebestuur. De werkgroep van De Tip bestaat uit enkele eigenaren vanuit het VvE-
+gedeelte en van daarbuiten. De werkgroep en de gemeente komen eens per drie weken bijeen.
+2
+Huidige situatie
+Bestemmingsplan
+Hieronder links een afbeelding van het geldende bestemmingsplan (De Kiel , De Tip , vastgesteld op 3
+februari 2015). Hierin is het gebied te zien waar deze transformatie betrekking op heeft. De lichtgroene
+kleur duidt de recreatieve bestemming aan (59 percelen). Voor de percelen met een omkadering (20)
+geldt dat deze weliswaar een recreatieve bestemming hebben , maar er ook permanente bewoning
+toegestaan is. Verder zijn er nog een aantal (momenteel 9) persoonsgebonden beschikkingen voor
+permanente bewoning van kracht. De vijf geel gekleurde delen zijn uitgezonderd van de transformatie;
+hier ligt al een woonbestemming op. De iets donkerder groene kleur aan de westelijke rand heeft
+betrekking op de groenstrook , de grijze aan de oostkant op de weg. Op het gehele gebied ligt een
+zogenaamde archeologische verwachtingswaarde , aangeduid met ‘+’-tekens.
+Ligging
+Het gebied zoals dat in het bestemmingsplan is opgenomen bestaat uit drie deelgebieden , zie het
+kaartje aan de rechterzijde:
+De noordelijke punt , tot aan de gele lijn , met de adressen De Tip 111 – 133. Hier staan 9
+woningen met een recreatiebestemming , die worden ontsloten door een gemeentelijke weg.
+De percelen met de huisnummers 101 – 109 , tot aan de oranje streep , liggen aan een weg die
+over de betreffende percelen loopt (recht van overpad).
+Het zuidelijke deel , tot aan de blauwe streep , met de adressen De Tip 11 – 99. Hier staan 42
+woningen met een recreatiebestemming. De eigenaren van de percelen in dit gebied zijn
+verenigd in een Vereniging van Eigenaren (VvE). Zij zijn ontsloten aan een ringweg die
+eigendom is van deze VvE en aansluit op de openbare weg.
+De reguliere woningen , met woonbestemming , langs De Tip vallen buiten het transformatieproces.
+1.
+2.
+3.
+3
+Leeswijzer
+In dit Streefbeeld is per thema beschreven wat de huidige situatie is , waar knelpunten zitten of ruimte
+of noodzaak voor verbetering is en welke afspraken daarover zijn/worden gemaakt tussen de
+gemeente en het park. Ter inleiding is uitgelegd hoe tot de verschillende thema’s is gekomen. Aan het
+eind is een doorkijk naar de volgende fase en de bijbehorende voorgenomen planning gemaakt. In dit
+streefbeeld noemen we het geheel van de drie deelgebieden ‘het park’ of ‘De Tip’.
+De thema’s
+Zoals benoemd is het doel van het streefbeeld om te schetsen hoe De Tip er over een aantal jaren zou
+kunnen/moeten uitzien , als de bestemming die permanent wonen mogelijk maakt is verwezenlijkt.
+Aan zo’n bestemming zijn namelijk eisen en wensen verbonden , die betrekking hebben op zowel de
+inrichting van het park als de staat van de woningen. Het streefbeeld dient daarmee als visiedocument.
+Om duidelijk te krijgen wat goed is zoals het is en wat beter of anders kan of moet , zijn alle aspecten
+die van belang zijn bekeken. Hierbij is onder meer gebruik gemaakt van de zogenaamde
+Kwaliteitskaarten , die in een sessie in Wezup met betrokken eigenaren en de gemeente zijn ingevuld.
+De opbrengst van deze sessie is als bijlage 2 bijgevoegd. De relevante onderwerpen die uit de
+kwaliteitskaarten naar voren kwamen zijn gerubriceerd per thema en vervolgens inhoudelijk
+uitgediept in aanwezigheid van de werkgroep en de betreffende vakspecialist van de gemeente. Dit
+heeft geresulteerd in een goed inzicht in de opgave en een aanzet voor een actie/oplossing. Deze
+aanzet moet in meer of mindere mate verder worden uitgewerkt en dat gebeurt in de volgende fase:
+het transformatieplan. In dat plan worden alle acties concreet: wie doet wat , wanneer en voor wiens
+rekening. Zie ook aan het eind van dit stuk , bij ‘vervolg’.
+Hierna volgen per thema de onderwerpen die er voor De Tip toe doen , bestaande uit een beschrijving
+van de huidige situatie en de gewenste situatie (wat kan/moet beter of anders). Aan het eind is een
+tabel opgenomen met daarin de acties en degene bij wie de uitwerking van deze actie ligt. Dat
+uitwerken vindt dus plaats in het kader van het transformatieplan en de wijziging van het
+omgevingsplan.
+4
+Thema 1: Gebruik , bouwen en erf
+Huidige situatie
+In de huidige situatie geldt de bestemming ‘Recreatie’ , met voor de percelen waar permanente
+bewoning al toegestaan is een aanduiding , zoals geschetst in de inleiding. Het toegestane aantal
+recreatiewoningen op het park is 59 , waarvan er 20 over genoemde aanduiding beschikken
+Op ieder perceel mag een vrijstaande recreatiewoning van maximaal 100 m2 met een bijgebouw
+(vrijstaand of aangebouwd) van maximaal 20 m2. De afstand tussen de hoofdgebouwen dient
+tenminste 20 meter te zijn , met een mogelijkheid dat onder voorwaarden naar 10 m. te verkleinen.
+Binnen de bestemming behoren ook de erven , tuinen , beplanting en bebossing , wegen en paden ,
+parkeervoorzieningen , sloten en waterpartijen.
+Wat kan/moet beter of anders
+In beginsel krijgen alle percelen een bestemming die permanent wonen mogelijk maakt. Bestaand
+recreatief gebruik kan worden voortgezet op grond van het overgangsrecht. Voor de eigenaren die
+willen blijven recreëren en geen prijs stellen op een ‘woonbestemming’ is er de mogelijkheid de
+huidige recreatiebestemming te behouden. In dat geval mag er niet gewoond worden en zijn er (zie
+hieronder) geen bouwmogelijkheden. Er wordt bezien of bij zo’n recreatiebestemming de mogelijkheid
+kan worden toegevoegd om op enig moment toch naar een woonbestemming te gaan , onder dezelfde
+voorwaarden als nu worden gesteld.
+Wanneer alle woningen permanent bewoond mogen worden is de verwachting dat er meer wensen
+en plannen komen voor vernieuwing en uitbreiding van de woningen. Het is verstandig daar heldere
+regels voor op te stellen. Deze moeten duidelijk zijn , handhaafbaar zijn en gericht zijn op het borgen
+en beschermen van de karakteristieken die De Tip onderscheidend maken van een ‘gewone’ woonwijk:
+de ligging in het groen , met grote percelen met daarop veel beplanting , betrekkelijk bescheiden
+bebouwing , weinig verstening enzovoorts. Samen te vatten als ‘geen woonwijk , maar een woonpark’.
+De belangrijkste bepalingen blijven ongewijzigd: er mogen geen nieuwe woningen worden
+toegevoegd. De hoofdgebouwen zijn maximaal 100 m2 en staan tenminste 20 m1 uit elkaar (met een
+mogelijkheid dit te verkleinen naar tenminste 10 m1). De goot- en bouwhoogte blijven respectievelijk
+ten hoogste 3 m1 en 8 m1.
+De mogelijkheden voor bijgebouwen (vrijstaand of aan het hoofdgebouw) worden verruimd: in plaats
+van 20 m2 wordt 50 m2 mogelijk , met de mogelijkheid van een carport. De goot- en bouwhoogte van
+bijgebouwen blijven 3 m1 en 6 m1. Op deze manier wordt recht gedaan aan de wat grotere
+ruimtebehoefte die past bij een woonbestemming , maar blijft het open , parkachtige karakter in stand.
+Om het open , groene beeld te handhaven en omwille van de verkeersveiligheid komen er regels voor
+de plaats van de bijgebouwen. Als voorstel ligt er nu de volgende formulering: ‘een bijgebouw mag
+niet voor de naar de weg gerichte gevel(s) van een hoofdgebouw staan , tenzij de afstand tussen die
+gevel(s) en de as van de weg meer is dan 5 m1 In dat geval dient het bijgebouw op tenminste 5 m1 van
+de as van de weg te staan. Carports moeten in alle gevallen op tenminste 5 m1 van de weg worden
+geplaatst.
+Vergunningsvrij bouwen wordt zoveel als mogelijk beperkt , om het parkachtige karakter te handhaven
+en verstening te voorkomen. Dit wordt nog verder uitgewerkt. Bedrijven aan huis zijn onder
+voorwaarden mogelijk. Een belangrijk criterium is dat overlast voor de omgeving en
+verkeersaantrekkende werking uitgesloten.
+5
+Om het park groen te houden worden schuttingen , muren en andere niet-natuurlijke erfbegrenzingen
+uitgesloten. Ook wordt een maximaal verhardingspercentage opgenomen , zodat ‘verstening’ van de
+percelen wordt voorkomen. Dit betekent dat vastgelegd wordt welk percentage van het perceel buiten
+de bebouwing verhard mag worden. Een percentage van 20 lijkt werkbaar.
+Er zullen bestaande situaties zijn die afwijken van wat onder het huidige bestemmingsplan of het
+nieuwe omgevingsplan is toegestaan. De gemeente moet bepalen of en zo ja , welk overgangsrecht
+hierop van toepassing verklaard wordt. Bebouwing die past binnen het huidige bestemmingsplan ,
+maar in strijd is met het nieuwe omgevingsplan kan in ieder geval blijven staan. Dat geldt ook voor
+bebouwing die in strijd is met het huidige bestemmingsplan , maar past binnen het nieuwe
+omgevingsplan. Bebouwing die in strijd is met het huidige èn het toekomstige bestemmingsplan valt
+niet onder het overgangsrecht. De insteek is dat dergelijke bebouwing mag blijven staan , maar dat er
+niet mag worden vergroot , herbouwd of gewijzigd. Dit zal in het omgevingsplan worden opgenomen.
+Acties
+wat wie
+Behoud recreatiebestemming voor de eigenaren die dat wensen Gemeente
+Toestaan van alleen groene erfafscheidingen opnemen in omgevingsplan Gemeente
+Bepalingen over werken aan huis opnemen in omgevingsplan Gemeente
+Plaatsing bebouwing op kavel vastleggen in omgevingsplan Gemeente
+Maximale verhardingspercentage opnemen in Omgevingsplan Gemeente
+Maatvoering hoofd- en bijgebouwen en vastleggen in omgevingsplan. Gemeente
+Bepalen wijze van bestemmen , gelet op beperken vergunningsvrij bouwen Gemeente
+Passend overgangsrecht voor afwijkende (bestaande) situaties opnemen in Gemeente
+omgevingsplan
+1. 1
+1. 2
+1. 3
+1. 4
+1. 5
+1. 6
+1. 8
+1. 8
+6
+Thema 2: Groen
+Huidige situatie
+De aanwezigheid van veel groen op het park is een onderscheidende kwaliteit en het is de wens van
+zowel de eigenaren als de gemeente om dat karakter te behouden.
+De basis van het groene karakter van het gebied zijn de (grote) bomen , de hagen en het vrijwel
+ontbreken van schuttingen en muren. Deze basis vormt de groene structuur/raamwerk die het
+karakter van het park bepaalt. De beplanting in de tuinen en op de gezamenlijk eigendommen (in het
+VvE-gedeelte) vullen het aan. Voor de inpassing van het gebied in de omgeving zijn de randen van
+belang , met name de rand aan de westzijde.
+Wat kan/moet beter of anders
+De transformatie naar een woonbestemming , in combinatie met het toestaan van grotere
+bijgebouwen zal waarschijnlijk leiden tot meer bouwactiviteiten en een intensiever gebruik van erven
+en tuinen. Dit kan van invloed zijn op de kwaliteit en de kwantiteit van het groene raamwerk en om
+dat te beschermen is het verstandig (spel)regels op te stellen. Deze moeten duidelijk , realistisch en
+werkbaar zijn. Dat betekent oog voor de praktische zaken en behoeften die bij het permanent wonen
+horen , zonder het groene karakter te verliezen. De regels kunnen voor zover mogelijk in het nieuwe
+omgevingsplan worden opgenomen en aanvullend in een bijlage , een ‘groenplan’.
+De grotere bomen , zowel in de particuliere tuinen als in het gezamenlijke VvE-grondgebied , zijn
+belangrijke dragers van de groene structuur. Dat geldt niet voor alle bomen: de ene boom draagt meer
+bij aan het groene karakter door de soort of standplaats dan de andere. Om de ‘waarde’ van een boom
+goed te kunnen inschatten is het zinvol een inventarisatie uit te voeren en op basis daarvan vast te
+leggen welke bomen bepalend en behoudenswaardig zijn en welke minder of niet. Het betekent niet
+dat iedere boom van enige omvang moet blijven staan: In sommige gevallen staan bomen dicht op
+elkaar en kan het verstandig zijn enkele bomen op te offeren om andere bomen levensvatbaarder te
+maken. Ook kunnen bomen te dicht op de bebouwing staan of kunnen ze te beperkend zijn voor een
+uitbreiding of verbouwing van een woning. Daarnaast hebben bomen niet het eeuwige leven of zijn ze
+om klimatologische redenen minder toekomstbestendig. Naast de inventarisatie is het daarom
+belangrijk criteria op te stellen aan de hand waarvan bepaald kan worden of een boom kan verdwijnen
+of niet en of herplant aan de orde zou moeten zijn of niet. Die criteria houden verband met de soort ,
+de plek , de status/gezondheid , de ecologische waarde en de toekomstbestendigheid van de boom. De
+criteria moeten worden verwerkt tot heldere regels die worden opgenomen in het omgevingsplan en
+het ‘groenplan’. Het groenbeheersplan van de VvE zou hierop moeten aansluiten.
+Op dit moment zijn de kavelgrenzen in veel gevallen gemarkeerd met hagen en deze dragen sterk bij
+aan het groene raamwerk. Het zou onwenselijk zijn de hagen te vervangen door bijvoorbeeld
+schuttingen of muren. Dat kan voorkomen worden door in het omgevingsplan regels te stellen voor
+nieuwe erfscheidingen: deze mogen niet van niet-natuurlijk materiaal zijn.
+Niet ieder type haag is even geschikt als erfscheiding. Zo zijn coniferenhagen gevoeliger voor brand
+dan andere soorten. Ook zijn bepaalde soorten minder toekomst- en klimaatbestendig , zoals de
+beukenhaag. Dat betekent niet dat die niet toegepast kan worden , maar bij nieuwe aanplant kunnen
+andere soorten verstandiger zijn.
+Er is geen aanleiding regels te stellen over het overige groen in de particuliere tuinen , dat zou te ver
+voeren. Suggesties over gebiedseigen en toekomstbestendige soorten struiken en planten zullen wel
+worden opgenomen in het groenplan. Om te voorkomen dat percelen teveel versteend/verhard raken
+is het verstandig een maximaal verhardingspercentage op te nemen in het omgevingsplan. Dat
+betekent dat vastgelegd wordt welk percentage van het perceel buiten de bebouwing verhard mag
+worden.
+7
+Op de westelijke rand van het gebied (een strook van 5 m. breed op de particuliere percelen die aan
+deze rand liggen) ligt op dit moment al een bestemming ‘groen’. Bebouwing is daar niet toegestaan en
+het weghalen van bestaand groen , uitgezonderd onderhoud , evenmin. De gedachte achter deze
+groene rand is dat het gebied De Tip als geheel goed ingepast moet zijn in het landschap. Deze
+bestemming ‘groen’ zal van kracht blijven en nader worden ingevuld in het Groenplan. Van belang is
+in ieder geval dat er een duidelijke bomenrij aanwezig blijft; dat zal worden meegenomen in de
+bomeninventarisatie. Aan de zuidelijke rand van het gebied (de grens met De Eeke) wordt een strook
+van 2 m. met dezelfde bestemming ‘groen’ op de particuliere percelen toegevoegd. Deze vormt samen
+met de vergelijkbare strook van 8 m. op het grondgebied van De Eeke , een groene ‘buffer’ tussen De
+Tip en De Eeke. Eventuele bestaande bebouwing in deze strook kan blijven staan , nieuwe bebouwing
+is niet toegestaan en deze strook dient een groene invulling te houden.
+Acties
+wat
+Groenplan opstellen als bijlage bij omgevingsplan
+wie
+Gemeente
+werkgroep
+Een inventarisatie van de waarde en behoudenswaardigheid van de bomen Gemeente
+werkgroep
+uitvoeren
+Voorstellen doen voor het behoud van de behoudenswaardige bomen , in Gemeente
+overleg met de eigenaar ervan werkgroep
+In het omgevingsplan opnemen dat schuttingen , muren e. d. uitgesloten zijn gemeente
+In Groenplan suggesties opnemen voor passende en toekomstbestendige Gemeente
+hagen werkgroep
+Suggesties over gebiedseigen en toekomstbestendige beplanting opnemen in Gemeente
+Groenplan werkgroep
+Uitwerken welk maximaal verhardingspercentage passend en werkbaar is en Gemeente
+dit opnemen in het omgevingsplan en Groenplan werkgroep
+In het kader van het Groenplan uitwerken wat de kwaliteit en kwantiteit van Gemeente
+de groene afscherming aan de westelijke rand zou kunnen/moeten zijn
+Groenbeheersplan VvE laten aansluiten op Groenplan
+2. 1
+2. 2
+2. 3
+2. 4
+2. 5
+2. 6
+2. 7
+2. 8
+werkgroep
+VvE
+2. 9
+8
+Thema 3: inrichting openbare/collectieve ruimte (wegen en bermen)
+Huidige situatie
+De weg die door het VvE-deel loopt is in eigendom en beheer van de VvE. De weg is voor een ieder
+toegankelijk (geen slagboom) en is daarmee ‘openbaar’. Dat betekent dat de verkeersregelgeving uit
+de Wegenverkeerswet van kracht is. De weg is functioneel; er worden door de gebruikers geen
+problemen ervaren. De staat van de weg is op orde en onderhoud vindt planmatig plaats. Ook de
+riolering in dit deel van het park is in eigendom en beheer bij de VvE en functioneert naar wens. De
+straatverlichting (ook in eigendom en beheer bij de VvE) is verouderd.
+De huisnummering is onlogisch en daarmee is de vindbaarheid lastig. Parkeren langs de weg is niet
+toegestaan , maar feitelijk ook niet mogelijk vanwege de geringe breedte en gebeurt ook niet; op de
+erven is voldoende parkeergelegenheid. De entree vanaf de ontsluitende weg De Tip oogt wat
+rommelig en is vrij onoverzichtelijk , zowel vanuit het park als vanaf de openbare weg. Dit zal verbeterd
+moeten worden.
+Het middendeel (de vijf woningen) wordt ontsloten met een eigen weg (halfverharding) die over de
+vijf percelen loopt. Door het noordelijk deel loopt een gemeentelijke weg , ook in halfverharding , die
+eigendom is van en onderhouden wordt door de gemeente. De uitstraling van beide halfverharde
+wegen past bij het parkachtige karakter van het gebied. Het beheer en onderhoud is wel een
+aandachtspunt. Parkeren langs de weg is ook hier niet mogelijk , maar er is voldoende ruimte op de
+erven.
+Wat kan/moet beter of anders
+Er is geen aanleiding voor grote ingrepen of aanpassingen in de wegenstructuur. Inmiddels is besloten
+dat het eigendom van de weg (en de ondergrondse infrastructuur) in het VvE-gedeelte bij de VvE blijft;
+de gemeente neemt het niet over. Ook het eigendom in het noordelijk deel verandert niet. De
+straatverlichting wordt vernieuwd , waarbij overgeschakeld wordt naar led-verlichting.
+Overwogen wordt of de vindbaarheid verbeterd moet worden , bijvoorbeeld door een nieuwe
+huisnummering of een betere bewegwijzering. Om de positie van de wegen wat duidelijker vast te
+leggen krijgen de wegen een bestemming ‘verkeer’ in het omgevingsplan.
+De wat onoverzichtelijke situatie bij de entree van het VvE-gedeelte wordt in ieder geval verbeterd
+door het aanbrengen van haaietanden , zodat duidelijker wordt dat verkeer op De Tip voorrang heeft
+boven verkeer van en naar het park. Ook wordt een bord ‘eigen weg’ geplaatst.
+Een punt van aandacht voor het gehele gebied is de bereikbaarheid voor de hulpdiensten. Deze
+moeten over voldoende rij- en manoeuvreerruimte beschikken , zodat ze alle woningen vlot kunnen
+bereiken. De gemeente heeft hierover advies gevraagd bij de Veiligheidsregio (VRD). Wanneer dit
+advies er is zal bezien worden of en zo ja welke aanpassingen nodig zijn. Dit wordt opgenomen in het
+Transformatieplan (zie bij ‘Vervolg’).
+Acties
+wat
+Straatverlichting vernieuwen in het VvE-gedeelte
+Entreegebied VvE-deel aanpassen: haaietanden en bordje ‘eigen weg’ VvE
+Vindbaarheid verbeteren werkgroep
+Bereikbaarheid voor hulpdiensten en noodzaak vluchtwegen onderzoeken en Gemeente/VvE
+zonodig maatregelen treffen
+Wegen bestemmen als ‘verkeer’ in het omgevingsplan
+wie
+3. 1
+3. 2
+VvE
+3. 3
+3. 4
+3. 5 gemeente
+9
+Thema 4: Afvalinzameling
+Huidige situatie
+Het huisvuil binnen het VvE-gedeelte wordt als bedrijfsafval ingezameld. De eigenaren daar betalen
+geen afvalstoffenheffing en hebben geen milieupas die toegang geeft tot de milieustraten. Op een
+centrale plaats op het park staat een verzamelcontainer waar de eigenaren hun afval naartoe brengen.
+Buiten het VvE-gedeelte zamelt de gemeente het afval op de gebruikelijke manier in: de eigenaren
+hebben kliko’s die de gemeente ophaalt. Deze eigenaren betalen wel afvalstoffenheffing en hebben
+een milieupas.
+Wat kan/moet beter of anders
+De gemeente is op grond van de Wet milieubeheer verantwoordelijk voor de inzameling van afval. Dit
+betekent dat er voor het VvE-gedeelte van het park het nodige verandert. In overleg met de VvE is
+besloten tot een systeem van ondergrondse afvalinzameling voor het VvE-gedeelte van het park. Naast
+de ingang tot dit gedeelte zullen een aantal ondergrondse containers worden geplaatst op en locatie
+in eigendom van de VvE. Vanaf een nader te bepalen moment begin 2025 zal deze inzameling
+operationeel worden. Eigenaren ontvangen een pasje waarmee zij de containers kunnen openen om
+hun afval erin te werpen. Ook krijgen ze toegang tot de milieustraten voor het grofvuil. Zij gaan ook de
+reguliere afvalstoffenheffing betalen. Voor de eigenaren buiten het VvE-gedeelte komt er een
+keuzemogelijkheid: zij kunnen hun kliko’s behouden of zij gaan mee in de ondergrondse inzameling op
+de genoemde locatie.
+Acties
+wat wie
+4. 1
+4. 2
+Besluitvorming over inzameling afval
+Keuze voor inzamelsysteem
+Gemeente
+Gemeente ,
+werkgroep
+Gemeente
+werkgroep
+4. 3 Bepalen ingangsdatum nieuw inzamelsysteem
+10
+Thema 5: Bouwbesluit (Bbl)
+Huidige situatie
+Alle woningen (en andere gebouwen) moeten voldoen aan het Besluit bouwwerken en leefomgeving
+(Bbl , voorheen het Bouwbesluit 2012). Daarin staan regels voor veiligheid , gezondheid en dergelijke.
+De eigenaar van de woning is verantwoordelijk voor het voldoen aan de regels , de gemeente kan deze
+controleren. De regels voor recreatiewoningen zijn anders/minder streng dan de regels voor ‘normale’
+woningen. Dit heeft ermee te maken dat mensen over het algemeen niet voortdurend of lange tijd in
+een recreatiewoning verblijven en wel in hun ‘normale’ woning. Verder is er een groot verschil tussen
+de eisen voor nieuwe woningen en voor bestaande woningen. Omdat de woningen er bij De Tip al
+staan gelden de eisen voor bestaande woningen.
+De eigenaren van de woningen op De Tip die hun woning recreatief gebruiken moeten hun woning
+laten voldoen aan de eisen die voor bestaande recreatiewoningen gelden. Voor de eigenaren die er
+permanent wonen , of verhuren voor permanente bewoning , moet hun woning aan de strengere eisen
+voor bestaande ‘normale’ woningen voldoen. Er geldt dus op dit moment een verschil in eisen.
+Wat kan/moet beter of anders
+In de toekomstige situatie mag er permanent gewoond worden in alle woningen , voor zover ze een
+bestemming ’wonen’ krijgen. Dat betekent dat alle woningen op het park moeten voldoen aan het Bbl
+voor bestaande bouw , voor reguliere woningen. Iedere eigenaar is daarvoor zelf verantwoordelijk.
+Er is inmiddels voor bijna alle woningen in kaart gebracht in hoeverre ze voldoen aan de genoemde
+eisen. Hiertoe is een bouwkundige in de arm genomen. De eigenaren van de geïnspecteerde woningen
+hebben een inspectierapport ontvangen en de gemeente een afschrift.
+Uit de inspectie zijn geen grote onvolkomenheden gekomen. Met eigenaren van woningen die niet
+voldoen aan de eisen wordt een termijn afgesproken om de noodzakelijke aanpassingen uit te voeren.
+De gemeente zal steekproeven nemen om te kijken of de aanpassingen doorgevoerd zijn. Ook
+woningen die niet zijn geïnspecteerd , omdat de eigenaar dat niet nodig achtte , worden in de
+steekproeven meegenomen. Tegen het niet voldoen aan het Bouwbesluit kunnen sancties worden
+opgelegd.
+Acties
+wat
+Inspectie Bouwbesluit organiseren
+wie
+Werkgroep
+(afgerond)
+Werkgroep
+(afgerond)
+Gemeente
+5. 1
+5. 2 Inspectierapport naar de eigenaren , afschrift naar de gemeente
+5. 3 Termijn stellen voor noodzakelijke aanpassingen
+Steekproefsgewijze controle en waar nodig sancties opleggen
+5. 4 Gemeente
+11
+Vervolg
+De acties zoals die hierboven genoemd zijn , zijn tot stand gekomen in het periodieke overleg tussen
+de werkgroep en de gemeente op ambtelijk niveau , afgestemd met de betrokken vakambtenaren.
+Voordat de acties in gang gezet kunnen worden moet er instemming plaatsvinden door de beide
+‘achterbannen’ , te weten het college van burgemeester en wethouders van de gemeente en de
+eigenaren in het gebied , zowel de leden van de VvE als de niet-verenigde eigenaren. Die ‘instemming’
+houdt in het instemmen met het streefbeeld en de daarin opgenomen acties.
+Na de toezending en de presentatie van het concept-streefbeeld in juli 2024 hebben de eigenaren de
+gelegenheid gehad reacties in te dienen. Enkele eigenaren hebben daar gebruik van gemaakt (zie het
+overzicht in bijlage 3) en dat heeft geleid tot enkele bijstellingen en verduidelijkingen. Burgemeester
+en wethouders van Coevorden hebben het streefbeeld in oktober 2024 vastgesteld. Het is vervolgens
+naar alle eigenaren gestuurd.
+Inmiddels is begonnen met de uitwerking en concretisering , stap 4 volgens het Stappenplan
+Transformatie. Dat zal bij het ene actiepunt eenvoudiger gaan dan bij het andere. Het kan ook leiden
+tot bijstelling , omdat bepaalde maatregelen bij nader inzien niet haalbaar of wenselijk blijken of omdat
+er nieuwe ideeën ontstaan. Uiteindelijk moet in het transformatieplan duidelijk worden wie wat
+wanneer en voor wiens rekening gaat doen.
+In deze fase wordt ook meegenomen het uitwerken van een kwaliteitsimpuls. Dit komt voort uit een
+eis van de Provincie Drenthe dat de transformatie van een park gepaard moet gaan met een of meer
+maatregelen die de kwaliteit van/op het park verbeteren. Dat kan zijn op ruimtelijk , landschappelijk
+en/of maatschappelijk gebied. Hoe die impuls eruit moet zien is niet omschreven. Dat hangt af van de
+omstandigheden , kansen en mogelijkheden op het park zelf. Het is vooral aan het park om hier
+invulling aan te geven. De werkgroep heeft inmiddels enkele ideeën en gaat die de komende tijd
+uitwerken. Ze zullen uiteindelijk worden opgenomen in het transformatieplan.
+Bijlagen
+2: Stappenplan Transformatie
+2. Verslag sessie Kwaliteitskaarten Wezup
+3. Overzicht ingediende reacties op concept-streefbeeld
+12
+UITVOERINGSPLAN GEMEENTE COEVORDEN
+Het proces
+Fase 1: verkenning
+1. Gemeente bepaalt welke parken in beginsel voor transformatie in
+aanmerking kunnen komen.
+2. Uitvoeren Quick Scan: een eerste haalbaarheidsstudie waarin wordt
+onderzocht: is duidelijk wie aan tafel zit met welke positie en
+mandaat , wat partijen (park en gemeente) willen en of de situatie zich
+daarvoor leent. Hieruit komt een inschatting met een niet-uitputtende
+lijst van aandachts- en uit te werken punten.
+3. Bepalen welke punten bepalend zijn voor het vervolg en direct moeten
+worden uitgewerkt of onderzocht en welke later kunnen worden
+opgepakt en het verder uitwerken van deze essentiële punten , zodat
+er een go/no go besluit kan worden genomen.
+4. Tussenbesluit 1: Go/no go/uitstel. Dit is de markering aan het eind
+van de verkenningsfase.
+Twee uitkomsten zijn denkbaar:
+Bij “go”: het transformatieproces kan verder en er wordt een proces-
+overeenkomst opgesteld. Hierin worden uitgangspunten geformuleerd
+voor het proces , de taakverdeling tussen de partijen (passend bij de
+bevoegdheden) , met beschrijving van de inspanningsverplichtingen ,
+de financiële aspecten (kostenverhaal en verevening). Dit met als doel
+duidelijke afspraken te maken , verwachtingen op elkaar af te
+stemmen en partijen te binden aan het proces.
+Het college neemt het besluit binnen de gemeente.
+Bij “no go” of “uitstel”: het transformatieproces kan (nog) niet verder.
+Bepaald moet worden wat dan een volgende stap is , kan of moet zijn.
+-
+-
+Fase 2: bepalen streefbeeld
+5. Het bepalen van het streefbeeld: waar willen we naartoe , hoe zou het
+park er over x jaar moeten uitzien , inclusief de te bereiken
+meerwaarde (kwaliteitsimpuls).
+6. Uitvoeren van een financiële scan bij het streefbeeld , i. v. m.
+kostenverhaal en verevening: wat zijn globaal de kosten van alles dat
+nodig is van A (nu) naar B (streefbeeld) te komen + wat is de
+daarbij/daaruit te verwachten waardestijging.
+7. Bepalen of er n. a. v. de financiële scan wel of niet verevend gaat
+worden en zo ja , wat de indicatieve vereveningsbijdrage is (te
+berekenen volgens nog te ontwikkelen uniforme methode). Daarnaast
+onderzoeken hoe de VvE of de individuele leden of andere eigenaren
+hun bijdragen gaan betalen.
+8. Tussenbesluit 2: Vastleggen van het streefbeeld (beschrijvend , met
+kaartbeelden) en de bijbehorende financiële consequenties (kosten ,
+baten , de eventuele vereveningsbijdrage en de wijze van betaling
+daarvan) in een realisatie-overeenkomst. In deze overeenkomst wordt
+ook opgenomen dat partijen beogen te komen tot een
+Transformatieplan.
+Fase 3: opstellen transformatieplan
+9. Het onderbouwen en concretiseren van het streefbeeld tot een
+Transformatieplan: - De onderbouwing van het streefbeeld , de
+toetsing aan beleid (rijks , provinciaal , gemeentelijk) , het uitvoeren
+van de (verplichte) onderzoeken e. d. - Het bepalen van de acties die
+nodig zijn om het streefbeeld te bereiken en de wijze van uitvoering.
+- Het vastleggen wie de acties uitvoert. - Het bepalen van de juiste
+volgorde en het maken van een planning voor de uitvoering. - Het
+uitwerken van de financiële paragraaf: In stap 6 zijn de kosten en de
+waardestijging globaal berekend , in deze stap kunnen ze meer exact
+worden bepaald. Deze stap omvat de vaststelling van de exacte
+kosten , het opmaken van overeenkomsten over het kostenverhaal
+(wie betaalt wat) , indien van toepassing het berekenen van de
+definitieve vereveningsbijdrage en het uitwerken van het moment/de
+methode van daadwerkelijke betaling.
+10 Tussenbesluit 3: Vaststellen van het Transformatieplan. Het
+Transformatieplan wordt als een juridisch bindende bijlage aan de
+samenwerkingsovereenkomst (zie stap 8. ) toegevoegd.
+Fase 4: bestemmingsplan en uitvoering
+(Fase 4 van het transformatieproces valt niet meer binnen het programma , maar wordt
+opgepakt door de lijnorganisatie).
+11 Opstellen van een bestemmingsplan (omgevingsplan) aansluitend
+bij/voortvloeiend uit het transformatieplan. .
+12 Bepalen van de te volgen strategie voor de ruimtelijke procedure , in
+verband met de afstemming van de verschillende onderdelen in de
+procedure en de momenten van besluitvorming in relatie tot de
+uitvoering(szekerheid).
+BROCHURE TASKFORCE
+UITGANGSPUNTEN EN BEGRIPPEN
+Transformeren is ‘onder voorwaarden’ mogelijk. Die voorwaarden hangen
+af van de situatie op het park , maar er zijn wel een aantal
+gemeenschappelijke uitgangspunten te noemen:
+• ‘één park , één plan’: de ervaring heeft geleerd dat ieder park anders
+is. Dat zit ’m onder meer in de ligging , de
+geschiedenis , de eigendomssituatie , het gemeentelijk beleid , de wensen
+van de eigenaren , enzovoorts. Dat betekent ook
+dat er voor ieder park een eigen transformatieplan opgesteld moet
+worden. In zo’n plan moet ook het hele park worden
+meegenomen.
+• Samenwerking: het maken van een transformatieplan is een opgave
+die (vertegenwoordigers van) het park en de gemeente samen moeten
+klaarspelen. Bij sommige parken is de eigenaar de logische
+gesprekspartner voor de gemeente. Bij parken met een Vereniging van
+Eigenaren (VvE) is dat het bestuur van de VvE of een werkgroep namens
+het bestuur.
+Omdat het bij parken met meerdere (soms vele) eigenaren ondoenlijk is
+steeds met iedere eigenaar afzonderlijk te overleggen , is het belangrijk
+dat een park zelf met een vertegenwoordiging komt. Een aandachtspunt
+daarbij is de bevoegdheid van deze vertegenwoordiging voor het
+overleggen , onderhandelen en ondertekenen tijdens het
+transformatieproces. Behalve park en gemeente zijn er meer partijen
+betrokken bij transformatie. Ook de Provincie Drenthe speelt op een
+aantal momenten een rol en verder is er de Taskforce Vitale
+Vakantieparken Drenthe (VVP). Dit zijn adviseurs die in de hele provincie
+werkzaam zijn en de parken en gemeenten ondersteunen bij
+transformatieprocessen.
+• Meerwaarde: hiermee wordt bedoeld dat transformeren meer moet
+inhouden dan het alleen veranderen van de bestemming van een park.
+Bestaande knelpunten moeten worden opgelost en er moet iets worden
+toegevoegd; een kwaliteitsimpuls. Wat die precies moet/kan zijn hangt
+van de situatie af en verschilt dus per park. Het toevoegen van
+meerwaarde is een eis die de Provincie Drenthe stelt.
+• Kosten: het doel van transformeren is het vinden van een nieuwe
+functie/bestemming voor een park. Dat kost geld , maar levert ook wat op:
+duidelijkheid , een nieuw perspectief voor de toekomst , mogelijk een
+waardestijging van (percelen/huizen in) het park. Vanuit die gedachte is
+als uitgangspunt genomen dat de kosten die voortkomen uit de
+transformatie voor rekening van het park komen. Voorbeelden zijn de
+kosten om het transformatieplan en het bestemmingsplan te maken ,
+kosten voor de verbetering van de inrichting van het park , bijvoorbeeld de
+woningen , de wegen , het groen , enzovoorts. Kortom: alle ingrepen en
+verbeteringen die nodig zijn om het park klaar te maken voor de toekomst
+en haar nieuwe functie of bestemming.
+• Verevening: hierboven is al benoemd dat transformatie tot
+waardestijging van (woningen en percelen op) vakantieparken
+kan leiden. De Drentse gemeenten hebben afgesproken dat in het
+transformatieproces berekend moet worden wat de kosten zijn (zie
+hierboven) en wat aan de andere kant de waardestijging is. In die
+gevallen dat er weinig kosten zijn , bijvoorbeeld omdat een park er goed
+bij ligt , er weinig aanpassingen nodig zijn en uit de taxatie een flinke
+waardestijging blijkt , kan een gemeente besluiten te gaan verevenen. Dat
+betekent dat het park wordt gevraagd een financiële bijdrage te doen aan
+de gemeente. Als de gemeente ervoor kiest te verevenen zal zij aangeven
+om welk bedrag het gaat en waaraan dit besteed zal worden; dit moeten
+doelen zijn op het gebied van recreatie en toerisme. Bij transformaties die
+met flinke kosten gepaard gaan en waarbij de waardestijging niet zo hoog
+is , kan de gemeente er ook voor kiezen niet te verevenen.
+Het transformatieproces in 4 fasen
+FASE 1: VERKENNING
+TAP 1 Bepalen mogelijke kandidaten voor transformatie
+De gemeente bepaalt welke vakantieparken in beginsel voor transformatie
+in aanmerking kunnen komen en neemt ze op in haar planning. Parken
+kunnen bij de gemeente aangeven dat zij getransformeerd willen worden.
+Uitvoeren Quick Scan Transformatie: een eerste
+haalbaarheidsstudie
+Als gemeente en park zover zijn dat ze kunnen en willen transformeren ,
+wordt een eerste haalbaarheidsstudie uitgevoerd. Zij vragen of de
+Taskforce VVP een zogenaamde Quick Scan Transformatie wil uitvoeren.
+Hierin wordt bekeken of duidelijk is wie de gesprekspartners zijn
+(eigenaar , bestuur VvE of anders) , wat de partijen (park en gemeente)
+willen en of de situatie zich daarvoor leent (feitelijke inrichting , wettelijke
+en beleidsmatige bepalingen). Hieruit komt een inschatting voor de
+kansrijkheid van transformatie met een lijst van aandachts- en uit te
+werken punten.
+Bepalen welke van de bij stap 2 genoemde punten bepalend
+zijn voor het vervolg
+Sommige aandachtspunten zijn bepalend voor de vraag of transformatie
+wel of niet kans van slagen heeft. Die punten moeten daarom als eerste
+worden uitgezocht. Het park en de gemeente nemen initiatief en voeren
+uit , zo nodig met externe ondersteuning. De Taskforce VVP adviseert.
+STAP 4 Tussenbesluit 1
+Als de vorige stappen zijn uitgevoerd zijn er twee uitkomsten denkbaar:
+• ‘Go’: het transformatieproces kan verder en er wordt een proces-
+overeenkomst gesloten. In deze overeenkomst staan de stappen die
+genomen moeten worden beschreven , met daarbij de taakverdeling
+tussen de partijen (park en gemeente) , een beschrijving van de
+inspanningsverplichtingen , de financiële aspecten , enzovoorts. Doel is
+duidelijke afspraken te maken , verwachtingen op elkaar af te stemmen en
+partijen te binden aan het proces. De gemeente en het park stellen zo’n
+proces-overeenkomst op (er is een sjabloon beschikbaar) en
+ondertekenen deze; dit is een voorwaarde voor het vervolg. De Taskforce
+faciliteert , de provincie wordt geïnformeerd.
+• ‘No go’ of ‘uitstel’: het transformatieproces kan (nog) niet verder.
+Het kan zijn dat nader onderzoek nodig is , er inhoudelijke barrières
+weggenomen moeten worden , dat er eenheid en/of draagvlak gevonden
+moet worden.
+FASE 2: BEPALEN STREEFBEELD
+De stappen 5 , 6 en 7 gaan over de uitvoering van alles dat in de
+intentieovereenkomst is opgenomen en leiden gezamenlijk
+tot stap 8: de realisatie-overeenkomst.
+STAP 5 Het bepalen van het streefbeeld
+In deze stap bespreken park en gemeente waar het park over een aantal
+jaar wil/moet staan. Wat is er goed , wat zijn de kwaliteiten , wat zou
+anders/beter kunnen of moeten , hoe voegen we meerwaarde (een
+kwaliteitsimpuls) toe , enzovoort. Het park neemt hiervoor het initiatief en
+schakelt zo nodig professionele advisering en/of ondersteuning in (evt.
+met bijdrage van gemeente). De gemeente neemt deel , stelt
+randvoorwaarden en stimuleert. De provincie wordt ook betrokken en de
+Taskforce ondersteunt waar nodig.
+STAP 6 Uitvoeren van een financiële scan bij het streefbeeld
+Zoals bij de uitgangspunten benoemd , transformeren kost geld: het
+streefbeeld wat in stap 5 is bedacht , moet ook daadwerkelijk
+worden uitgevoerd en daarnaast zijn er de plan- en proceskosten. Aan de
+andere kant is er mogelijk sprake van waardestijging. Het is van belang
+om beide in beeld te brengen. Er is een methode bedacht om dat te doen ,
+met ondersteuning van adviseurs die de kosten berekenen en de
+waardestijging kunnen taxeren. Omdat nog niet alle kosten bekend zijn ,
+zal dit op hoofdlijnen gebeuren.
+Nota Bene: het resultaat van stap 6 kan in een of meerdere rondes leiden
+tot bijstelling van stap 5 en omgekeerd.
+Bepalen of er wel of niet verevend gaat worden
+Wanneer uit de eerdere stappen blijkt dat de waardestijging flink groter is
+dan de te maken kosten , kan de gemeente ervoor kiezen om te gaan
+verevenen. Wat dat betekent is bij de uitgangspunten beschreven. Als de
+gemeente ervoor kiest te verevenen zal het park moeten onderzoeken op
+welke wijze zij de vereveningsbijdrage gaat betalen.
+Tussenbesluit 2
+In deze stap worden het streefbeeld (beschrijvend , met kaartbeelden) en
+de financiële consequenties (kosten , baten , de eventuele
+vereveningsbijdrage en de wijze van betaling daarvan) vastgelegd in een
+realisatie-overeenkomst. In deze overeenkomst wordt ook opgenomen dat
+park en gemeente gezamenlijk willen komen tot een Transformatieplan.
+Park en gemeente stellen in gezamenlijkheid een overeenkomst op (er is
+een sjabloon beschikbaar) en tekenen deze. Dit is een voorwaarde voor
+het vervolg.
+FASE 3: OPSTELLEN TRANSFORMATIEPLAN
+Het onderbouwen en concretiseren van het streefbeeld tot
+een Transformatieplan
+In deze stap worden de volgende werkzaamheden uitgevoerd:
+• De onderbouwing van het streefbeeld , de toetsing aan beleid (rijks ,
+provinciaal , gemeentelijk) , het uitvoeren van de (verplichte) onderzoeken
+e. d.
+• Het bepalen van de acties die nodig zijn om het streefbeeld te bereiken
+en de wijze van uitvoering.
+• Het vastleggen wie de acties uitvoert.
+• Het bepalen van de juiste volgorde en het maken van een planning voor
+de uitvoering.
+• Het uitwerken van de financiële paragraaf: In stap 6 zijn de kosten en
+de waardestijging globaal berekend , in deze stap kunnen ze meer exact
+worden bepaald. Deze stap omvat de vaststelling van de exacte kosten ,
+het opmaken van overeenkomsten over het kostenverhaal (wie betaalt
+wat) , indien van toepassing het berekenen van de definitieve
+vereveningsbijdrage en het uitwerken van het moment/de methode van
+daadwerkelijke betaling.
+Voor stap 9 is het park aan zet en schakelt zij zo nodig professionele
+advisering en/of ondersteuning in. De gemeente neemt deel en
+stimuleert. De Provincie Drenthe en de Taskforce VVP beoordelen het
+plan.
+STAP 10 Tussenbesluit 3
+In deze stap gaat het om het instemmen met het Transformatieplan. Bij
+de gemeente stemmen burgemeester en wethouders
+en/of de raad ermee in , bij het park hangt dat af van de situatie (bestuur
+VvE , ledenvergadering VvE of anders). Het Transformatieplan
+wordt als een juridisch bindende bijlage aan de
+samenwerkingsovereenkomst (zie stap 8. ) toegevoegd.
+FASE 4: BESTEMMINGSPLAN EN UITVOERING
+STAP Opstellen van een bestemmingsplan (omgevingsplan)
+Het bestemmingsplan (omgevingsplan)is een logisch voortvloeisel uit het
+Transformatieplan en legt de verschillende onderdelen juridisch en
+planologisch vast. Het park neemt het initiatief en schakelt zo nodig
+professionele advisering en/of ondersteuning in (evt. met bijdrage
+gemeente). De gemeente neemt deel en stimuleert.
+Het bepalen van de te volgen strategie voor de
+bestemmingsplanprocedure
+De gemeente heeft de wettelijke taak een bestemmingsplanprocedure te
+doorlopen , de provincie moet dat plan toetsen. Om tot een praktische en
+vlotte afstemming tussen de verschillende onderdelen in de procedure te
+komen , zet de gemeente een strategie (volgorde en planning) op , in
+afstemming met het park en de provincie.
+STAP Het doorlopen van de bestemmingsplanprocedure
+Uitvoering van (alle uitvoeringsmaatregelen uit) het
+transformatieplan
+In het bestemmingsplan wordt vastgelegd wat wel en niet mag/kan. In
+het daarmee verbonden transformatieplan zijn bindende afspraken
+gemaakt over de uitvoering van maatregelen.
+Taxatie!
+Toetsing bouwbesluit!
+Gemeente Coevorden
+| VVP-Coevorden
+Van: Gemeente Coevorden | VVP-Coevorden
+Verzonden: Friday, February 16, 2024 11:01 AM
+Aan: Gemeente Coevorden | VVP-Coevorden
+Onderwerp: Deelname werkgroep Transformatie De Tip
+Goedemorgen,
+Op 24 januari heeft u een nieuwsbrief gekregen over de transformatie van De Tip naar een woonfunctie.
+Hierin werd ook gesproken over de werkgroep. Deze werkgroep willen wij graag uitbreiden met eigenaren van buiten
+het VvE gebied.
+Zou u willen deelnemen aan deze werkgroep?
+Toelichting
+Op 13 februari was er een overleg tussen de werkgroep vanuit het park en de gemeente, onder leiding van de nieuwe
+projectleider
+In een goede sfeer zijn er afspraken gemaakt over wat er de komende tijd nog te doen staat om de transformatie te
+kunnen voltooien.
+De werkgroep en de gemeente zullen intensiever gaan samenwerken: de komende tijd wordt er iedere drie weken een
+overleg gehouden. Steeds op een dinsdagavond van 18.30 tot 20.00 uur.
+Het eerstvolgende overleg is dinsdag 5 maart 2024 in het dorpshuis in Schoonoord.
+(geanonimiseerd)
+Samenstelling werkgroep
+Op dit moment zitten er alleen eigenaren van woningen in het deel van het park dat onder de Vereniging van Eigenaren
+valt in de werkgroep.
+Het zou goed zijn dat ook eigenaren van de andere gebieden (adressen) vertegenwoordigd zijn. Het gaat immers ook
+over hun belangen.
+Wij roepen eigenaren in deze gebieden dan ook op om mee te doen in de werkgroep. Voor alle duidelijkheid: de
+werkgroep neemt geen besluiten, maar komt met voorstellen en bereidt besluitvorming voor.
+Dat gaat in goed overleg tussen de werkgroep en de gemeente, onder begeleiding van de projectleider.
+Deelname werkgroep
+Wilt u deelnemen aan deze werkgroep of heeft u er nog vragen over? Reageer dan op deze mail en wij nemen contact
+met u
+op.
+Alvast bedankt!
+Hartelijke groet,
+Namens
+BN, projectleider De Tip
+(geanonimiseerd)
+Medewerker
+e
+Programma Vitale Vakantie Parken Coevorden
+e
+Programma Realisatie Regionale Woondeal Zuidoost-Drenthe
+(geanonimiseerd)
+Ri Gemeente
+Coevorden
+Kasteel 1
+Postbus 2, 7740 AA Coevorden
+M
+O6-WRN (via WhatsApp beter bereikbaar)
+(geanonimiseerd)
+www.coevorden.nl
+Werkdagen: ma/do tot 16.30 uur en vrijdag tot 12.00 uur
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Di Gemeente
+Coevorden
+Bijeenkomst woningeigenaren bestemmingsplangebied De Tip
+20 mei 2022
+19.30-21.30 uur
+Locatie: Hotel Hegen
+1. Opening
+Bij aanvang van deze bijeenkomst is teruggekeken naar de bijeenkomst van 23 april jl
+en
+gevraagd of er op- of aanmerkingen waren nav het verslag van deze avond. Er
+waren geen opmerkingen.
+Tijdens de bijeenkomst is medegedeeld dat een delegatie van de gemeenteraad op 1
+juni woensdagavond het bestemmingsplangebied zal bezoeken. Aan de leden van de
+werkgroep is de vraag gesteld wie de groepen wil begeleiden.
+Er wordt gewerkt aan een
+lijst met veel voorkomende vragen zodra deze gereed is
+wordt deze gedeeld.
+2. Waardebepaling.
+De heer BM en hebben een drietal taxateurs benaderd en een
+prijsopgaaf gevraagd voor de waardebepaling van de percelen.
+(geanonimiseerd) (geanonimiseerd)
+Eén taxateur heeft aangegeven gezien de volle agenda geen tijd te hebben voor deze
+opdracht en zal geen offerte uit te brengen. Van de andere twee taxateurs was
+tijdens de bijeenkomst nog maar 1 offerte binnengekomen, naderhand is de tweede
+offerte binnen. Deze zijn aan de mail toegevoegd. De volgende bijeenkomst kan er
+dus een keuze worden gemaakt adhv de criteria die in de bijeenkomst van 23 april
+zijn opgesteld. Na de keuze zal er een
+gesprek plaatsvinden met de taxateur die het
+proces vanuit de provincie het proces begeleidt
+3. Toetsing bouwbesluit
+De heer voeren de toetsing Bouwbesluit uit, ze
+hanteren daarbij de lijst die bij stukken zat van het vorige overleg.
+Het bestemmingsplangebied wordt bezocht op de volgende data:
+30 mei, 1, 3, 8 en 10 juni
+Bezoek zal plaatsvinden tussen 9 en 17 uur.
+Zoveel mogelijk worden de bezoek 2 dagen van te voren aangekondigd.
+ledere woningeigenaar krijgt een
+verslag van de inspectie. Met dit verslag kan iedere
+eigenaar individueel bepalen wat de eventuele kosten zijn om te voldoen aan het
+bouwbesluit.
+(geanonimiseerd) (geanonimiseerd)
+4. Opstellen streefbeeld
+Het resterende deel van de bijeenkomst zijn de aanwezigen opgesplitst in 4 groepen:
+-
+twee groepen bestaande uit eigenaren van het deel Bungalowpark op de Kiel, in
+het overzicht weergegeven als VVE en VVE
+-
+De groep eigenaren Tip 111-129
+-
+eigenaren van de 5 woningen
+In de groepen zijn jullie met elkaar in gesprek gegaan met behulp van de
+kwaliteitskaarten , als gespreksleidraad. Op deze wijze komen de verschillende
+onderwerpen die van belang zijn voor het opstellen van het streefbeeld aanbod. Het
+ene onderwerp gaf meer aanleiding tot gesprek dan het andere maar aan het eind
+van de bijeenkomst had elke groep alle kwaliteitskaarten doorgenomen. De
+opmerkingen en notities die op de kaarten van de verschillende groepen zijn
+verwerkt en weergegeven in het excel document. Deze is als bijlage toegevoegd. De
+volgende bijeenkomst gaan we dit bestand doornemen , waar nodig verduidelijken
+en afstemmen. Dit vormt dan de basis voor het streefbeeld.
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Bijeenkomst woningeigenaren bestemmingsplangebied De Tip
+23 april 2022
+9. 30-12. 00 uur
+Locatie: Hotel Hegen
+1. Opening
+Tijdens de gespreksavonden is het proces voor fase 2 doorgesproken en is iedere
+woningeigenaar gevraagd aan te geven wel of geen energie te willen stoppen in deze
+vervolgfase. 90% van de eigenaren heeft aangegeven dat te willen.
+Deze bijeenkomst van 23 april , gaan we in gesprek over de verschillende
+onderwerpen die in fase 2 aan bod komen.
+De volgende 3 vragen zijn besproken met de groep en leiden tot de volgende
+werkwijzen:
+A. Hoe worden keuzes gemaakt in deze tweede fase van een mogelijke
+transformatie? Hoe zorgen we (de aanwezige eigenaren) voor commitment bij
+andere eigenaren
+communicatie naar de woningeigenaren over fase 2 via mail en/of post
+niet aanwezigen zijn zelf verantwoordelijk om bij eventuele vragen nav het
+verslag navraag te doen bij de overige eigenaren of om vooraf standpunten
+mee te geven
+•
+•
+B. Hoe verzorgen we (de aanwezige eigenaren) de communicatie naar alle
+eigenaren? En wie coördineert dit?
+Door de gemeente
+Informeren per mail
+Informeren per brief
+•
+•
+•
+C. Hoe gaan we (alle eigenaren onderling/gezamenlijk) om met de kosten die in
+fase 2 gemaakt worden
+Kosten voorfinancieren door gemeente
+Bij positief besluit kosten hoofdelijk omslaan
+Per kostensoort beslissen , sommige kosten zijn voor individuele eigenaren
+•
+•
+•
+Afgesproken is dat de kosten voor de toetsing bouwbesluit en waardebepaling door
+de makelaar door de gemeente worden voorgefinancierd. Wanneer de transformatie
+wordt uitgevoerd zullen deze kosten hoofdelijk worden omgeslagen. Als de
+transformatie niet doorgaat , brengt de gemeente deze kosten niet in rekening.
+2. Toetsing bouwbesluit
+De komende maanden zullen alle woningen worden getoetst aan het bouwbesluit
+(2012).
+Di Gemeente
+Coevorden
+Planning voor de inventarisatie wordt gemaakt aan de hand van de door aanwezigen
+ingevulde gegevens en op afspraak. Aan alle eigenaren wordt enige flexibiliteit
+gevraagd. De inspecteurs zullen hele dagen inspecties verrichten en kunnen ivm
+efficiency en
+reistijd niet voor een inspectie langskomen. Naar verwachting duurt de
+inspectie ongeveer een uur. Daarna ontvangen gemeente en eigenaar een rapport.
+De afspraken zullen in weeknummer 20 starten.
+U vindt in bijlage 2 de checklist die tijdens het bezoek zal worden ingevuld en waar u
+een afschrift van ontvangt.
+Op basis van de checklist weet u welke aanpassingen moeten worden doorgevoerd
+om te voldoen aan het bouwbesluit. De werkzaamheden en die moeten worden
+uitgevoerd om aan het bouwbesluit te voldoen en de daaruit voortkomende kosten
+zijn voor eigen rekening. Uitvoering van eventuele werkzaamheden kunnen worden
+gedaan na het definitieve besluit tot transformatie, zie ook beantwoording van de
+vragen.
+3. Waardebepaling
+Voor de waardebepaling is het perceel de basis, de bebouwing speelt geen rol, het
+gaat om de waarde die ontstaat door het verschil in bestemming. Van de huidige
+bestemming (recreatie) naar de mogelijke bestemming (wonen). Nuancering voor de
+grotere perceel en de percelen met een perceelsgebonden beschikking. De makelaar
+taxeert het hele park en maakt daarna een verdeling per kavel. De makelaar die de
+taxatie gaat uitvoeren wordt geïnstrueerd door een makelaar verbonden aan Vitale
+Vakantie Parken Drenthe. Voor de taxatie van alle parken in Drenthe worden
+dezelfde werkwijze en dezelfde uitgangspunten gehanteerd.
+Op basis van de genoemde criteria die door de eigenaren tijdens de bijeenkomst zijn
+benoemd worden een drietal offertes opgevraagd. Tijdens de bijeenkomst van 20
+mei worden deze gepresenteerd en wordt een keuze gemaakt.
+|
+GN
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Minimaal twee offertes uit de drie bovengenoemde makelaars, anders kunnen
+onderstaande makelaars nog worden benaderd:
+|
+eu
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente en eigenaren kunnen elk een makelaar in de hand nemen voor de taxatie.
+Mochten beide tot een andere uitkomst komen en er in onderlinge afstemming niet
+uitkomen, dan kan de makelaar verbonden aan VVP Drenthe hierin bemiddelen. Ook
+is het mogelijk dat gemeente en eigenaren gezamenlijk één makelaar nemen. De
+gemeente heeft hier geen voorkeur in. Van de aanwezigen kiest de grote
+meerderheid voor het aanstellen van één makelaar.
+4. Opstellen streefbeeld
+De komende bijeenkomsten wordt er gewerkt aan het streefbeeld , hoe gaat het
+gebied er uit zien na transformatie. In kleine groepen wordt mbv kwaliteitskaarten
+een aantal onderwerpen besproken. Denk aan wijze van afvalinzameling , parkeren ,
+groen/groenbeheer , toegang , verkeer , enz. De uitkomsten worden uiteindelijk
+vastgelegd in het bestemmingsplan.
+5. Kwaliteitsimpuls
+De provincie Drenthe heeft als voorwaarde voor transformatie gesteld dat er een
+kwaliteitsimpuls/meerwaarde moet worden gerealiseerd voor het
+bestemmingsplangebied. Gedacht kan worden aan voorzieningen voor het dorp De
+Kiel , duurzaamheidsverbetering of natuurinvesteringen.
+Tijdens de bijeenkomst zijn de volgende onderwerpen genoemd:
+- fietspad
+- gezamenlijke warmtepomp
+- bomenplan
+- gezamenlijke moestuin
+- biodiversiteit vergroten
+- groenstrook De Eeke-De Tip
+- gezamenlijke zonnepanelen
+- afvalcontainers (ondergronds)
+- verkeersremmende maatregelen
+- wandelroute
+- 30 km zone(s) , waarvan bekeken kan worden
+Deze onderwerpen moet nader worden onderzocht op realiseerbaarheid en of dit
+voldoende kwaliteitsimpuls geeft. Navraag bij de provincie geeft geen duidelijk
+antwoord op de vraag wat een minimale eis is voor de meerwaarde of
+kwaliteitsimpuls. Afgesproken is om nader overleg te hebben wanneer het idee voor
+meerwaarde concreet is.
+Overige vragen:
+Binnen welke periode moeten de benodigde aanpassingen zijn uitgevoerd na
+transformatie naar woonbestemming? Hierover zijn geen vastgestelde eisen ,
+wettelijke termijnen. Het voorstel is om een redelijke termijn op te nemen in
+de afspraken. Verbouwen in deze tijd is kostbaar en tijdrovend. Waar men
+normaal bijvoorbeeld gesproken binnen 3 maanden klaar was , duurt het nu
+vaak langer. Een redelijke termijn om de benodigde aanpassingen te doen , in
+deze tijd , één jaar meer dan voldoende.
+-
+- Wanneer eigenaren voornemens zijn om de woning , om moverende redenen ,
+op een later moment te gaan verbouwen/herbouwen , kunnen hier dan ook
+tijdsafspraken over worden gemaakt? Per individuele zaak afspraken maken
+onder welke voorwaarden men langer mag doen over de ver-/herbouw. Het
+doel is dat binnen x periode alle woningen conform bouwbesluit zijn
+aangepast. Van uitstel kan afstel komen. Daarmee wordt dan het doel van de
+transformatie niet gehaald. Wel kan een koppeling worden gemaakt met een
+geplande verbouwing als hier al een tijdsafspraak over is gemaakt.
+- Bij volledige nieuwbouw moet worden voldaan aan het bouwbesluit onderdeel
+nieuwbouw , is deze (veel) zwaarder dan de toetsing bestaand? De eisen bij
+nieuwbouw zijn vooral toegespitst op beter/milieuvriendelijker/duurzamer of
+toegankelijker. Er zitten dan wel degelijk verschillen in. Bijvoorbeeld het
+onderdeel milieuprestatie , bestaande bouw kent dit niet , maar bij nieuwbouw
+geldt dat de vloer een RC waarde heeft van 47. Alle inhoudelijke eisen en hoe
+,
+toetsing aan het bouwbesluit werkt is na te kijken in het bouwbesluit
+onderdeel nieuwbouw.
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Naar een andere bestemming
+van uw vakantiepark
+Informatie over alles dat bij een transformatie van een vakantiepark komt kijken
+Transformeren van niet-vitale parken
+Verspreid door Drenthe liggen vakantieparken waar niet of nauwelijks nog gerecreëerd wordt. Die
+parken zien er misschien keurig uit , maar ze zijn niet meer zo in trek bij vakantiegangers. Voor die
+parken die eigenlijk geen toeristische toekomst meer hebben , is het goed dat er een nieuwe functie en
+bestemming wordt gezocht. Dat noemen we het ‘transformeren van niet-vitale parken’ , een klus die
+het park en de gemeente samen moeten klaren.
+Voor wie is deze folder bedoeld?
+Deze folder is bedoeld voor eigenaren en vertegenwoordigers (bijvoorbeeld besturen van
+Verenigingen van Eigenaren) van vakantiewoningen op parken waar een transformatie
+gaat plaatsvinden. De verschillende stappen van het transformatieproces en de uitgangs-
+punten en voorwaarden voor transformatie worden hier beschreven. Wij hopen dat u zich
+na het lezen een voorstelling kunt maken van dat transformatieproces. Natuurlijk vervangt
+deze folder niet het gesprek dat u hierover met de gemeente moet hebben. Met dat gesprek
+begint het proces; de folder is handig om bepaalde zaken nog eens na te lezen.
+Naar een nieuwe bestemming
+voor uw vakantiepark
+De Drentse gemeenten en de Provincie Drenthe hebben in het kader van het programma Vitale Vakantieparken Drenthe
+(VVP) afgesproken dat het onder voorwaarden mogelijk is een nieuwe functie en bestemming te geven aan niet-vitale
+parken. De zoektocht naar een geschikte nieuwe functie en het ordelijk regelen daarvan wordt ‘transformeren’ genoemd.
+Wat die nieuwe bestemming wordt , staat niet bij voorbaat vast. Soms is het legaliseren van permanente bewoning mogelijk.
+In andere gevallen is een park meer geschikt voor een andere functie of is sloop en/of ‘teruggave aan de natuur’ een betere
+oplossing. Ieder niet-vitaal park geval is anders en daarom zal ook iedere transformatie anders verlopen. Wel zijn er onder-
+werpen die bij iedere transformatie terugkomen. Die worden hier toegelicht , net als wat er allemaal komt kijken
+bij transformeren.
+UITGANGSPUNTEN EN BEGRIPPEN
+Transformeren is ‘onder voorwaarden’ mogelijk. Die voorwaarden hangen af van de situatie op het park , maar er zijn
+wel een aantal gemeenschappelijke uitgangspunten te noemen:
+• ‘één park , één plan’: de ervaring heeft geleerd dat ieder park anders is. Dat zit ’m onder meer in de ligging , de
+geschiedenis , de eigendomssituatie , het gemeentelijk beleid , de wensen van de eigenaren , enzovoorts. Dat betekent ook
+dat er voor ieder park een eigen transformatieplan opgesteld moet worden. In zo’n plan moet ook het hele park worden
+meegenomen.
+• Samenwerking: het maken van een transformatieplan is een opgave die (vertegenwoordigers van) het park en de
+gemeente samen moeten klaarspelen. Bij sommige parken is de eigenaar de logische gesprekspartner voor de gemeente.
+Bij parken met een Vereniging van Eigenaren (VvE) is dat het bestuur van de VvE of een werkgroep namens het bestuur.
+Omdat het bij parken met meerdere (soms vele) eigenaren ondoenlijk is steeds met iedere eigenaar afzonderlijk te overleg-
+gen , is het belangrijk dat een park zelf met een vertegenwoordiging komt. Een aandachtspunt daarbij is de bevoegdheid
+van deze vertegenwoordiging voor het overleggen , onderhandelen en ondertekenen tijdens het transformatieproces.
+Behalve park en gemeente zijn er meer partijen betrokken bij transformatie. Ook de Provincie Drenthe speelt op een
+aantal momenten een rol en verder is er de Taskforce Vitale Vakantieparken Drenthe (VVP). Dit zijn adviseurs die in de
+hele provincie werkzaam zijn en de parken en gemeenten ondersteunen bij transformatieprocessen.
+• Meerwaarde: hiermee wordt bedoeld dat transformeren meer moet inhouden dan het alleen veranderen van de
+bestemming van een park. Bestaande knelpunten moeten worden opgelost en er moet iets worden toegevoegd;
+een kwaliteitsimpuls. Wat die precies moet/kan zijn hangt van de situatie af en verschilt dus per park. Het toevoegen
+van meerwaarde is een eis die de Provincie Drenthe stelt.
+• Kosten: het doel van transformeren is het vinden van een nieuwe functie/bestemming voor een park. Dat kost geld , maar
+levert ook wat op: duidelijkheid , een nieuw perspectief voor de toekomst , mogelijk een waardestijging van (percelen/
+huizen in) het park. Vanuit die gedachte is als uitgangspunt genomen dat de kosten die voortkomen uit de transformatie
+voor rekening van het park komen. Voorbeelden zijn de kosten om het transformatieplan en het bestemmingsplan
+te maken , kosten voor de verbetering van de inrichting van het park , bijvoorbeeld de woningen , de wegen , het groen ,
+enzovoorts. Kortom: alle ingrepen en verbeteringen die nodig zijn om het park klaar te maken voor de toekomst en haar
+nieuwe functie of bestemming.
+• Verevening: hierboven is al benoemd dat transformatie tot waardestijging van (woningen en percelen op) vakantieparken
+kan leiden. De Drentse gemeenten hebben afgesproken dat in het transformatieproces berekend moet worden wat de kosten
+zijn (zie hierboven) en wat aan de andere kant de waardestijging is. In die gevallen dat er weinig kosten zijn , bijvoorbeeld
+omdat een park er goed bij ligt , er weinig aanpassingen nodig zijn en uit de taxatie een flinke waardestijging blijkt , kan
+een gemeente besluiten te gaan verevenen. Dat betekent dat het park wordt gevraagd een financiële bijdrage te doen aan de
+gemeente. Als de gemeente ervoor kiest te verevenen zal zij aangeven om welk bedrag het gaat en waaraan dit besteed zal
+worden; dit moeten doelen zijn op het gebied van recreatie en toerisme. Bij transformaties die met flinke kosten gepaard
+gaan en waarbij de waardestijging niet zo hoog is, kan de gemeente er ook voor kiezen niet te verevenen.
+• Leidraad: het transformatieproces zoals dat hieronder is uitgewerkt geeft een leidraad voor de fases en stappen die het
+transformeren van een park doorloopt en de belangrijke beslismomenten daarin. Het is een hulpmiddel om dat proces
+zorgvuldig door te lopen en geen stappen te vergeten , maar het is geen verplichte route. Als belangrijke beslismomenten
+zijn er de zogenaamde tussenbesluiten benoemd. Die zijn van essentieel belang en moeten niet worden overgeslagen.
+Het transformatieproces in 4 fasen
+FASE 1: VERKENNING
+STAP 1 Bepalen mogelijke kandidaten voor transformatie
+De gemeente bepaalt welke vakantieparken in beginsel voor transformatie in aanmerking kunnen komen en neemt ze op in
+haar planning. Parken kunnen bij de gemeente aangeven dat zij getransformeerd willen worden.
+STAP 2 Uitvoeren Quick Scan Transformatie: een eerste haalbaarheidsstudie
+Als gemeente en park zover zijn dat ze kunnen en willen transformeren , wordt een eerste haalbaarheidsstudie uitgevoerd. Zij
+vragen of de Taskforce VVP een zogenaamde Quick Scan Transformatie wil uitvoeren. Hierin wordt bekeken of duidelijk is wie
+de gesprekspartners zijn (eigenaar , bestuur VvE of anders) , wat de partijen (park en gemeente) willen en of de situatie zich daarvoor
+leent (feitelijke inrichting , wettelijke en beleidsmatige bepalingen). Hieruit komt een inschatting voor de kansrijkheid van transfor-
+matie met een lijst van aandachts- en uit te werken punten.
+STAP 3 Bepalen welke van de bij stap 2 genoemde punten bepalend zijn voor het vervolg
+Sommige aandachtspunten zijn bepalend voor de vraag of transformatie wel of niet kans van slagen heeft. Die punten
+moeten daarom als eerste worden uitgezocht. Het park en de gemeente nemen initiatief en voeren uit , zo nodig met externe
+ondersteuning. De Taskforce VVP adviseert.
+STAP 4 Tussenbesluit 1
+Als de vorige stappen zijn uitgevoerd zijn er twee uitkomsten denkbaar:
+• ‘Go’: het transformatieproces kan verder en er wordt een proces-overeenkomst gesloten.
+In deze overeenkomst staan de stappen die genomen moeten worden beschreven , met daarbij de taakverdeling tussen de
+partijen (park en gemeente) , een beschrijving van de inspanningsverplichtingen , de financiële aspecten , enzovoorts. Doel is
+duidelijke afspraken te maken , verwachtingen op elkaar af te stemmen en partijen te binden aan het proces. De gemeente en
+het park stellen zo’n proces-overeenkomst op (er is een sjabloon beschikbaar) en ondertekenen deze; dit is een voorwaarde
+voor het vervolg. De Taskforce faciliteert , de provincie wordt geïnformeerd.
+• ‘No go’ of ‘uitstel’: het transformatieproces kan (nog) niet verder.
+Het kan zijn dat nader onderzoek nodig is, er inhoudelijke barrières weggenomen moeten worden , dat er eenheid en/of
+draagvlak gevonden moet worden.
+FASE 2: BEPALEN STREEFBEELD
+De stappen 5 , 6 en 7 gaan over de uitvoering van alles dat in de intentieovereenkomst is opgenomen en leiden gezamenlijk
+tot stap 8: de realisatie-overeenkomst.
+STAP 5 Het bepalen van het streefbeeld
+In deze stap bespreken park en gemeente waar het park over een aantal jaar wil/moet staan. Wat is er goed , wat zijn de
+kwaliteiten , wat zou anders/beter kunnen of moeten , hoe voegen we meerwaarde (een kwaliteitsimpuls) toe , enzovoort. Het
+park neemt hiervoor het initiatief en schakelt zo nodig professionele advisering en/of ondersteuning in (evt. met bijdrage
+van gemeente). De gemeente neemt deel , stelt randvoorwaarden en stimuleert. De provincie wordt ook betrokken en de
+Taskforce ondersteunt waar nodig.
+STAP 6 Uitvoeren van een financiële scan bij het streefbeeld
+Zoals bij de uitgangspunten benoemd , transformeren kost geld: het streefbeeld wat in stap 5 is bedacht , moet ook daad-
+werkelijk worden uitgevoerd en daarnaast zijn er de plan- en proceskosten. Aan de andere kant is er mogelijk sprake van
+waardestijging. Het is van belang om beide in beeld te brengen. Er is een methode bedacht om dat te doen , met ondersteu-
+ning van adviseurs die de kosten berekenen en de waardestijging kunnen taxeren. Omdat nog niet alle kosten bekend zijn ,
+zal dit op hoofdlijnen gebeuren.
+Nota Bene: het resultaat van stap 6 kan in een of meerdere rondes leiden tot bijstelling van stap 5 en omgekeerd.
+> > >
+STAP 7 Bepalen of er wel of niet verevend gaat worden
+Wanneer uit de eerdere stappen blijkt dat de waardestijging flink groter is dan de te maken kosten , kan de gemeente
+ervoor kiezen om te gaan verevenen. Wat dat betekent is bij de uitgangspunten beschreven. Als de gemeente ervoor kiest
+te verevenen zal het park moeten onderzoeken op welke wijze zij de vereveningsbijdrage gaat betalen.
+STAP 8 Tussenbesluit 2
+In deze stap worden het streefbeeld (beschrijvend , met kaartbeelden) en de financiële consequenties (kosten , baten , de
+eventuele vereveningsbijdrage en de wijze van betaling daarvan) vastgelegd in een realisatie-overeenkomst. In deze
+overeenkomst wordt ook opgenomen dat park en gemeente gezamenlijk willen komen tot een Transformatieplan.
+Park en gemeente stellen in gezamenlijkheid een overeenkomst op (er is een sjabloon beschikbaar) en tekenen deze.
+Dit is een voorwaarde voor het vervolg.
+FASE 3: OPSTELLEN TRANSFORMATIEPLAN
+STAP 9 Het onderbouwen en concretiseren van het streefbeeld tot een Transformatieplan
+In deze stap worden de volgende werkzaamheden uitgevoerd:
+• De onderbouwing van het streefbeeld , de toetsing aan beleid (rijks , provinciaal , gemeentelijk) , het uitvoeren van de
+(verplichte) onderzoeken e. d.
+• Het bepalen van de acties die nodig zijn om het streefbeeld te bereiken en de wijze van uitvoering.
+• Het vastleggen wie de acties uitvoert.
+• H et bepalen van de juiste volgorde en het maken van een planning voor de uitvoering.
+• H et uitwerken van de financiële paragraaf: In stap 6 zijn de kosten en de waardestijging globaal berekend , in deze
+stap kunnen ze meer exact worden bepaald. Deze stap omvat de vaststelling van de exacte kosten , het opmaken van
+overeenkomsten over het kostenverhaal (wie betaalt wat) , indien van toepassing het berekenen van de definitieve
+v ereveningsbijdrage en het uitwerken van het moment/de methode van daadwerkelijke betaling.
+Voor stap 9 is het park aan zet en schakelt zij zo nodig professionele advisering en/of ondersteuning in. De gemeente neemt
+deel en stimuleert. De Provincie Drenthe en de Taskforce VVP beoordelen het plan.
+STAP 10 Tussenbesluit 3
+In deze stap gaat het om het instemmen met het Transformatieplan. Bij de gemeente stemmen burgemeester en wethouders
+en/of de raad ermee in , bij het park hangt dat af van de situatie (bestuur VvE , ledenvergadering VvE of anders). Het Trans-
+formatieplan wordt als een juridisch bindende bijlage aan de samenwerkingsovereenkomst (zie stap 8.) toegevoegd.
+FASE 4: BESTEMMINGSPLAN EN UITVOERING
+STAP 11 Opstellen van een bestemmingsplan (omgevingsplan)
+Het bestemmingsplan (omgevingsplan)is een logisch voortvloeisel uit het Transformatieplan en legt de verschillende
+onderdelen juridisch en planologisch vast. Het park neemt het initiatief en schakelt zo nodig professionele advisering en/of
+ondersteuning in (evt. met bijdrage gemeente). De gemeente neemt deel en stimuleert.
+STAP 12 Het bepalen van de te volgen strategie voor de bestemmingsplanprocedure
+De gemeente heeft de wettelijke taak een bestemmingsplanprocedure te doorlopen , de provincie moet dat plan toetsen. Om
+tot een praktische en vlotte afstemming tussen de verschillende onderdelen in de procedure te komen , zet de gemeente een
+strategie (volgorde en planning) op , in afstemming met het park en de provincie.
+STAP 13 Het doorlopen van de bestemmingsplanprocedure
+STAP 14 Uitvoering van (alle uitvoeringsmaatregelen uit) het transformatieplan
+In het bestemmingsplan wordt vastgelegd wat wel en niet mag/kan. In het daarmee verbonden transformatieplan zijn
+bindende afspraken gemaakt over de uitvoering van maatregelen.
+Transformeren: vragen?
+NA
+Wilt u meer weten over transformeren in Z'n algemeenheid of heeft u vragen over de inhoud van deze folder?
+Neem dan contact
+op met de transformatie-adviseur van de Taskforce Vitale Vakantieparken Drenthe,
+T 06
+E @vitalevakantieparkendrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Iedere gemeente in Drenthe heeft een contactpersoon die op de hoogte is van het transformatieproces en met wie u
+contact kunt opnemen. Wilt u in gesprek komen met de gemeente waarin uw park is gelegen, kijk dan op
+wwwoitalevakantieparkendrenthe.nl voor de betreffende contactpersoon in uw
+gemeente.
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+

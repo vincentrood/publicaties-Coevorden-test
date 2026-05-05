@@ -1,8 +1,8 @@
 ---
 title: "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.pdf"
-date: 2026-04-30
+maps: ["2025","Woo-verzoeken","2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen"]
+source: "2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.pdf"
+date: 2026-05-05
 ---
 
 Gemeente Coevorden

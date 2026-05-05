@@ -1,0 +1,612 @@
+---
+title: "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit"
+maps: ["2025","Woo-verzoeken"]
+source: "2025/Woo-verzoeken/2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.pdf"
+date: 2026-05-05
+---
+
+Gemeente
+Coevorden
+Postadres:
+Postbus 2
+7740 AA Coevorden
+DVG Dienstverlening B.V.
+Telefoon 14 0524 tav.
+pen ee
+Fax 0524-598555 Per ma
+www.coevorden.nl
+Bezoekadres:
+Kasteel 1
+7741GC Coevorden
+Uw brief 29 november 2024
+Afdeling/Team Publieksservice/Team Burgerzaken & Belastingen
+Behandelddoor
+Kenmerk 66476-2024
+Bijlagen 2
+Coevorden 28 januari 2025 Verzonden: 28 januari 2025
+Per mail
+Onderwerp Woo-verzoek bij de aanvraag van een
+omgevingsvergunning voor het verleggen
+van een bestaande inrit bij de Groepsaccommodatie ‘t Hunebed in Sleen
+Geachte U NN
+Woo-verzoek ingediend. Wij hebben uw verzoek op 29 novembe
+openbaarmaking van documentatie rondom het besluit tot het buiten behandeling ‘stellen van de
+aanvraag omgevingsvergunning verleggen bestaande inrit bij de Groepsaccommodatie ‘t Hunebed in
+Sleen. In deze brief leest u hier meer over.
+Uw verzoek
+In uw Woo-verzoek vraagt u onder andere om adviezen, e-mails en verslagen over de totstandkoming
+van het besluit en de legesnota, en een verifieerbare opbouw van de legesnota. U vraagt om deze
+informatie om te kunnen controleren of het buiten behandeling stellen van de aanvraag rechtmatig,
+consistent en proportioneel is. Verder vraagt u om documentatie ten aanzien van de besluitvorming over
+het wijzigen van een aantal uitwegen/inritten en bestratingen in de directe omgeving. U vraagt om deze
+informatie om te controleren of de gemeente in strijd met het gelijkheidsbeginsel heeft gehandeld.
+Besluit
+Uw verzoek is in behandeling genomen. Wij besluiten uw verzoek gedeeltelijk toe te wijzen. Wij hebben
+onderzocht of aan uw verzoek tot openbaarmaking van de gevraagde documenten kan worden voldaan.
+Er is in onder andere in de zaaksystemen Medewerkersportaal en Powerbrowser gezocht en er zijn
+betrokken collega’s bevraagd. De aangetroffen documenten zijn beoordeeld op basis van de
+uitzonderingsgronden uit de Wet open overheid (artikel 5.1 en 5.2 Woo). Bij de beoordeling is gebleken
+dat niet alle informatie uit de documenten openbaar kan worden gemaakt. Het gaat hierbij om
+persoonsgegevens. Verderop in het besluit leest u meer over waarom informatie uit de documenten is
+weggelakt.
+(geanonimiseerd)
+Beoordeling documentatie over de legesnota
+en 6
+Punt 1 , 2 , 3 , 4
+Over dit deel van uw verzoek kunnen de meeste door u gevraagde documenten niet worden verstrekt ,
+omdat die niet zijn opgesteld of niet aanwezig zijn. Dat geldt voor:
+- Beleidsnota’s , memo’s en richtlijnen met overwegingen en conclusies over de zorgvuldigheid en
+proportionaliteit van de betreffende legesnota in relatie tot de dienstverlening.
+- Interne correspondentie (e-mails , memo’s , verslagen van vergaderingen) over de zorgvuldigheid
+en proportionaliteit van de maatregel en de hoogte van de legesaanslag.
+- Juridische adviezen , zowel intern als extern , over de rechtmatigheid van deze legesnota.
+- Besluiten , ontwerpen van besluiten en andere documenten , die inzicht geven in de overwegingen
+en conclusies.
+- Documenten die aantonen hoe de gemeente voldoet aan artikel 229 Gemeentewet.
+Bij de totstandkoming van de legesnota is de regelgeving toegepast , zoals die is opgenomen in de
+Legesverordening Coevorden 2023 en de Legesverordening Coevorden 2024. Deze verordeningen zijn
+openbaar te raadplegen via: https://lokaleregelgeving. overheid. nl/CVDR689758/1 en
+https://lokaleregelgeving. overheid. nl/CVDR704909/2. In algemene zin vermelden wij nog het volgende.
+Aan artikel 229 Gemeentewet wordt voldaan , omdat de gemeente leges mag heffen voor de verleende
+diensten. De opbrengsten van de leges gaan de kosten niet te boven. Daarbij is van belang te vermelden
+dat het totaalbedrag aan geheven leges het totaalbedrag aan kosten niet te boven mag gaan. Dat bij een
+individuele dienst een individueel tarief meer dan kostendekkend is , is niet relevant. Meer informatie over
+de kostendekkendheid is te vinden op https://financien. coevorden. nl/. De kostendekkendheid van de
+leges is te vinden in de paragraaf ‘Lokale Heffingen’. De berekening is in te zien in de Programma-
+begroting , terwijl de werkelijkheid in het Jaarverslag te vinden is.
+Punt 5
+In punt 5 verzoekt u om een gedetailleerde en verifieerbare uitsplitsing van de berekening van de
+legeskosten. De uitsplitsing en berekening van de legeskosten is reeds aan uw cliënt per brief (d. d. 12
+september 2024) en aan u per mail beantwoord. Volledigheidshalve is deze brief geanonimiseerd
+bijgevoegd (bijlage 1).
+Beoordeling documentatie over besluiten aanleg oprit
+Punt 7 tot en met 12
+U vraagt om afschriften van besluiten die betrekking hebben op diverse situaties in de omliggende
+omgeving. Met betrekking tot dit deel van uw verzoek is een één document aangetroffen bij de
+inventarisatie. Dit betreft een afschrift van de verleende vergunning inzake Brink 11. Deze treft u
+geanonimiseerd als bijlage aan (bijlage 2). Van adres Brink 15 is geen besluit aangetroffen. Van de
+adressen Brink 7 en 13 , Menso Altingstraat 13 en 15 , zijn bij de inventarisatie geen besluiten
+aangetroffen. Dit komt omdat de inritten van deze adressen zijn herstraat met dezelfde afmeting/breedte
+als de bestaande inritten. Dit is gedaan met dezelfde bestratingsmaterialen (dikformaten straatstenen).
+Openbaar met uitzondering van persoonsgegevens
+Wij besluiten twee documenten openbaar te maken , met uitzondering van de persoonsgegevens die
+daarin staan. Wij hebben de namen van inwoners en ambtenaren weggelakt. Daarnaast hebben we
+contactgegevens (e-mailadressen , telefoonnummers etc. ) en andere informatie weggelakt die herleidbaar
+zijn tot personen en die inbreuk maken op de persoonlijke levenssfeer (artikel 5. 1 lid 2 sub e Woo).
+Hierbij overwegen wij dat het openbaar maken van persoonsgegevens voor iedereen leesbaar en
+onomkeerbaar is. Bij de informatie in de opgevraagde documenten weegt naar ons oordeel de
+persoonlijke levenssfeer van de betrokken persoon zwaarder dan het belang van openbaarheid van deze
+informatie.
+wij wel openbaar
+Namen
+, omdat
+van de
+deze
+burgemeester
+personen
+,
+vanuit
+wethouders
+hun functie
+, gemeentesecretaris
+in de openbaarheid
+en (gekozen)
+treden.
+politici maken
+Publicatie
+Uw Woo-verzoek
+op onze
+, het
+website
+besluit en de eventueel openbaargemaakte documenten worden ook op onze
+website geplaatst (www. coevorden. nl/publicaties-wet-open-overheid). Zo is de informatie voor iedereen
+beschikbaar. Een Woo-verzoek gaat namelijk over het openbaar maken van documenten voor iedereen.
+In deze documenten zijn persoonsgegevens onleesbaar gemaakt.
+Niet mee eens?
+Vindt u dat het besluit onjuist is , of bent u het er niet mee eens? Schrijf dan een bezwaarschrift aan de
+gemeente. Het bezwaarschrift moet aan een aantal eisen voldoen. Geef aan waarom u het niet eens bent
+ondertekenen. Stuur het bezwaarschrift binnen zes weken na de verzenddatum
+met het genomen besluit. Vermeld de datum van uw bezwaarschrift
+7740 AA Coevorden.
+en vergeet
+U kunt
+niet
+van
+ook
+dit
+uw
+digitaal
+besluit
+bezwaarschrift
+naar:
+bezwaar
+te
+college van burgemeesters en wethouders , Postbus 2,
+maken. Kijk hiervoor op de website: www. coevorden. nl/bezwaarschrift-indienen.
+Heeft u vragen over deze brief?
+Neem dan contact op met (geanonimiseerd) via telefoonnummer 14 0524 of per mail: info @coevorden.nl.
+Wilt u bij vervolgcorrespondentie zaaknummer 66476-2024 vermelden. Op die manier kunnen wij u beter
+en sneller van dienst zijn.
+BN
+Met vriendelijke groet ,
+en
+namens
+wethouders
+het college
+van Coevorden
+van burgemeester
+,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+P/ DVG JURIDISCHE DIENSTVERLENING BV
+| Deskundige en betrokken juridische ondersteuning
+Woo-verzoek Leges factuurnummer 7401002167
+Aan:
+Gemeente Coevorden
+Heffingsambtenaar
+Postbus 2
+7740 AA Coevorden
+Van:
+Gemachtigde:
+DVG Dienstverlening BV
+Willem Schoutenstraat 13
+7825 VV Emmen
+Datum: 29 november 2024
+Betreft: Woo-verzoek inzake legesaanslag (factuurnummer 7401002167) en besluitvorming
+vergunningaanvraag inrit en bestemmingsplan
+Geachte heer/mevrouw,
+Op grond van de Wet open overheid (Woo) richt ik mij tot U met het verzoek om inzage in en
+verstrekking van documenten die betrekking hebben op de proportionaliteitstoetsing en
+besluitvorming inzake de opgelegde legesaanslag met factuurnummer 7401002167. Dit verzoek
+heeft specifiek betrekking op documenten die inzicht bieden in de afwegingen, overwegingen en
+juridische onderbouwing van het besluit en de hoogte van de legesaanslag.
+Juridisch kader van de aanvraag om verplaatsen van de uitweg
+De Beleidsregel Uitwegen Coevorden, geldend sinds 15 februari 2012, biedt een kader voor het
+beoordelen van vergunningen voor het aanleggen of wijzigen van uitwegen naar openbare wegen
+in de gemeente Coevorden. Deze regels zijn gebaseerd op artikel 2.1.5.3 van de Algemeen
+Plaatselijke Verordening (APV) Coevorden en artikelen uit de Gemeentewet en de Algemene wet
+bestuursrecht (Awb).
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+De beleidsregel stelt strikte eisen ten aanzien van de bruikbaarheid , veiligheid en esthetiek van
+de weg , evenals de bescherming van groenvoorzieningen. Voor specifieke situaties zoals
+agrarische percelen of woonbestemmingen gelden aanvullende vereisten. De gemeente is
+verantwoordelijk voor het waarborgen van deze eisen en heeft hierbij een zorgvuldigheidsplicht.
+Samenvatting van de correspondentie
+Brief van de gemeente d. d. 22 maart 2024 (kenmerk Z2023-027599): " Voornemen weigering
+aanvraag verleggen bestaande inrit "
+De gemeente motiveert haar voornemen tot weigering met het argument dat het verleggen van
+de inrit schade toebrengt aan een waardevolle boom die deel uitmaakt van de laanbeplanting.
+De wortelzone zou beschadigd worden , wat leidt tot instabiliteit en risico’s voor de omgeving. De
+aanvraag wordt als onaanvaardbare aantasting van het openbaar groen beschouwd.
+Brief van de gemeente d. d. 17 mei 2024 (kenmerk Z2023-027599): "Aanvullende activiteit
+benodigd "
+De gemeente geeft aan dat de aangeleverde situatietekeningen een afwijking van het
+bestemmingsplan vereisen. Er wordt verzocht om een ruimtelijke onderbouwing met aandacht
+voor de ruimtelijke aanvaardbaarheid en inpassing , evenals betrokkenheid van omwonenden.
+Brief van de gemeente d. d. 12 september 2024 (kenmerk Z2023-027599): " Besluit buiten
+behandeling stellen aanvraag "
+De gemeente stelt dat de aanvraag niet voldoet aan de gestelde voorschriften en op grond van
+artikel 4:5 Awb buiten behandeling wordt gesteld. De ontbrekende aanvullende gegevens maken
+een goede ruimtelijke afweging onmogelijk , aldus de gemeente.
+Argumenten namens cliënt
+1. Onjuiste onderbouwing aantasting openbaar groen
+De beleidsregels van de gemeente staan verplaatsing van uitwegen toe , mits aan de
+gestelde voorwaarden wordt voldaan.
+De stelling dat de boom zal beschadigen is feitelijk onjuist en onvoldoende
+onderbouwd.
+De verkeersveiligheid wordt verbeterd door de voorgestelde verplaatsing , wat ook in
+lijn is met de beleidsdoelen.
+2. Onzorgvuldigheid in besluitvorming
+De gemeente heeft onredelijke eisen gesteld door aanvullende gegevens te
+verlangen die niet noodzakelijk zijn voor een zorgvuldige besluitvorming.
+De proportionaliteit van de maatregel is niet gewaarborgd , wat in strijd is met artikel
+3:4 , tweede lid , Awb.
+Het besluit om de aanvraag buiten behandeling te stellen is genomen zonder een
+deugdelijke motivering.
+­
+­
+­
+­
+­
+­
+Gelijkheidsbeginsel
+Met verwijzing naar artikel 1 van de Grondwet , dat het gelijkheidsbeginsel en het verbod op
+discriminatie waarborgt , richt mijn cliënt zich tot u met betrekking tot recente veranderingen aan
+uitritten en bestrating in de directe omgeving na onderhoudswerkzaamheden aan de openbare
+weg. Deze beginselen zijn fundamenteel voor een rechtsstaat waarin gelijke behandeling
+gewaarborgd is. Mijn cliënt wenst inzicht te verkrijgen in de genomen besluiten om te
+beoordelen of deze op consistente en rechtmatige wijze zijn toegepast in relatie tot zijn situatie
+en uw besluit om zijn aanvraag buiten behandeling te stellen.
+Specifiek Woo-verzoek
+Namens cliënt verzoek ik u aan de voorgaande punten gerelateerde documenten , waaronder:
+1. Beleidsnota’s , memo’s en richtlijnen waarin overwegingen en conclusies inzake de
+zorgvuldigheid en proportionaliteit expliciet worden behandeld met betrekking tot de
+dienstverlening en legesaanslag met factuurnummer 7401002167.
+2. Interne correspondentie (e-mails , memo’s , verslagen van vergaderingen) waarin de
+zorgvuldigheid en proportionaliteit van de maatregel en de hoogte van de legesaanslag is
+besproken.
+3. Juridische adviezen , zowel intern als extern , met betrekking tot de rechtmatigheid van de
+opgelegde legesaanslag.
+4. Besluiten , ontwerpen van besluiten en andere documenten die inzicht geven in de
+overwegingen en conclusies.
+5. Een gedetailleerde en verifieerbare uitsplitsing van de berekening van de legeskosten.
+6. Documenten die aantonen hoe de gemeente voldoet aan artikel 229 Gemeentewet.
+In relatie tot het gelijkheidsbeginsel verzoekt mijn cliënt om afschriften van de besluiten die
+betrekking hebben op de volgende situaties:
+7. De aanleg van een oprit op Brink 11 , waar voorheen geen oprit aanwezig was.
+8. De verbreding van de oprit op Brink 13 tot tweemaal de toegestane breedte.
+9. Het aanleggen van bestrating met “eigen” klinkers tot aan de straat op Brink 15 , terwijl de
+erfgrens bij de heg ligt.
+10. Het leggen van klinkers in een “eigen” patroon tot aan de weg op gemeentegrond bij
+Menso Altingstraat 13.
+11. Het aanleggen van bestrating met “eigen” klinkers tot aan de straat op Menso Altingstraat
+15 , waarbij ook hier de erfgrens bij de heg ligt.
+12. De gedeeltelijke bestrating met “gemeenteklinkers” bij de kerk aan Brink 7 , waar de
+erfgrens zich volgens mijn cliënt bij het veldkeienmuurtje bevindt.
+NB. Mijn cliënt hecht eraan om deze informatie te ontvangen teneinde te beoordelen of het
+gelijkheidsbeginsel in deze gevallen op een eenduidige wijze is toegepast. Dit verzoek wordt
+gedaan in overeenstemming met het beginsel van transparantie en rechtmatigheid in het
+bestuursrecht.
+Pf DVG JURIDISCHE DIENSTVERLENING BV
+| Deskundige en betrokken juridische ondersteuning
+IA
+Specificatie en beperkingen
+Indien bepaalde documenten niet volledig openbaar gemaakt kunnen worden, verzoek ik:
+-
+Een duidelijke motivering van de weglatingen, inclusief beroep op de betreffende
+weigeringsgronden uit de Woo.
+-
+Een overzicht van alle documenten die geheel of gedeeltelijk openbaar worden
+gemaakt.
+-
+Indien mogelijk, de documenten digitaal in PDF-formaat te verstrekken naar [e-
+mailadres].
+Toelichting en belang
+Dit verzoek wordt gedaan in het kader van het bezwaar tegen de rechtmatigheid van de
+legesaanslag en de achterliggende besluitvorming. De gemeente heeft nagelaten transparantie
+te bieden over de kosten en proportionaliteit, hetgeen noodzakelijk is om de rechtmatigheid van
+het besluit te beoordelen.
+Termijn en contactgegevens
+Ik verzoek u vriendelijk om mijn verzoek binnen de wettelijke termijn van vier weken te
+behandelen. Bij vragen of een verzoek om termijnverlenging verzoek ik u contact op te nemen via
+onderstaand e-mailadres.
+Bij voorbaat dank voor uw medewerking. Ik zie uw bevestiging van ontvangst en verdere
+afhandeling met belangstelling tegemoet.
+Met vriendelijke groet,
+(geanonimiseerd)
+Jurist DVG Dienstverlening BV
+Mede namens:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Postadres:
+Postbus 2
+7740 AA Coevorden
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl
+Die Gemeente
+Coevorden
+'t Hunebed recreatie
+Bezoekadres:
+Kasteel 1
+7741 GC Coevorden
+Uw aanvraag 30 december 2023
+OLO nummer 8323599
+Afdeling/Team Bedrijfsvoering, Omgevingsontwikkeling
+Behandeld door
+nn
+Kenmerk
+a
+9
+(geanonimiseerd)
+Bijlage(n)
+a
+Coevorden 12 september 2024 Verzenddatum: 12 september 2024
+Onderwerp Besluit buiten behandeling stellen aanvraag
+Op 30 december 2023 hebben wij uw aanvraag omgevingsvergunning ontvangen voor het verleggen
+van een bestaande inrit op het perceel Brink 9a te Sleen.
+Uw aanvraag is geregistreerd onder nummer Z2023-027599.
+De aanvraag heeft betrekking op de volgende activiteiten:
+.
+Planologisch strijdig gebruik
+.
+Inrit/uitweg
+Wij hebben u op 9 januari 2024 het verzoek gestuurd om de aanvraag aan te vullen voor de activiteit
+inrit/uitweg. Op 1 maart 2024 heeft u de aanvraag voor de activiteit inrit/uitweg aangevuld.
+Op 18 maart 2024 is de beslistermijn met 6 weken verlengd.
+2 april 2024 bent u geïnformeerd over het feit dat wij voornemens
+zijn de vergunning te weigeren
+omdat niet wordt voldaan aan de gestelde eisen. Er zou onaanvaardbare aantasting van openbaar
+groen plaatsvinden.
+Op 17 april heeft u uw zienswijze kenbaar gemaakt. In deze zienswijze heeft u aangegeven dat er
+geen sprake is van onaanvaardbare aantasting van openbaar groen. Dit hebben wij ter plekke
+gecontroleerd en wij hebben hetzelfde geconcludeerd. U heeft dit bevestigd gekregen middels brief op
+17 mei 2024.
+In dezelfde brief van 17 mei 2024 hebben we u geïnformeerd over de verdere behandeling van deze
+aanvraag. Na een verdere beoordeling blijkt dat planologisch strijdig gebruik onlosmakelijk verbonden
+is bij deze aanvraag en de uitgebreide voorbereidingsprocedure van toepassing is. We hebben u in
+deze brief in de gelegenheid gesteld binnen drie weken de ontbrekende aanvullende gegevens in te
+dienen. U heeft verzocht om uitstel. We hebben u uitstel gegeven tot uiterlijk 19 augustus 2024. Wij
+hebben de gevraagde gegevens en bescheiden voor het planologisch strijdig gebruik niet mogen
+ontvangen.
+Besluit aanvraag niet behandelen
+Nu wij niet de gevraagde aanvullende gegevens hebben ontvangen, voldoet uw aanvraag niet aan de
+in de Ministeriele regeling omgevingsrecht (Mor) gestelde voorschriften voor het in behandeling
+nemen van een aanvraag voor een omgevingsvergunning. Omdat uw aanvraag niet voldoet aan de
+voorschriften voor het in behandeling nemen van een aanvraag voor een omgevingsvergunning,
+besluiten wij op grond van artikel 4:5 van de Algemene wet bestuursrecht, om uw aanvraag niet in
+behandeling te nemen. [Dat betekent dat het gebruik van de grond als een parkeerplaats voor de
+groepsaccommodatie op de door u voorziene locatie niet is toegestaan en de inrit/uitweg op de
+oorspronkelijke plaats blijft gehandhaafd.
+Wij zijn van mening dat wij in dit geval tot buitenbehandeling stellen kunnen beslissen. Dit is volgens
+ons geen onevenredig besluit. Er ontbreekt cruciale informatie om te kunnen beslissen op de
+aanvraag, namelijk de gegevens waar wij u bij brief van 17 mei 2024 om hebben gevraagd. U heeft
+ruim voldoende tijd gehad (tot 19 augustus 2024) om deze gegevens aan te leveren. Er kan geen
+goede ruimtelijke afweging plaatsvinden door het ontbreken van deze informatie.
+Rechtsbescherming
+U kunt binnen zes weken na de dag van verzending van dit besluit bezwaar aantekenen.
+Voor meer informatie over de bezwaarprocedure verwijzen wij u naar de bijlage.
+Verschuldigde leges
+Overeenkomstig de legesverordening bent u voor het in behandeling nemen van uw aanvraag leges
+verschuldigd. Hiervoor ontvangt u binnenkort een nota. Bij deze aanslag wordt vermeld op welke wijze
+u eventueel bezwaar kunt aantekenen tegen de hoogte van het legesbedrag en de gehanteerde
+grondslagen.
+Planologisch strijdig gebruik € 3048,60
+Inrit/uitweg € 252,55
+€ 3.301,15
+50 % restitutie € 1.650,58
+Totaal verschuldigd € 1.650,57
+Heeft u nog vragen?
+U mag altijd contact opnemen met
+nn op telefoonnummer 14 0524 of via e-mail
+info@coevorden.nl. Wilt u dan zaaknummer 23-027599 vermelden? Op die manier kunnen wij u
+(geanonimiseerd)
+sneller en beter van dienst zijn. Houdt u er rekening mee dat wanneer wij u bellen dit bij u binnen
+komt als anoniem.
+Deze brief is digitaal verstuurd naar de aanvrager via e-mail:
+Een kopie van deze brief is digitaal verstuurd gef
+le
+e-mail .
+Met vriendelijke groet,
+Namens het college van burgemeester en wethouders,
+8 EE omgevingsvergunningen
+(geanonimiseerd)
+Deze brief is digitaal gemaakt en daarom staat er geen handtekening onder.
+Bezwaar en beroep
+tegen besluiten van de gemeente Coevorden
+De Algemene wet bestuursrecht
+U hebt zojuist een besluit van de gemeente Coevorden ontvangen. In dit besluit wordt u door de
+gemeente Coevorden een recht verleend of geweigerd , bijvoorbeeld een vergunning , een ontheffing of
+een subsidie. Ook kan het zijn dat de gemeente aan u een verplichting om iets te doen , of juist om
+iets na te laten , heeft opgelegd.
+Deze beslissing kan genomen zijn door of namens de gemeenteraad , het college van burgemeester en
+wethouders , of de burgemeester.
+Het is natuurlijk mogelijk dat u het met de genomen beslissing niet eens bent. Daarom biedt de
+Algemene wet bestuursrecht (Awb) u de mogelijkheid bezwaar te maken tegen deze beslissing of
+daartegen beroep in te stellen. U kunt dit doen als u belanghebbende bent , dat wil zeggen als uw
+belang rechtstreeks bij het besluit is betrokken. Dit kan bijvoorbeeld het geval zijn als u van mening
+bent dat u schade lijdt door het genomen besluit.
+Dit hoeft niet perse financiële schade te zijn. Het is ook mogelijk dat u schade lijdt die niet in geld is
+uit te drukken. Die schade kan op verschillende manieren ontstaan. Bijvoorbeeld als een
+aangevraagde vergunning niet wordt verleend. Maar ook kan er schade ontstaan als gevolg van de
+voorwaarden die bij een verleende vergunning worden opgelegd.
+Wat kunt u doen als u het niet eens bent met de voor u liggende beslissing? De Awb biedt u
+verschillende mogelijkheden. In het besluit dat u is toegestuurd is aangegeven welke van de hieronder
+vermelde mogelijkheden voor u van belang zijn.
+A. Bezwaarschrift
+Als u bezwaar hebt tegen het besluit van de gemeente , kunt u een bezwaarschrift indienen bij
+hetzelfde orgaan dat het besluit heeft genomen of namens wie het besluit is genomen:
+Gemeente Coevorden
+Postbus 2
+7740 AA Coevorden
+Als u bezwaar maakt tegen gemeentelijke leges die u opgelegd zijn , kunt u het bezwaarschrift
+indienen bij de heffingsambtenaar.
+Het bezwaarschrift moet binnen zes weken na de datum van verzending van het besluit verstuurd zijn
+aan het bestuursorgaan. Als er alleen een datering op het besluit staat , zonder datum van verzending ,
+dan betekent dit dat het besluit op dezelfde dag als die van de datering is verzonden. Indiening van
+een bezwaarschrift is - afgezien van portokosten - kosteloos. Het bezwaarschrift moet ingevolge de
+Awb aan enkele minimumeisen voldoen en daarom tenminste bevatten:
+• naam en adres van de indiener;
+• de dagtekening;
+• een omschrijving van het besluit waartegen het bezwaar is gericht;
+• de gronden (redenen) van het bezwaar;
+• een vertaling van het bezwaarschrift als deze in een vreemde taal is gesteld en een vertaling
+voor een goede behandeling noodzakelijk is;
+• zo mogelijk , doch niet verplicht , een afschrift van het besluit waartegen het bezwaar is
+gericht; is dit niet mogelijk vermeld dan datum en nummer van het besluit.
+Als het bezwaarschrift niet voldoet aan deze eisen of te laat (na zes weken) is ingediend , kan het
+bezwaarschrift niet-ontvankelijk worden verklaard. Dit betekent dat het bestuursorgaan niet
+inhoudelijk op uw bezwaren hoeft in te gaan.
+Na ontvangst van het bezwaarschrift ontvangt u een ontvangstbevestiging.
+De behandelende afdeling kan ook contact met u opnemen om het besluit nog nader toe te lichten en
+eventueel samen met u te bezien op welke wijze het probleem kan worden opgelost.
+U wordt in de meeste gevallen in de gelegenheid gesteld uw bezwaren nader mondeling toe te lichten.
+Voor dit zogenaamde aanhoren wordt u apart uitgenodigd. Een onafhankelijke commissie zal uw
+bezwaarschrift behandelen en u horen. Deze commissie brengt na het horen een advies uit aan het
+desbetreffende bestuursorgaan. Het bestuursorgaan neemt de beslissing op uw bezwaarschrift.
+Kostenvergoeding bezwaarprocedure
+Artikel 7:15 Algemene wet bestuursrecht biedt de mogelijkheid om in het bezwaarschrift te verzoeken
+om vergoeding van de kosten in de bezwaarprocedure. Als u in het gelijk wordt gesteld , omdat het
+bestuursorgaan een fout heeft gemaakt , dan kunt een vergoeding krijgen voor de kosten die u
+redelijkerwijs heeft moeten maken voor de behandeling van uw bezwaarschrift. Het gaat dan
+bijvoorbeeld om de kosten van de advocaat of een andere professionele vertegenwoordiger , voorzover
+de inschakeling noodzakelijk was , de reiskosten voor het bijwonen van de hoorzitting en eventuele
+kosten van uittreksels.
+Rechtstreeks beroep
+In bepaalde gevallen kan de bezwaarschriftprocedure worden overgeslagen. Artikel 7:1a Algemene
+wet bestuursrecht geeft u de mogelijkheid om in het bezwaarschrift te verzoeken om de zaak door te
+zenden aan de bestuursrechter om onmiddellijk in beroep te worden behandeld. Het bestuursorgaan
+kan instemmen met dit verzoek om de bezwaarschriftprocedure over te slaan wanneer de zaak
+daarvoor geschikt is. Een zaak is geschikt als deze weinig kan toevoegen aan de eerder vastgestelde
+feiten en uitgewisselde standpunten.
+B. Beroepschrift
+Als u het niet eens bent met de op uw bezwaarschrift genomen beslissing kunt u binnen zes weken na
+de dag van verzending van dat besluit beroep instellen bij de rechtbank te Groningen. U kunt het
+beroepschrift sturen aan:
+Rechtbank Noord-Nederland
+Postbus 150
+9700 AD Groningen
+Voor een beroepschrift gelden dezelfde minimumeisen als voor een bezwaarschrift (zie onder A. ) U
+kunt ook digitaal beroep instellen bij genoemde rechtbank via
+http://loket. rechtspraak. nl/bestuursrecht. Daarvoor moet u wel beschikken over een elektronische
+handtekening (DigiD). Kijk op de genoemde site voor de precieze voorwaarden.
+U moet voor de indiening van een beroepschrift bij de rechtbank zogenaamde griffierechten betalen.
+U ontvangt hierover bericht van de griffier van de rechtbank.
+De griffierechten bedragen per 1 januari 2024:
+€ -, bij zaken over een uitkering (sociale zekerheid);
+€ - , voor natuurlijke personen (individuen) bij alle andere bestuursrechtelijke zaken;
+€ - , voor rechtspersonen , alle zaken (bijvoorbeeld een bedrijf of de overheid).
+Deze griffierechten krijgt u terug als de beroepszaak gunstig voor u afloopt.
+U bent niet verplicht een advocaat in te schakelen. Het mag natuurlijk wel. Over hetgeen u in deze
+procedure verder mag of moet doen , ontvangt u bericht van de rechtbank.
+C. Voorlopige voorziening
+Als u tegen een besluit bezwaar maakt of beroep instelt , heeft dit geen schorsende werking. Dit
+betekent dat het genomen besluit mag worden uitgevoerd zolang niet in een nieuw besluit , of door de
+voorzieningenrechter van de rechtbank , anders is beslist. Uitvoering van een besluit kan echter
+nadelig voor u zijn. Daarom kunt u , zolang er nog geen definitieve uitspraak over uw bezwaar of
+beroep is , bij afzonderlijke brief een voorlopige voorziening - bij voorbeeld een schorsing - vragen aan
+de voorzieningenrechter van de rechtbank. U kunt uw verzoek richten aan:
+de Voorzieningenrechter van de Rechtbank Noord-Nederland
+Postbus 150
+9700 AD Groningen
+Wordt uw verzoek ingewilligd dan wordt een speciale regeling getroffen voor de periode dat uw
+bezwaar- of beroepschrift nog in behandeling is. Voor de indiening van een verzoek om een voorlopige
+voorziening bent u griffierecht verschuldigd. Als u tegelijk met het beroep een voorlopige voorziening
+aanvraagt bedraagt het tarief voor natuurlijke SeUVRQeQ € - , en voor rechtspersonen € -.,
+Nadere informatie over de procedure ontvangt u van de rechtbank.
+Burgemeester en Wethouders
+van Coevorden,
+dd. 29 OKT, 2020 nr ….
+Gemeente
+Coevorden
+54127/2020
+____OMGEVINGSVERGUNNING
+—_ /ÛCHEE0/7/0
+(jp
+Het college van burgemeester en wethouders van de gemeente Coevorden heeft op 25 juli 2020 een
+aanvraag voor een omgevingsvergunning ontvangen voor het realiseren van een inrit.
+De aanvraag betreft de locatie, kadastraal bekend gemeente Sleen, sectie K‚ nummer 360, plaatselijk
+bekend Brink 11 te Sleen.
+De aanvraag is ingediend door RN Brink 11, 7841 CE Sleen en geregistreerd onder
+zaaknummer 54127-2020.
+De welstandscommissie heeft op 26 oktober 2020 geadviseerd dat het bouwplan voldoet aan redelijke
+eisen van welstand.
+BESLUIT
+29 oktober 2020
+Burgemeester en wethouders van de gemeente Coevorden besluiten, gelet op het bepaalde bij of
+krachtens de Wet algemene bepalingen omgevingsrecht en de Algemene wet bestuursrecht en de
+bijbehorende overwegingen:
+-
+aan voornoemd, de gevraagde reguliere omgevingsvergunning te verlenen.
+De bij dit besluit behorende en als zodanig gewaarmerkte en goedgekeurde bijlagen, de op de bijlage
+vermelde voorschriften en overige bescheiden maken deel uit van deze omgevingsvergunning.
+Activiteiten
+—
+_inrit/uitweg
+Procedure
+Reguliere procedure en verlenging beslistermijn met zes weken conform artikel 3.9 lid 2 van de Wet
+algemene bepalingen omgevingsrecht.
+Conclusie per activiteit
+De conclusie is overeenkomstig het gestelde onder artikel 2.18 van de Wet algemene bepalingen
+omgevingsrecht tot stand gekomen.
+Met vriendelijke groet,
+Namens het college van burgemeester en
+VERZONDEN và Ks) OKT 2020
+wethouders van Coevorden, DN | k
+Juridisch kwaliteitsmedewerker,
+omeen
+(geanonimiseerd)
+(geanonimiseerd)
+«
+Leges
+Leges inrit/uitweg
+Totaal
+23325
+,
+23325
+,
+€
+€
+Rechtsmiddelen
+Tegen dit besluit kunt u , alsmede belanghebbenden , binnen 6 weken na de datum van bekendmaking
+(=datum verzending van dit besluit) schriftelijk en gemotiveerd bezwaar indienen bij ons college. Een
+bezwaarschrift heeft geen schorsende werking. Degene die een bezwaarschrift heeft ingediend kan , om
+te voorkomen dat door de uitvoering van het besluit onomkeerbare gevolgen ontstaan , op grond van
+artikel 8:81 van de Algemene wet bestuursrecht een verzoek tot het treffen van een voorlopige
+voorziening indienen bij de voorzieningenrechter van de rechtbank , Postbus 150 , 9700 AD Groningen.
+Voor meer informatie omtrent bezwaar en beroep verwijzen wij u naar bijgaande informatiefolder
+" Bezwaar en beroep tegen besluiten van de gemeente Coevorden " , maar u kunt natuurlijk ook contact
+opnemen met de afdeling Leefomgeving , Team Omgevingsontwikkeling.
+Behoort bij bnef/besiuit van
+Burgemeester en Wethouders
+van Coevorden ,
+d. d. 29 OKI. 2020 nr.
+54 1 2 7/2020
+VERBÜNDEN 2 5 25îr|
+Gemeente Coevorden
+Bijlage behorende bij de omgevingsvergunning:
+: 54127-2020
+(geanonimiseerd)
+Brin
+: e Sleen
+: het realiseren van een inrit
+: Brink 11 te Sleen
+ten
+Nummer
+name van
+wonend
+voor
+op het perceel
+VOORSCHRIFTEN
+Activiteit inrit/uitweg:
+1. Alle eventuele kosten aan het openbare gebied als het verplaatsen van lantaarnpalen , het kappen
+van bomen , het wijzigen van een trottoir of trottoirbanden etc. , voortvloeiende uit de aanleg van uw
+inrit , komen voor uw rekening. Voor de exacte uitvoering van de inrit dient vooraf overleg gepleegd
+te worden met team Vastgoed en Infrastructuur , te bereiken via het algemene nummer 14 0524.
+2. Vergunninghouder moet de werkzaamheden aan de stoeprand op eigen kosten laten uitvoeren door
+een aannemer.
+an
+|
+Behoort bijtieibashat
+en: Wethouders
+Burgemeester
+van Coevorden ,
+ARCHIEFEXEMPLAAR
+dd. 29 OKT. 2020 nr. ….
+54127/2020
+JE
+”
+ZANN rr Al
+

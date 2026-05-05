@@ -1,0 +1,8747 @@
+---
+title: "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden"
+maps: ["2025","Woo-verzoeken"]
+source: "2025/Woo-verzoeken/2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.pdf"
+date: 2026-05-05
+---
+
+Postadres:
+Postbus 2
+7740 AA Coevorden
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl
+Bezoekadres:
+Kasteel 1
+7741GC Coevorden
+Uw bericht Woo-verzoek 13 mei 2025
+Afdeling/Team ed en Infrastructuur
+Behandeld door
+ni
+Kenmerk 29942-2025
+Bijlage(n) meerdere
+Coevorden 16 juni 2025
+Onderwerp Besluit Woo-verzoek
+(geanonimiseerd)
+Geachte (geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+nn
+Haven 4
+7741 JV Coevorden
+(geanonimiseerd) (geanonimiseerd)
+Me museumcoevorden.nl
+(geanonimiseerd)
+Verzenddatum: 17 juni 2025
+In uw mail van 13 mei 2025 heeft u met een beroep op de Wet open overheid (hierna: Woo)
+verzocht om het openbaar maken van documenten. U wilt inzage in alle documentatie met
+betrekking tot de scheurvorming van Het Arsenaal te Coevorden. Het verzoek om informatie
+gaat specifiek om de volgende documenten:
+1. Het rapport van Monumentenwacht uit 2024 met daarin de constatering van
+scheurvorming;
+2. De notulen van de hieruit volgende vergaderingen rondom de
+herstelwerkzaamheden;
+3. Tussentijdse rapportages met betrekking tot het Arsenaal;
+4, Overige significante communicatie rondom de scheurvorming (formele
+besluitvorming)
+Uw verzoek om informatie valt onder de reikwijdte van de Woo. Voor de relevante wettelijke
+bepalingen verwijzen wij u naar bijlage 1. Middels deze brief nemen
+wij een beslissing op uw
+Woo-verzoek en over de documenten die zijn aangetroffen op basis van uw Woo-verzoek.
+Procesverloop
+U heeft op 13 mei 2025 uw Woo-verzoek ingediend. Wij hebben uw verzoek op 13 mei 2025
+ontvangen. Wij hebben u op 17 mei 2025 een brief gestuurd waarin werd vermeld dat de
+beslistermijn met twee weken werd verlengd vanwege de omvang van het verzoek.
+Besluit
+Wij besluiten uw verzoek toe te wijzen en de documenten (deels) openbaar te maken, met
+inachtneming van de uitzonderingsgronden uit hoofdstuk 5 van de Woo. De inventarislijst, die
+als bijlage bij dit besluit is bijgevoegd, maakt integraal onderdeel uit van dit besluit. In de
+inventarislijst is opgenomen welke uitzonderingsgronden van toepassing zijn.
+Overwegingen
+Iedereen heeft het recht om overheidsinformatie op te kunnen vragen zonder daarbij een reden
+te hoeven aangeven. Dit staat in artikel 1.1 van de Woo. Het uitgangspunt van de Woo is dat
+overheidsinformatie openbaar is, tenzij er sprake is van een uitzonderingsgrond uit hoofdstuk 5
+van de Woo.
+Gemeente
+Coevorden
+De Woo is niet van toepassing op informatie die al openbaar is.
+Wij hebben bij het zoeken naar documenten de volgende zoektermen gehanteerd: Arsenaal, Het
+Arsenaal, onderzoeksrapport, verzakking Arsenaal, rapportages Arsenaal,
+herstelwerkzaamheden, monumentenwacht, scheurvorming, notulen vergadering Arsenaal,
+Haven 4, etc.
+Openbaar met uitzondering van: persoonsgegevens
+Wij besluiten de documenten openbaar te maken, met uitzondering van de persoonsgegevens
+die daarin staan. Wij hebben de namen van inwoners en ambtenaren weggelakt. Daarnaast
+hebben we
+contactgegevens, zoals e-mailadressen, functie en telefoonnummers weggelakt die
+herleidbaar zijn tot personen en die inbreuk maken op de persoonlijke levenssfeer (artikel 5.1,
+lid 2 sub e Woo). Hierbij overwegen wij dat het openbaar maken van persoonsgegevens voor
+iedereen leesbaar en onomkeerbaar is. Bij de informatie in de opgevraagde documenten weegt
+naar ons oordeel de persoonlijke levenssfeer van de betrokken persoon zwaarder dan het belang
+van openbaarheid van deze informatie. Namen van de burgemeester, wethouders,
+gemeentesecretaris en (gekozen) politici maken we wel openbaar, omdat deze personen vanuit
+hun functie in de openbaarheid treden.
+Openbaar met uitzondering van: andere dan vertrouwelijk aan de overheid verstrekte
+concurrentiegevoelige bedrijfs- en fabricagegegevens
+Voor informatie over bedrijfs- en fabricagegegevens die vertrouwelijk aan de overheid is
+verstrekt en geen milieu-informatie bevat, geldt de absolute weigeringsgrond. Die informatie
+mag dus niet wordt geopenbaard. Informatie over bedrijfs- en fabricagegegevens die niet
+vertrouwelijk is verstrekt, wordt eveneens niet geopenbaard als het belang van het beschermen
+van de gegevens zwaarder weegt dan het belang van openbaarheid. Hierbij kun je bijvoorbeeld
+denken aan informatie die betrekking heeft op het fabricageproces of de strategie van een
+onderneming. Ook actuele offertes, aanbestedingen, bedrijfseconomische gegevens en andere
+concurrentiegevoelige gegevens kunnen onder deze uitzonderingsgrond vallen.
+Wijze van openbaarmaking
+De documenten die zijn opgenomen in de inventarislijst zullen wij u via een beveiligde e-mail
+verstrekken.
+Uw Woo-verzoek, het besluit en de eventueel openbaargemaakte documenten worden ook op
+onze website geplaatst (www.coevorden.nl/publicaties-wet-open-overheid). Zo is de informatie
+voor iedereen beschikbaar. Een Woo-verzoek gaat namelijk over het openbaar maken van
+documenten voor iedereen. In deze documenten zijn persoonsgegevens onleesbaar gemaakt.
+Niet mee eens?
+Vindt u dat het besluit onjuist is, of bent u het er niet mee eens? Schrijf dan een bezwaarschrift
+aan de gemeente. Het bezwaarschrift moet aan een aantal eisen voldoen. Geef aan waarom u
+het niet eens bent met het genomen besluit. Vermeld de datum van uw bezwaarschrift en
+vergeet niet uw bezwaarschrift te ondertekenen. Stuur het bezwaarschrift binnen zes weken na
+de verzenddatum van dit besluit naar: college van burgemeesters en wethouders, Postbus 2,
+7740 AA Coevorden. U kunt ook digitaal bezwaar maken. Kijk hiervoor op de website:
+www.coevorden.nl/bezwaarschrift-indienen.
+Gemeente
+Coevorden
+Heeft u vragen over deze brief?
+Neem dan contact op met GN via telefoonnummer 14 0524 of per mail:
+info@coevorden.nl. Wij verzoeken u bij vervolgcorrespondentie het zaaknummer 29942-2025 te
+vermelden. Op die manier kunnen wij u beter en sneller van dienst zijn.
+(geanonimiseerd)
+Hoogachtend,
+namens het college van burgemeester
+Ol
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bezwaar maken tegen
+een besluit?
+Wilt u bezwaar maken tegen een besluit van de gemeente
+Coevorden? Deze folder legt u uit hoe het werkt.
+Bezwaarschrift indienen
+Natuurlijk kan het zijn dat u het niet
+eens bent met het genomen besluit
+of dat het vragen bij u oproept. U
+kunt dan contact opnemen met de
+persoon die het besluit heeft
+genomen. Deze medewerker kan het
+besluit toelichten en eventuele
+vragen beantwoorden. Als u het nog
+steeds niet eens bent met het
+besluit, dan heeft u de mogelijkheid
+om bezwaar te maken. Nadat een
+besluit is verstuurd (of
+gepubliceerd), heeft u 6 weken de
+tijd hiervoor.
+U kunt dit doen door een
+bezwaarschrift in te dienen. Een
+bezwaarschrift is een brief waarin u
+aangeeft waarom u het niet eens
+bent met een besluit.
+Wat staat er in uw
+bezwaarschrift?
+In het bezwaarschrift moeten de
+volgende gegevens staan:
+• uw naam en adres;
+• de datum waarop u het
+bezwaarschrift schrijft;
+• een omschrijving van het besluit
+waartegen u bezwaar maakt
+(zaaknummer/kenmerk besluit);
+• de redenen waarom u het niet
+eens bent met het besluit;
+• uw handtekening.
+Staan deze gegevens er niet in of
+bent u te laat (na 6 weken)? Dan
+kan het zijn dat uw bezwaarschrift
+niet in behandeling wordt genomen.
+Waar moet uw
+bezwaarschrift naartoe?
+Uw bezwaarschrift kunt u per post,
+per e-mail of via de website
+versturen.
+Stuur uw bezwaarschrift per post
+naar:
+Gemeente Coevorden
+Postbus 2
+7740 AA Coevorden
+Stuur uw bezwaarschrift per e-mail
+naar: info@coevorden.nl.
+Ga voor de website naar
+www.coevorden.nl/bezwaarschrift-
+indienen. Onder het kopje ‘bezwaar
+indienen met DigiD’ vindt u een
+online formulier waar u uw gegevens
+en uw bezwaarschrift kunt indienen.
+U heeft zojuist een besluit ontvangen van de gemeente Coevorden.
+Dit besluit is genomen door of namens de gemeenteraad, het
+college van burgemeester en wethouders of de burgemeester. Dit
+zijn bestuursorganen van de gemeente Coevorden. In het besluit
+wordt u een recht verleend of geweigerd, maar ook kan het zijn dat
+u verplicht wordt om iets te doen of juist na te laten.
+Voorbeeld bezwaarschrift
+Voor een voorbeeld van een
+bezwaarschrift kijkt u op de website
+www.coevorden.nl/bezwaarschrift-
+indienen.
+Maakt u bezwaar namens
+iemand anders?
+Hiervoor heeft u een machtiging
+nodig. Het machtigingsformulier kunt
+u opvragen bij de gemeente
+Coevorden.
+Ook vindt u een voorbeeld van een
+machtiging op de website
+www.coevorden.nl/bezwaarschrift-
+indienen.
+Voorlopige voorziening
+Het besluit waar u het niet mee eens
+bent, blijft gelden tijdens de
+behandeling van uw bezwaar. Wat nu
+als u de behandeling van uw
+bezwaarschrift niet kunt afwachten?
+Vraag dan om een voorlopige
+voorziening bij de rechtbank. Dat kan
+alleen als u ook bezwaar heeft
+gemaakt. Meer informatie hierover
+staat op de website
+www.coevorden.nl/bezwaarschrift-
+indienen.
+U heeft uw bezwaarschrift
+ingediend. Hoe gaat het
+verder?
+Ontvangstbevestiging
+Zodra we uw bezwaarschrift hebben
+ontvangen, krijgt u een
+ontvangstbevestiging.
+Contactmoment
+Een medewerker van de afdeling die
+uw zaak behandelt, kan contact met u
+opnemen om het besluit uit te leggen
+en toe te lichten. Als u het dan nog
+steeds niet eens bent met het besluit,
+dan gaat een onafhankelijke
+adviescommissie naar uw bezwaar
+kijken.
+Bezwaarschriftencommissie
+Deze onafhankelijke adviescommissie
+wordt de bezwaarschriftencommissie
+genoemd. Deze commissie bestaat uit
+een voorzitter en 3 leden. Zij zijn
+onafhankelijk en werken niet bij de
+gemeente Coevorden. De
+bezwaarschriftencommissie geeft de
+gemeente advies over uw bezwaar.
+Bezwaar bespreken in een hoorzitting
+Een hoorzitting is een (digitale)
+bijeenkomst waarbij iedereen
+aanwezig is die met uw bezwaar te
+maken heeft. Dus ook bijvoorbeeld de
+buurman aan wie een vergunning is
+verleend waar u het niet mee eens
+bent. En de medewerker van de
+gemeente die het besluit genomen
+heeft.
+Uw bezwaar wordt besproken in deze
+hoorzitting. Hiervoor sturen we u een
+uitnodiging en het dossier. In het
+dossier zitten alle stukken die met uw
+bezwaar en het besluit te maken
+hebben. Tijdens de hoorzitting kunt u
+vertellen waarom u het niet eens bent
+met een besluit. De medewerker van
+de gemeente legt ook uit waarom het
+besluit genomen is. Zo kan de
+bezwaarschriftencommissie alle
+kanten van het verhaal horen en
+vragen stellen.
+Bezwaar maken tegen
+een besluit?
+Advies van de
+bezwaarschriftencommissie over uw
+bezwaar
+Na de hoorzitting geeft de
+bezwaarschriftencommissie haar advies
+aan de gemeente over de te nemen
+beslissing op uw bezwaar. Daarna
+neemt de gemeente een beslissing op
+uw bezwaar. In die beslissing kan de
+gemeente het advies van de
+bezwaarschriftencommissie overnemen,
+maar dat hoeft niet per se.
+De gemeente neemt een
+beslissing op uw bezwaar
+Volgens de wet moet de gemeente
+binnen 12 weken een beslissing nemen
+op uw bezwaar. Deze periode van 12
+weken begint nadat de bezwaartermijn
+is verstreken.
+Soms lukt het niet om binnen 12 weken
+een beslissing te nemen. In dat geval
+kan de termijn met 6 weken worden
+verlengd. U krijgt hierover dan bericht
+(een verdagingsbesluit).
+Niet eens met de beslissing op
+bezwaar: beroep instellen bij
+de rechtbank
+Als u het niet eens bent met de
+beslissing op uw bezwaar kunt u
+binnen 6 weken na de dag van
+verzending van dat besluit beroep
+instellen bij de Rechtbank Noord-
+Nederland in Groningen.
+Meer informatie over beroep instellen
+bij de rechtbank ontvangt u bij de
+beslissing op bezwaar. Of kijk op
+www.coevorden.nl/bezwaarschrift-
+indienen.
+Wat kost het om bezwaar te
+maken?
+Bezwaar maken is gratis.
+Meer informatie?
+Heeft u na het lezen van deze folder
+nog vragen? Of wilt u meer informatie?
+Kijkt u dan op onze website:
+www.coevorden.nl/bezwaarschrift-
+indienen.
+U kunt ook bellen met de gemeente
+Coevorden: 14 0524 of mailen naar
+info@coevorden.nl.
+Gemeente Coevorden
+Kasteel 1
+7741 GC Coevorden
+T. 14 0524
+E. info@coevorden.nl
+www.coevorden.nl
+Wettelijk kader Woo-besluit
+Relevante artikelen uit de Woo
+Artikel 1.1
+Eenieder heeft recht op toegang tot publieke informatie zonder daartoe een belang
+te hoeven stellen, behoudens bij deze wet gestelde beperkingen.
+Artikel 2.5
+Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van
+openbaarheid van publieke informatie voor de democratische samenleving.
+Artikel 4.1
+1. Eenieder kan een verzoek om publieke informatie richten tot een
+bestuursorgaan of een onder verantwoordelijkheid van een bestuursorgaan
+werkzame instelling, dienst of bedrijf. In het laatste geval beslist het
+verantwoordelijke bestuursorgaan op het verzoek.
+2. Een verzoek kan mondeling of schriftelijk worden ingediend en kan elektronisch
+worden verzonden op de door het bestuursorgaan aangegeven wijze.
+3. De verzoeker behoeft bij zijn verzoek geen belang te stellen.
+4. De verzoeker vermeldt bij zijn verzoek de aangelegenheid of het daarop
+betrekking hebbende document, waarover hij informatie wenst te ontvangen.
+5. Indien een verzoek te algemeen geformuleerd is, verzoekt het bestuursorgaan
+binnen twee weken na ontvangst van het verzoek de verzoeker om het verzoek te
+preciseren en is het de verzoeker daarbij behulpzaam.
+6. Het bestuursorgaan kan besluiten een verzoek niet te behandelen, indien de
+verzoeker niet meewerkt aan een verzoek tot precisering als bedoeld het vijfde lid.
+In afwijking van artikel 4:5, vierde lid, van de Algemene wet bestuursrecht wordt
+het besluit om het verzoek niet te behandelen aan de verzoeker bekendgemaakt
+binnen twee weken nadat het verzoek is gepreciseerd of nadat de daarvoor
+gestelde termijn ongebruikt is verstreken.
+7. Een verzoek om informatie wordt ingewilligd met inachtneming van het
+bepaalde in hoofdstuk 5.
+Artikel 5.1
+1. Het openbaar maken van informatie ingevolge deze wet blijft achterwege voor
+zover dit:
+a. de eenheid van de Kroon in gevaar zou kunnen brengen;
+b. de veiligheid van de Staat zou kunnen schaden;
+c. bedrijfs- en fabricagegegevens betreft die door natuurlijke personen of
+rechtspersonen vertrouwelijk aan de overheid zijn meegedeeld;
+d. persoonsgegevens betreft als bedoeld in paragraaf 3.1 onderscheidenlijk
+paragraaf 3.2 van de Uitvoeringswet Algemene verordening
+gegevensbescherming, tenzij de betrokkene uitdrukkelijk toestemming heeft
+gegeven voor de openbaarmaking van deze persoonsgegevens of deze
+persoonsgegevens kennelijk door de betrokkene openbaar zijn gemaakt;
+e. nummers betreft die dienen ter identificatie van personen die bij wet of
+algemene maatregel van bestuur zijn voorgeschreven als bedoeld in artikel 46 van
+de Uitvoeringswet Algemene verordening gegevensbescherming, tenzij de
+verstrekking kennelijk geen inbreuk op de levenssfeer maakt.
+2. Het openbaar maken van informatie blijft eveneens achterwege voor zover het
+belang daarvan niet opweegt tegen de volgende belangen: a. de betrekkingen van
+Nederland met andere landen en staten en met internationale organisaties; b. de
+economische of financiële belangen van de Staat, andere publiekrechtelijke
+lichamen of bestuursorganen, in geval van milieu-informatie slechts voor zover de
+informatie betrekking heeft op handelingen met een vertrouwelijk karakter;
+c. de opsporing en vervolging van strafbare feiten;
+d. de inspectie, controle en toezicht door bestuursorganen;
+e. de eerbiediging van de persoonlijke levenssfeer;
+f. de bescherming van andere dan in het eerste lid, onderdeel c, genoemde
+concurrentiegevoelige bedrijfs- en fabricagegegevens;
+g. de bescherming van het milieu waarop deze informatie betrekking heeft;
+h. de beveiliging van personen en bedrijven en het voorkomen van sabotage;
+i. het goed functioneren van de Staat, andere publiekrechtelijke lichamen of
+bestuursorganen.
+3. Indien een verzoek tot openbaarmaking op een van de in het tweede lid
+genoemde gronden wordt afgewezen, bevat het besluit hiervoor een uitdrukkelijke
+motivering.
+4. Openbaarmaking kan tijdelijk achterwege blijven, indien het belang van de
+geadresseerde van de informatie om als eerste kennis te nemen van de informatie
+dit kennelijk vereist. Het bestuursorgaan doet mededeling aan de verzoeker van
+de termijn waarbinnen de openbaarmaking alsnog zal geschieden.
+5. In uitzonderlijke gevallen kan openbaarmaking van andere informatie dan
+milieu-informatie voorts achterwege blijven indien openbaarmaking onevenredige
+benadeling toebrengt aan een ander belang dan genoemd in het eerste of tweede
+lid en het algemeen belang van openbaarheid niet tegen deze benadeling
+opweegt. Het bestuursorgaan baseert een beslissing tot achterwege laten van de
+openbaarmaking van enige informatie op deze grond ten aanzien van dezelfde
+informatie niet tevens op een van de in het eerste of tweede lid
+genoemde gronden.
+6. Het openbaar maken van informatie blijft in afwijking van het eerste lid,
+onderdeel c, in geval van milieu-informatie eveneens achterwege voor zover
+daardoor het in het eerste lid, onderdeel c, genoemde belang ernstig geschaad
+wordt en het algemeen belang van openbaarheid van informatie niet opweegt
+tegen deze schade.
+7. Het eerste en tweede lid zijn niet van toepassing op milieu-informatie die
+betrekking heeft op emissies in het milieu.
+Artikel 5.2
+1. In geval van een verzoek om informatie uit documenten, opgesteld ten behoeve
+van intern beraad, wordt geen informatie verstrekt over daarin opgenomen
+persoonlijke beleidsopvattingen. Onder persoonlijke beleidsopvattingen worden
+verstaan ambtelijke adviezen, visies, standpunten en overwegingen ten behoeve
+van intern beraad, niet zijnde feiten, prognoses, beleidsalternatieven, de gevolgen
+van een bepaald beleidsalternatief of andere onderdelen met een overwegend
+objectief karakter.
+2. Het bestuursorgaan kan over persoonlijke beleidsopvattingen met het oog op
+een goede en democratische bestuursvoering informatie verstrekken in niet tot
+personen herleidbare vorm. Indien degene die deze opvattingen heeft geuit of zich
+erachter heeft gesteld, daarmee heeft ingestemd, kan de informatie in tot
+personen herleidbare vorm worden verstrekt.
+3. Onverminderd het eerste en tweede lid wordt uit documenten opgesteld ten
+behoeve van formele bestuurlijke besluitvorming door een minister, een
+commissaris van de Koning,
+Gedeputeerde Staten, een gedeputeerde, het college van burgemeester en
+wethouders, een burgemeester en een wethouder, informatie verstrekt over
+persoonlijke beleidsopvattingen in niet tot personen herleidbare vorm, tenzij het
+kunnen voeren van intern beraad onevenredig wordt geschaad.
+4. In afwijking van het eerste lid wordt bij milieu-informatie het belang van de
+bescherming van de persoonlijke beleidsopvattingen afgewogen tegen het belang
+van openbaarmaking. Informatie over persoonlijke beleidsopvattingen kan worden
+verstrekt in niet tot personen herleidbare vorm. Indien degene die deze
+opvattingen heeft geuit of zich erachter heeft gesteld, daarmee heeft ingestemd,
+kan de informatie in tot personen herleidbare vorm worden verstrekt.
+(geanonimiseerd)
+Van: | Stedelijk Museum Coevorden" M@ museumcoevorden.nl>
+Verzonden: dinsdag 13 mei 2025 14:35
+Aan: "Gemeente Coevorden" <info@coevorden.nl>
+Onderwerp: Woo-verzoek Stedelijk Museum Coevorden
+Categories:
+(geanonimiseerd)
+(geanonimiseerd)
+Geachte ontvanger,
+Graag vraag ik via deze weg
+—
+wegens het feit dat via e-herkenning een Woo aanvragen momenteel niet mogelijk is —
+een
+Woo-verzoek aan.
+Graag zou ik inzage krijgen in alle documentatie met betrekking tot de scheurvorming in het Arsenaal,
+welke in november/december door Monumentenwacht is geconstateerd en aan de Gemeente is doorgegeven. Als gevolg
+hiervan is het museum
+op vrijdag 13 december 2024 per sluitingstijd gesloten om
+veiligheidsoverwegingen.
+De documentatie die ik bij u
+opvraag is:
+*
+Het rapport van Monumentenwacht uit 2024 met daarin de constatering van
+scheurvorming;
+*
+De notulen van de hieruit volgende vergaderingen rondom de herstelwerkzaamheden;
+*
+Tussentijdse rapportages met betrekking tot het Arsenaal;
+*
+Overige significante communicatie rondom de scheurvorming.
+De looptijd van de documentatie bedraagt november 2024 tot heden. Ik ontvang de documentatie bij voorkeur digitaal.
+Ik hoop u hiermee voldoende te hebben geïnformeerd.
+Met vriendelijke groet,
+STEDELIJK
+MUSEUM
+COEVORDEN
+Haven 4
+7741 JV Coevorden
+0524 74 50 40
+museumcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Me eseemcoevorden. nl
+Nr. Document Beoordeling Woo Afzender
+1 Inspectierapport 20034_255382.24-12-10t (1).pdf Deels openbaar 5.1.2e
+Ontvanger
+Nr. Document Beoordeling Woo Afzender Ontvanger
+1 20250402 Gespreksverslag Arsenaal.pdf Deels openbaar 5.1.2e
+2 20250123 Gespreksverslag Arsenaal.pdf Deels openbaar 5.1.2e
+3 20250423 Gespreksverslag Arsenaal.pdf Deels openbaar 5.1.2e
+4 20250320 Gespreksverslag Arsenaal.pdf Deels openbaar 5.1.2e
+5 20250303 Gespreksverslag Arsenaal.pdf Deels openbaar 5.1.2e
+6 20250109 Gespreksverslag Arsenaal.pdf Deels openbaar 5.1.2e
+7 20250207 Gespreksverslag Arsenaal.pdf Deels openbaar 5.1.2e
+Nr. Document Beoordeling
+1 20250303 Opdrachtbevestiging Fugro sonderingen.pdf Deels openbaar
+2 20250424 Offerte Fugro vervolgonderzoek 6424-267101.O02.pdf Deels openbaar
+Woo Afzender Ontvanger
+5.1.2e
+5.1.1c
+5.1.2e
+Nr.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+Document
+2024-12-13 - 20241411_foto's.pdf
+2024-12-22 - 20241411_foto's - BEW.pdf
+20241213 Communicatielijn.pdf
+20241213 Reactie en veiligverklaring Constructeur.pdf
+20241216 Bevindingen.pdf
+20241223 Update Scheurmeters.pdf
+2025-01-06 - 20241411_foto's gesorteerd.pdf
+2025-01-07 - 20241411_foto's gesorteerd.pdf
+2025-03-10 - PDF van foto's boorkernen.pdf
+20250103 Update Scheurmeters.pdf
+20250109 Gespreksverslag Arsenaal.pdf
+20250114 Communicatiebericht Arsenaal.pdf
+20250123 Gespreksverslag Arsenaal.pdf
+20250128 Getekende opdracht.pdf
+20250128 Rol Cultuur Arsenaal.pdf
+20250207 Gespreksverslag Arsenaal.pdf
+20250207 Update scheurmeters Arsenaal.pdf
+20250211 Reactie Boringen & Sonderingen.pdf
+20250224 Begeleidend schrijven offerte sonderingen.pdf
+20250225 Advies sonderingen.pdf
+20250225 Rapport sonderingen 6424-267101.O01_signed.pdf
+20250303 Akkoord alternatieve locaties sonderingen.pdf
+20250303 Gespreksverslag Arsenaal.pdf
+20250303 Opdrachtbevestiging sonderingen.pdf
+20250303 Voorstel Sonderingen.pdf
+20250304 Communicatie gebruikers en omwonenden Arsenaal t.b.v. sonderingen.pdf
+20250305 Communicatiemail gebruikers sonderingen.pdf
+20250311 Input Sonderingen.pdf
+20250312 Advies methode van sonderen.pdf
+20250319 Afwijking Klic-melding Arsenaal.pdf
+20250320 Gespreksverslag Arsenaal.pdf
+20250320 Reactie op stutten.pdf
+20250326 Toelichting op rapport 504856-21.pdf
+20250402 Gespreksverslag Arsenaal.pdf
+20250403 Waterstanden Gemeente Coevorden.pdf
+20250409 Reactie op voorstel.pdf
+20250410 Urendeclaratie.pdf
+20250423 Actielijst Arsenaal.pdf
+20250423 Gespreksverslag Arsenaal.pdf
+20250424 Offerte vervolgonderzoek 6424-267101.O02.pdf
+20250425 Toelichting op vervolgonderzoek.pdf
+20250429 Communicatiebericht Arsenaal Sluiting 21-23 mei 2025.pdf
+20250508 Opdrachtbevestiging vervolgopdracht.pdf
+20250515 Landmeetkundige Werkzaamheden Arsenaal.pdf
+20251023 Opdrachtspecificatie.pdf
+504856-21-R01-v1.0-20250325_Repro.pdf
+CPT Demontabel Apparaat NL-CPT-30.pdf
+Inspectierapport 20034_255382.25-01-23t.pdf
+Persbericht - Pand Arsenaal in Coevorden enkele dagen gesloten.pdf
+Plan aanpak uitgevoerd deel arsenaal coevorden 2012.pdf
+Beoordeling Woo Afzender Ontvanger
+Deels openbaar 5.1.2e
+Volledig openbaar
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Volledig openbaar
+Volledig openbaar
+Volledig openbaar
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.1c
+5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.1c
+5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.1c
+5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.1c
+5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.1c
+5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.2e
+Deels openbaar 5.1.1c
+5.1.2e
+MONUMENTENWACHT
+DRENTHE
+TUSSENTIJDS INSPECTIERAPPORT 2024
+Objectgegevens
+Object: vm Arsenaal
+Haven 4 te Coevorden
+Gemeente: Coevorden
+Objectnummer: 20034.255382
+Monumentnummer: 11485
+Inspectieplan
+Abonnee/Contactpersoon: Gemeente Coevorden 0
+Sleuteladres: Ter plaatse of gemeentehuis
+(geanonimiseerd)
+(geanonimiseerd)
+Bereikbaarheid en toegankelijkheid
+Het exterieur is redelijk bereikbaar voor inspecties en redelijk bereikbaar voor reparaties. De toegankelijkheid van het interieur is
+goed Met behulp van een steiger of hoogwerker zijn op veilige wijze werkzaamheden uit te voeren.
+Inspectiegegevens
+Inspectie uitgevoerd door:
+Datum inspectie: 10 december 2024
+Inleiding
+Deze tussentijdse inspectie is gericht op het voorkomen van vervolgschade door extra controle van kwetsbare en/of moeilijk
+bereikbare onderdelen.
+Uitgevoerde werkzaamheden door Monumentenwacht
+©
+goten ontstopt
+@ de goten zijn schoongemaakt, ook hebben we de scheuren in de tussenmuur bekeken
+Bijlage
+e kort verslag
+Op onze website www.monumentenwachtdrenthe.nl kunt u handige informatie vinden, zoals onderhoudswijzers en duurzaam-
+heidtips.
+MONUMENTENWACHT DRENTHE LID VAN MONUMENTENWACHTNL
+PIETERBERGWEG 26 | 9431 CB WESTERBORK
+\W UITVOERDER VAN HET WERK VAN MONUMENTENWACHT IN DRENTHE
+0591 371652 | INFO@MONUMENTENWACHTDRENTHE.NL MET STEUN VAN DE PROVINCIE DRENTHE
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+MONUMENTENWACHT
+DRENTHE
+RUBRIEK TOELICHTING HERSTELADVIES
+1. GEVELS
+1. 1 Funderingen
+Algemeen
+tussenmuur plaatselijk
+- S Ter plaatse van de scheurvormingen
+lijkt de fundering te verzakken , mogelijk
+is dit de oorzaak van de bovenliggende
+scheurvorming.
+Een funderingsonderzoek uit laten
+uitvoeren.
+De scheurvorming onder de balklaag.
+3. INTERIEUR
+3. 1 Binnenmuren en binnenwanden
+Tussenmuren en wanden
+tussenmuur plaatselijk
+- S Tijdens een eerdere inspectie zijn er op
+meerdere plaatsen scheurmeters ge-
+plaatst , tijdens deze inspectie is geble-
+ken dat de scheurvormingen opnieuw
+erg verslechterd zijn. Ook zijn er ver-
+spreid meerdere nieuwe scheurvormin-
+gen ontstaan en zakt er een deel van
+het metselwerk.
+Gezien de publieke functie van het
+pand het metselwerk zo spoedig
+mogelijk tijdelijk extra ondersteu-
+nen.
+Na het funderingsonderzoek (en
+herstel) het metselwerk herstellen
+door middel van inboeten.
+De afwijking op één van de scheurmeters.
+Het verzakken van het metselwerk.
+INSPECTIENUMMER 20034. 255382. 24t | PAGINA 2 VAN 3
+MONUMENTENWACHT
+DRENTHE
+RUBRIEK TOELICHTING HERSTELADVIES
+3. 2 Dragende constructies en vloeren
+3. 2. 1 Dragende constructies
+e
+Balklaag 1 verdieping
+- plaatselijk S Doordat het metselwerk zakt , zakt de
+balklaag plaatselijk mee. Gezien de be-
+lasting van de vloer is het niet ondenk-
+baar dat de balklaag deels naar bene-
+den zal vallen.
+De balklaag zo spoedig mogelijk tij-
+delijk extra ondersteunen.
+INSPECTIENUMMER 20034. 255382. 24t | PAGINA 3 VAN 3
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 09 januari 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer:
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 09-01-2025
+Aanwezig: Pl gemeente Emmen (intern adviseur)
+RJ Goudstikker | de vries (extern adviseur)
+RS TerSteege (aannemer)
+Gemeente Coevorden
+ml Gemeente Coevorden
+3] Gemeente Coevorden
+RM Gemeente Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Afwezig:
+Contactgegevens:
+coevorden.nl
+coevorden.nl
+monumentenwachtdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met constructeurs, aannemer en Gemeente Coevorden aan de hand van onderstaande
+agenda:
+Opening & Doel van de meeting
+Introductie van de gasten
+Huidige stand van zaken |
+Input constructeur gemeente Emmen |
+Input constructeur Goudstikker de Vries |
+Samenhang andere projecten |
+Samenbrengen tot een plan van aanpak
+*
+__ Korte termijn
+*
+Lange termijn
+8. Benodigdheden
+9. Regie
+10. Overleg & Communicatiestructuur
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Se
+MEt
+Afspraken
+Goudstikker | de vries (extern) brengt een advies uit naar aanleiding van de conclusies van dit moment,
+deze wordt gecheckt volgens het vierogen principe door de constructeur van de Gemeente Emmen
+(intern)
+Op basis hiervan wordt een opdracht verstrekt aan Fugro om een bodemonderzoek (sondering) uit te
+voeren, gericht op de uitkomsten van het advies.
+Monumentenwacht voert wekelijks metingen uit op zowel meetstroken als gipspleisters en
+rapporteert
+deze wekelijks om verdergaande verschuivingen (zowel horizontaal als verticaal) uit te sluiten.
+Ter plaatse checken we (vandaag) de huidige stand van zaken om de veiligheid van de publieke toegang
+te kunnen borgen.
+We stemmen twee wekelijks de voortgang af middels een meeting in bovenstaande samenstelling om de
+voortgang te bewaken.
+Op lange termijn moeten we een planning maken als we naast de sonderingen aan de buitenzijde extra
+onderzoek moeten plegen ter hoogte van de binnenmuren, hiervoor moeten we wellicht ook denken aan
+tijdelijk geen toegang tot het pand vanwege het onderzoek.
+Daarnaast moeten de uitkomsten van dit eerste onderzoek geconfronteerd worden met de plannen voor
+de Markt om de effecten van de haven, het plaatsen van damwanden en de bronbemaling ter plaatse
+effecten hebben op de situatie rondom het Arsenaal.
+Zaaknummer:
+Gemeente
+Coevorden
+Op het moment van bezoek trekken de constructeurs de conclusie dat de huidige constructie een
+constructiefout bevat en dat aanvullende ondersteuning van de constructie benodigd is om veiligheid op
+de lange termijn te garanderen.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Actielijst:
+Nr.
+| Actie Datum Prio Eigenaar | Status Opleveren
+vegt
+2 Toepassen van gipspleister | 09-01-2025 | Hoog Opdracht 16-01-2025
+voor meten van horizontale verstrekt
+verschuiving naast de
+meting van de verticale
+verschuiving met de
+rekstroken.
+3 Cheeken-huidige-rekstroken | 09-04-2025 | Hoog Ter plaatse 09-04-2025
+5 gecheekt,
+geen
+verschuiving
+en
+4 09-04-2025
+| Heeg 5 Gereed 09-01-2025
+5 Extra ondersteuning ter 09-01-2025 | Hoog 5 Opdracht 13-01-2025
+hoogte van de niet verstrekt
+doorlopende balken
+6 Wekelijkse rapportage 09-01-2025 | Hoog Uitgebreid Wekelijks
+rekstroken en gipspleisters met
+gipspleisters
+7 Beschikbare-tekeningen-van | 09-04-2025
+| Heeg Nog-geen 46-04-2025
+de-gemeente-worden toegang
+aangevuldin-OneDrive-van
+Monumentenwacht
+8
+_| Advies ten behoeve van 09-01-2025
+| Hoog Startend na
+| 23-01-2025
+grondonderzoek verstrekken
+benodigde
+informatie
+9 Opdracht verstrekken 09-01-2025
+| Laag Als advies Wachtend op
+FUGRO gereed is 8
+10
+| Aanvullen Projectplan Markt
+| 09-01-2025
+| Laag Nog niet Benodigd voor
+in OneDrive beschikbaar confrontatie
+op later
+moment
+11 Confrontatie met plannen 09-01-2025 | Hoog Wachtend op
+Markt 8
+11
+| Senderingenvan-plannen 09-01-2025
+| Hoog 16-01-2025
+Markt-opvragen
+13 Sonderingen van recente 09-01-2025 | Hoog Informatie 16-01-2025
+projecten in de omgeving bij
+opvragen
+14
+| Onderzoek locatie 09-01-2025
+| Middel Gewicht van
+| 23-01-2025
+Bibliotheek de boeken
+wegnemen
+kan positief
+effect
+hebben op
+situatie, bij
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+uitvoer moet
+Zaaknummer:
+Gemeente
+Coevorden
+bibliotheek
+zeer
+waarschijnlij
+k toch
+(tijdelijk)
+verhuizen.
+15 | Delen van uurtarief van 09-01-2025 | Middel Op basis 10-01-2025
+Goudstikker voor hiervan
+opdrachtbevestiging opdracht
+verstrekken
+16 [| Opdracht verstrekken 09-01-2025 | Middel 5 Op basis van
+Goudstikker 5 uurtarief
+17
+| Benodigd budget onderzoek
+| 09-01-2025
+| Laag 5
+18
+| Benodigd budget uitvoer 09-01-2025
+| Laag 5
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer:
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 23 januari 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 23-01-2025
+Aanwezig: gemeente Emmen (intern adviseur)
+Goudstikker | de vries (extern adviseur)
+TerSteege (aannemer)
+Gemeente Coevorden
+Gemeente Coevorden
+emeente Coevorden
+Gemeente Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Afwezig:
+Contactgegevens:
+monumentenwachtdrenthe.nl
+fugro.com
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met constructeurs, aannemer en Gemeente Coevorden aan de hand van onderstaande
+agenda:
+1. Opening
+2. Vaststellen agenda
+3. Gespreksverslag 09-01-2025
+4. Actielijst
+5. Advies Bodemonderzoek constructeur Goudstikker de Vries |
+6. Acties grondonderzoek | Reservering Fugro
+7. Ontwerp projectplanning
+8. Rondvraag
+9. Volgende vergadering & deelnemerslijst
+10. Sluiting
+Afspraken:
+Onderzoek
+Goudstikker | de vries heeft een specificatie gemaakt voor het bodemonderzoek dat door Fugro zal
+worden uitgevoerd. Dit voorstel zal eind deze week (4) doorgestuurd worden als opdracht naar Fugro.
+Inmiddels is er contact geweest met Fugro en is er tijd gereserveerd voor overleg en onderzoek.
+Ons volgende overleg vindt plaats in het Arsenaal waarbij Fugro zal aansluiten om een ander toe te
+lichten en ter plaatse de verdere aanpak te bespreken.
+(geanonimiseerd)
+(geanonimiseerd)
+Planning
+Inmiddels is de planning van de markt beschikbaar, echter om deze te kunnen confronteren met de
+uitvoering van het Arsenaal, moet deze nog verder worden uitgewerkt.
+Vanuit de Gemeente Coevorden is er behoefte aan een projectplanning, alhoewel specifieke
+uitvoering nog niet bekend is, spreken we af de conceptversie volgende meeting te bespreken.
+(geanonimiseerd)
+Communicatie
+Deze zaak is intern vastgelegd als zaaknummer 67792-2024
+Met name op gebied van veiligheid vind er onjuiste berichtgeving plaats, met name door de gebruikers.
+Ter voorkoming van aannames is er op dinsdag 14 januari 2025 een communicatiebericht naar de
+gebruikers gestuurd. We vragen de Strategisch beleidsadviseur kunst & cultuur om frequent contact te
+hebben met de gebruikers, naast het bestaande contact vanuit beheer vastgoed over de uitvoer.
+Tenslotte passen we de samenstelling van de projectgroep
+on is deelnemer vanuit
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Technisch beheer, zijn vervanger bij afwezigheid, zit de meeting voor, in
+afwezigheid vervangen door sluit weer aan op het moment er concrete
+(geanonimiseerd)
+(geanonimiseerd)
+plannen zijn voor de uitvoer.
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Actielijst:
+e
+Da Prio gena Oplevere D e
+et v v v v v v v
+zal Confrontatie met plannen Markt 9-1-2025 Hoog Wachtend op 8
+Gewicht van de boeken wegnemen
+kan positief effect hebben op
+14 Onderzoek locatie Bibliotheek 9-1-2025 Middel situatie, bij uitvoer moet bibliotheek 23-1-2025
+zeer waarschijnlijk toch (tijdelijk)
+verhuizen.
+15
+Delen van uurtarief van Goudstikker
+9-1-2025 Middel
+Op basis hiervan opdracht
+10-1-2025
+voor
+opdrachtbevestiging verstrekken
+16 Opdracht verstrekken Goudstikker 9-1-2025
+Middel Op basis van uurtarief
+074 Benodigd budget onderzoek 9-1-2025 Laag
+18 Benodigd budget uitvoer 9-1-2025 Laag
+En
+Extra sonderingen rondom EE
+19 Opdracht verstrekken Fugro 23-1-2025 Hoog
+Gmini
+24-1-2025
+21 Methode van uitvoer Uretek 23-1-2025
+| Middel bellen
+23 Communicatie gebruikers 23-1-2025 Hoog Voor werkzaamheden informeren 30-1-2025
+In OneDrive, aangevuld door
+24 Voorzet projectplanning 23-1-2025
+Middel projectteam, bespreken in volgend 7-2-2025
+overleg
+1 [2 Wekelijkse meeting voortgang plannen| 9-1-2025 Hoog Uitnodiging volgt 17-1-2025 Afgerond
+Toepassen van gipspleister voor meten
+2
+| van horizontale verschuiving naastde
+| 94-2025 Hoog Opdracht verstrekt 16-1-2025 Afgerond
+meting van de verticale verschuiving
+met de rekstroken.
+3 Checken huidige rekstroken 9-1-2025 Hoog
+Ur ES EEE, GEE
+912025 Afgerond
+verschuivingen
+4 Toegang tot OneDrive 9-1-2025 Hoog Gereed 9-1-2025 Afgerond
+5
+EE che Ger hee PEREDED
+9-1-2025 Hoog Opdracht verstrekt 13-1-2025 Afgerond
+niet doorlopende balken
+6
+Wekelijkse: rapportage: rekstroken en
+9-1-2025 Hoog Uitgebreid met gipspleisters Wekelijks
+gipspleisters
+Beschikbare tekeningen van de
+O7 gemeente worden aangevuld in 9-1-2025 Hoog Nog geen toegang 16-1-2025 Afgerond
+OneDrive van Monumentenwacht
+8 _|Advies ten behoeve van grondonderzoek| 9-1-2025 Hoog
+startend na
+reek
+benodigde
+23-1-2025 Afgerond
+9 Opdracht verstrekken FUGRO 912025 Laag Als advies gereed is Wachtend op 8
+Benodigd voor
+10 [Aanvullen Projectplan Markt in OneDrive| 9-1-2025 Laag Nog niet beschikbaar confrontatie op | Afgerond
+later moment
+12
+Sonderingen van plannen Markt
+9-1-2025 Hoog
+at 16-1-2025 Afgerond
+opvragen
+13
+|Senderingen van recente projecten In de
+| 42025 Hoog Informatie bij 16-1-2025 Afgerond
+omgeving opvragen
+20 Reserveren tijd Fugro 2312025
+Middel bellen 24-1-2025 Afgerond
+22 Check op openingstijden 23-1-2025 Middel 30-1-2025 Afgerond
+25 uitnodigen volgende vergadering |_23-1-2025
+Middel 07-02-2025 ter plaatse Arsenaal 30-1-2025 Afgerond
+Rapport Uretek 2012 en 2022 ZE EE
+26
+Beseniëbaarstanen
+23-1-2025 | Middel 30-1-2025 Afgerond
+)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Telefoon
+Gebruiker Contactpersoon
+Stedelijk Museum
+nne museumcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+stedelijkmuseum.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ToReCo
+EE toreco.nl
+Bibliotheek biblionetdrenthe.nl
+bilbionetdrenthe.nl
+Historische Vereniging historischcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gesprekverslag Arsenaal
+Datum
+Versie
+Naam rapporteur
+Afdeling
+-
+Team
+Afgestemd met
+OR
+Behandeling in
+Openbaar
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder
+Onderwerp:
+Gemeente
+Coevorden
+07 februari 2025
+1.0
+Vastgoed & Infrastructuur
+S. Stegen
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Coevorden
+Gesprekverslag Arsenaal 23-01-2025
+Aanwezig: gemeente Emmen (intern adviseur)
+Ei Gemeente Coevorden
+5 Gemeente Coevorden
+(Fugro)
+(Fugro)
+Afwezig: Gemeente Coevorden
+Gemeente Coevorden
+(extern adviseur)
+Contactgegevens:
+coevorden.nl
+coevorden.nl
+onumentenwachtdrenthe.nl
+fugro.com
+fugro.com
+J
+J
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met constructeur, Fugro (bodem)en Gemeente Coevorden aan de hand van onderstaande
+agenda:
+Opening
+Vaststellen agenda
+Gespreksverslag 23-01-2025
+Actielijst
+Rapportage Monumentenwacht
+Advies Fugro
+Confrontatie plannen Markt
+Rondgang ter plaatse Arsenaal
+Restauratiefonds
+Rondvraag
+Volgende vergadering & deelnemerslijst
+Sluiting
+Rapportage Monumentenwacht
+Ml koppelt de resultaten van de afgelopen weken terug aan de hand van de rapportages
+die hij gedeeld heeft via OneDrive. Er is marginale beweging waar te nemen, echter deze hersteld zich
+ook weer in oude positie. Conclusie is dat dit gebruikelijke zettingen van het gebouw zijn. Voor effect op
+langere termijn moeten de metingen worden doorgezet. We stemmen af dat de wekelijkse
+metingen upload in de OneDrive en uitsluitend rapporteert als er verschillen worden waargenomen,
+waaruit een actie vloeit. Als we
+proactief willen worden geattendeerd op toevoeging aan het dossier kan
+in OneDrive de melding per mail worden aangezet.
+(geanonimiseerd)
+(geanonimiseerd)
+Advies Fugro
+Op basis van het afgegeven advies van Goudstikker bespreken we ter plaatse met Fugro de
+uitvoeringsplannen voor de aangegeven sonderingen. De voorkeur gaat uit naar elektrische sondering
+daar waar mogelijk. De aangegeven plaatsen aan de buitenzijde bevatten geen obstakels voor de
+uitvoering hiervan. Binnen worden de maatvoeringen opgemeten om daar waar mogelijk elektrische
+sonderingen uit te voeren. Fugro komt met een plan voor de uitvoer hiervan op basis van afmetingen van
+machine en de benodigde ruimte voor toegang. Belangrijk hierbij is de mogelijkheden voor verankeringen
+aan de vloer. Zodra de gegevens van de machines bekend zijn, de exacte locaties en de benodigde
+tonnages van optredende krachten, geven we de aannemer opdracht op die locaties de vloer open te
+kappen om deze mogelijkheden te onderzoeken en deze obstakelvrij te maken (denk aan
+vloerverwarming etc.) Tenslotte moeten we bij uitvoer (geschatte tijd is één werkdag) de overlast
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+vaststellen en eventueel tijdelijke of gedeeltelijke sluiting overwegen, afhankelijk van de verwachte
+overlast.
+Vervolg
+Vanwege de garantietermijn van de werkzaamheden van Uretek in 2012 is meting op zetting
+noodzakelijk, deze is tot op heden niet in beeld gebracht. Om aanspraak te kunnen maken op garanties
+zullen eventuele verschuivingen in beeld gebracht moeten worden. Maar wellicht nog belangrijker vast te
+stellen dat deze oplossing ook na het verstrijken van de garantietermijn nog voldoende stabiliteit brengt.
+Daarnaast wordt geadviseerd een hoogte/tilt meting uit te voeren aangevuld met huidige
+grondwaterstanden (met peilbuizen) om de situatie ook met het oog op de werkzaamheden rondom de
+markt nauwlettend te kunnen monitoren.
+De rest van de acties zijn al persoonlijk gekoppeld en vastgelegd in de actielijst.
+Volgende meeting
+We plannen de volgende vergadering op 28 februari om alvast tijd in de agenda's te reserveren. Uitkomst
+van de voorbereiding op het sonderingsonderzoek zijn noodzakelijk om deze meeting nuttig te maken,
+we stemmen in de week vooraf als we tijdig de uitkomsten beschikbaar hebben.
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+Actielijst:
+Nr.
+Actie Datum Prio Eigenaar Status Opleveren Definitief
+z!
+=| [=|
+5
+5e | [=|
+se
+26E Confrontatie met plannen Markt Wachtend op 8
+Gewicht van de boeken
+wegnemen kan positief effect
+14 Onderzoek locatie Bibliotheek 9-1-2025
+| Middel
+hebben op
+situatie, bij uitvoer
+|_ 34-2025
+moet bibliotheek zeer
+waarschijnlijk toch (tijdelijk)
+verhuizen.
+Middels raadsvoorstel,
+18 Benodigd budget uitvoer 9-1-2025 Laag onderzoekskosten meenemen 28-2-2025
+17
+21 Methode van uitvoer Uretek 23-1-2025 Middel A bellen
+23 Communicatie gebruikers 23-1-2025 Hoog Voor werkzaamheden informeren| 30-1-2025
+In
+OneDrive, aangevuld door
+24 Voorzet projectplanning 23-1-2025
+| Middel projectteam, bespreken in 28-2-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+volgend overleg
+Overleg met BRB hoe we dit
+28-2-2025
+(geanonimiseerd)
+28 Meting op zetting uitvoer Uretek 7-2-2025 Hoog
+open
+(geanonimiseerd)
+(geanonimiseerd)
+29 Tekening vloerverwarming 7-2-2025 Hoog 14-2-2025
+2: Nog geen detailplanning EA
+30 Delen plannen Markt A22 025) Hoog
+hesniteen dte nmr J
+28-2-2025
+kl Communicatiemail delen 7-2-2025 Laag Mail naar gebuikers Arsenaal 14-2-2025
+32 Chronologisch bene
+laatste 20
+7-2-2025 Middel 14-2-2025
+Hoogtemeting/tilt 7-2-2025 Hoog In combinatie met 29? 28-2-2025
+34
+Historische grondwaterstanden in
+7-2-2025 Hoog
+Overleg met
+welke 28-2-2025
+beeld gegevens ber Md zijn
+35 Fugro
+toevnegendeständen 7-2-2025
+| Hoog Mail gestuurd (HLE) 11-02-2025
+|_ 14-2-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Ao
+oagadags
+soa
+a
+(geanonimiseerd)
+(geanonimiseerd)
+36 | Aanbrengen peilbuizen grondwater | 7-2-2025 Hoog
+EE IJ
+en
+14-2-2025
+37 Plan van aanpak Sonderingen 7-2-2025 Hoog 21-2-2025
+Opdracht naar aannemer voor
+openkappen van de locaties voor 7-2-2025 Middel Na oplevering rapport Fugro 28-2-2025
+(geanonimiseerd)
+(geanonimiseerd)
+nader onderzoek
+Sluiting Biliotheek/Musem
+noodzakelijk
+2 Wekelijkse meeting voortgang
+In overleg met
+gebruikers datum
+28-2-2025
+422023
+| Hoog
+kiezen voor sonderingen
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+en
+9-1-2025
+| Hoog Uitnodiging volgt 17-1-2025
+| Afgerond
+Toepassen van gipspleister voor
+z |
+meten van horizontale verschuiving
+|_ 94 2025 | Hoog Opdracht verstrekt 16-1-2025 | Afgerond
+naast de meting van de verticale
+verschuiving met de rekstroken
+5 Checken huidige rekstroken 9-1-2025
+| Hoog
+Ter plaatse gecheckt, geen 9-1-2025
+| Afgerond
+verschuivingen
+4 Toegang tot OneDrive 9-1-2025 | Hoog Gereed 9-1-2025 | Afgerond
+5
+Eko
+ondsrste
+Un no
+kern oo KE KATS
+EE> 020
+MI MHoog Opdracht verstrekt 13-1-2025
+| Afgerond
+de niet doorlopende balken
+6 [Wekelijkse rapportage rekstroken en
+54 2025
+| Hoog Uitgebreid met
+gipspleisters Wekelijks
+gipspleisters
+Beschikbare tekeningen van de
+7
+| gemeente worden aangevuldin
+| 9-1-2025
+| Hoog Nog geen toegang 16-1-2025
+| Afgerond
+(geanonimiseerd)
+OneDrive van Monumentenwacht
+8
+Advies ten behoeve van
+9-1-2025 | Hoog
+grondonderzoek
+Startend na verstrekken
+benodigde informatie
+23-1-2025
+| Afgerond
+(geanonimiseerd)
+9 Opdracht verstrekken FUGRO 9-1-2025 Laag Als advies gereed is Wachtend op 8
+Benodigd voor
+Aanvullen Projectplan Markt in
+Nog niet beschikbaar confrontatie op| Afgerond
+(geanonimiseerd)
+9-1-2025
+| Laag
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+OneDrive
+later moment
+‚2
+|_Sonderingen van plannen Markt
+[ 94-2025 | Hoog Koord
+opvragen J
+13
+| Senderingen van recente
+projecten | 9.4.2025
+| Hoog Informatie
+bij
+|
+5
+16-1-2025
+| Afgerond
+in de omgeving opvragen
+75 | Peten van uurtarief van Goudstikker
+[5-4-2025 | model Op basis hiervan opdracht
+mees Iet
+voor
+opdrachtbevestiging verstrekken
+16 Opdracht verstrekken Goudstikker 9-1-2025 Middel
+Informatie bij BM
+16-1-2025
+9]
+(geanonimiseerd) Op basis van uurta 16-1-2025 | Afgerond
+Afgesproken met (geanonimiseerd)
+tijdelijk uit onderhoud Arsenaal,
+(geanonimiseerd)
+(geanonimiseerd)
+17
+Benodigd budget onderzoek 9-1-2025 | Laag op een later moment wanneer
+| 30-1-2025 | Afgerond
+kosten duidelijk zijn middels een
+raadvoorstel
+Extra sonderingen rondom
+19
+Opdracht verstrekken Fugro 23-1-2025
+| Hoog Grondboringen voor 24-1-2025
+| Afgerond
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+samenstellin
+20 Reserveren tijd Fugro 23-1-2025
+| Middel AE bellen 24-1-2025 Afgerond
+22 Check op openingstijden 23-1-2025
+| Middel 30-1-2025
+| Afgerond
+PA uitnodigen volgende
+(geanonimiseerd)
+(geanonimiseerd)
+Ei
+25 23-1-2025
+| Middel 07-02-2025 ter
+plaatse Arsenaal
+| 30-1-2025
+| Afgerond
+vergadering
+26
+Rapport Uretek 2012 en 2022
+23-1-2025
+| Middel
+F5 30-1-2025
+| Afgerond
+beschikbaar stellen E
+AA vragen om frequent
+27 |cultuur aanhaken voor communicatie | 23-1-2025 | Middel contact te hebben met de 7-2-2025 | Afgerond
+gebruikers |
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+[Gebruiker |
+Contactpersoon [Email [Telefoon __ |
+p T
+Stedelijk Museum FR @museumcoevorden.nl
+NE:
+Bd@stedelijkmuseum.nl C
+J
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+RA @toreco.nl 5
+BA @DIDionetdrenthe.nl J
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Historische Vereniging M@historischcoevorden.nl E |
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 03 maart 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 23-01-2025
+emeente Coevorden
+Gemeente Coevorden
+Aanwezig:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(Fugro)
+Contactgegevens:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met Fugro & TerSteege en Gemeente Coevorden aan de hand van onderstaande agenda:
+Voorbereidingen Sonderingen
+We bespreken de zaken die noodzakelijk zijn ter voorbereiding op de geplande uitvoer van de
+sonderingen.
+Allereerst stemmen we de definitieve plaatsen van de sonderingen af.
+Buiten:
+De locaties tussen de gebouwen zijn wat moeilijker bereikbaar, Fugro stelt voor deze sonderingen uit te
+voeren met behulp van een sondeerrups. We stemmen af dat deze als laatste worden gepland, zodat
+uitloop geen effect heeft op de sluitingsdata. Fugro doet hiertoe vooraf een Klic-melding. ACTIE->
+Binnen:
+Voor binnen adviseert Fugro de sonderingen uit te voeren onder de gewelven van het gebouw. Voorstel is
+dat op de tekening van de vloerverwarming de voorgestelde locaties worden aangegeven. ACTIE->
+(geanonimiseerd)
+7
+We stemmen de locaties voor de sonderingen af met Goudstikker omdat deze afwijken van eerder advies
+van Goudstikker. ACTIE->
+Om zeker te zijn dat de uitvoer van de vloerverwarming overeenkomt met de opgeleverde tekening
+stellen we voor de vloerverwarming op te ‘stoken’ en middels een warmtecamera de daadwerkelijke
+locatie van de leidingen door de installateur in beeld te brengen ter voorkoming van schade. Daarnaast
+zal de installateur stand-by moeten staan ten tijde van uitvoer. ACTIE->
+mi
+De exacte locatie van de chemische ankers moet bepaald worden aan de hand van de apparatuur van
+Fugro. Deze specificaties én de beschikbaarheid van mens en materieel voor 19-21 maart worden
+teruggekoppeld door Fugro. ACTIE->
+De vloer moet ten behoeve van de gebruikte apparatuur voor sonderingen 10 ton belasting kunnen
+opvangen, verdeeld over de 4 ankerpunten. Deze belasting moet worden gecheckt door de constructeur.
+ACTIE->
+Ter voorbereiding op de sonderingen boort Gankema (in opdracht TerSteege) op maandag 10 maart de
+gaten (Z10cm) op de aangegeven plaatsen. Ervan uitgaande dat deze boringen slagen, hoeven we op dat
+moment geen verdere acties te ondernemen. De boringen veroorzaken enige overlast betreffende geluid,
+we proberen dit zoveel mogelijk te voorkomen door vroeg aan te vangen. (07:30 uur) ACTIE->
+Aanvullend kijken we als we een deel van de ankers ten behoeve van sondering en boring qua patroon in
+de uitvoer kunnen combineren. ACTIE->
+Wat betreft de locatie ter hoogte van de studs checken we de benodigde acties om (tijdelijk) de studs
+elders op te vangen om voldoende ruimte te creëren voor de sondering ter plaatse. ACTIE->
+In het scenario dat de boringen (bijv. vanwege diepte fundering) niet slagen, hebben we tussen 10 maart
+en 19 maart de tijd om een nieuw plan van aanpak vast te stellen, waarbij het aannemelijk is dat we dan
+de locatie wijzigen naar direct naast het fundament. ACTIE-> (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+Acties na sonderingen
+Nadat de werkzaamheden zijn afgerond, moet alvorens de bibliotheek en het museum weer open kunnen
+de vloer worden hersteld. Ten einde alvast te weten welke materialen hiervoor nodig zijn, brengen we de
+huidige materialen (incl. linoleum) in beeld en koppelen die aan de leverancier. ACTIE->
+me
+(geanonimiseerd)
+Communicatie
+Aan de hand van bovenstaande besluiten omtrent sluiting stellen we een uniforme boodschap op voor de
+gebruikers, hiervoor schakelen we de communicatieadviseur van de gemeente in. We stemmen hierin ook
+de doelgroep vast naast de eindgebruikers en de methode van communiceren (mail/brief, etc.) De laatste
+keer hebben we dit via Domesta opgepakt. ACTIE->
+Voor de communicatie van de eindgebruikers hebben we afgestemd dit Gendarme te doen, hiervoor is
+EN gevraagd om actief te communiceren naar de gebruikers. Zodra het communicatiebericht
+gereed is, worden gebruikers op de hoogte gebracht. ACTIE-> (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Volgende meeting
+Volgende meeting staat (voorlopig gepland) op 13 maart, deze lijkt op voorhand overbodig omdat de
+werkzaamheden dan nog niet (volledig) zijn afgerond, we laten de datum gereserveerd staan, zodat de
+tijd beschikbaar blijft in onze agenda's. Naar aanleiding van de uitkomsten op 10 maart eventueel
+herplannen.
+Actielijst:
+Actielijst in de tekst wordt toegevoegd aan de bestaande onderstaande actielijst
+Gebruikers:
+Gebruiker Contactpersoon
+Ï
+Stedelijk Museum
+ri museumcoevorden.nl
+(geanonimiseerd) (geanonimiseerd)
+stedelijkmuseum.nl
+toreco.nl
+Telefoon
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ToReCo
+Bibliotheek biblionetdrenthe.nl
+bilbionetdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+historischcoevorden.nl
+|
+Historische
+Vereniging (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Aangewezen plaatsen sonderingen binnen:
+Zaaknummer: 67792-2024
+Aangewezen plaatsen sonderingen buiten:
+Zaaknummer: 67792-2024
+Actielijst openstaande items:
+Gemeente
+Coevorden
+Actie
+| Datum
+ik
+|
+En
+|
+Status
+Confrontatie met plannen Markt 9-1-2025
+| Hoog
+nnn OÄÜÛè…—»_ÜÛÚÛÚÛ…. NNB
+Gewicht van de boeken wegnemen kan
+Onderzoek locatie Bibliotheek 9-1-2025
+| Middel posltiefertect hebben op sitúatle, bijuikvoer | 554-2025
+moet bibliotheek zeer waarschijnlijk toch
+(tijdelijk) verhuizen.
+Benodigd budget uitvoer 9-1-2025
+| Laag
+GIERES Eee entre esen
+|| apmms
+meenemen
+(17)
+Methode van uitvoer 23-1-2025
+| Middel
+Voorzet projectplanning 23-1-2025
+| Middel MOE, EREN CEA IEEE,
+| ons
+bespreken in volgend overleg
+5e
+Nog geen detailplanning beschikbaar, En
+Delen plannen
+Markt BE] 7-2-2025 | Hoog
+dfstemriac >| 28-2-2025
+Chronologisch verslag laatste 20 jaar | 7-2-2025 | Middel 14-2-2025
+Hoogtemeting/tilt 7-2-2025 Hoog In combinatie met 29? 28-2-2025
+Historische grondwaterstanden in
+7-2-2025 Hoog
+Overleg met
+_J} welke gegevens benodigd
+28-2-2025
+beeld zijn
+Aanbrengen peilbuizen grondwater | 7-2-2025 Hoog Afstemmen met
+|J} wie dit kan organiseren | 14-2-2025
+Moment plannen met Sallandse E
+Wegenbouw, Infra, Vastgoed, FUGRO
+de el
+Communicatiebericht over sluiting 19-
+3-3-2025 | Hoog
+21 maart
+Actieplan gebruikers rondom sluiting EE
+AOL meen
+3-3-2025 Hoog
+Acties uit te
+voeren
+door
+aannemer | 33-2025
+ter voorbereiding op sonderingen
+Voor de sonderingen buiten moet een Klic
+Klice-melding sonderingen buiten 3-3-2025 melding worden gedaan. Fugro gaat deze 19-3-2025
+We stoken de vloerverwarming op om zo met
+In beeld brengen van de le! een wartecamera de werkelijke plaats van de
+| 10-3-2025
+We organiseren stand-by van de installateur
+tijdens de werkzaamheden aan de vloer,
+Organiseren van stand-by installateur | 3-3-2025 zodat schade direct kan worden hersteld en 10-3-2025
+eventuele wateroverlast kan worden
+voorkomen en beperkt.
+Voor het aanbrengen van de chemische
+Bepalen exacte locaties chemische
+3-3-2025
+ankers zijn we de exacte technische gegevens
+10-3-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ankers
+Zaaknummer: 67792-2024
+nodig om deze te kunnen aanbrengen. Deze
+worden verstrekt door Fugro
+Actielijst openstaande items (vervolg)
+Actie
+| Datum
+ik
+| Figenaarg
+Toetsing geschiktheid vloer voor
+verankering
+Uitvoer voorbereiding sonderingen
+Sonderingen registreren BRO,
+gegevens aanleveren.
+Werkruimte ter plaatse studs.
+Middel
+Gemeente
+Coevorden
+Status
+De vloer moet een belasting kunnen opvangen
+van 10 ton verdeeld over de 4 ankerpunten.
+Specifieke mail gestuurd naar
+IR] op 04-03-
+2025
+(geanonimiseerd)
+Ter voorbereiding op de sonderingen boort
+Gankema (in opdracht TerSteege) op maandag
+10 maart de
+gaten (@10cm) op de aangegeven plaatsen.
+Ervan uitgaande dat deze boringen slagen,
+hoeven we op dat
+moment geen verdere acties te ondernemen.
+RA wanneer de sonderingen zijn
+(geanonimiseerd)
+uitgevoerd en de gegevens aangeleverd zijn
+door de uitvoerende partij, dus ook in xml
+format, dan ontvang ik deze graag. Deze
+moeten in het BRO geregistreerd worden,
+wettelijke verplichting.
+Wat betreft de locatie ter hoogte van de studs
+checken we de benodigde acties om (tijdelijk)
+de studs elders op te vangen om voldoende
+ruimte te creëren voor de sondering terplaatse.
+o
+plevereng
+Defini
+10-3-2025
+10-3-2025
+1-4-2025
+19-3-2025
+Bij mislukken proefboringen nieuw
+overleg plannen voor PVA
+Opleveren gebruiksklaar
+Communicatiebericht opstellen
+59 Communicatie met eindgebruikers 3-3-2025 Hoog
+In het scenario dat de boringen (bijv. vanwege
+diepte fundering) niet slagen, hebben we
+tussen 10 maart en 19 maart de tijd om een
+nieuw plan van aanpak vast te stellen, waarbij
+het aannemelijk is dat we dan de locatie
+wijzigen naar direct naast het fundament.
+Nadat de werkzaamheden zijn afgerond, moet
+alvorens de bibliotheek en het museum weer
+open kunnen de vloer
+worden hersteld. Ten
+einde alvast te weten welke materialen
+hiervoor nodig zijn, brengen we de huidige
+materialen (incl. linoleum) in beeld en
+koppelen die aan de leverancier.
+Aan de hand van bovenstaande besluiten
+omtrent sluiting stellen we een uniforme
+boodschap op voor de gebruikers, hiervoor
+schakelen we de communicatieadviseur
+van de
+gemeente in. We stemmen hierin ook de
+doelgroep vast naast de eindgebruikers en de
+methode van communiceren (mail/brief, etc.)
+De laatste keer hebben we dit via Domesta
+opgepakt.
+Voor de communicatie van de eindgebruikers
+hebben we
+afgestemd dit éénduidig te doen,
+hiervoor is
+BE gevreesd om actief te
+communiceren naar de gebruikers. Zodra het
+communicatiebericht gereed is, worden
+gebruikers op de hoogte gebracht.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+18-3-2025
+21-3-2025
+4-3-2025
+5-3-2025
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+Actielijst afgerond:
+Gemeente
+Coevorden
+Actie
+| Datum Prig Eigenaagg
+Status
+2
+LE
+CEES
+| aang Uitnodiging volgt 17-1-2025 |Afgerond
+Toepassen van gipspleister voor
+meten vak hOHzOntsle VESCHUMEY
+| ar sms Opdracht verstrekt 16-1-2025 | Afgerond
+naast de meting van de verticale
+verschuiving met de rekstroken.
+Checken huidige rekstroken Gels2025 Ter plaatse gecheckt, geen verschuivingen 9-1-2025 Afgerond
+Toegang tot OneDrive 9-1-2025 Gereed 9-1-2025 Afgerond
+de
+ele ln der Ie
+|| ares Opdracht verstrekt 13-1-2025
+| Afgerond
+de niet doorlopende balken
+Wekelijkse rapportage rekstroken en
+9-1-2025 Uitgebreid met
+gipspleisters Wekelijks
+gipspleisters
+Beschikbare tekeningen van de
+gemeente worden aangevuld in 9-1-2025 Nog geen toegang 16-1-2025 [Afgerond
+OneDrive van Monumentenwacht
+Advies ten behoeve van
+9-1-2025 Startend na verstrekken benodigde informatie 23-1-2025 Afgerond
+grondonderzoek
+Opdracht verstrekken FUGRO G-1-2025 Als advies gereed is
+Mand
+on
+Benodigd voor
+Aanvullen Projectplan Markt in confrontatie
+OneDrive Nog niet beschikbaar
+op later Afgerond
+moment
+EERENS
+| ears Informatie bij 16-1-2025 [Afgerond
+sonderingen van recente DrOJSen |
+a10s5 | Hoog Informatie bij 16-1-2025 [Afgerond
+de omgeving opvragen
+SCORES NRE TO 2e N RMicdel Op basis hiervan opdracht verstrekken 10-1-2025 |Afgerond
+voor opdrachtbevestiging
+Opdracht verstrekken Goudstikker 9-1-2025 | Middel Op basis van uurtarief 16-1-2025 Afgerond
+Afgesproken met
+EE tijdelijk uit
+Benodigd budget onderzoek 9-1-2025 Laag melle EEEN GG
+B
+30-1-2025 | Afgerond
+wanneer kosten duidelijk zijn middels een
+raadvoorstel
+Opdracht verstrekken Fugro 23-1-2025
+| Hoog
+Extra sonderingen rondom
+24-1-2025 Afgerond
+Grondboringen voor samenstelling
+Reserveren tijd Fugro 23-1-2025 | Middel KE pellen 24-1-2025 | Afgerond
+Check op openingstijden 23-1-2025 | Middel 30-1-2025 Afgerond
+Communicatie gebruikers 23-1-2025 | Hoog Voor werkzaamheden informeren 30-1-2025 |Afgerond
+Robin uitnodigen volgende 23-1-2025 | Middel 07-02-2025 ter plaatse Arsenaal 30-1-2025 | Afgerond
+vergadering
+GENELEC Cn AO
+23-1-2025
+| Middel 30-1-2025 | Afgerond
+beschikbaar stellen
+Cultuur aanhaken voor communicatie
+| 23-1-2025
+emmen omiteadenscontackte 7-2-2025 Afgerond
+Meting op zetting uitvoer Uretek 7-2-2025 28-2-2025 [Afgerond
+Tekening vloerverwarming 7-2-2025 14-2-2025 Afgerond
+Communicatiemail delen 7-2-2025 Laag Mail naar gebuikers Arsenaal 14-2-2025 |Afgerond
+Fugro toevoegen bestanden OneDrivef 7-2-2025 Hoog Mail gestuurd 11-02-2025 14-2-2025 [Afgerond
+Plan van aanpak Sonderingen 7-2-2025 Hoog 21-2-2025 |Afgerond
+Opdracht naar aannemer voor
+openkappen van de locaties voor 7-2-2025 | Middel Na oplevering rapport Fugro 28-2-2025 Afgerond
+nader onderzoek
+Sluiting Biliotheek/Musem noodzakelijkf 7-2-2025 Hoog
+DE
+En
+EEE
+28-2-2025
+| Afgerond
+Afstemmen Museum bij aanvang De museumcollectie is zodanig kwetsbaar dat
+werkzaamheden vanwege collectie in [11-2-2025 | Hoog deze niet
+tegen trillingen kan vanwege 28-2-2025 Afgerond
+relatie tot trillingen bijvoorbeeld het open kappen van de vloer.
+Om zo min mogelijk schade te veroorzaken
+Tekening
+vloerverwarming delen in
+| 335025 Hoog
+aan de
+vloerverwarming worden de gewenste
+| „3 5025 Afgerond
+verband met sondeingen locaties op de tekening aangegeven en
+gedeeld.
+De plaats van de sonderingen zijn gewijzigd
+Afstemmen met Goudstikker locaties
+3-3-2025
+ten
+opzichte ven de advies locaties van
+4-3-2025 Afgerond
+sonderingen Goudstikker. Afstemming en goedkeur is
+hiervoor benod
+De voorlopige planning van uitvoer op Er is een tijdelijke reservering gemaakt voor
+19-21 maart moet worden 3-3-2025 deze data, deze moet
+nog definiteif worden 10-3-2025 [Afgerond
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+vastgelegd.
+Zaaknummer: 67792-2024
+vastgesteld
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 20 maart 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 20-03-2025
+Gemeente Coevorden
+Gemeente Coevorden
+gemeente Emmen.
+Telefonische afstemming: A, ro)
+(geanonimiseerd) (geanonimiseerd)
+monumentenwachtdrenthe.nl
+coevorden.nl
+Aanwezig:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+E
+Bijeenkomst met constructeur (intern) en Gemeente Coevorden aan de hand van onderstaande agenda:
+Uitvoering Sonderingen
+Gisteren heeft Fugro de sonderingen aan de buitenzijde van het Arsenaal afgerond. Vanmiddag worden
+de sonderingen binnen in het Arsenaal afgerond. Tenslotte worden morgen de extra boringen uitgevoerd
+om de samenstelling van de grond in beeld te brengen. We verwachten geen vertraging, zodat de deuren
+zaterdag gewoon weer open kunnen. Bij eventuele onverwachte ontwikkelingen, waardoor de sluiting
+moet worden verlengd organiseren we deze communicatie via Zonder tegenbericht volgen we de
+eerder voorgestelde lijn van afronding einde dag op vrijdag 21 maart 2025.
+Monumentenwacht heeft de scheurmeters vooraf gecontroleerd en kan nadien het eventuele effect van
+de sonderingen in beeld brengen. Rapportage volgt via de gebruikelijke weg zonder afwijking met foto's
+in de OneDrive, bij afwijking middels actieve melding en een
+rapport in de OneDrive.
+(geanonimiseerd)
+Acties na sonderingen
+Fugro denkt ca. 5 werkdagen nodig te zijn om de resultaten van de sonderingen om te kunnen zetten in
+conclusies en een advies, we stemmen af om in week 14 een fysiek overleg te plannen met constructeur,
+Fugro en de gemeente waarin we de bevindingen van nu koppelen aan een plan van aanpak.
+In de tussentijd volgt er alvast contact tussen de constructeur en Fugro om goed voorbereid
+het overleg te kunnen aanvangen en alvast de eerste kaders te kunnen schetsen.
+Fugro levert de resultaten van de sonderingen aan voor registratie BRO.
+(geanonimiseerd)
+(geanonimiseerd)
+Eerste bevindingen en input volgende sessie
+In afstemming met de Sallandse Wegenbouw die middels het PVE Markt & Haven al een opdracht heeft
+om effecten van werkzaamheden op omliggende panden in beeld te brengen controleren we als deze
+methode ook geschikt is voor het langdurig monitoren van het Arsenaal. In de volgende meeting stellen
+we vast welke opties (hoogte/tilt) hiervoor geschikt zijn voor het Arsenaal.
+Tussen de cementdekvloer en de betonvloer is een ruimte aanwezig van ca. 1,5 centimeter (bomijs)
+welke meer onderzoek vraagt met name op ontstaan en effect op de huidige situatie. We bespreken een
+plan van aanpak gezamenlijk met de uitkomsten van de sonderingen in ons volgende overleg.
+Onder de gewelven is bij de boringen geen bewapening aangetroffen, voorstel is middels boringen vast te
+stellen hoe dat elders in het pand is uitgevoerd. Aan de hand van de boringen is daarnaast vast te stellen
+dat er geen sprake is van een totaal van 70cm vloer (30 oud en 40 nieuw) onder de gewelven.
+We vragen ons af wat de effecten van de vloerverwarming, het effect van het ‘koud’ storten van extra
+vloervolume (zonder ventilatie) op de funderingen. We nemen dit mee in de volgende bespreking.
+Volgende meeting
+Volgende meeting staat gepland voor 03 april 2025 10:00 uur.
+Het is belangrijk dat iedereen hierbij fysiek aanwezig is, omdat we ter plaatse een plan van aanpak willen
+bespreken over verdere aanpak naar aanleiding van de resultaten van het bodemonderzoek.
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+Actielijst:
+Actielijst in de tekst wordt toegevoegd aan de bestaande onderstaande actielijst
+Gebruikers:
+Gebruiker Contactpersoon
+Stedelijk Museum
+bni museumcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+lijkmuseum.nl
+Telefoon
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ToReCo
+Bibliotheek biblionetdrenthe.nl
+bilbionetdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+historischcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+|
+Historische Vereniging
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+Actielijst openstaande items:
+Ni Actie
+| Datum
+ik
+| Fioenaagg
+Status
+ikl Confrontatie met plannen Markt 9-1-2025 Hoog (geanonimiseerd)
+14 Onderzoek locatie Bibliotheek 9-1-2025
+| Middel
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gewicht van de boeken wegnemen kan
+positief effect hebben op situatie, bij uitvoer
+23-1-2025
+moet bibliotheek zeer waarschijnlijk toch
+(tijdelijk) verhuizen.
+Middels raadsvoorstel, onderzoekskosten
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+18 Benodigd budget uitvoer Set) Laag
+meenemen
+(17)
+28-2-2025
+21 Methode van uitvoer Uretek 23-1-2025
+| Middel bellen
+Voorzet projectplanning 23-1-2025
+| Middel
+Inker
+venen
+vol oop olectar
+IMS ERD 2025
+bespreken in volgend overleg
+7-2-2025 Hoog 28-2-2025
+14-2-2025
+Hoogtemeting/tilt
+Aanbrengen peilbuizen grondwater | 7-2-2025 | Hoog Afstemmen met
+EE wie dit kan organiseren
+Moment plannen met Sallandse
+Wegenbouw, Infra, Vastgoed, FUGRO
+11-2-2025
+| Middel
+RA wanneer de sonderingen zijn
+uitgevoerd en de gegevens aangeleverd zijn
+door de uitvoerende partij, dus ook in xml
+2) format, dan ontvang ik deze graag. Deze
+moeten in het BRO geregistreerd worden,
+wettelijke verplichting.
+(geanonimiseerd)
+Sonderingen registreren BRO,
+4-3-2025 | Middel
+gegevens aanleveren.
+54 1-4-2025
+Zaaknummer: 67792-2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 02 april 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 02-04-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Aanwezig: Gemeente Coevorden
+gemeente Emmen.
+Gemeente Coevorden
+(Fugro)
+Goudstikker | de vries (extern adviseur)
+TerSteege (aannemer)
+Contactgegevens:
+coevorden.nl
+coevorden.nl
+monumentenwachtdrenthe.nl
+fugro.com
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+J
+J
+J
+J
+J
+J
+J
+J
+J
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met constructeurs, Fugro, aannemer en Gemeente Coevorden aan de hand van
+onderstaande agenda:
+Resultaten Sonderingen:
+Update sonderingen door
+De gronden aangetroffen direct onder de funderingen is van slechte kwaliteit, dit blijkt uit de
+sonderingen, zowel binnen als buiten. Uit de aanvullende boringen is vastgesteld dat dit organisch
+materiaal betreft.
+Fugro is blij met de keuze voor het boren dwars door de funderingen, zodat helder is dat van de
+grondlagen onder het fundament vast te stellen is dat deze aannemelijk van slechte kwaliteit zijn.
+Organische stof is een belangrijke stof van de samenstelling, dit maakt de oorzaak logischer.
+Hiervoor zijn twee uitleggen mogelijk, enerzijds een belastingverhoging door de verbouwing in 2012,
+gezien de toepassingen voorheen (munitiedepot) en de totale massa van het gebouw zelf is dit niet
+aannemelijk.
+Verklaring zou lucht en oxidatie in de lagen zijn, door het inklinken (klei) of verdwijnen (veen) door
+droogte kunnen deze verschillen ontstaan. Langdurige droogte (zoals in 2018) zouden oorzaak kunnen
+zijn van de verandering van grondlagen. Aannemelijk hierin is echter niet de droge periode maar de natte
+periode vooraf of nadien waardoor het draagvermogen van de grond afneemt.
+Aanvullend zouden historische grondwaterstanden aanvullende data kunnen geven op betere duiding van
+de oorzaak.
+(geanonimiseerd)
+Acties naar aanleiding conclusies
+Advies Goudstikker
+Van de Uretek toepassing die in 2012 op de rechterzijgevel is toegepast zijn de resultaten goed. Wel
+stemmen we af hiervoor aanvullende inspectie toe te voegen aan de reeds geplande periodieke controles.
+Voorstel is deze oplossing ook toe te passen in de middelste muur. stemt dit af met Uretek en laat
+een offerte maken voor het uitvoeren van de gehele binnenmuur. Voor het verhelpen van het huidige
+probleem is uitvoering ter plaatse een oplossing, voor de lange termijn en gelet op de werkzaamheden
+rondom Markt & Haven is een volledige uitvoering aan te bevelen. Er vanuit gaande dat de raad het
+budget hiervoor beschikbaar stelt laten we een offerte opstellen voor volledige uitvoer. Alhoewel vanuit
+Fugro wordt opgemerkt dat dit herstel achteraf is en alleen niet afdoende is voor een definitieve
+oplossing, kiezen we toch voor deze methode aangevuld met de verdere genoemde acties aanbevolen
+door Fugro.
+Vanuit de constructeur wordt opgemerkt dat na eerste scheurvorming en herstel de stabilisatie is
+aangetast en er geen mogelijk bestaat tot nivilatie, het proces van scheurvorming is niet te stoppen,
+maar wel beheersbaar te maken.
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Zodra de Uretek oplossing is gestabiliseerd wordt aanvullend een ‘wokkel’ als metselwerkwapening ter
+hoogte van de scheuren aangebracht volgens de ‘TotalWall’ methode. Goudstikker geeft hiervoor de input
+voor de benodigde offerte.
+Lintvoegwapening van Total Wall
+Advies Fugro
+Volgens Fugro moet hier aanvullend monitoring worden toegepast, we stemmen hiervoor af dat we hier
+hoogte/tilt meting, hoogtebouten en peilbuizen toepassen. komt hiervoor met een aanvullende
+offerte. De peilbuizen zouden bijvoorbeeld toegepast kunnen worden in de huidige gaten van de
+sonderingen. Tenslotte verstrekt de gemeente Coevorden de historische grondwaterstanden om aan te
+vullen in dit onderzoek.
+Mochten deze maatregelen op langere termijn toch onvoldoende zijn zal alsnog voor een duurzame
+oplossing van herstel metselwerk, of palen gekozen moeten worden.
+Belangrijk is om in samenspraak met het Waterschap Vechtstromen een beleidsregel op onttrekking van
+het grondwater vast te stellen om zo effect van het onttrekken van water op de historische gebouwen in
+de omgeving vast te leggen en eventueel te beperken
+(geanonimiseerd)
+‘Bomijs’
+Tussen de vloer en de cementdekvloer is een ruimte waargenomen, het ontstaan hiervan is onduidelijk.
+Middels GPR methode brengen we de omvang hiervan in beeld, checkt hiervoor de mogelijkheden.
+Mocht dit niet met deze methode lukken, zullen we deze uitvoeren middels het aanbrengen van gaten ter
+controle in combinatie met een camera (zoals een rioolcamera)
+(geanonimiseerd)
+Markt & Haven
+Het leegpompen van de haven is vanwege het effect op het grondwater uit den boze en zal niet mogen
+worden toegepast. Na afloop van de meeting is hierover contact geweest met de Markt &
+Haven, de huidige plannen zijn aangepast en leegpompen is niet meer aan de orde. Wel stemmen we een
+afspraak met de uitvoering van Markt & Haven af om af te stemmen voor de effecten op de situatie
+rondom het Arsenaal. De aannemer wordt hiertoe uitgenodigd voor de volgende meeting die we hebben
+gepland op 24 april 2025.
+(geanonimiseerd)
+Volgende meeting
+Volgende meeting staat gepland voor 24 april 2025 10:00 uur.
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Actielijst:
+Actielijst in de tekst wordt toegevoegd aan de bestaande onderstaande actielijst
+Actielijst openstaande items:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Datum Prio Eigenaar Opleveren Defi
+Gewicht van de boeken wegnemen kan
+|
+=|
+Onderzoek locatie Bibliotheek
+_ | 9-1-2025
+| Middel posltenenschnebpenopjs tete 0D UveerM3E1e2025)
+moet bibliotheek zeer waarschijnlijk toch
+tijdelijk) verhuizen.
+Benodigd budget uitvoer 28-2-2025
+Hoogtemeting/tilt 75252025 Offerte Fugro 24-4-2025
+Aanbrengen peilbuizen grondwater | 7-2-2025 Afstemmen met
+5} wie dit kan organiseren | 14-2-2025
+Moment plannen met Sallandse :
+Wegenbouw, Infra, Vastgoed, FUGRO 22025) Gepland voor volgende meeting 24-4-2025 [Afgerond
+RN wanneer de sonderingen zijn
+uitgevoerd en de gegevens aangeleverd zijn
+Sonderingen registreren BRO,
+4-3-2025
+door de
+uitvoerende partij,
+dus ook in xml
+1-4-2025
+gegevens aanleveren.
+format, dan ontvang ik deze graag. Deze
+moeten in het BRO geregistreerd worden,
+wettelijke verplichting.
+In afstemming met wordt een offerte
+Offerte Uretek
+2-4-2025 uitgebracht op herstel van de gehele 24-4-2025
+binnenmuur
+Nadat de Uretekoplossing is gestabiliseerd
+Offerte TotalWall passen we de TotalWall
+methode toe. 24-4-2025
+levert alvast de data aan benodigd voor de
+offerte
+Offerte hoogte/tilt meting 2-4-2025 Uitbrengen van een offerte voor deze meting
+| >4 45025
+door Fugro
+" Afstemmen in volgende overleg over methode
+Afstemming.methede sannemer Markt
+2-4-2025 en doorbelasting naar aannemer van Markt & [| 24-4-2025
+& Haven
+Haven van deze kosten
+Voorstel en offerte van uitvoer van de
+Offerte hoogtebouten En
+aantallen en de locaties van de hoogtebouten
+Zi Ee
+Offerte peilbuizen 2-4-2025
+Voorstel en offerte
+van Lltvoer
+van;de 24-4-2025
+aantallen en de locaties van de peilbuizen
+Ultvoer Uretek 2-4-2025 Bespreken in overleg 24-04-2025
+tvoer TotalWall Laag Bespreken in overleg 24-04-2025
+Allereerst via Fugro GPR methode toetsen,
+Omvang bommijs vaststellen
+2-4-2025 indien niet mogelijk uitwijken naar boringen en| 24-4-2025
+camera methode,
+In samenspraak met Waterschap
+Vaststellen beleidsregel ontrekking Vechtstromen onderzoeken we als we een
+2-4-2025 :
+grondwater beleidsregel kunnen vaststellen voor het
+onttrekken van grondwater
+Gebruikers:
+Telefoon
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gebruiker Contactpersoon
+Stedelijk Museum
+ri museumcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+stedelijkmuseum.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ToReCo
+NN:
+Bibliotheek biblionetdrenthe.nl
+bilbionetdrenthe.nl
+Historische
+Vereniging historischcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Actielijst afgeronde items:
+Datum Prio Eigenaar Opleveren Defi
+2
+WSE
+voortganoNIRS 025 Uitnodiging volgt 17-1-2025 |Afgerond
+(geanonimiseerd)
+Toepassen van gipspleister voor
+meten van horizontale verschuiving
+naast de meting van de verticale
+verschuiving met de rekstroken,
+Checken huidige rekstroken 9-1-2025 Ter plaatse gecheckt, geen verschuivingen 9-1-2025 Afgerond
+(geanonimiseerd)
+(geanonimiseerd)
+9-1-2025 Opdracht verstrekt 16-1-2025 [Afgerond
+Toegang tot OneDrive 9-1-2025 Gereed 9-1-2025 Afgerond
+(geanonimiseerd) (geanonimiseerd)
+Extra ondersteuning ter hoogte van
+de niet doorlopende balken
+2er2025 Opdracht verstrekt 13-1-2025 [Afgerond
+(geanonimiseerd)
+Wekelijkse rapportage rekstroken en
+gipspleisters
+Beschikbare tekeningen van de
+gemeente worden aangevuld in 9-1-2025 Nog geen toegang 16-1-2025 [Afgerond
+OneDrive van Monumentenwacht
+(geanonimiseerd)
+(geanonimiseerd)
+9-1-2025 Uitgebreid met
+gipspleisters Wekelijks
+Advies ten behoeve van
+9-1-2025 Startend na verstrekken benodigde informatie
+| 23-1-2025 [Afgerond
+grondonderzoek
+(geanonimiseerd)
+Wachtend op
+Opdracht verstrekken FUGRO 9-1-2025 Als advies gereed is
+5
+(geanonimiseerd)
+Benodigd voor|
+confrontatie
+Aanvullen Projectplan Markt in
+OneDrive Nog niet beschikbaar
+op later Afgerond
+moment
+Confrontatie met plannen Markt 9-1-2025 NNB Afgerond
+Sonderingen van plannen Markt
+| 94-2025 Informatie
+bij BEN ee:
+| oere
+opvragen
+MENEN ens Informatie bij 16-1-2025 [Afgerond
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+de omgeving opvragen
+DElEn an GEEST van SOUGSEKKST
+9-1-2025 | Middel
+B Op basis hiervan opdracht verstrekken 10-1-2025 [Afgerond
+voor opdrachtbevestiging J
+Pp p g
+(geanonimiseerd)
+Opdracht verstrekken Goudstikker 9-1-2025 | Middel J Op basis van uurtarief 16-1-2025 [Afgerond
+(geanonimiseerd)
+Afgesproken met
+Kj tijdelijk uit
+onderhoud Arsenaal, op een later moment
+wanneer kosten duidelijk zijn middels een
+raadvoorstel
+(geanonimiseerd)
+Benodigd budget onderzoek 9-1-2025 Laag 30-1-2025 | Afgerond
+(geanonimiseerd)
+Extra sonderingen rondom
+Opdracht verstrekken Fugro 23-1-2025
+| Hoog
+Grondboringen voorsamenstelling
+(geanonimiseerd) 24-1-2025
+| Afgerond
+Reserveren
+tijd Fugro 23-1-2025 | Middel 24-1-2025 | Afgerond
+(geanonimiseerd) (geanonimiseerd)
+Methode van uitvoer Uretek 23-1-2025
+| Middel 5 Afgerond
+(geanonimiseerd)
+(geanonimiseerd)
+Check op openingstijden 23-1-2025 | Middel 30-1-2025 | Afgerond
+Communicatie gebruikers 23-1-2025 | Hoog Voor werkzaamheden informeren 30-1-2025 | Afgerond
+(geanonimiseerd)
+(geanonimiseerd)
+In OneDrive, aangevuld door projectteam, 28-2-2025 Afgerond
+bespreken in volgend overleg
+23-1-2025
+| Middel 07-02-2025 ter plaatse Arsenaal 30-1-2025
+| Afgerond
+(geanonimiseerd)
+Voorzet projectplanning 23-1-2025 | Middel
+uitnodigen volgende
+vergadering
+Rapport Uretek 2012 en 2022
+beschikbaar stellen
+235152025) MIddél 30-1-2025
+| Afgerond
+(geanonimiseerd)
+Cultuur aanhaken voor communicatie | 23-1-2025 | Middel
+EN Om reg delden CEI
+0 25
+Ml Atgerond
+ebben met de gebruikers
+(geanonimiseerd)
+(geanonimiseerd)
+Meting op zetting uitvoer Uretek 7-2-2025 Hoog Overleg met hoe we dit oppakken (| 28-2-2025
+| Afgerond
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Tekening vloerverwarming 722025: Hoog 14-2-2025 [Afgerond
+(geanonimiseerd)
+28-2-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Delen plannen Markt
+5) 7-2-2025 Hoog
+Nog geen
+detalplanniee beschikbaar,
+Zaaknummer: 67792-2024
+Datum
+7-2-2025
+Prio Eigenaar
+Gemeente
+Coevorden
+Opleveren Definitief
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) communiceren
+naar de gebruikers. Zodra het
+communicatiebericht gereed is, worden
+gebruikers op de hoogte gebracht.
+31 Communicatiemail
+delen IR Laag Mail naar gebuikers Arsenaal 14-2-2025
+| Afgerond
+32
+| Chronologisch verslag laatste 20 jaar
+| 7-2-2025
+| Middel 14-2-2025
+za
+|_ Historische grondwaterstandenin
+| 555025
+| Hoog
+Overleg met
+EI welke gegevens benodigd
+| „8-5-2025
+beeld zijn
+35 [Fugro toevoegen bestanden OneDrive| 7-2-2025
+| Hoog Mail gestuurd 11-02-2025 14-2-2025
+| Afgerond
+37 Plan van aanpak Sonderingen 7-2-2025
+| Hoog 21-2-2025
+| Afgerond
+Opdracht naar aannemer voor
+38 |_openkappen van de locaties voor
+| 7-2-2025
+| Middel Na oplevering rapport
+IN 2 | 28-2-2025
+| Afgerond
+nader onderzoek
+39 [sluiting Biliotheek/Musem noodzakelijk| 7-2-2025
+| Hoog
+5 |
+ANS
+en
+kiezen voor
+|_ 58-2-2025
+| Afgerond
+Afstemmen Museum bij aanvang De museumcollectie is zodanig kwetsbaar dat
+40
+| werkzaamheden vanwege collectie in [11-2-2025
+| Hoog deze niet tegen trillingen kan vanwege 28-2-2025
+| Afgerond
+relatie tot trillingen bijvoorbeeld het open kappen van de vloer.
+‘Communicatiebericht over sluiting 19-[
+>.
+42
+Een
+3-3-2025
+| Hoog
+Actieplan gebruikers rondom sluiting | >.
+43
+Romae
+3-3-2025
+| Hoog
+aa
+| Acties uitte voeren door aannemer
+| 532025
+| Hoog
+ter voorbereiding op sonderingen
+Voor de sonderingen buiten moet een Klic
+45
+|__ Klicmelding sonderingen buiten
+| 3-3-2025
+| Hoog melding worden gedaan. Fugro gaat deze
+| 19-3-2025
+organiseren
+Om zo min mogelijk schade te veroorzaken
+46 | Tekening vloerverwarming delen in_|
+33.5025 | Hoo
+aan de vloerverwarming worden de gewenste
+| 435025 | afgerond
+verband met sondeingen
+9
+locaties op de tekening aangegeven en
+g
+gedeeld.
+De plaats van de sonderingen zijn gewijzigd
+Afstemmen met Goudstikker locaties
+| … ten opzichte ven de advies locaties van
+oe
+4
+sonderingen
+2532028
+| Hoed
+Goudstikker. Afstemming en goedkeur
+is
+432025 |Afdérond
+hiervoor benodigd
+We stoken de vloerverwarming op om zo met
+48 |_In beeld brengen van de leidingen | 3-3-2025
+| Hoog een wartecamera de werkelijke plaats van de
+| 10-3-2025
+leidingen in beel dte brengen
+We organiseren stand-by van de installateur
+tijdens de werkzaamheden aan de vloer,
+49 [organiseren van stand-by installateur| 3-3-2025
+| Hoog zodat schade direct kan worden herstelden
+| 10-3-2025
+eventuele wateroverlast kan worden
+voorkomen en beperkt.
+Voor het aanbrengen van de chemische
+Bepalen exacte locaties chemische
+|.
+ankers zijn we de exacte technische gegevens|
+……
+20
+ankers
+SS OeNkseeg
+nodig om deze te kunnen aanbrengen. Deze
+|
+10-3-2025
+worden verstrekt
+door EÀ
+De voorlopige planning van uitvoer op Er is een tijdelijke reservering gemaakt voor
+51 19-21 maart moet worden 3-3-2025
+| Hoog deze data, deze moet nog
+definiteif worden
+| 10-3-2025 |Afgerond
+vastgelegd vastgesteld
+De vloer moet een belasting kunnen opvangen
+Toetsing geschiktheid vloer voor
+m
+van 10 ton verdeeld over de 4 ankerpunten.
+ze
+verankering
+Sl
+|| ee
+Specifieke mail gestuurd naar
+Mij op 04-03-
+HE
+2025
+Ter voorbereiding op de sonderingen boort
+Gankema (in opdracht TerSteege) op maandag
+10 maart de
+53
+|_ Uitvoer voorbereiding sonderingen
+| 3-3-2025
+| Middel
+gaten (910cm) op de aangegeven plaatsen.
+| 10-3-2025
+Ervan uitgaande dat deze boringen slagen,
+hoeven we op dat
+moment geen verdere acties te ondernemen.
+Wat betreft de locatie ter hoogte van de studs
+checken we de benodigde acties om
+(tijdelijk)
+55 Werkruimte ter plaatse studs 3-3-2025
+| Middel
+ns : peen
+19-3-2025
+e studs
+elders op
+te vangen om voldoende
+ruimte te creëren voor de sondering ter
+plaatse.
+In het scenario dat de boringen (bijv. vanwege
+diepte fundering) niet
+slagen, hebben we
+5e
+| Bi mislukken proefboringen nieuw
+| 5.5.2025
+| Hoog
+tussen 10 maart
+en 19 maart de tijd om een
+misse
+overleg plannen voor PVA nieuw plan van aanpak
+vast te stellen, waarbij
+het aannemelijk is dat we dan de locatie
+wijzigen naar
+direct naast het fundament.
+Nadat de werkzaamheden zijn afgerond, moet
+alvorens de bibliotheek en het museum weer
+open kunnen de vloer worden hersteld. Ten
+57 Opleveren gebruiksklaar 3-3-2025
+| Hoog einde alvast te weten welke materialen 21-3-2025
+hiervoor nodig zijn, brengen we de huidige
+materialen (incl. linoleum) in beeld en
+koppelen die aan de leverancier.
+Aan de hand van bovenstaande besluiten
+omtrent
+sluiting stellen we een uniforme
+boodschap op voor de gebruikers, hiervoor
+schakelen we de communicatieadviseur
+van de
+58 Communicatiebericht opstellen 3-3-2025
+| Hoog gemeente
+in. We stemmen hierin ook de 4-3-2025
+doelgroep vast naast de eindgebruikers en de
+methode van communiceren
+(mail/brief, etc.)
+De laatste keer hebben we dit via Domesta
+opgepakt
+voor de communicatie van de eindgebruikers
+hebben
+we afgestemd dit éénduidig
+te doen,
+59
+[_ Communicatie met eindgebruikers | 3-3-2025
+| Hoog hiervoor is
+MN zv --ece om acten
+5-3-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 23 april 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 23-04-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Aanwezig: Gemeente Coevorden
+gemeente Emmen.
+Gemeente Coevorden
+Gemeente Coevorden
+Afwezig:
+J
+J
+J
+J
+J
+J
+J
+J
+J
+J
+J
+J
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+@Osallandsewegenbouw.com
+Bijeenkomst met constructeurs, Fugro, Sallandse Wegenbouw, Projectleider Markt & Haven en de
+Gemeente Coevorden aan de hand van onderstaande agenda:
+Opening
+Vaststellen agenda
+Confrontatie met het plan Markt & Haven (Sallandse Wegenbouw | ECV Infra)
+Korte pauze (mogelijkheid vertrek gasten project Markt & Haven)
+Gespreksverslag 02 April 2025
+Actielijst
+Definitieve datum uitvoer Uretek
+Bespreking uitvoer Uretek
+.
+Afstemming sluiting rondom werkzaamheden
+10. Rondvraag
+11. Volgende vergadering & deelnemerslijst
+12. Sluiting
+PENN
+AwNe
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Confrontatie met plan Markt & Haven
+Aandachtspunten vanuit verslag Project herinrichting markt/haven te Coevorden:
+3.2 Vergunningen
+De Sallandse heeft contact gehad met waterschap Vechtstromen en goedkeuring om de haven te dempen.
+4. Plannin:
+heeft een balkenplanning opgesteld en ingediend. Deze planning wordt de volgende vergadering
+besproken.
+(geanonimiseerd)
+6. Waterbak/haven
+Ki geeft aan dat de diepte van de waterbak wordt met 40 cm omhoog gehaald. Dit levert een besparing
+op aan;
+-
+Minder ontgraven
+-
+Zwaardere damwanden maar minder ankers -
+Geen paalfundering De inschatting is dat
+dit een besparing oplevert van circa €80.000,- heeft een inschatting gemaakt van het leveren en
+aanbrengen van circa 18 meter stalen damwand achter de
+appartementen in de gelijke vorm als bij de waterbak.
+mn geeft aan dat de kering daar lang niet zo hoog hoeft te zijn. Dat scheelt in lengte damwand,
+metselwerk, prefab hangelementen etc. Nu worden deze kosten geschat op €250. 000,- echter er wordt een versoberd
+alternatief uitgerekend. mann was in de veronderstelling dat het waterschap de haven ging baggeren en dat er
+geen slib meer aanwezig zou zijn. Dit is niet het geval. Bij het dempen van de haven zou er veel slib richting de burg
+gedrukt worden en tevens verwijderd moeten worden door de Sallandse. geeft aan dat dit niet de
+bedoeling is en dat de uitvoeringswijze hierdoor wordt veranderd naar de originele bestek omschrijving.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Het project Markt & Haven is aanbesteedt bij de Sallandse Wegenbouw. In de uitvoering maakt deze
+gebruik van onder-aanneming in het geval van de uitvoer van de ‘waterbak’ betreft dit Platenkamp. Met
+het inrichten van de (betreedbare) waterbak wordt de 4° Citadelpunt hersteld, die tevens dient als
+waterbuffer tijdens hoog water.
+Zoals in bovenstaande regels van het verslag is te lezen is het dempen van de haven niet meer aan de
+orde vanwege de extra ontstane opgave voor de afvoer van slib. Tijdens de uitvoer is een droge
+werkomgeving nodig, hiervoor worden tijdelijke damwanden geplaatst, maar ook bronbemaling
+toegepast. (incl. filters) Met name de filters, wat onttrekking van het grondwater betekent heeft een
+negatief effect op de situatie rondom het Arsenaal en hiervoor dienen grondige afwegingen gemaakt
+worden, zoals bijvoorbeeld retourbemaling om de effecten op de grondwaterstanden te minimaliseren.
+Daarnaast blijkt het exacte plan van uitvoering (nog) niet compleet, waardoor overleg op dit moment
+over deze onderwerpen lastig zijn. We spreken af dat de Sallandse Wegenbouw BR een viertal zaken
+hiervoor oplevert: Het ontwerp, de uitvoeringsmethode, het bemalingsplan en de planning. Zie nadere
+details in de actielijst. Na toetsing van deze aangeleverde stukken van SW zullen we de uitkomsten in
+een nieuw te plannen gezamenlijk overleg met Fugro nogmaals bespreken.
+Wat betreft de damwanden zijn er andere keuzes gemaakt dan tot nu toe, hierdoor lijkt de methode van
+aanbrengen door middel van trillingen niet meer nodig. Vanuit de constructeur komt de vraag als er een
+escalatiemodel wordt opgezet mocht het ‘duwen’ van de damwandplaten onvoldoende zijn. Zie nadere
+details in actielijst.
+Wat betreft ondergrond zijn er geen beperkingen voor materieel in de nabije omgeving, deze is benoemd
+als klasse 45 en derhalve geschikt voor alle vrachtverkeer.
+Onderdeel van het project is het voor aanvang van de werkzaamheden in beeld brengen van omliggende
+panden (Vermeer) door middel van visuele inspectie (binnen en buiten) om deze achteraf te kunnen
+toetsen. (foto’s) Daarnaast worden tijdens de uitvoering door middel van trillingsmeters de omgeving
+gemonitord, ook hier is de vraag vanuit de constructeur hoe het escalatieschema eruit ziet, wanneer
+moet er bijv. gestopt worden met de uitvoering. Zie nadere details in de actielijst.
+Voor de uitvoering hiervan is gebruik gemaakt van een cirkel van 50 meter, met daaraan toegevoegd
+enkele historische panden in de omgeving, vraag is als deze straal voldoende is voor de verwachte
+effecten op de omgeving.
+(geanonimiseerd)
+Grondwaterstanden
+Met betrekking tot de grondwaterstanden laten de antwoorden vanuit het waterschap op zich wachten,
+escaleert dit bij MRS, moent dit onvoldoende zijn moeten we desnoods bestuurlijk
+escaleren. Voor het aanwijzen van bronoorzaken zijn historische grondwaterstanden en huidige (actieve)
+bemalingen in de nabije omgeving uiterst belangrijk als input van het onderzoek.
+Op dit moment zijn er geen actieve bemalingen bekend in de nabije omgeving, behalve de onttrekking
+van Triton van grondwater welke ingezet wordt als proceswater in de productie. Deze onttrekking is niet
+incidenteel en niet recent, Triton onttrekt al ruim 20 jaar grondwater voor haar productie.
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+STAVAZA Actielijst
+FUGRO levert vandaag voor het einde van de dag de offertes op voor hoogte/tiltmeting, hoogtebouten en
+peilbuizen, zodat we aan de hand van deze offerte de juiste keuzes voor monitoring van het Arsenaal
+kunnen maken. Voor monitoring van effecten op de lange termijn wordt door Fugro een laserscan
+geadviseerd, deze maakt onderdeel uit van de offerte. Voor de volgende vergadering agenderen we de
+voorwaarden voor
+monitoring en frequentie op de lange termijn.
+Op dit moment heeft Fugro de gegevens nog niet aangeleverd voor het vastleggen in het BRO,
+checkt dit nog intern en koppelt de status actief terug wanneer dit is afgehandeld.
+(geanonimiseerd)
+Uitvoer Uretek
+De uitvoer van de verbetering van de grond onder de fundering volgens de aangeboden methode in de
+offerte wordt door zowel constructeur als Fugro onderschreven, we gebruiken hiervoor het reeds
+geplande moment van 21 tot en met 23 mei 2025. stemt met communicatie en cultuur af dat
+gedurende deze dagen het Arsenaal gesloten zal zijn voor publiek.
+In tegenstelling tot de eerste aanbieding laten we de grondverbetering over de gehele middelste muur
+aanbrengen en daarnaast het advies reeds afgegeven in 2022 voor de linkerzijgevel alsnog uitvoeren.
+(geanonimiseerd)
+Volgende meeting
+Volgende meeting staat gepland voor 28 mei 2025 13:00 uur.
+Zaaknummer: 67792-2024
+Actielijst:
+Actielijst in de tekst wordt toegevoegd aan de bestaande
+Actielijst openstaande items:
+Datum Prio Eigenaar
+Benodigd budget uitvoer 9-1-2025 Laag (geanonimiseerd)
+54
+Sonderingen registreren BRO, gegevens
+aanleveren.
+4-3-2025 Middel (geanonimiseerd)
+Gemeente
+Coevorden
+onderstaande actielijst
+Status
+Middels raadsvoorstel, onderzoekskosten
+meenemen (17)
+Wanneer de sonderingen zijn
+uitgevoerd en de gegevens aangeleverd zijn door
+de uitvoerende partij, dus ook in xml format, dan
+ontvang ik deze graag. Deze moeten in het BRO
+Opleveren
+1-6-2025
+Def:
+1-4-2025
+61 Offerte TotalWall 2-4-2025 Hoog (geanonimiseerd)
+geregistreerd worden, wettelijke verplichting.
+Nadat de Uretekoplossing is gestabili:
+we de TotalWall methode toe.
+de data aan benodigd voor de offerte
+(geanonimiseerd) 24-4-2025
+62
+Afstemming methode aannemer Markt &
+Haven
+2-4-2025 Hoog
+Afstemmen in volgende overleg over methode en
+doorbelasting naar aannemer van Markt & Haven
+van deze kosten
+24-4-2025
+66 Uitvoer TotalWall 2-4-2025 Laag Bespreken in overleg 24-04-2025
+67 Omvang bommijs vaststellen 2-4-2025 Hoog (geanonimiseerd)
+Allereerst via Fugro GPR methode toetsen, indien
+niet mogelijk uitwijken naar boringen en camera
+methode.
+24-4-2025
+69
+Vaststellen beleidsregel ontrekking
+grondwater
+2-4-2025 Hoog
+In samenspraak met
+Waterschap Vechtstromen
+onderzoeken we als we een beleidsregel kunnen
+vaststellen voor het onttrekken van grondwater
+31-8-2025
+70 Definitief ontwerp waterbak 23-4-2025 Hoog
+Het definitieve ontwerp is nog niet beschikbaar SW
+deelt het ontwerp om te kunnen toetsen aan
+effecten Arsenaal.
+31-5-2025
+71 Uitvoeringsplan/methode 23-4-2025 Hoog (geanonimiseerd)
+Zowel het uitvoeringsplan als de methode liggen op
+dit moment
+nog niet vast, dat maakt een
+confrontatie met effecten op het Arsenaal
+onmogelijk. SW levert deze aan.
+31-5-2025
+72 Bemalingsplan 23-4-2025 Hoog (geanonimiseerd)
+Het huidige plan van bemaling is niet beschikbaar,
+dit is aan de voorkant benodigd om toestemming
+te geven op voorzetten van de werkzaamheden,
+evenals het maken van het organiseren van
+oplossingen, zoals bijvoorbeeld retourbemaling,
+SW levert deze op.
+31-5-2025
+5) Planning 23-4-2025 Hoog
+De detailplanning van de werkzaamheden is nog
+niet bekend, deze is nodig om de werkzaamheden
+te kunnen koppelen aan de effecten op het
+Arsenaal. SW levert deze op.
+31-5-2025
+74 Overleg plannen SW & Fygro 23-4-2025 Hoog
+Als de resultaten 70-73 beschikbaar zijn, moeten
+we het gesprek voorzetten over de inhoud.
+31-5-2025
+75 Opleveren documenten waterschap 23-4-2025 Hoog (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Het waterschap levert nog niet de gewenste
+informatie op, die nodig is voor het aanwijzen van
+de bronoorzaak. gaat dit escaleren, desnoods
+via het bestuur.
+(geanonimiseerd)
+31-5-2025
+76 Monitoring 23-4-2025 Middel
+Op basis van de offerte van Fugro stemmen we in
+de volgende vergadering de lange termijn
+monitoring af. Voorkeur is op basis van scan en een
+gekoppelde frequentie.
+31-5-2025
+zi Offerte Fugro 23-4-2025 Hoog (geanonimiseerd)
+Zodra de offerte van Fugro binnen is voor de
+maatregelen voor korte termijn monitoring moet
+deze beoordeeld worden en indien gewenst
+omgezet worden in opdracht.
+6-5-2025
+78 Offerte Uretek 23-4-2025 Hoog (geanonimiseerd)
+Op basis van de input van 23-04-2025 kan de
+offerte van Uretek in uitvoer worden gebracht. Wel
+moet deze nog definitief worden bevestigd.
+6-5-2025
+79 Communicatie 23-4-2025 Hoog
+In offerleg met de afdeling communicatie stemmen
+we een bericht af voor de gebruikers vanwege de
+geplande sluiting van 21 tot en met 23 mei.
+6-5-2025
+80 Escalatie model trillingen damwanden 23-4-2025 Hoog
+Voor het aanbrengen van de damwanden wordt
+gebruik gemaakt van duwen in plaats van trillen.
+Er bestaat geen escalatiemodel wat te doen bij het
+ongeschikt blijken van de methode. Vooralsnog
+betekent dat stoppen met de werkzaamheden en
+eerst
+overleggen.
+31-5-2025
+81
+Escalatiemodel monitoring trillingen
+omgeving
+23-4-2025 Hoog (geanonimiseerd)
+Er bestaat geen escalatiemodel als tijdens de
+monitoring van de werkzaamheden de maximale
+waarden worden overschreden. Vooralsnog
+betekent dat stoppen met de werkzaamheden en
+eerst overleggen
+31-5-2025
+82 Straal 50 meter 23-4-2025 Hoog
+Voor aanvang (en voordat de situatie in het
+Arsenaal bekend was) is een straal van 50 meter
+aangehouden voor het monitoren van gebouwen.
+Gezien de huidige kennis omtrent de situatie van
+de gronden in de omgeving lijkt dit onvoldoende.
+Checken als deze straal uitgebreidt moet worden.
+31-5-2025
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Coevorden
+Gebruikers:
+Gebruiker Contactpersoon Telefoon
+Stedelijk Museum
+Dn museumcoevorden.nl
+stedelijkmuseum.nl
+ToReCo toreco.nl
+Bibliotheek biblionetdrenthe.nl
+bilbionetdrenthe.nl
+Historische Vereniging historischcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Actielijst afgeronde items:
+Zie bijlage
+Zaaknummer: 67792-2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Van:
+Lg Me
+fugro com>
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Verzonden: maandag 3 maart 2025 15:34
+Aan:
+cc: mr me
+Onderwerp: RE: Overleg Arsenaal
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Beste
+Bedankt voor de mondelinge opdracht voor het uitvoeren van grondonderzoek bij het Arsenaal op basis
+van onze
+aanbieding 6424-267101 van 24 februari
+jl.
+Op basis van de analyse van de vloerverwarming komt 1 sonderingen binnen te vervallen en wordt het
+aantal sonderingen binnen 3. Het aantal sonderingen buiten blijft conform aanbieding 3.
+Naar aanleiding van het overleg van vanochtend, zoals afgesproken, hierbij terugkoppeling over de
+planning.
+De sonderingen zijn gepland op 19 maart (buiten), 20 en 21 maart (binnen).
+De verdere details met betrekking tot de voorbereiding worden in de loop van deze week/ zo spoedig
+mogelijk afgestemd.
+De locatie zou dus in ieder geval op 20 en 21 maart gesloten moeten zijn. De sonderingen buiten zijn aan
+de achterkant. Waarschijnlijk heeft dat geen invloed op het gebruik binnen.
+Met vriendelijke groet,
+Fugro
+TR MvR efuorocom | W www.fugro.com
+A Grondzijl 16, 9731 DG Groningen, Postbus 9440, 9703 LP Groningen, Nederland
+Fugro NL Land BV.
+| Handelsregisternummer: 27114147
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Together we create a safe and liveable world.
+Interested in our Fugro 4U magazine?
+Mail to
+fuygro4u@® fugro.com
+This email (including any attachments) is for use
+by the intended addressee only. It may contain confidential information. If you are not the
+intended addressee, please promptly notify the sender by return email. In such an
+event, we
+request that you delete the email and that you do not
+use or transmit the contents to any third parties.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Sent: Tuesday, February 25, 2025 10:34 AM
+To:
+NE EL NE
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Subject: Overleg Arsenaal
+When: maandag 3 maart 2025 09:30-11:00 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna.
+Where: Arsenaal
+| U ontvangt niet vaak e-mail van coevorden.nl. Ontdek waarom dit belangrijk is
+(geanonimiseerd)
+Microsoft Teams Heeft u hulp nodig?
+Nu deelnemen aan de vergadering
+Vergadering-id: 360 735 822 572
+Wachtwoordcode: Bk3p7PH9
+Inbellen via telefoon
++31 20 399 5675,6428652924# Nederland, Amsterdam
+Een lokaal nummer zoeken
+Telefonische vergadering-id: 642 865 2924
+Voor organisatoren: Vergaderopties | Pincode voor inbellen opnieuw instellen
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+jen FUGRO
+Fugro NL Land B.V.
+Grondzijl 16
+Postbus 9440
+9703 LP Groningen
+Gemeente Coevorden
+tav.
+Kasteel 1
+7741 GC Coevorden
+Onze ref: 6424-267101
+Betreft: Scheurvorming “Het Arsenaal” aan Haven 4 te Coevorden
+23 april 2025
+Geachte
+Naar aanleiding van ons overleg van 2 april ontvangt u hierbij onze aanbieding voor het uitvoeren
+van diverse metingen ten behoeve van bovengenoemd project. Het project betreft het historische
+pand “Arsenaal” waarbij scheurvorming is ontstaan in meerdere gevels.
+De volgende metingen worden achtereenvolgens in dit voorstel behandeld:
+1. Boringen uitvoeren en peilbuizen paatsen:
+2 boringen uitvoeren: 1 voor het pand en 1 naast het pand (bij DKMO1); diepte circa 3,5 meter
+(1 meter in het zand)
+In bovenstaande boringen freatische peilbuis aanbrengen op circa 1 tot 2 meter en diepe
+peilbuis op circa 2,5 tot 3,5 meter; afdichting tussen 2,0 en 2,5 m
+Binnen ook 2 peilbuizen plaatsen door de nog openstaande gaten van de sonderingen: bij
+DKM4 en DKM6; aanbrengen op 1,5 tot 2,5 m onder vloerpeil
+In totaal dus 6 peilbuizen aanbrengen t.b.v. meting grondwaterstanden:
+grondwaterstandsmetingen zijn essentieel om de problematiek beter te begrijpen, invloeden
+van huidige en toekomstige bemalingen (incl. Werkzaamheden Markt) en klimaat/ weer te
+kunnen bepalen.
+2. Grondwaterstand monitoren:
+Divers aanbrengen in alle 6 peilbuizen en de diepe peilbuizen buiten online volgen
+Na 3 maanden de divers uitlezen; daarna doormeten in de 2 diepe peilbuizen buiten (online) en
+1 diver binnen; eerst een jaar doormeten
+Fugro NL Land B.V. | Handelsregister Nr.: 27114147 | BTW Nr. 0056 21 409 B08 |
+Onderdeel van de Fugro Groep met vestigingen over de hele wereld.
+T +317031 11 333
+| E
+Info-nl@fugro.com | W
+fugro.com
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+3. Detectie van holtes en vloerverwarming in de beganegrondvloer:
+Er zitten holtes onder de vloer, mogelijk door verzakking van de vloer en de toplaag/ cement-
+dekvloer die aan de wanden blijft hangen. Ook zit er vloerverwarming onderin de deklaag. De
+holtes en vloerverwarming zitten op minder dan 20 cm onder het vloerpeil. Vloerverwarming in
+kaart brengen is van belang als het injecteren door Uretek (deels) door de vloer heen gebeurt.
+Holtes in kaart brengen geeft informatie over zettingen en zettingsverschillen onder de vloer.
+4.Landmeetkundige werkzaamheden:
+Om de verzakking van de hoofdconstructie te kunnen volgen is de plaatsing en het periodiek en
+nauwkeurig meten van de hoogte van belang.
+Ook direct voor, tijdens en direct na het injecteren zou kunnen worden gemeten of sprake is
+van rijzing of zakking van de muren. Dit zou op dagbasis kunnen worden uitgevoerd, afhankelijk
+van de tijdsduur van de injecteerwerkzaamheden.
+Om de positie en hoogte van alle zichtbare delen van het gebouw op bgg-niveau vast te leggen
+(binnen) en ook het gebouw aan de buitenzijde, kan een laserscanning worden uitgevoerd.
+1. Boringen uitvoeren en peilbuizen plaatsen
+Op basis van de bodemopbouw, funderingswijze en kwetsbaarheid en grootte van het
+monumentale pand adviseren we om een boring aan de voorzijde van het pand uit te voeren en een
+boring aan de zijkant, nabij sondering DKMO1. In elke boring dient een ondiepe (freatische) peilbuis
+te worden aangebracht net boven/ in de veenlaag en een diepere peilbuis juist onder de veenlaag.
+In het gebouw bevinden zich op dit moment nog 3 gaten in de vloer, omdat daar sonderingen en
+handboringen zijn uitgevoerd. Voorgesteld wordt om in het voorste en in het achterste gat
+peilbuizen aan te brengen tot minimaal 0,5 meter onder de onderzijde van de organische laag. De
+peilbuizen worden aan de bovenzijde (en bij de freatische peilbuizen en de peilbuizen binnen ook
+de onderzijde) afgedicht met zwelklei, en de filters worden omstort met filterzand. De peilbuizen
+buiten worden in de bestrating aangebracht en vlak afgewerkt met een straatpot.
+De werkzaamheden kunnen als volgt worden samengevat:
+=
+_Werkvoorbereiding, aanvragen en verwerken KLIC-gegevens, aan- en afvoer boorploeg;
+= __2 boringen uitvoeren buiten met plaatsing 4 peilbuizen en afsluitbare straatpot
+m __2 boringen uitvoeren binnen met plaatsing 2 peilbuizen
+= Uitzetten en waterpassen van de boorlocaties en bovenzijde peilbuis
+Kosten: € (excl. btw)
+(geanonimiseerd)
+2. Grondwaterstand monitoren
+Voor het vastleggen van de grondwaterstand in peilbuizen maakt Fugro gebruik van 2 verschillende
+types druksensoren, zowel standalone als met een telemetrische dataloggerbox.
+jane
+Pagina 2 van 13
+Bij het standalone systeem wordt de datalogger vooraf geprogrammeerd en op een bepaalde
+diepte in de peilbuis geplaatst. De logger meet met een interval van bijvoorbeeld 1 x per uur de
+druk welke met behulp van barometrische correctie kan worden omgerekend naar meters
+waterkolom. Zowel bij plaatsing als bij uitlezing van de dataloggers wordt door de medewerker van
+Fugro een handwaarneming gedaan om deze te kunnen vergelijken met de automatisch gemeten
+waarde. De metingen worden op kantoor uitgewerkt en gepresenteerd in het online
+monitoringsportaal waarvoor u een aparte inlog krijgt.
+Het telemetrische systeem verzorgt geheel automatisch op een opgegeven tijdsinterval de
+uitlezingen van de grondwaterstanden. De waterstandslogger is een sensor in een roestvrijstalen
+behuizing die door middel van een datakabel in een peilbuis wordt weggehangen op een bekende
+diepte. De sensor meet middels een drukopnemer de hoeveelheid waterkolom boven de sensor.
+Deze druksensor is verbonden met een elektronische datalogger die de (grond)waterstand
+volautomatisch meet en de data via gsm verzendt.
+Bij plaatsing van de loggers wordt door een meettechnicus een handwaarneming van de
+grondwaterstand gedaan ter controle van de automatische metingen. In verband met onderhoud zal
+bij een langere meetperiode 1 x per 3 maanden een onderhoudsronde worden ingepland voor het
+vervangen van de batterijen en een extra handwaarneming ter controle van het meetsysteem.
+De grondwaterstanden worden op de Fugro dataserver automatisch verwerkt en gepresenteerd op
+het dataportaal Gaia Monitoring. De opdrachtgever krijgt een eigen inlogcode die hem toegang
+verschaft tot de meetresultaten. Het systeem is eenvoudig in gebruik en er is geen aparte software
+nodig om het door gebruikers te bedienen. Hieronder staat weergegeven hoe de verdeling is qua
+meettechniek en hoe lang de meetperiode is waar rekening mee is gehouden.
+Telemetrisch: 2 peilbuizen (bij diepe peilbuizen voorzijde en DKM1) 1 jaar meten met elke 3
+maand controle/onderhoud (tegelijk met uitleesmoment standalone dataloggers)
+Standalone: 4 peilbuizen (2 inpandig , 2 freatisch buiten) gedurende 3 maand , daarna 3 stuks
+verwijderen en doormeten in 1 peilbuis (inpandig) gedurende nog 9 maanden met elke 3
+maand een uitlezing.
+De kosten van deze metingen voor het eerste jaar , inclusief inrichten portal ten behoeve van live
+kunnen volgen en downloaden van de grondwaterstanden , worden begroot op € 10.479-, (excl.
+btw). In onderstaande tabel zijn de kosten gespecificeerd. :
+Pagina 3 van 13
+Betreft :
+-
+Datum : 24/apr/25
+Behandeld door :
+-
+Totaal bedrag (excl. BTW) : € 10.479,00
+Referentie klant :
+-
+r
+Beschrijving Aantal
+Í
+Eenheid
+| Aantal Eenheid
+Eenheidsprijs Prijs
+Peilbuismetingen
+Projectmanagement vast 1
+project €
+Projectmanagement per
+maand 12 maand €
+Totaal Projectmanagement
+Werkvoorbereiding vast 1
+project €
+Werkvoorbereiding per fase 5 fase €
+FAT peilbuissensor 6 stuks €
+Totaal (Technische) werkvoorbereiding
+Mob/demob Installatie 1 fase
+Installatie equipment 6 punt €
+Oplevering dataportal 1
+project €
+Totaal Installatie
+Monitoren
+Huur peilbuissensor (telemetrisch) 2 stuks 52 week €
+Huur peilbuissensor (standalone) eerste 3 mnd 4 stuks 13 week €
+Huur peilbuissensor (standalone) na 1e 3 mnd 1 stuks 39 week €
+Mob/demob meettechnicus 4 fase 1 persoon €
+Controle & onderhoud telemetrie 4 fase 2
+punt €
+Uitlezen/verwijderen peilbuissensor (standalone) na 3 mnd 1 fase 4
+punt €
+Uitlezen/verwijderen peilbuissensor (standalone) na 6, 9, 12 mnd 3 fase 1
+punt €
+Verwerking onderhoudsronde 4 fase 2
+punt €
+Uitwerken peilbuissensor (standalone) u fase 4
+punt €
+Uitwerken peilbuissensor (standalone) 3 fase 1
+punt €
+Instandhouding portal 12 maanden €
+Totaal Monitoren
+Verwijderen equipment telemetrisch 2 punt €
+Totaal Verwijderen
+Totaal Peilbuismetingen
+C
+(geanonimiseerd)
+TOTAAL € 10.479,00
+Uitgangspunten peilbuismetingen
+a. Alle meetinstrumenten / sensoren of apparatuur blijven eigendom van de opdrachtnemer en
+worden indien mogelijk na afloop van het project herwonnen.
+b. Herstel van eventuele schade of vervuiling ontstaan na verwijdering van meetinstrumenten zijn
+niet in deze aanbieding opgenomen.
+c. Wij aanvaarden geen aansprakelijkheid voor diefstal en/of beschadigingen door derden van het
+systeem, zowel vóór als na de oplevering door Fugro NL Land B.V. De kosten van eventuele
+jee
+Pagina 4 van 13
+vervanging van meetsystemen / sensoren en andere delen van het monitoring systeem inclusief
+installatiekosten zijn voor rekening van de opdrachtgever. In onderling overleg met de
+opdrachtgever zal tot reparatie en of vervanging worden overgegaan.
+Wij dragen zorg voor een juiste werking van de door ons geïnstalleerde meetsystemen /
+sensoren gedurende de looptijd van het project tenzij aantoonbaar schade door derden is
+aangebracht. Indien een systeem uitvalt zullen wij deze (kosteloos) vervangen. Wij aanvaarden
+geen kosten voor assistentie of andere bijkomende kosten van de opdrachtgever.
+Indien storingen en/of uitval te wijten is aan door opdrachtgever of derden uitgevoerde
+handelingen en/of toegebrachte schade aan equipment (sensor / logger / bekabeling) zullen de
+kosten voor de constatering hiervan inclusief reiskosten bij opdrachtgever in rekening worden
+gebracht. Reparaties aan equipment van door opdrachtgever en/of derden toegebrachte
+schade zullen in overleg met opdrachtgever en voor kosten van opdrachtgever worden
+uitgevoerd.
+Voor het leveren van meetdata is geen rekening gehouden met: schades of diefstal van
+systemen of onderdelen daarvan , stroomuitval , kabelbreuk , schades als gevolg van
+werkzaamheden door derden , extreme weersomstandigheden of gebreken aan
+telecommunicatieverbindingen. Fugro NL Land BV kan niet aansprakelijk worden gesteld voor
+het ontbreken van data.
+Ingeval het bereik van de modem ontoereikend is als gevolg van de apparatuur in de directe
+omgeving of onvoldoende dekking heeft , kan Fugro NL Land BV hier niet verantwoordelijk voor
+worden gehouden en kan hiervoor ook niet aansprakelijk worden gesteld.
+Indien de resultaten van de grondwatermonitoring in het kader van de Wet Basisregistratie
+Ondergrond (BRO) door ons aan het bronhouderportaal geleverd moeten worden , dient de
+opdrachtgever ons bij opdrachtverstrekking te voorzien van de relevante metadata (waaronder
+naam en KvK nummer van de bronhouder , BRO-ID , object-ID bronhouder , kader van de
+aanlevering en inwinning e. d. ). Alle extra werkzaamheden in het kader van de BRO zullen
+worden gezien als meerwerk en separaat worden doorberekend aan de opdrachtgever.
+d.
+e.
+f.
+g.
+h.
+3. Detectie van holtes en vloerverwarming in de
+beganegrondvloer
+Deze werkzaamheden voeren wij uit door middel van hoog frequentie grondradar onderzoek. Doel
+is het bepalen van de ligging van de vloerverwarming in 4 stroken < 1 m breed van circa 20 meter
+lang en de eventuele aanwezigheid van de holle ruimtes in de vloer bij diezelfde stroken (direct
+langs de muren) + nog enkele lijnen in het vloerveld aan de Haven 4-6 te Coevorden.
+Pagina 5 van 13
+De uit te voeren grondradar profielen zijn weergegeven in onderstaande figuur 1.
+Figuur 1: Te onderzoeken locaties aangegeven met blauwe lijnen; tevens enkele aanvullende lijnen
+in de vloervelden
+De uit te voeren werkzaamheden voor dit project bestaan uit de volgende activiteiten:
+Omschrijving van de data-inwinning
+De hoge frequentie grondradar metingen worden met behulp van een 2GHz IDS grondradar
+antenne uitgevoerd. Voor de uitvoering wordt er gebruik gemaakt van een meet-mat zoals
+weergegeven in figuur 2 , waarmee we om de 8 cm in een raster metingen zullen uitvoeren op een
+2
+oppervlakte van circa 1. 2 m.
+Op deze manier , zullen wij langs de aangegeven vier blauwe profielen op figuur 1 , metingen
+uitvoeren om de vloerverwarming en de eventuele holle ruimtes in vloeren te meten. De
+positionering wordt gedaan door middel van vaste punten op het vloer.
+Pagina 6 van 13
+En
+(geanonimiseerd)
+Figuur 2: Voorbeeld foto, uitvoering hoge frequentie GPR-metingen
+Bij grondradar (Ground Penetrating Radar, GPR) worden elektromagnetische pulsen uitgezonden op
+een bepaalde frequentie door zend antennes. Deze pulsen worden gereflecteerd door structuren in
+de ondergrond (in dit geval beton) en opgevangen door een of meerdere ontvangst antennes. Aan
+de hand van de resulterende radargrammen kan het vloerverarmingsnet en de eventuele
+aanwezigheid van de holle ruimtes in de vloeren worden bepaald.
+De 2 GHz GPR-antenne van IDS heeft een maximale penetratiediepte van 30 cm met een hoge
+resolutie. De nauwkeurigheid van de metingen is ca. 10% van de ware diepte in z.
+Uit de bijgevoegde foto's van de kernboringen blijkt dat de te onderzoeken betonvloer ongeveer 85
+cm dik is. Een 2GHz grondradarantenne zal in de eerste 30 cm van de vloer met hoge resolutie de
+positie van de vloerverwarming en eventuele holle ruimtes in de vloer detecteren.
+Figuur 3. Arsenaal achterste kernboring
+,
+GRO
+Pagina 7 van 13
+Dataprocessing
+Alle ingewonnen grondradarprofielen worden op kantoor verwerkt en geïnterpreteerd tot DWG
+tekeningen met daarop aangegeven het waargenomen wapeningsnet en de dikte van de gemeten
+delen van de vloer.
+Levering van de eindproducten
+De levering van het project omvat de onderstaande items:
+Schriftelijke rapportage van de metingen en de bereikte resultaten;
+DWG tekening met daarop de resultaten van de metingen.
+Figuur 3: Voorbeeld grondradar data - wapeningsnet
+Figuur 4: Voorbeeld grondradar data - holle ruimtes
+De werkzaamheden kunnen we voor u uitvoeren voor de hieronder omschreven bedragen excl.
+BTW.
+Pagina 8 van 13
+Projectmanagement project 1
+Omschrijving Eenheid
+| Aantal
+mi
+wie has” Hia
+Mob-demob personeel en
+equipment | projectfase 1
+Uitvoering veldwerk dag
+2 ||
+Processing en interpretatie GPR-
+data
+projectfase 1
+Rapportage en
+tekeningen project
+4 | Bl
+Cc
+ee
+4. Landmeetkundige werkzaamheden
+(geanonimiseerd)
+Plaatsen boutjes en uitvoeren nulmeting
+Deformatiemeting (O-meting)
+Plaatsen van +/- 20 deformatiebouten (voor -en achterzijde en zijgevels) buiten. Waar zoveel
+mogelijk gebruik wordt gemaakt van natuurlijke punten (zoals ankers en scharnieren), zodat zo min
+mogelijk geboord dient te worden. Plaatsen van +/- 10 deformatiebouten aan binnenzijde van het
+pand. Hierbij worden messing boutjes gebruikt. Tevens worden in de omgeving 3 referentiepunten
+geplaatst. Rapportage bestaat uit een overzicht van de deformatiepunten, berekening en
+vereffening van de meting.
+Kosten: € (excl. btw)
+Deformatiemeting (herhalingsmeting)
+(geanonimiseerd)
+De werkzaamheden voor de herhalingsmeting bestaan uit het meten van de 30 deformatiepunten
+ten opzichte van de 3 referentiepunten in de omgeving. De herhalingsmeting(en) worden
+vergeleken met de nulmeting. De rapportage hiervan bestaat uit een overzicht van de
+deformatiepunten, berekening en vereffening van de meting en een vergelijk met de nulmeting en
+ten opzichte van de vorige herhalingsmeting. Naar verwachting zijn gedurende het
+eerste jaar 2
+herhalingsmetingen nodig.
+Kosten per fase: € (excl. btw), derhalve voor 2 herhalingsmetingen €
+Uitvoering en presentatie laserscanning
+3D-scanning (O-meting)
+(geanonimiseerd)
+De meetwerkzaamheden bestaan uit het 3D-scannen (m.b.v. een Leica RTC360 3D Laserscanner) van
+de buitenkant (gevels) van het Arsenaal en de binnenzijde op de begane grond. In totaal is een
+jeero
+Pagina 9 van 13
+(geanonimiseerd)
+landmetersploeg naar verwachting één dag hiermee bezig. De meting kan alleen worden uitgevoerd
+op locaties waar de vloer zichtbaar is en is beter uitvoerbaar bij een beperkt aantal obstakels.
+Hieruit worden vervolgens onderstaande producten gegenereerd door de dataverwerker.
+o _Overzichtstekening van de begane grond;
+o Visualisatie van de vlakheid van de begane vloer;
+o 2 langsdoorsneden en 4 dwarsdoorsneden op de begane grond;
+o _Vooraanzichten van de 4 muren op de begane grond van binnenuit (op basis waarvan
+mogelijke hoogteverschillen en verplaatsing kunnen worden bepaald);
+Lintvoegmeting (voor -en achtergevel);
+ie)
+o Scheefstandprofielen (5 profielen per gevel, 10 profielen in totaal) van de gevels (voor -en
+achtergevel).
+Vervolgens worden de producten gecontroleerd en klaargezet voor levering.
+Kosten: € -
+(excl. btw)
+3D-scanning (herhalingsmeting)
+(geanonimiseerd)
+De meetwerkzaamheden bestaan uit het 3D-scannen (m.b.v. een Leica RTC360 3D Laserscanner) van
+de buitenkant (gevels) van het Arsenaal en de binnenzijde op de begane grond. In totaal is een
+landmetersploeg één dag hiermee bezig. Hieruit worden onderstaande producten gegenereerd
+door de dataverwerker.
+o Lintvoegmeting (voor -en achtergevel);
+o _Vooraanzichten van de 4 muren op de begane grond van binnenuit (op basis waarvan
+mogelijke hoogteverschillen en verplaatsing kunnen worden bepaald);
+o Hittekaart begane grondvloer (verschil vloermeting). Hierbij wordt inzichtelijk gemaakt waar
+de mogelijke deformaties (in de hoogte) plaatsvinden ten opzichte van de nulmeting.
+Vervolgens worden de producten gecontroleerd en klaargemaakt voor levering. Vooralsnog wordt
+uitgegaan van de noodzaak van 1 herhalingsmeting.
+Kosten: € -
+(excl. btw)
+(geanonimiseerd)
+Kwaliteit en veiligheid
+Uitvoering van de werkzaamheden vindt plaats op basis van de voor het werk relevante wet- en
+regelgeving, normeringen, veiligheids-en milieueisen en het Integrated Management System (IMS)
+van Fugro dat voldoet aan ISO 9001:2015 —
+Kwaliteitsmanagement; ISO 27001:2013 Information
+Security, ISO 45001:2018 Veiligheidsmanagementsysteem, VCA
+**
+2017/6.0- Veiligheid Checklist
+Aannemers; Veiligheidsladder (v4.0, Trede 3), ISO 14001:2015 Milieumanagementsysteem, CO2
+Bewust Certificaat (v3.0, Niveau 5) en Fugro's standaard met betrekking tot projectmanagement.
+Om de CO2 footprint bij de uitvoering van geotechnisch onderzoek te reduceren maakt Fugro
+gebruik van HVO100 (Hydrotreated Vegetable Oil) in alle mini sondeer- en boorrupsen. Waar
+mogelijk wordt dit ook toegepast in zware sondeervoertuigen. HVO is een vloeibare brandstof
+gemaakt van plantaardige afvaloliën en is biologisch afbreekbaar. Door de toepassing van HVO100
+jamo
+Pagina 10 van 13
+wordt een CO2 reductie bereikt van 89% ten opzichte van traditionele brandstof (diesel); daarnaast
+wordt de uitstoot van roet en fijnstof significant verminderd. Inmiddels kan met 1 mini-sondeerrups
+en 1 boorunit volledig elektrisch worden gesondeerd respectievelijk geboord.
+Projectorganisatie en communicatie
+Voor dit project treedt CT OG € le tugro.com) op als
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+projectmanager en contactpersoon voor de opdrachtgever.
+De projectmanager van Fugro fungeert als het eerste aanspreekpunt voor de opdrachtgever. De
+projectmanager neemt een initiërende rol aan en is verantwoordelijk voor een tijdige communicatie
+naar de opdrachtgever over de uitvoering, eventuele afwijkingen op de opdracht en voortgang van
+de werkzaamheden.
+Financiële aanbieding
+De totale kosten voor uitvoering van de omschreven werkzaamheden worden geraamd op
+€ 44.654,- excl. BTW.
+Facturatie vindt plaats op basis van werkelijk uitgevoerde werkzaamheden, aantallen en geleverde
+diensten. De genoemde tarieven voor het geotechnisch advies gelden uitsluitend voor de
+gecombineerde uitvoering van het geotechnische veldwerk en geotechnisch advies.
+Eventuele aanvullende werkzaamheden, besprekingen (inclusief reistijd) en diensten zullen worden
+verrekend volgens de in de bijlage kostenspecificatie vermelde eenheidsprijzen of voor een af te
+spreken budget.
+Wij behouden ons het recht voor veldwerk direct na uitvoering te factureren en langlopende
+opdrachten in meerdere termijnen.
+Voorwaarden
+Voor uitvoering van werkzaamheden worden de volgende commerciële voorwaarden gehanteerd:
+m Deze aanbieding is geldig tot 30 dagen na dagtekening;
+= De werkzaamheden worden uitgevoerd onder de vigerende algemene leveringsvoorwaarden
+(ALV 2023). Een exemplaar van de ALV 2023 is reeds in uw bezit, maar kan op verzoek nogmaals
+worden opgestuurd. Toepasselijkheid van eventueel door u gehanteerde voorwaarden wordt
+uitdrukkelijk van de hand gewezen.
+=
+__ Alle in deze aanbieding genoemde bedragen zijn exclusief BTW;
+n= De betalingstermijn bedraagt 30 dagen na dagtekening van de factuur.
+= De opdrachtgever draagt zorg voor eventuele benodigde (werk)vergunningen en/of
+toestemming om het veldwerk te kunnen uitvoeren. Eventuele kosten voor leges, gemeentelijke
+heffingen en milieubelastingen om de werkzaamheden te kunnen uitvoeren zijn niet begroot.
+jean
+Pagina 11 van 13
+= Indien werkzaamheden geheel of gedeeltelijk komen te vervallen of worden uitgesteld zullen
+eventueel gemaakte kosten in rekening gebracht worden.
+= De opdrachtgever dient ons voor uitvoering te informeren over mogelijke verontreinigingen
+mogelijke andere veiligheids- of gezondheidsrisico's voor ons personeel of materieel en
+relevante omgevingsaspecten (bijvoorbeeld Natura2000, flora en fauna, OOO (NGE),
+grondwater beschermingsgebieden en boringsvrije zones e.d). Er is geen rekening gehouden
+met eventueel hieruit volgende meerkosten;
+m Tarieven gaan uit van werkzaamheden ma-vr overdag. Verrekening van dagtarieven per hele
+dag, uurtarieven per heel uur.
+=
+_ De planning van de werkzaamheden wordt in overleg met de opdrachtgever vastgesteld. Indien
+ingeplande werkzaamheden binnen 24 uur voorafgaande aan de start van de uitvoering door
+de opdrachtgever worden geannuleerd, zullen stand-still kosten in rekening worden gebracht
+indien personeel en/of equipement niet elders kunnen worden ingezet.
+Indien u overgaat tot het verstrekken van de opdracht, verzoeken wij u een kopie van deze offerte
+ondertekend te retourneren. Indien u voor een of meerdere onderdelen van deze aanbieding
+opdracht wilt verstrekken dan kunt u dit specificeren in de opdrachtbevestiging. Voor een correcte
+tenaamstelling van de opdracht verzoeken wij u om de juiste gegevens van de debiteur te
+vermelden.
+Wij willen deze metingen graag voor u verzorgen en zien uit naar een positieve reactie. Met
+ondergetekende projectmanager van dit project kan contact worden opgenomen voor eventuele
+vragen, de opdrachtverstrekking en verdere afhandeling van deze aanbieding.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijlagen: -
+Opdrachtbevestiging
+jueno
+Pagina 12 van 13
+Opdrachtbevestiging
+Indien u tot opdrachtverlening voor de opdracht overgaat, vragen wij u deze bijlage te
+ondertekenen en per e-mail te verzenden naar fugro.com
+(geanonimiseerd)
+Door ondertekening verklaart de opdrachtgever zich onverkort akkoord met de door Fugro
+uitgebrachte aanbieding.
+Ingeval de tenaamstelling van de factuur anders is dan diegene die de opdracht verstrekt, verzoeken
+wij dat bij opdrachtverlening door te geven. Tevens dient de routing voor het versturen van de
+factuur hierbij te worden aangegeven.
+Tabel 1: Debiteurgegevens
+Referentie Fugro 6424-267101.002
+Referentie Opdrachtgever
+Kosten
+Boringen en peilbuizen €
+Grondwater monitoring €
+Detectie holtes/ vloerverwarming €
+Boutjes, waterpassen €
+(geanonimiseerd)
+(geanonimiseerd)
+Laserscanning €
+Totaal: € 44.654
+Ne
+Bedrijfsnaam conform Kamer van Koophandel
+nschrijvingsnummer Kamer van Koophandel
+BTW nummer
+Factuuradres per e-mail
+E-mail adres herinnering
+Factuuradres per post
+Postcode en plaatsnaam
+Contactpersoon
+elefoonnummer contactpersoon
+E-mail contactpersoon
+Datum
+Naam
+Handtekening
+jeeeo
+Pagina 13 van 13
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+C Art. 5.1 lid 1 sub c
+Deze informatie betreft bedrijfs- en fabricagegegevens die vertrouwelijk aan de overheid zijn
+meegedeeld
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+bgg IR
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+bgg 2L
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+bgg 2L
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+coevonoet
+Ea Aiken Sn |
+bgg 2R
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+bgg 3Lb
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+bgg 3Lc
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+bgg 3R
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+ERE CE
+BEENBinen
+bgg SR
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+bgg 6L
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+bgg 6R
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+stemp bgg 1
+(geanonimiseerd)
+(geanonimiseerd)
+3d
+/
+vEOT-TT-ET
+s,030}
+t
+UaAeH
+‘jeeuas.ay
+BuIWJOAINAYIS
+°INIOHOAFOD-
+TTHTYTOZ
+(geanonimiseerd)
+(geanonimiseerd)
+stemp_bgg2
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+Dl
+LITERATUUR
+BES
+GESCHIEDENIS
+&P
+stemp bgg 3
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+stemp verd 1
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+stem verd 2
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+DENKEN & DROMEN LIEFDE & LEVEN DENKEN & DROMEN SPANNING & AVONTUUR DENKEN & DROMEN
+verd 1L
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 2L
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 2Ra
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 3L
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 3Ra
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+verd 3Rb
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 4L
+(geanonimiseerd)
+(geanonimiseerd)
+TIE MMU Gemen
+é
+me iT TE. Alaus gen
+a Fn Tim IE IT
+:
+AaILIV
+8
+ONANNVHS
+(geanonimiseerd)
+(geanonimiseerd)
+er
+RE, mn Foam
+GE EN
+In UNS
+dAIL9V
+3
+ONANNVHS
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+rwerkloket
+Drenthe
+©
+@
+verd 5L
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 5Ra
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024/ bg
+verd S5Rb
+(geanonimiseerd)
+(geanonimiseerd)
+ALLEEM DEDC/
+ALLEEN PERSU |
+|
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 6Ra
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+verd 6Rb
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+zold R1
+(geanonimiseerd)
+(geanonimiseerd)
+20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4
+foto's 13-12-2024 / bg
+zold R2
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+20241411 - COEVORDEN; scheurvorming Arsenaal , Haven 4
+Overzicht foto’s scheuren boven bogen in tussenmuur , opname 13-12-2024 / bg
+Verdieping: aanzicht tussenwand rechts bogen van links (voorgevel) naar rechts , foto 1R , 2R , 3R , 4R , 5R , 6R
+Begane grond: aanzicht tussenwand rechts bogen van links (voorgevel) naar rechts , foto 1R , 2R , 3R , (4R) , 5R , 6R ( 4R is achter de lift , geen foto)
+Verdieping: aanzicht tussenwand links bogen van links naar rechts (voorgevel) , foto 6L , 5L , 4L , 3L , 2L , 1L
+Begane grond: aanzicht tussenwand links bogen van links naar rechts (voorgevel) 6L , 5L , 4L , 3L , 2L , 1L
+20241411 - COEVORDEN; scheurvorming Arsenaal , Haven 4
+Overzicht foto’s scheuren boven bogen in tussenmuur , opname 13-12-2024 / bg
+Verdieping: aanzicht tussenwand rechts bogen van links (voorgevel) naar rechts , foto 1R , 2R , 3R , 4R , 5R , 6R
+Begane grond: aanzicht tussenwand rechts bogen van links (voorgevel) naar rechts , foto 1R , 2R , 3R , (4R) , 5R , 6R ( 4R is achter de lift, geen foto)
+Verdieping: aanzicht tussenwand links bogen van links naar rechts (voorgevel) , foto 6L , 5L , 4L , 3L , 2L , 1L
+Begane grond: aanzicht tussenwand links bogen van links naar rechts (voorgevel) , foto 6L , 5L , 4L , 3L , 2L , 1L
+BE
+(geanonimiseerd)
+Van: 5
+Verzonden: vrijdag 13 december 2024 15:25
+(geanonimiseerd)
+Aan: Kim Brinks -
+de Vries; Steven Stegen; Joop Slomp;
+ce: Renze Bergsma: GE NE
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Onderwerp: Persbericht tijdelijke sluiting Arsenaal Coevorden
+Bijlagen: Persbericht tijdelijke sluiting Arsenaal Coevorden.docx
+Collega's,
+Ik heb naar aanleiding van ons overleg een bericht gemaakt voor de pers. Mijn voorstel is om dat straks even kort af
+te stemmen zodat ik daarna de pers actief kan informeren.
+Wat is er verder al gebeurd:
+-__De vier gebruikers van het pand (bieb, museum, historische vereniging en toeristisch informatiepunt) zijn
+geïnformeerd
+-__
+Belangrijk om af te stemmen dat de gebruikers zorgen voor communicatie naar hun eigen gebruikers /
+bezoekers . Ze kunnen ons persbericht uiteraard gebruiken als leidraad
+-_
+Afstemming met Domesta is ook geweest. Persbericht wordt ook met hen gedeeld
+-_
+Afstemming met monumentenwacht is ook gedaan door Persbericht wordt ook met hen gedeeld.
+(geanonimiseerd)
+crm
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Van: J
+Verzonden: vrijdag 13 december 2024 23:29
+Onderwerp: Haven 4 te Coevorden
+Bijlagen: 1000032674.jpg; Naamloos
+Goedenavond (geanonimiseerd)
+(geanonimiseerd)
+Op verzoek van de gemeente Coevorden heb ik de aanwezige scheuren in de binnenwanden van het object op
+Haven 4 te Coevorden geïnspecteerd.
+De scheurvormingen zijn zichtbaar in de lange binnen (scheidings-) wand en vooral in de gemetselde bogen boven
+de doorgang openingen.
+De scheuren in de bogen boven de derde opening (geteld vanaf voorgevel) onder de eerste verdiepingsvloer zijn
+heel breed. De scheurwijdte van de laatste ontstane
+scheuren zijn het breedst. De scheuren zijn aanzienlijk breder geworden ook op deze locatie in de boog onder de
+tweede verdiepingsvloer.
+Het lijkt dat veranderingen en het ontstaan van de nieuwe (grote) scheuren in een versnelling zijn gekomen.
+Om de constructieve veiligheid van het object te waarborgen heb ik besloten de stempels onder de boog te
+plaatsen. Om de belasting op de boog te verminderen wordt de boven-constructie (1° —
+en 2° verdiepingsvloer en
+het metselwerk) ook onderstempeld. Door deze ingreep wordt de boog veel minder belast evenals de fundering
+eronder.
+Door het weg halen van de belasting worden de verzakkingen van de boog en van de fundering geminimaliseerd en
+de constructieve veiligheid gewaarborgd.
+De stempels zijn aangebracht volgens afspraak en maandag worden werkzaamheden afgerond.
+Het gebouw kan dinsdag openen maar het vervolgonderzoek naar de oorzaak van de scheurvorming en
+herstelmaatregelen moeten zo snel mogelijk opgestart worden.
+Vermoedelijk is zetting van de grond en daardoor verzakking van de fundering de oorzaak hiervan.
+Daarnaast is er nog een probleem in het detail van de balkkoppeling, die verkeerd is uitgevoerd.
+Dit heeft ook invloed op de scheurvorming in de genoemde boog en het gemetselde penant.
+DEN , eenstructeur van de aannemer, is ook de hele middag op locatie geweest en hierover
+geïnformeerd.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+fe
+|
+be Se
+Dit detail meenemen in de herstelwerkzaamheden.
+Vandaag heb ik benaderd voor onderzoek naar de mogelijke oorzaken van de scheurvorming en
+benodigde herstelwerkzaamheden.
+(geanonimiseerd)
+Er is in 2022 een voorstel voor het herstel van de fundering gedaan door het bureau
+te Lelystad.
+Willen jullie contact met hun opnemen?
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Onderwerp: FW: 20241411 -
+Scheurvorming Arsenaal Coevorden -
+bevindingen
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Van: Ml ezoudstikker.nl>
+Verzonden: maandag 16 december 2024 11:09
+Aan: Me coevorden.nl>
+Cc:
+Mlegoudstikker.nl>; letsbouwvastgoed.nl)
+MM etsbouwvastgoed.nl>; le coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Onderwerp: 20241411 -
+Scheurvorming Arsenaal Coevorden -
+bevindingen
+Hallo B,
+(geanonimiseerd)
+Hierbij de e-mail als vanochtend telefonisch besproken.
+Afgelopen vrijdagmiddag is mijn collega op locatie geweest en heeft de situatie opgenomen en
+besproken.
+Hij melde zich vanochtend ziek, dus de memo met eerste bevinden en aanbevelingen laat nog even op zich wachten.
+(geanonimiseerd)
+Er is afgelopen vrijdag door ons aangegeven dat bij 1 metselwerkboog een stempelconstructie wenselijk is.
+In overleg is afgesproken deze stempelconstructie af te timmeren.
+Ons inziens is de constructieve veiligheid hiermee voorlopig gewaarborgd en kan het museum open blijven.
+Graag ontvangen wij alle beschikbare bouwtekeningen en constructiegegevens van het bestaande pand.
+Deze zullen wij gaan bestuderen en een plan van aanpak opstellen.
+Ons advies is het onderzoek door wat voor a.s. donderdag gepland staat uit te stellen.
+Wij vertrouwen jullie hiermee voorlopig voldoende te hebben geïnformeerd.
+(geanonimiseerd)
+In verband met de feestdagen is ons kantoor gesloten van maandag 23 december 2024 tot en met vrijdag 3 januari
+2025:
+Met vriendelijke groet,
+ti) goudstikker
+|de vries
+T +31
+RN |M 0e koudste
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Van: Me monumentenwachtdrenthe.nl>
+(geanonimiseerd) (geanonimiseerd)
+Verzonden: maandag 23 december 2024 16:50
+Aan:
+Onderwerp: Scheurmeters update
+(geanonimiseerd) (geanonimiseerd)
+Goedemiddag,
+Bij deze even een update met betrekking tot de scheurmeters in het arsenaal.
+We hebben nu 9 scheurmeters bijgeplaatst en alle scheurmeters die er al zaten (voor zover nog bereikbaar in
+verband met de houten beplating) op O gezet.
+We starten nu dus met een nieuwe meting die wekelijks zal worden geschouwd en gedocumenteerd, de eerste
+schouw zal maandag 30 december zijn.
+De resultaten worden gedeeld in de sharepointmap in mappen met de schouwdatum als mapnaam, excessen zullen
+per direct worden gemaild en telefonisch worden gemeld bij 5
+(geanonimiseerd)
+Ik hoop jullie hiermee vooralsnog voldoende op de hoogte te hebben gebracht en wens jullie alvast fijne dagen toe!
+Met vriendelijke groet,
+(geanonimiseerd)
+Monumentenwacht Drenthe
+Me menumentenwachtdrenthe.nl
+oo mr
+(geanonimiseerd)
+(geanonimiseerd)
+HISTORIE LEVEND HOUDEN
+(geanonimiseerd)
+(geanonimiseerd)
+MONUMENTENWACHT
+IN NEDERLAND
+Monumentenwacht Drenthe | T: | www.monumentenwachtdrenthe.nl | Pieterberg 26 | 9431 CB
+Westerbork
+le monumentenwachtdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Groene en Archeologische Monumentenwacht | www.groenemonumentenwacht.nl |
+Blijf op de hoogte en volg ons via;
+Ll v ©
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Van: Me monumentenwachtdrenthe.nl>
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Verzonden: vrijdag 3 januari 2025 09:34
+cc:
+Onderwerp: RE: Scheurmeters update
+(geanonimiseerd)
+(geanonimiseerd)
+Heren,
+De beste wensen voor het nieuwe jaar!
+Ik heb de meters vanmorgen aan de hand van de gemaakte foto’s nauwkeurig bekeken en zie minimale verschillen.
+Tot mu toe niets om direct actie op te ondernemen.
+Om een goed beeld te krijgen zullen we de monitoring over langere termijn moeten uitvoeren, alleen dan kunnen
+we andere invloeden (bijv. thermische werking) uitsluiten van de resultaten.
+Tot nader bericht zal ik dit wekelijks te uitvoer brengen.
+Met vriendelijke groet,
+Monumentenwacht Drenthe
+Me menumentenwachtdrenthe.nl
+omm
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+MONUMENTENWACHT
+IN NEDERLAND
+(geanonimiseerd)
+Monumentenwacht Drenthe | T: BN | wv w.monumentenwachtdrenthe.nl | Pieterberg 26 | 9431 CB
+Westerbork
+le monumentenwachtdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Groene en Archeologische Monumentenwacht | www.groenemonumentenwacht.nl |
+Blijf op de hoogte en volg ons via;
+Ll v O
+Verzonden: maandag 30 december 2024 16:13
+san | <Mle monumentenwachtdrenthe.nl>
+cc: Me coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Onderwerp: RE: Scheurmeters update
+Goedemiddag
+Heb je bijzonderheden aangetroffen vandaag?
+Met vriendelijke groet,
+Gemeente Coevorden
+Tel: +31 RN
+Email: Bl e-coevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+van <l e menumentenwachtdrenthe.nl>
+(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)
+Verzonden: maandag 23 december 2024 16:50
+< emmen.nl>
+(geanonimiseerd)
+Onderwerp: Scheurmeters update
+Goedemiddag,
+Bij deze even een update met betrekking tot de scheurmeters in het arsenaal.
+We hebben nu 9 scheurmeters bijgeplaatst en alle scheurmeters die er al zaten (voor zover nog bereikbaar in
+verband met de houten beplating) op O gezet.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+We starten nu dus met een nieuwe meting die wekelijks zal worden geschouwd en gedocumenteerd, de eerste
+schouw zal maandag 30 december zijn.
+De resultaten worden gedeeld in de sharepointmap in mappen met de schouwdatum als mapnaam, excessen zullen
+per direct worden gemaild en telefonisch worden gemeld bij
+Ik hoop jullie hiermee vooralsnog voldoende op de hoogte te hebben gebracht en wens jullie alvast fijne dagen toe!
+Met vriendelijke groet,
+Monumentenwacht Drenthe
+Be menumentenwachtdrenthe.nl
+oo mr
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+MONUMENTENWACHT
+IN NEDERLAND
+Monumentenwacht Drenthe | T:
+MN | wvww.monumentenwachtdrenthe.nl | Pieterberg 26 | 9431 CB
+Westerbork
+le monumentenwachtdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Groene en Archeologische Monumentenwacht | www.groenemonumentenwacht.nl |
+Blijf op de hoogte en volg ons via;
+Ll »v ©
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 09 januari 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer:
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 09-01-2025
+Aanwezig: Pl gemeente Emmen (intern adviseur)
+RJ Goudstikker | de vries (extern adviseur)
+RS TerSteege (aannemer)
+Gemeente Coevorden
+3 Gemeente Coevorden
+3 Gemeente Coevorden
+RM Gemeente Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Afwezig:
+Contactgegevens:
+coevorden.nl
+coevorden.nl
+monumentenwachtdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met constructeurs, aannemer en Gemeente Coevorden aan de hand van onderstaande
+agenda:
+Opening & Doel van de meeting
+Introductie van de gasten
+Huidige stand van zaken |
+Input constructeur gemeente Emmen |
+Input constructeur Goudstikker de Vries |
+Samenhang andere projecten |
+Samenbrengen tot een plan van aanpak
+*
+__ Korte termijn
+*
+Lange termijn
+8. Benodigdheden
+9. Regie
+10. Overleg & Communicatiestructuur
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Se
+MEt
+Afspraken
+Goudstikker | de vries (extern) brengt een advies uit naar aanleiding van de conclusies van dit moment,
+deze wordt gecheckt volgens het vierogen principe door de constructeur van de Gemeente Emmen
+(intern)
+Op basis hiervan wordt een opdracht verstrekt aan Fugro om een bodemonderzoek (sondering) uit te
+voeren, gericht op de uitkomsten van het advies.
+Monumentenwacht voert wekelijks metingen uit op zowel meetstroken als gipspleisters en
+rapporteert
+deze wekelijks om verdergaande verschuivingen (zowel horizontaal als verticaal) uit te sluiten.
+Ter plaatse checken we (vandaag) de huidige stand van zaken om de veiligheid van de publieke toegang
+te kunnen borgen.
+We stemmen twee wekelijks de voortgang af middels een meeting in bovenstaande samenstelling om de
+voortgang te bewaken.
+Op lange termijn moeten we een planning maken als we naast de sonderingen aan de buitenzijde extra
+onderzoek moeten plegen ter hoogte van de binnenmuren, hiervoor moeten we wellicht ook denken aan
+tijdelijk geen toegang tot het pand vanwege het onderzoek.
+Daarnaast moeten de uitkomsten van dit eerste onderzoek geconfronteerd worden met de plannen voor
+de Markt om de effecten van de haven, het plaatsen van damwanden en de bronbemaling ter plaatse
+effecten hebben op de situatie rondom het Arsenaal.
+Zaaknummer:
+Gemeente
+Coevorden
+Op het moment van bezoek trekken de constructeurs de conclusie dat de huidige constructie een
+constructiefout bevat en dat aanvullende ondersteuning van de constructie benodigd is om veiligheid op
+de lange termijn te garanderen.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Actielijst:
+Nr.
+| Actie Datum Prio Eigenaar | Status Opleveren
+vegt
+2 Toepassen van gipspleister | 09-01-2025 | Hoog Opdracht 16-01-2025
+voor meten van horizontale verstrekt
+verschuiving naast de
+meting van de verticale
+verschuiving met de
+rekstroken.
+3 Cheeken-huidige-rekstroken | 09-04-2025 | Hoog Ter plaatse 09-04-2025
+5 gecheekt,
+geen
+verschuiving
+en
+4 09-04-2025
+| Heeg 5 Gereed 09-01-2025
+5 Extra ondersteuning ter 09-01-2025 | Hoog 5 Opdracht 13-01-2025
+hoogte van de niet verstrekt
+doorlopende balken
+6 Wekelijkse rapportage 09-01-2025 | Hoog Uitgebreid Wekelijks
+rekstroken en gipspleisters met
+gipspleisters
+7 Beschikbare-tekeningen-van | 09-04-2025
+| Heeg Nog-geen 46-04-2025
+de-gemeente-worden toegang
+aangevuldin-OneDrive-van
+Monumentenwacht
+8
+_| Advies ten behoeve van 09-01-2025
+| Hoog Startend na
+| 23-01-2025
+grondonderzoek verstrekken
+benodigde
+informatie
+9 Opdracht verstrekken 09-01-2025
+| Laag Als advies Wachtend op
+FUGRO gereed is 8
+10
+| Aanvullen Projectplan Markt
+| 09-01-2025
+| Laag Nog niet Benodigd voor
+in OneDrive beschikbaar confrontatie
+op later
+moment
+11 Confrontatie met plannen 09-01-2025 | Hoog Wachtend op
+Markt 8
+11
+| Senderingenvan-plannen 09-01-2025
+| Hoog 16-01-2025
+Markt-opvragen
+13 Sonderingen van recente 09-01-2025 | Hoog Informatie 16-01-2025
+projecten in de omgeving bij
+opvragen
+14
+| Onderzoek locatie 09-01-2025
+| Middel Gewicht van
+| 23-01-2025
+Bibliotheek de boeken
+wegnemen
+kan positief
+effect
+hebben op
+situatie, bij
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+uitvoer moet
+Zaaknummer:
+Gemeente
+Coevorden
+bibliotheek
+zeer
+waarschijnlij
+k toch
+(tijdelijk)
+verhuizen.
+15 | Delen van uurtarief van 09-01-2025 | Middel Op basis 10-01-2025
+Goudstikker voor hiervan
+opdrachtbevestiging opdracht
+verstrekken
+16 [| Opdracht verstrekken 09-01-2025 | Middel 5 Op basis van
+Goudstikker 5 uurtarief
+17
+| Benodigd budget onderzoek
+| 09-01-2025
+| Laag 5
+18
+| Benodigd budget uitvoer 09-01-2025
+| Laag 5
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer:
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Van: 5
+Verzonden: dinsdag 14 januari 2025 09:03
+Aan: Communicatie Mailbox Coevorden
+Onderwerp: Korte update Arsenaal
+(geanonimiseerd)
+Beste gebruikers van Het Arsenaal,
+Middels deze mail informeer ik u vanuit de gemeente graag over de stand van zaken rond Het Arsenaal. Richting
+bezoekers en personeel en in geval van persvragen kunt u dit ook als communicatielijn aanhouden.
+Het pand is veilig
+Er zijn op dit moment geen beperkingen voor gebruik van Het Arsenaal. Door de snelle maatregelen die zijn getroffen
+is het pand door beide betrokken constructeurs veilig verklaard. Dat betekent ook dat er geen beperking ligt op het
+aantal bezoekers. Met metingen houden we de situatie daarbij nauwlettend in de gaten.
+Onderzoek loopt
+Ook loopt er op dit moment een onderzoek. We verwachten dat we hiervan binnen ongeveer twee weken een rapport
+hebben. Daarmee zullen we ook de opdracht helder hebben voor het nog te plannen bodemonderzoek, dat ons een
+beeld zal geven van eventuele benodigde acties.
+Wij houden u uiteraard op de hoogte van verdere ontwikkelingen. Voor eventuele tussentijdse vragen kunt u terecht
+bij NNS. onze (0e ENEN).
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Met vriendelijke groet,
+Gemeente Coevorden
+Kasteel 1
+Postbus 2
+7740 AA Coevorden
+Mm 06 (geanonimiseerd)
+Gemeente
+Coevorden
+www.coevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 23 januari 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 23-01-2025
+Aanwezig: gemeente Emmen (intern adviseur)
+Goudstikker | de vries (extern adviseur)
+TerSteege (aannemer)
+Gemeente Coevorden
+Gemeente Coevorden
+emeente Coevorden
+Gemeente Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Afwezig:
+Contactgegevens:
+monumentenwachtdrenthe.nl
+fugro.com
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met constructeurs, aannemer en Gemeente Coevorden aan de hand van onderstaande
+agenda:
+1. Opening
+2. Vaststellen agenda
+3. Gespreksverslag 09-01-2025
+4. Actielijst
+5. Advies Bodemonderzoek constructeur Goudstikker de Vries |
+6. Acties grondonderzoek | Reservering Fugro
+7. Ontwerp projectplanning
+8. Rondvraag
+9. Volgende vergadering & deelnemerslijst
+10. Sluiting
+Afspraken:
+Onderzoek
+Goudstikker | de vries heeft een specificatie gemaakt voor het bodemonderzoek dat door Fugro zal
+worden uitgevoerd. Dit voorstel zal eind deze week (4) doorgestuurd worden als opdracht naar Fugro.
+Inmiddels is er contact geweest met Fugro en is er tijd gereserveerd voor overleg en onderzoek.
+Ons volgende overleg vindt plaats in het Arsenaal waarbij Fugro zal aansluiten om een ander toe te
+lichten en ter plaatse de verdere aanpak te bespreken.
+(geanonimiseerd)
+(geanonimiseerd)
+Planning
+Inmiddels is de planning van de markt beschikbaar, echter om deze te kunnen confronteren met de
+uitvoering van het Arsenaal, moet deze nog verder worden uitgewerkt.
+Vanuit de Gemeente Coevorden is er behoefte aan een projectplanning, alhoewel specifieke
+uitvoering nog niet bekend is, spreken we af de conceptversie volgende meeting te bespreken.
+(geanonimiseerd)
+Communicatie
+Deze zaak is intern vastgelegd als zaaknummer 67792-2024
+Met name op gebied van veiligheid vind er onjuiste berichtgeving plaats, met name door de gebruikers.
+Ter voorkoming van aannames is er op dinsdag 14 januari 2025 een communicatiebericht naar de
+gebruikers gestuurd. We vragen de om frequent contact te
+hebben met de gebruikers, naast het bestaande contact vanuit beheer vastgoed over de uitvoer.
+Tenslotte passen we de samenstelling van de projectgroep aan, is deelnemer vanuit
+Technisch beheer, zijn vervanger bij afwezigheid, zit de meeting voor, in
+afwezigheid vervangen door sluit weer aan op het moment er concrete
+plannen zijn voor de uitvoer.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Actielijst:
+e
+Da Prio gena Oplevere D e
+et v v v v v v v
+zal Confrontatie met plannen Markt 9-1-2025 Hoog Wachtend op 8
+Gewicht van de boeken wegnemen
+kan positief effect hebben op
+14 Onderzoek locatie Bibliotheek 9-1-2025 Middel situatie, bij uitvoer moet bibliotheek 23-1-2025
+zeer waarschijnlijk toch (tijdelijk)
+verhuizen.
+15
+Delen van uurtarief van Goudstikker
+9-1-2025 Middel
+Op basis hiervan opdracht
+10-1-2025
+voor
+opdrachtbevestiging verstrekken
+16 Opdracht verstrekken Goudstikker 9-1-2025
+Middel Op basis van uurtarief
+074 Benodigd budget onderzoek 9-1-2025 Laag
+18 Benodigd budget uitvoer 9-1-2025 Laag
+En
+Extra sonderingen rondom EE
+19 Opdracht verstrekken Fugro 23-1-2025 Hoog
+Gmini
+24-1-2025
+21 Methode van uitvoer Uretek 23-1-2025
+| Middel bellen
+23 Communicatie gebruikers 23-1-2025 Hoog Voor werkzaamheden informeren 30-1-2025
+In OneDrive, aangevuld door
+24 Voorzet projectplanning 23-1-2025
+Middel projectteam, bespreken in volgend 7-2-2025
+overleg
+1 [2 Wekelijkse meeting voortgang plannen| 9-1-2025 Hoog Uitnodiging volgt 17-1-2025 Afgerond
+Toepassen van gipspleister voor meten
+2
+| van horizontale verschuiving naastde
+| 94-2025 Hoog Opdracht verstrekt 16-1-2025 Afgerond
+meting van de verticale verschuiving
+met de rekstroken.
+3 Checken huidige rekstroken 9-1-2025 Hoog
+Ur ES EEE, GEE
+912025 Afgerond
+verschuivingen
+4 Toegang tot OneDrive 9-1-2025 Hoog Gereed 9-1-2025 Afgerond
+5
+EE che Ger hee PEREDED
+9-1-2025 Hoog Opdracht verstrekt 13-1-2025 Afgerond
+niet doorlopende balken
+6
+Wekelijkse: rapportage: rekstroken en
+9-1-2025 Hoog Uitgebreid met gipspleisters Wekelijks
+gipspleisters
+Beschikbare tekeningen van de
+O7 gemeente worden aangevuld in 9-1-2025 Hoog Nog geen toegang 16-1-2025 Afgerond
+OneDrive van Monumentenwacht
+8 _|Advies ten behoeve van grondonderzoek| 9-1-2025 Hoog
+startend na
+reek
+benodigde
+23-1-2025 Afgerond
+9 Opdracht verstrekken FUGRO 912025 Laag Als advies gereed is Wachtend op 8
+Benodigd voor
+10 [Aanvullen Projectplan Markt in OneDrive| 9-1-2025 Laag Nog niet beschikbaar confrontatie op | Afgerond
+later moment
+12
+Sonderingen van plannen Markt
+9-1-2025 Hoog
+at 16-1-2025 Afgerond
+opvragen
+13
+|Senderingen van recente projecten In de
+| 42025 Hoog Informatie bij 16-1-2025 Afgerond
+omgeving opvragen
+20 Reserveren tijd Fugro 2312025
+Middel bellen 24-1-2025 Afgerond
+22 Check op openingstijden 23-1-2025 Middel 30-1-2025 Afgerond
+25 uitnodigen volgende vergadering |_23-1-2025
+Middel 07-02-2025 ter plaatse Arsenaal 30-1-2025 Afgerond
+Rapport Uretek 2012 en 2022 ZE EE
+26
+Beseniëbaarstanen
+23-1-2025 | Middel 30-1-2025 Afgerond
+)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Telefoon
+Gebruiker Contactpersoon
+Stedelijk Museum
+nne museumcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+stedelijkmuseum.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ToReCo
+EE toreco.nl
+Bibliotheek biblionetdrenthe.nl
+bilbionetdrenthe.nl
+Historische Vereniging historischcoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Postadres:
+Postbus 2
+7740 AA Coevorden
+Telefoon 14 0524
+Fax 0524-598555
+info@coevorden.nl
+www.coevorden.nl
+Bezoekadres:
+Kasteel 1
+7741GC Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bn
+Leaf _n
+Uw bericht Prijsopgaaf 27 januari 2025
+Afdeling/Team Vastgoed & Infra
+Behandeld door 5
+Kenmerk 67792-2024
+Bijlage(n) Geen
+Verzenddatum
+Onderwerp Bodemadvies Arsenaal
+Beste (geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Wij hebben uw mail op 27 januari 2025 ontvangen. Op basis hiervan verstrekken wij de opdracht aan u.
+Omschrijving opdracht
+Bodemonderzoek Arsenaal
+e
+_ Principal consultant: € excl. BTW);
+e
+_ Senior consultant: € excl. BTW);
+e Medior adviseur: € excl. BTW);
+e
+_ Junior adviseur: € excl. BTW);
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+U kunt uw factuur digitaal opsturen
+Wij ontvangen uw factuur graag digitaal op MRJ ecoevorden.nl.
+(geanonimiseerd)
+De factuur en bijlagen kunt u als PDF document toevoegen in uw e-mail. Op de factuur moet in ieder geval
+de volgende informatie staan:
+e
+_ Het volgende adres:
+Gemeente Coevorden
+Postbus 2
+7740 AA Coevorden
+Tav.
+e
+_Kostenplaats V.10.001.02
+e
+_ Grootboeknummer 83401
+(geanonimiseerd)
+Stuur een bijlage mee waarin de geleverde diensten en/of producten duidelijk vermeld staan.
+Facturatie van uren zal plaatsvinden op basis van opgave van verantwoording van
+ingezette uren per
+maand. Grondonderzoek op basis van offerte vooraf.
+(geanonimiseerd)
+Gemeente
+Coevorden
+De volgende bijlagen horen bij deze opdrachtbevestiging
+In geval van strijdigheid tussen deze opdrachtbevestiging en de bijlagen geldt de volgende rangorde in
+afnemende volgorde van belangrijkheid:
+E Algemene inkoopvoorwaarden Gemeente Coevorden
+II. Uw offerte d.d. 27 januari 2025
+De inkoopvoorwaarden van wijzen we uitdrukkelijk van de hand. De algemene inkoopvoorwaarden
+van de gemeente Coevorden zijn van toepassing op deze opdracht. Een exemplaar hiervan hebben wij
+meegestuurd met deze opdrachtbevestiging.
+(geanonimiseerd)
+Heeft u na het lezen van deze brief nog vragen?
+Neem dan contact op met en de gemeente Coevorden, via de
+(geanonimiseerd)
+berichtenmodule van TenderNed.nl.
+Met vriendelijke groet,
+namens het college van blrgemeester en wethouders van Coevorden,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+C Art. 5.1 lid 1 sub c
+Deze informatie betreft bedrijfs- en fabricagegegevens die vertrouwelijk aan de overheid zijn
+meegedeeld
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+B
+(geanonimiseerd)
+Verzonden: dinsdag 28 januari 2025 11:14
+cc: -
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Onderwerp: RE: Verslag Arsenaal 23-01-2025
+Dag
+MNM en
+NML
+(geanonimiseerd)
+(geanonimiseerd)
+Vorige week vrijdag kreeg ik het verzoek van of ik de contactpersoon voor de gebruikers van het Arsenaal
+wilde zijn in het project Arsenaal (herstel scheurvorming). Voor de goede orde hebben we het dan over de volgende
+huurders:
+(geanonimiseerd)
+-
+Biblionet Drenthe;
+-__
+Stedelijk Museum Coevorden;
+-___
+Historische Vereniging Coevorden;
+-__ToReCo (TIP).
+Ik heb hierover nagedacht en met mijn coördinator over gesproken en ben bereid om deze rol te vervullen. Ik vind
+daarin het volgende belangrijk om af te spreken:
+-___Mijn rol richt zich erop om de communicatie met de huurder zo effectief mogelijk te laten verlopen. Dat
+betekent dat de gemeente met één mond naar de huurders spreekt en dat ik alle beschikbare informatie
+heb om die rol te kunnen vervullen. Ook als er zich incidenten voordoen waarbij meteen gehandeld moet
+worden, ben ik daarvan op de hoogte. Niets is zo frustrerend om gebeld of gemaild te worden en zelf achter
+informatie aan te moeten om vragen te kunnen beantwoorden of zorgen weg te nemen.
+-___Mijn rol is ook dat de gemeente de belangen van de huurders kent, respecteert en voor zover mogelijk laat
+meewegen in keuzes die gemaakt moet worden. Het werkt twee kanten op. Dus als er zaken zijn die de
+huurders willen melden aan de gemeente dan kunnen ze bij mij terecht. Eventuele acties die daaruit
+voortvloeien worden opgepakt door de collega’s die daarvoor verantwoordelijk zijn, ook als dat betekent
+dat er even contact gezocht moet worden.
+-___Mijn rol als contactpersoon vervangt niet de afspraken die met team Communicatie zijn gemaakt over de
+centrale communicatie naar de huurders.
+Als ben ik de accounthouder van Stedelijk Museum Coevorden en feitelijk
+ben ik contactpersoon voor de historische vereniging. is accounthouder voor de
+bibliotheek en is dat voor ToReCo. Ik ga er vanuit dat team Vastgoed mijn rol als
+contactpersoon in dit project voor alle huurders afstemt met deze beide collega’s.
+-___Mijn rol als contactpersoon is alleen voor dit project en niet voor projecten die er een raakvlak mee hebben,
+zoals nieuwbouw Rabobanklocatie (beoogde nieuwe locatie bibliotheek) en herinrichting Markt.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Groeten,
+Van: <W ecoevorden.nl>
+(geanonimiseerd) (geanonimiseerd)
+Verzonden: vrijdag 24 januari 2025 11:10
+Aan: Me coevorden.nl>
+Onderwerp: FW: Verslag Arsenaal 23-01-2025
+FYI
+(geanonimiseerd) (geanonimiseerd)
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+51 EF
+Intern: (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gesprekverslag Arsenaal
+Datum
+Versie
+Naam rapporteur
+Afdeling
+-
+Team
+Afgestemd met
+OR
+Behandeling in
+Openbaar
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder
+Onderwerp:
+Gemeente
+Coevorden
+07 februari 2025
+1.0
+Vastgoed & Infrastructuur
+S. Stegen
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Coevorden
+Gesprekverslag Arsenaal 23-01-2025
+Aanwezig: gemeente Emmen (intern adviseur)
+Ei Gemeente Coevorden
+5 Gemeente Coevorden
+(Fugro)
+(Fugro)
+Afwezig: Gemeente Coevorden
+Gemeente Coevorden
+(extern adviseur)
+Contactgegevens:
+coevorden.nl
+coevorden.nl
+onumentenwachtdrenthe.nl
+fugro.com
+fugro.com
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met constructeur, Fugro (bodem)en Gemeente Coevorden aan de hand van onderstaande
+agenda:
+Opening
+Vaststellen agenda
+Gespreksverslag 23-01-2025
+Actielijst
+Rapportage Monumentenwacht
+Advies Fugro
+Confrontatie plannen Markt
+Rondgang ter plaatse Arsenaal
+Restauratiefonds
+Rondvraag
+Volgende vergadering & deelnemerslijst
+Sluiting
+Rapportage Monumentenwacht
+Ml koppelt de resultaten van de afgelopen weken terug aan de hand van de rapportages
+die hij gedeeld heeft via OneDrive. Er is marginale beweging waar te nemen, echter deze hersteld zich
+ook weer in oude positie. Conclusie is dat dit gebruikelijke zettingen van het gebouw zijn. Voor effect op
+langere termijn moeten de metingen worden doorgezet. We stemmen af dat de wekelijkse
+metingen upload in de OneDrive en uitsluitend rapporteert als er verschillen worden waargenomen,
+waaruit een actie vloeit. Als we
+proactief willen worden geattendeerd op toevoeging aan het dossier kan
+in OneDrive de melding per mail worden aangezet.
+(geanonimiseerd)
+(geanonimiseerd)
+Advies Fugro
+Op basis van het afgegeven advies van Goudstikker bespreken we ter plaatse met Fugro de
+uitvoeringsplannen voor de aangegeven sonderingen. De voorkeur gaat uit naar elektrische sondering
+daar waar mogelijk. De aangegeven plaatsen aan de buitenzijde bevatten geen obstakels voor de
+uitvoering hiervan. Binnen worden de maatvoeringen opgemeten om daar waar mogelijk elektrische
+sonderingen uit te voeren. Fugro komt met een plan voor de uitvoer hiervan op basis van afmetingen van
+machine en de benodigde ruimte voor toegang. Belangrijk hierbij is de mogelijkheden voor verankeringen
+aan de vloer. Zodra de gegevens van de machines bekend zijn, de exacte locaties en de benodigde
+tonnages van optredende krachten, geven we de aannemer opdracht op die locaties de vloer open te
+kappen om deze mogelijkheden te onderzoeken en deze obstakelvrij te maken (denk aan
+vloerverwarming etc.) Tenslotte moeten we bij uitvoer (geschatte tijd is één werkdag) de overlast
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+vaststellen en eventueel tijdelijke of gedeeltelijke sluiting overwegen, afhankelijk van de verwachte
+overlast.
+Vervolg
+Vanwege de garantietermijn van de werkzaamheden van Uretek in 2012 is meting op zetting
+noodzakelijk, deze is tot op heden niet in beeld gebracht. Om aanspraak te kunnen maken op garanties
+zullen eventuele verschuivingen in beeld gebracht moeten worden. Maar wellicht nog belangrijker vast te
+stellen dat deze oplossing ook na het verstrijken van de garantietermijn nog voldoende stabiliteit brengt.
+Daarnaast wordt geadviseerd een hoogte/tilt meting uit te voeren aangevuld met huidige
+grondwaterstanden (met peilbuizen) om de situatie ook met het oog op de werkzaamheden rondom de
+markt nauwlettend te kunnen monitoren.
+De rest van de acties zijn al persoonlijk gekoppeld en vastgelegd in de actielijst.
+Volgende meeting
+We plannen de volgende vergadering op 28 februari om alvast tijd in de agenda's te reserveren. Uitkomst
+van de voorbereiding op het sonderingsonderzoek zijn noodzakelijk om deze meeting nuttig te maken,
+we stemmen in de week vooraf als we tijdig de uitkomsten beschikbaar hebben.
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+Actielijst:
+Nr.
+Actie Datum Prio Eigenaar Status Opleveren Definitief
+z!
+=| [=|
+5
+5e | [=|
+se
+26E Confrontatie met plannen Markt Wachtend op 8
+Gewicht van de boeken
+wegnemen kan positief effect
+14 Onderzoek locatie Bibliotheek 9-1-2025
+| Middel
+hebben op
+situatie, bij uitvoer
+|_ 34-2025
+moet bibliotheek zeer
+waarschijnlijk toch (tijdelijk)
+verhuizen.
+Middels raadsvoorstel,
+18 Benodigd budget uitvoer 9-1-2025 Laag onderzoekskosten meenemen 28-2-2025
+17
+21 Methode van uitvoer Uretek 23-1-2025 Middel A bellen
+23 Communicatie gebruikers 23-1-2025 Hoog Voor werkzaamheden informeren| 30-1-2025
+In
+OneDrive, aangevuld door
+24 Voorzet projectplanning 23-1-2025
+| Middel projectteam, bespreken in 28-2-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+volgend overleg
+Overleg met BRB hoe we dit
+28-2-2025
+(geanonimiseerd)
+28 Meting op zetting uitvoer Uretek 7-2-2025 Hoog
+open
+(geanonimiseerd)
+(geanonimiseerd)
+29 Tekening vloerverwarming 7-2-2025 Hoog 14-2-2025
+2: Nog geen detailplanning EA
+30 Delen plannen Markt A22 025) Hoog
+hesniteen dte nmr J
+28-2-2025
+kl Communicatiemail delen 7-2-2025 Laag Mail naar gebuikers Arsenaal 14-2-2025
+32 Chronologisch bene
+laatste 20
+7-2-2025 Middel 14-2-2025
+Hoogtemeting/tilt 7-2-2025 Hoog In combinatie met 29? 28-2-2025
+34
+Historische grondwaterstanden in
+7-2-2025 Hoog
+Overleg met
+welke 28-2-2025
+beeld gegevens ber Md zijn
+35 Fugro
+toevnegendeständen 7-2-2025
+| Hoog Mail gestuurd (HLE) 11-02-2025
+|_ 14-2-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Ao
+oagadags
+soa
+a
+(geanonimiseerd)
+(geanonimiseerd)
+36 | Aanbrengen peilbuizen grondwater | 7-2-2025 Hoog
+EE IJ
+en
+14-2-2025
+37 Plan van aanpak Sonderingen 7-2-2025 Hoog 21-2-2025
+Opdracht naar aannemer voor
+openkappen van de locaties voor 7-2-2025 Middel Na oplevering rapport Fugro 28-2-2025
+(geanonimiseerd)
+(geanonimiseerd)
+nader onderzoek
+Sluiting Biliotheek/Musem
+noodzakelijk
+2 Wekelijkse meeting voortgang
+In overleg met
+gebruikers datum
+28-2-2025
+422023
+| Hoog
+kiezen voor sonderingen
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+en
+9-1-2025
+| Hoog Uitnodiging volgt 17-1-2025
+| Afgerond
+Toepassen van gipspleister voor
+z |
+meten van horizontale verschuiving
+|_ 94 2025 | Hoog Opdracht verstrekt 16-1-2025 | Afgerond
+naast de meting van de verticale
+verschuiving met de rekstroken
+5 Checken huidige rekstroken 9-1-2025
+| Hoog
+Ter plaatse gecheckt, geen 9-1-2025
+| Afgerond
+verschuivingen
+4 Toegang tot OneDrive 9-1-2025 | Hoog Gereed 9-1-2025 | Afgerond
+5
+Eko
+ondsrste
+Un no
+kern oo KE KATS
+EE> 020
+MI MHoog Opdracht verstrekt 13-1-2025
+| Afgerond
+de niet doorlopende balken
+6 [Wekelijkse rapportage rekstroken en
+54 2025
+| Hoog Uitgebreid met
+gipspleisters Wekelijks
+gipspleisters
+Beschikbare tekeningen van de
+7
+| gemeente worden aangevuldin
+| 9-1-2025
+| Hoog Nog geen toegang 16-1-2025
+| Afgerond
+(geanonimiseerd)
+OneDrive van Monumentenwacht
+8
+Advies ten behoeve van
+9-1-2025 | Hoog
+grondonderzoek
+Startend na verstrekken
+benodigde informatie
+23-1-2025
+| Afgerond
+(geanonimiseerd)
+9 Opdracht verstrekken FUGRO 9-1-2025 Laag Als advies gereed is Wachtend op 8
+Benodigd voor
+Aanvullen Projectplan Markt in
+Nog niet beschikbaar confrontatie op| Afgerond
+(geanonimiseerd)
+9-1-2025
+| Laag
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+OneDrive
+later moment
+‚2
+|_Sonderingen van plannen Markt
+[ 94-2025 | Hoog Koord
+opvragen J
+13
+| Senderingen van recente
+projecten | 9.4.2025
+| Hoog Informatie
+bij
+|
+5
+16-1-2025
+| Afgerond
+in de omgeving opvragen
+75 | Peten van uurtarief van Goudstikker
+[5-4-2025 | model Op basis hiervan opdracht
+mees Iet
+voor
+opdrachtbevestiging verstrekken
+16 Opdracht verstrekken Goudstikker 9-1-2025 Middel
+Informatie bij BM
+16-1-2025
+9]
+(geanonimiseerd) Op basis van uurta 16-1-2025 | Afgerond
+Afgesproken met (geanonimiseerd)
+tijdelijk uit onderhoud Arsenaal,
+(geanonimiseerd)
+(geanonimiseerd)
+17
+Benodigd budget onderzoek 9-1-2025 | Laag op een later moment wanneer
+| 30-1-2025 | Afgerond
+kosten duidelijk zijn middels een
+raadvoorstel
+Extra sonderingen rondom
+19
+Opdracht verstrekken Fugro 23-1-2025
+| Hoog Grondboringen voor 24-1-2025
+| Afgerond
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+samenstellin
+20 Reserveren tijd Fugro 23-1-2025
+| Middel AE bellen 24-1-2025 Afgerond
+22 Check op openingstijden 23-1-2025
+| Middel 30-1-2025
+| Afgerond
+PA uitnodigen volgende
+(geanonimiseerd)
+(geanonimiseerd)
+Ei
+25 23-1-2025
+| Middel 07-02-2025 ter
+plaatse Arsenaal
+| 30-1-2025
+| Afgerond
+vergadering
+26
+Rapport Uretek 2012 en 2022
+23-1-2025
+| Middel
+F5 30-1-2025
+| Afgerond
+beschikbaar stellen E
+AA vragen om frequent
+27 |cultuur aanhaken voor communicatie | 23-1-2025 | Middel contact te hebben met de 7-2-2025 | Afgerond
+gebruikers |
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+[ Gebruiker ______ | Contactpersoon __ [Email
+_______________| Telefoon
+Stedelijk Museum FD @museumcoevorden.nl
+EE B
+BR@stedelijkmuseum.nl (
+RE @toreco.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bibliotheek
+| M@biblionetdrenthe.nl
+BA @DIDionetdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Historische Vereniging M@historischcoevorden.nl E _|
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Van: Me monumentenwachtdrenthe.nl>
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Verzonden: vrijdag 7 februari 2025 09:28
+Aan:
+Onderwerp: Update Scheurmeters Arsenaal Coevorden
+(geanonimiseerd) (geanonimiseerd)
+nr
+(geanonimiseerd)
+Bij deze even een update,
+De scheurmeters lijken niet of zeer beperkt van stand te wijzigen, de wijzigingen fluctueren hetgeen mijns inziens
+toe te wijzen is aan reguliere uitzet en krimp bewegingen.
+De aangebrachte gipsbruggetjes zijn allen nog geheel intact wat ook duidt op geen of minimale werking van de
+ondergrond.
+De foto’s van de scheurmeters staan in de OneDrive map, van de gipsbruggetjes maak ik pas foto’s als er duidelijk
+iets is gewijzigd.
+Ik hoop jullie hiermee vooralsnog voldoende te hebben geïnformeerd. Ik ben straks nog ter plaatse voor mondelinge
+toelichting.
+Met vriendelijke groet,
+Monumentenwacht Drenthe
+Me menumentenwachtdrenthe.nl
+|
+(geanonimiseerd)
+(geanonimiseerd)
+MONUMENTENWACHT
+IN NEDERLAND
+(geanonimiseerd)
+(geanonimiseerd)
+Monumentenwacht Drenthe | T:
+BEN wv w.monumentenwachtdrenthe.nl | Pieterberg 26 | 9431 CB
+(geanonimiseerd)
+Westerbork le monumentenwachtdrenthe.nl
+(geanonimiseerd)
+Groene en Archeologische Monumentenwacht | www.groenemonumentenwacht.nl |
+Blijf op de hoogte en volg ons via;
+Ll v ©
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Van:
+BE <te nl>
+(geanonimiseerd)
+(geanonimiseerd)
+Verzonden: dinsdag 11 februari 2025 13:43
+Onderwerp: RE: Arsenaal | Bijgaand het gespreksverslag van afgelopen vrijdag
+(geanonimiseerd)
+Goedemiddag
+Bedankt voor het vlotte en duidelijke verslag.
+Gelukkig lees ik:
+numentenwacht
+koppelt de resultaten van de afgelopen weken terug aan de hand van de rapportages
+ie hij gedeeld heeft via OneDrive.
+Voor effect op
+langere termijn moeten de metingen worden doorgezet. We stemmen af dat de wekelijkse
+metingen upload in de OneDrive en uitsluitend rapporteert als er verschillen worden waargenomen,
+waaruit een actie vloeit. Als we proactief willen worden geattendeerd op toevoeging aan het dossier kan
+in OneDrive de melding per mail warden aangezet,
+(geanonimiseerd)
+Het lijkt een storm in een glas water te zijn, dat gevoel had ik van meet af aan al een beetje.
+Natuurlijk is het prima te verder onderzoeken en een en ander te monitoren.
+Ik ben vooral benieuwd naar hoe de uitvoering van Uretek uit 2012 zich heeft gehouden.
+Dat is in ieder geval de winst van de hele exercitie.
+Want dat zou dan een prima basis zijn voor versterking onder de middenbeuk.
+Overigens lees ik ook:
+Advies Fugro
+Op basis van het afgegeven advies van Goudstikker bespreken we ter plaatse met Fugro de
+uitvoeringsplannen voor de aangegeven sonderingen. De voorkeur gaat uit naar elektrische sondering
+daar waar magelijk. De aangegeven plaatsen aan de buitenzijde bevatten geen obstakels voor de
+uitvoering hiervan. Binnen worden de maatvoeringen opgemeten om daar waar mogelijk elektrische
+sonderingen uit te voeren. Fugro komt met een plan voor de uitvoer hiervan op basis van afmetingen van
+machine en de benadigde ruimte voor toegang. Belangrijk hierbij is de mogelijkheden voor verankeringen
+aan de vloer,
+Tenslotte moeten we bij uitvoer (geschatte tijd is één werkdag) de overlast
+Ik mag toch hopen dat we niet met grof geweld een vloer van 40 cm dik gaan open kappen.
+Mijn voorstel was enkele gaten te laten boren, meer niet.
+Ik ga er daarom maar vanuit dat open kappen alleen bedoeld is om de vloerverwarming te traceren.
+Voor het boren van de gaten en het boren van de verankeringen.
+Als dit een hele kermis wordt is mijn advies het te laten vervallen.
+Vooral omdat ik onder het gebouw een weinig ander sondeerbeeld verwacht dan buiten het gebouw.
+We wachten neem ik aan eerst de offerte en de planning van Fugro af alvorens zaken in werking worden gezet.
+Daarvoor is de reservering van 28 februari a.s. met name bedoeld heb ik geconcludeerd.
+NB
+Ik laat graag aan jou over of en met wie je dit mailbericht wilt delen.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Met vriendelijke groet,
+fi) goudstikker |de vries
+T: +31
+(OD |W: goudstikker.nl
+(geanonimiseerd)
+aanwezig: geen vaste kantoordagen (maar doorgaans wel mobiel bereikbaar)
+rechtstreeks: M 06 of TE
+(geanonimiseerd) (geanonimiseerd)
+Op alle overeenkomsten van goudstikker -
+de vries zijn de algemene voorwaarden DNR 2011 (inclusief herziening 2013)
+van toepassing. Voornoemde voorwaarden worden op eerste verzoek toegezonden, daarnaast kunnen de voorwaarden
+hier op onze website worden gedownload.
+Van: Me coevorden.nl>
+Verzonden: dinsdag 11 februari 2025 10:48
+Aan: Meegoudstikker.nl>; EN <leemmen.nl>;
+le coevorden.nl>; Me coevorden.nl>; KO
+Kd
+Cc:
+Me coevorden.nl>; <Me coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Onderwerp: Arsenaal | Bijgaand het gespreksverslag van afgelopen vrijdag
+Goedemorgen allen,
+Aanvullingen van harte welkom, zie bijgaand de verslaglegging van onze meeting van afgelopen vrijdag.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+51 EF
+Intern:
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Verzonden: maandag 24 februari 2025 17:47
+cc: nl ana
+Onderwerp: RE: Arsenaal | Bijgaand het gespreksverslag van afgelopen vrijdag
+Bijlagen: 6424-267101.001_signed.pdf
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Beste
+In aansluiting op ons
+prettig overleg en de inspectie van het Arsenaal hebben we onderzocht hoe we het
+beste de sonderingen kunnen uitvoeren. In bijgaande voorstel wordt dit beschreven en begroot.
+Zoals vermeld zullen we de sonderingen buiten met een mini-rups moeten maken (omdat 2 van de 3
+locaties niet met standaard equipment bereikbaar is. De exacte locatie zal iets afwijken van de 3 blauw
+gemarkeerde locaties omdat er waarschijnlijk ondergrondse infrastructuur of andere obstakels aanwezig
+zijn en we moeten verankeren. Op basis van de huidige planning (bij tijdige opdrachtverstrekking) kunnen
+deze sonderingen op/vanaf 6 maart worden uitgevoerd.
+De locaties binnen moeten ook nog definitief worden vastgesteld. Wij denken dat hier niet volstaan kan
+worden met handsonderingen omdat deze waarschijnlijk onvoldoende informatie over de oorzaak en
+oplossing kunnen geven. Enkele sonderingen zijn ter plaatse van de grootste zakking/ schade en die
+zouden in de vloer of onder het gewelf moeten worden uitgevoerd. We hebben in principe afgesproken
+dat de Gemeente Coevorden deze locaties voorbereid. Hierbij is nauwe afstemming tussen jullie
+huisaannemer en noodzakelijk. Waarbij o.a. de volgende stappen nodig zijn:
+-_
+Controle constructie/ opbouw/ achterhalen tekeningen van eerdere verbouwing (o.a. vloerdiktes,
+wapening e.d), (door opdrachtgever)
+-_
+Achterhalen ligging kabels, leidingen, vloerverwarming (door opdrachtgever)
+-
+Beoordeling of we aan vloeren kunnen verankeren, aan de hand van
+opgaaf door B van
+verankeringspunten en -methode en te verwachten trekkrachten (beoordeling door opdrachtgever)
+-_In overleg vaststellen locaties
+-__
+Voorbereiden van de locaties door huisaannemer van de Gemeente Coevorden. Ervan uitgaande
+dat verankering aan de vloer idd mogelijk is: anker- en sondeerlocaties vrijmaken van (o.a.)
+vloerverwarming en kernboring uitvoeren t.b.v. het sonderen tot door de gehele constructie heen;
+-_Indien verankering aan vloer niet mogelijk is: alternatieve mogelijkheden onderzoeken (alternatief is
+sonderingen uitvoeren onder de gewelven en
+afstempelen op onderzijde gewelven): gezamenlijk
+beschouwen
+-_Na voorbereiding van de sondeerlocaties binnen laatste inspectie door werkvoorbereiding
+afstemming ter plaatse
+-_
+Uitvoering van de sonderingen met demontabel apparaat; naar verwachting kost dit maximaal 3
+dagen; mogelijk lukt het bij vlekkeloze voorbereiding en uitvoering in 2 dagen; uitvoeringsdatum is
+nu gepland op 19-21 maar; in overleg kan dit worden aangepast naar een datum waarbij we
+conform wens
+op een maandag starten (omdat de locatie op maandag sowieso niet in gebruik is);
+naast de sonderingen zullen we ook handboringen uitvoeren om de slappe lagen beter te kunnen
+classificeren (met name aanwezigheid van organisch materiaal)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Zoals besproken kunnen we na
+uitvoering van het grondonderzoek nader adviseren over de mogelijke/
+waarschijnlijke oorzaken van de schade; dit in nauw overleg met o.a. de betrokken constructeurs.
+Een van de aanvullende acties kan verder zijn om het pand geheel in te scannen. Hierdoor kunnen
+vervormingen, scheefstanden e.d. zeer
+nauwkeurig in 3D worden ingemeten. Ook levert dit relevante
+informatie op m.b.t. de constructie en kan indien er aanleiding is een hermeting van relevante delen
+worden uitgevoerd.
+Voor de adviezen hebben we o.a.
+nog grondwaterstandsmetingen en nadere info over de werkzaamheden
+in het centrum nodig. Hopelijk komt daar vrijdag meer
+duidlelijkheid over.
+Als er
+nog vragen of opmerkingen zijn m.b.t. ons voorstel dan horen we dat graag.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+pe ERE MO
+(geanonimiseerd)
+J
+J
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+This email (including any attachments) is for use
+by the intended addressee only. It may contain confidential information. If you are not the
+intended addressee, please promptly notify the sender by return email. In such an event, we
+request that you delete the email and that you do not
+use or transmit the contents to any third parties.
+From: B ecoevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Ten Tuesday,
+En
+11, 2025 10:48
+AM
+(geanonimiseerd)
+(geanonimiseerd)
+@coevorden.nl>; <Me coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+Subject: Arsenaal | Bijgaand het gespreksverslag van afgelopen vrijdag
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Goedemorgen allen,
+Aanvullingen van harte welkom, zie bijgaand de verslaglegging van onze meeting van afgelopen vrijdag.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
++31 6
+Intern:
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Verzonden: maandag 24 februari 2025 17:47
+cc: nl ana
+Onderwerp: RE: Arsenaal | Bijgaand het gespreksverslag van afgelopen vrijdag
+Bijlagen: 6424-267101.001_signed.pdf
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Beste
+In aansluiting op ons
+prettig overleg en de inspectie van het Arsenaal hebben we onderzocht hoe we het
+beste de sonderingen kunnen uitvoeren. In bijgaande voorstel wordt dit beschreven en begroot.
+Zoals vermeld zullen we de sonderingen buiten met een mini-rups moeten maken (omdat 2 van de 3
+locaties niet met standaard equipment bereikbaar is. De exacte locatie zal iets afwijken van de 3 blauw
+gemarkeerde locaties omdat er waarschijnlijk ondergrondse infrastructuur of andere obstakels aanwezig
+zijn en we moeten verankeren. Op basis van de huidige planning (bij tijdige opdrachtverstrekking) kunnen
+deze sonderingen op/vanaf 6 maart worden uitgevoerd.
+De locaties binnen moeten ook nog definitief worden vastgesteld. Wij denken dat hier niet volstaan kan
+worden met handsonderingen omdat deze waarschijnlijk onvoldoende informatie over de oorzaak en
+oplossing kunnen geven. Enkele sonderingen zijn ter plaatse van de grootste zakking/ schade en die
+zouden in de vloer of onder het gewelf moeten worden uitgevoerd. We hebben in principe afgesproken
+dat de Gemeente Coevorden deze locaties voorbereid. Hierbij is nauwe afstemming tussen jullie
+huisaannemer en noodzakelijk. Waarbij o.a. de volgende stappen nodig zijn:
+-_
+Controle constructie/ opbouw/ achterhalen tekeningen van eerdere verbouwing (o.a. vloerdiktes,
+wapening e.d), (door opdrachtgever)
+-_
+Achterhalen ligging kabels, leidingen, vloerverwarming (door opdrachtgever)
+-
+Beoordeling of we aan vloeren kunnen verankeren, aan de hand van
+opgaaf door B van
+verankeringspunten en -methode en te verwachten trekkrachten (beoordeling door opdrachtgever)
+-_In overleg vaststellen locaties
+-__
+Voorbereiden van de locaties door huisaannemer van de Gemeente Coevorden. Ervan uitgaande
+dat verankering aan de vloer idd mogelijk is: anker- en sondeerlocaties vrijmaken van (o.a.)
+vloerverwarming en kernboring uitvoeren t.b.v. het sonderen tot door de gehele constructie heen;
+-_Indien verankering aan vloer niet mogelijk is: alternatieve mogelijkheden onderzoeken (alternatief is
+sonderingen uitvoeren onder de gewelven en
+afstempelen op onderzijde gewelven): gezamenlijk
+beschouwen
+-_Na voorbereiding van de sondeerlocaties binnen laatste inspectie door werkvoorbereiding
+afstemming ter plaatse
+-_
+Uitvoering van de sonderingen met demontabel apparaat; naar verwachting kost dit maximaal 3
+dagen; mogelijk lukt het bij vlekkeloze voorbereiding en uitvoering in 2 dagen; uitvoeringsdatum is
+nu gepland op 19-21 maar; in overleg kan dit worden aangepast naar een datum waarbij we
+conform wens
+op een maandag starten (omdat de locatie op maandag sowieso niet in gebruik is);
+naast de sonderingen zullen we ook handboringen uitvoeren om de slappe lagen beter te kunnen
+classificeren (met name aanwezigheid van organisch materiaal)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zoals besproken kunnen we na
+uitvoering van het grondonderzoek nader adviseren over de mogelijke/
+waarschijnlijke oorzaken van de schade; dit in nauw overleg met o.a. de betrokken constructeurs.
+Een van de aanvullende acties kan verder zijn om het pand geheel in te scannen. Hierdoor kunnen
+vervormingen, scheefstanden e.d. zeer
+nauwkeurig in 3D worden ingemeten. Ook levert dit relevante
+informatie op m.b.t. de constructie en kan indien er aanleiding is een hermeting van relevante delen
+worden uitgevoerd.
+Voor de adviezen hebben we o.a.
+nog grondwaterstandsmetingen en nadere info over de werkzaamheden
+in het centrum nodig. Hopelijk komt daar vrijdag meer
+duidlelijkheid over.
+Als er
+nog vragen of opmerkingen zijn m.b.t. ons voorstel dan horen we dat graag.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+This email (including any attachments) is for use
+by the intended addressee only. It may contain confidential information. If you are not the
+intended addressee, please promptly notify the sender by return email. In such an event, we
+request that you delete the email and that you do not
+use or transmit the contents to any third parties.
+From: B ecoevorden.nl
+(geanonimiseerd)(geanonimiseerd)
+Ten Tuesday,
+En
+11, 2025 10:48
+AM
+(geanonimiseerd) (geanonimiseerd)
+coevorden: <Me coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+Subject: Arsenaal | Bijgaand het gespreksverslag van afgelopen vrijdag
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Goedemorgen allen,
+Aanvullingen van harte welkom, zie bijgaand de verslaglegging van onze meeting van afgelopen vrijdag.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+zr
+Intern: (geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+(geanonimiseerd)
+Gemeente Coevorden
+Kasteel 1
+7741 GC Coevorden
+Onze ref.: 6424-267101
+Betreft: Scheurvorming Haven 4 te Coevorden
+24 februari 2025
+Geachte GND.
+(geanonimiseerd)
+Naar aanleiding van uw verzoek d.d. 25-01-2025 ontvangt u hierbij onze aanbieding voor het
+uitvoeren van een
+geotechnisch grondonderzoek ten behoeve van
+bovengenoemd project. Het
+project is ontstaan n.a.v. de situatie in het historische pand “Arsenaal” waarbij scheurvorming is
+ontstaan in meerdere gevels. Op basis van de beoordeling dit gedaan is tijdens de locatiebezoek
+d.d. 07-02-2025 zijn wij gevraagd voor de uitvoering van grondonderzoek alsmede geotechnische
+advisering. In deze offerte treft u de toelichting en kosten t.b.v. het grondonderzoek.
+Figuur 1 indicatieve grondonderzoekslocaties aan de Haven 4 te Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Grondonderzoek
+Op basis van de verstrekte informatie adviseren wij het grondonderzoek te laten bestaan uit:
+m
+Aanvragen en verwerken KLIC-gegevens;
+= Uitzetten en
+waterpassen van de onderzoekslocaties ten opzichte van RD/NAP:;
+m 7 sonderingen met kleefmeting tot 15 m-mv; waarvan:
+e _3 sonderingen met kleefmeting tot 15 m-mv rondom de Haven 4 met onze
+minisondeerrups;
+e
+_ 4 inpandige sonderingen met kleefmeting tot ca. 15 m-mv met ons
+losapparaat.
+Bij het opstellen van deze aanbieding zijn de onderstaande uitgangspunten gehanteerd. Omdat
+eventuele wijzigingen gevolgen kunnen hebben voor de prijsstelling, vragen wij u bij afwijkingen op
+de uitgangspunten tijdig contact met ons
+op te nemen.
+= gaat ervan uit dat de aanwezige vloerverwarming als verloren beschouwd moet
+worden bij uitvoering van de inpandige sonderingen. Dit ondanks pogingen om het
+onderzoek met zo min mogelijk schade uit te voeren. Indien schade aan de vloerverwarming
+niet acceptabel is, dan adviseren wij dit gedeelte van het onderzoek (inpandige deel) niet te
+laten uitvoeren. is nimmer aansprakelijk voor eventuele schade aan de bestaande
+vloerverwarming.
+= De sondeerpunten alsmede de verankeringspunten van de sonderingen worden door Gemeente
+Coevorden vrijgegeven. is niet aansprakelijk voor eventuele tijdens de uitvoering
+ontstane schade aan de bestaande vloerverwarming en
+overige ondergrondse K&L in beheer
+van de opdrachtgever.
+=
+__ Alle voor onze werkzaamheden relevante projectinformatie, waaronder een digitale ACAD
+tekening op schaal, dient voorafgaand aan de start van het project door de opdrachtgever ter
+beschikking te worden gesteld. Bij voorkeur via e-mail aan
+net vermelding
+van ons
+opdrachtnummer. Indien de gegevens niet tijdig beschikbaar zijn, dan zal een aanname
+worden gedaan voor het advies.
+= is niet aansprakelijk voor het eventueel in de bodem achterblijven van bij de uitvoering
+van de werkzaamheden gebruikte materialen en
+apparatuur.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Kabels en leidingen (KLIC)
+Voor de uitvoering van onze veldwerkzaamheden is conform de WIBON (Wet informatie-
+uitwisseling boven- en
+ondergrondse netten) een
+KLIC-melding verplicht. Een KLIC-melding geeft
+informatie over de theoretische ligging van
+ondergrondse kabels en
+leidingen van de aangesloten
+netbeheerders, met uitzondering van de huisaansluitingen en particuliere terreinen met als doel het
+minimaliseren van schade aan kabels en leidingen. In deze offerte is een KLIC-melding inbegrepen.
+De geldigheid van de KLIC-melding bedraagt 20 dagen.
+Pagina 2 van 7
+(geanonimiseerd)
+Voor locaties waarin de KLIC-melding niet voorziet in de ligging van eventuele kabels, leidingen of
+andere ondergrondse obstakels dient de opdrachtgever de gegevens aan ons ter beschikking te
+stellen. is niet aansprakelijk voor schade of gevolgschade wanneer deze het gevolg is van
+door de opdrachtgever of derden aangeleverde onvolledige en/of foutieve gegevens.
+(geanonimiseerd)
+Afhankelijk van de afstand van de onderzoekslocaties tot de theoretische ligging van de kabels en
+leidingen kan, als verplaatsen niet mogelijk is, voorboren dan wel voorgraven van de
+onderzoekslocaties noodzakelijk zijn. Deze werkzaamheden worden verrekend tegen het in de
+kostenspecificatie opgenomen verrekentarief.
+Uitzetten en waterpassen
+De definitief te onderzoeken locaties zullen op basis van
+toegankelijkheid voor het aangeboden
+equipment alsmede de aanwezige ondergrondse infrastructuur (KLIC) door ons worden vastgelegd.
+De locaties van de onderzoekspunten (RDX, RDY) en de hoogte van het maaiveld (meters ten
+opzichte van NAP) worden vastgesteld door middel van een GPS-meting (06-GPS).
+Sonderen
+Ten behoeve van de uitvoering heeft zowel 6x6 bandenwagens als speciale voertuigen
+beschikbaar. De speciale voertuigen, zoals track-trucks, rupsvoertuigen en mini-rupsvoertuigen, zijn
+geschikt voor slecht berijdbare of beperkt toegankelijke locaties.
+(geanonimiseerd)
+Vanwege beperkte toegankelijkheid en/of om schade aan het perceel te beperken, moet het
+grondonderzoek rondom het pand worden uitgevoerd met compact sondeerequipement (mini-
+sondeerrups). De mini-sondeerrups wordt om
+op diepte te kunnen komen met grondankers in de
+bodem verankerd.
+De inpandige sondering wordt uitgevoerd met een demontabel sondeerapparaat. De totaaldruk kan
+maximaal 150 kN zijn en zal afhangen van de beschikbare tegendruk, die door verankering aan een
+vloer (of wand) met vier grondboren wordt verkregen. Ondanks een
+zorgvuldige werkwijze is
+geringe (visuele) schade door het aanbrengen van keilbouten (gaten) en door de krachtsoverdracht
+tijdens sonderen (scheurvorming) niet in alle gevallen te voorkomen. Werkzaamheden en kosten
+voor herstel zijn niet in de prijs inbegrepen. is niet aansprakelijk voor de hierdoor eventueel
+ontstane gevolgschade aan de bestaande vloerverwarming en
+overige K&L in beheer van de
+opdrachtegever.
+(geanonimiseerd)
+Om de bodemopbouw goed te kunnen interpreteren worden de sonderingen standaard uitgevoerd
+met meting van de plaatselijke wrijving. Met behulp van het wrijvingsgetal (verhouding
+wrijving/conusweerstand in
+procenten) wordt goed inzicht verkregen in de aard van de verschillende
+bodemlagen. Dit is van
+belang voor het analyseren en berekenen van de draagkracht en het
+vervormingsgedrag van de bodem.
+De sonderingen worden uitgevoerd conform de vigerende richtlijnen en NEN-EN-ISO-22476-
+1:2012/C1:2013, applicatieklasse 2. Eventuele afwijkingen van de verticaal van de sondeerstreng
+worden gecontroleerd met behulp van een in de conus ingebouwde hellingmeter.
+Pagina 3 van 7
+(geanonimiseerd)
+De sonderingen worden standaard uitgevoerd met conussen die worden geproduceerd en
+gekalibreerd in ons conuslaboratorium dat door de Raad voor Accreditatie onder ISO/IEC
+17025:2017 (K 167) is geaccrediteerd.
+Tijdens het onderzoek zal, indien mogelijk, de actuele grondwaterstand worden gepeild. Deze
+grondwaterstand is een momentopname en dient als indicatief gegeven.
+Als de gewenste einddiepte niet wordt behaald door ontoelaatbare risico's, obstakels in de bodem
+of door het bereiken van de maximaal toelaatbare capaciteit van het materieel zal de sondering
+worden gestaakt en volledig in rekening worden gebracht.
+Rapportage
+De levering van het project omvat de volgende items:
+= _Veldwerkrapportage in PDF-formaat;
+m _Sondeergrafieken in PDF-formaat en desgewenst in GEF.
+Kwaliteit en veiligheid
+Uitvoering van de werkzaamheden vindt plaats op basis van de voor het werk relevante wet- en
+regelgeving, normeringen, veiligheids-en milieueisen en het Integrated Management System (IMS)
+van dat voldoet aan ISO 9001:2015 —
+Kwaliteitsmanagement; ISO 27001:2013 Information
+Security, ISO 45001:2018 Veiligheidsmanagementsysteem, VCA
+**
+2017/6.0- Veiligheid Checklist
+Aannemers; Veiligheidsladder (v4.0, Trede 3), ISO 14001:2015 Milieumanagementsysteem, CO2
+Bewust Certificaat (v3.0, Niveau 5) en standaard met betrekking tot projectmanagement.
+(geanonimiseerd)
+(geanonimiseerd)
+Om de CO2 footprint bij de uitvoering van
+geotechnisch onderzoek te reduceren maakt
+gebruik van HVO100 (Hydrotreated Vegetable Oil) in alle mini sondeer- en
+boorrupsen. Waar
+mogelijk wordt dit ook toegepast in zware sondeervoertuigen. HVO is een vloeibare brandstof
+gemaakt van plantaardige afvaloliën en is biologisch afbreekbaar. Door de toepassing van HVO100
+wordt een CO2 reductie bereikt van 89% ten opzichte van traditionele brandstof (diesel); daarnaast
+wordt de uitstoot van roet en
+fijnstof significant verminderd. Inmiddels kan met 1 mini-sondeerrups
+en 1 boorunit volledig elektrisch worden gesondeerd respectievelijk geboord.
+(geanonimiseerd)
+Projectorganisatie en communicatie
+Voor dit project treedt GE 7 E
+op «is
+(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)
+projectmanager en contactpersoon voor de opdrachtgever.
+De projectmanager van
+fungeert als het eerste aanspreekpunt voor de opdrachtgever. De
+projectmanager neemt een initiërende rol aan en is verantwoordelijk voor een
+tijdige communicatie
+naar de opdrachtgever over de uitvoering, eventuele afwijkingen op de opdracht en
+voortgang van
+de werkzaamheden.
+(geanonimiseerd)
+Pagina 4 van 7
+(geanonimiseerd)
+Financiële aanbieding
+De totale kosten voor
+uitvoering van de omschreven werkzaamheden worden geraamd op €
+exc. BTW. De opbouw van de begroting en verrekentarieven zijn gespecificeerd in de
+bijlage “Kostenspecificatie”.
+(geanonimiseerd)
+Facturatie vindt plaats op basis van werkelijk uitgevoerde werkzaamheden, aantallen en geleverde
+diensten. De genoemde tarieven voor het geotechnisch advies gelden uitsluitend voor de
+gecombineerde uitvoering van het geotechnische veldwerk en
+geotechnisch advies.
+Eventuele aanvullende werkzaamheden, besprekingen (inclusief reistijd) en diensten zullen worden
+verrekend volgens de in de bijlage kostenspecificatie vermelde eenheidsprijzen of voor een af te
+spreken budget.
+Wij behouden ons het recht voor veldwerk direct na uitvoering te factureren en langlopende
+opdrachten in meerdere termijnen.
+Voorwaarden
+Voor uitvoering van werkzaamheden worden de volgende commerciële voorwaarden gehanteerd:
+= Deze aanbieding is geldig tot 30 dagen na dagtekening;
+= De werkzaamheden worden uitgevoerd onder de vigerende algemene leveringsvoorwaarden
+(ALV 2023). Een exemplaar van de ALV 2023 is toegevoegd. Toepasselijkheid van eventueel door
+u gehanteerde voorwaarden wordt uitdrukkelijk van de hand gewezen.
+=
+_ Alle in deze aanbieding genoemde bedragen zijn exclusief BTW;
+= De betalingstermijn bedraagt 30 dagen na
+dagtekening van de factuur.
+= De opdrachtgever draagt zorg voor eventuele benodigde (werk)vergunningen en/of
+toestemming om het veldwerk te kunnen uitvoeren. Eventuele kosten voor leges, gemeentelijke
+heffingen en milieubelastingen om de werkzaamheden te kunnen uitvoeren zijn niet begroot.
+= Indien werkzaamheden geheel of gedeeltelijk komen te vervallen of worden uitgesteld zullen
+eventueel gemaakte kosten in rekening gebracht worden.
+= De opdrachtgever dient ons voor
+uitvoering te informeren over
+mogelijke verontreinigingen
+mogelijke andere veiligheids- of gezondheidsrisico's voor ons personeel of materieel en
+relevante omgevingsaspecten (bijvoorbeeld Natura2000, flora en fauna, OOO (NGE),
+grondwater beschermingsgebieden en
+boringsvrije zones e.d.). Er is geen rekening gehouden
+met eventueel hieruit volgende meerkosten;
+m Tarieven gaan uit van werkzaamheden ma-vr overdag. Verrekening van dagtarieven per hele
+dag, uurtarieven per heel uur.
+= _De planning van de werkzaamheden wordt in overleg met de opdrachtgever vastgesteld. Indien
+ingeplande werkzaamheden binnen 24 uur voorafgaande aan de start van de uitvoering door
+de opdrachtgever worden geannuleerd, zullen stand-still kosten in rekening worden gebracht
+indien personeel en/of equipement niet elders kunnen worden ingezet.
+Pagina 5 van 7
+(geanonimiseerd)
+Indien u
+overgaat tot het verstrekken van de opdracht, verzoeken wij u een
+kopie van deze offerte
+ondertekend te retourneren. Voor een correcte tenaamstelling van de opdracht verzoeken wij u om
+dejuiste gegevens van de debiteur te vermelden.
+Wij willen dit project graag voor u
+verzorgen en zien uit naar een positieve reactie. Met
+ondergetekende projectmanager van dit project kan contact worden opgenomen voor eventuele
+vragen, de opdrachtverstrekking en verdere afhandeling van deze aanbieding.
+Met vriendelijke groet, Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijlagen: -
+Opdrachtbevestiging
+-
+Kostenspecificatie
+-
+ALV 2023
+Pagina 6 van 7
+(geanonimiseerd)
+Opdrachtbevestiging
+Indien u tot opdrachtverlening voor de opdracht overgaat, vragen wij u deze bijlage te
+ondertekenen en
+per e-mail te verzenden naar
+(geanonimiseerd)
+Door ondertekening verklaart de opdrachtgever zich onverkort akkoord met de door
+uitgebrachte aanbieding.
+Ingeval de tenaamstelling van de factuur anders is dan diegene die de opdracht verstrekt, verzoeken
+wij dat bij opdrachtverlening door te geven. Tevens dient de routing voor het versturen van de
+factuur hierbij te worden aangegeven.
+Tabel 1: Debiteurgegevens
+Referentie 6424-267101.001
+(geanonimiseerd)
+Referentie Opdrachtgever
+Kosten € (exclusief btw)
+(geanonimiseerd)
+Bedrijfsnaam conform Kamer van Koophandel
+Inschrijvingsnummer Kamer van Koophandel
+BTW nummer
+Factuuradres per e-mail
+E-mail adres herinnering
+Factuuradres per post
+Postcode en plaatsnaam
+Contactpersoon
+Telefoonnummer contactpersoon
+E-mail contactpersoon
+Datum
+Pagina 7 van 7
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Grondonderzoek
+6424-264101 Plaats :
+Groningen
+Betreft : Scheurvorming Haven 4 te Coevorden Datum : 24/feb/2025
+Behandeld door :
+Totaal bedrag (excl. BTW) : €
+Referentie klant :
+-
+Beschrijving Diepte |Aantal | Eenheid |Aantal| Eenheid Eenheidsprijs Prijs
+(m)
+Grondonderzoek
+Voorbereiding en project management
+Project Management 1 project € €
+Werkvoorbereiding 1 project € €
+Terreinverkenning 1 project € €
+KLIC
+melding (max. 500*500 m) 1 melding € €
+Totaal Voorbereiding en
+project management €
+Geodesie
+Vaste kosten inmeten onderzoekspunt 1 project € €
+Inmeten onderzoekspunt (NAP/RD) 7 Punten € €
+Totaal Geodesie €
+Sonderen
+Mob-/Demob Minisondeerrups 1 projectfase € €
+Sondering tot 15 m diepte 15 3 sondering € €
+Extra kosten minirups per locatie 3 keer € €
+Demontabel apparaat incl. personeel 3 dag € €
+Totaal Sonderen €
+Totaal €
+(geanonimiseerd)
+(geanonimiseerd)
+Verrekentarieven
+Voorboren (max. 2,0m)
+Wachturen buiten schuld (geanonimiseerd) per ploeg/uur
+11
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Artikel 1 -
+Toepasselijkheid
+11_Deze voorwaarden zijn van toepassing op alle aanbiedingen, opdrachten en overeenkomsten en de
+daaruit voortvloeiende werkzaamheden en diensten (waaronder ook aanvullende werkzaamheden en
+meerwerk), goederen, resultaten, adviezen en detacheringen van medewerkers (de Prestatie) door
+mei (Opdrachtnemer). Tenzij uitdrukkelijk en schriftelijk anders overeengekomen, wordt
+le toepasselijkheid van de algemene voorwaarden van de
+partij aan wie een aanbieding van
+Opdrachtnemer is gericht (Opdrachtgever) hierbij nadrukkelijk van de hand gewezen.
+1.2 _In het geval deze voorwaarden in een andere taal ter beschikking zijn gesteld en er een geschil over
+uitleg ontstaat, gaat de Nederlandse tekst voor op de tekst in de andere taal
+(geanonimiseerd)
+Artikel 2 -
+Aanbieding en Overeenkomst
+2.1 _Een aanbieding van Opdrachtnemer is 30 werkdagen vanaf de datum van de aanbieding geldig. De
+aanbieding vervalt bij afloop van deze termijn. Een aanbieding moet als één geheel worden beschouwd
+en is gebaseerd op informatie die door Opdrachtgever is verstrekt
+en op de ten tijde van het uitbrengen
+van de aanbieding geldende wet- en regelgeving, tenzij hiervan uitdrukkelijk is afgeweken in de
+aanbieding.
+22 Een aanbieding wordt door Opdrachtgever aanvaard door een schriftelijke (per e-mail of post)
+aanvaarding of opdrachtbevestiging aan Opdrachtnemer, door het doen van een betaling door
+Opdrachtgever of door Opdrachtnemer instructies te geven om het werk aan te vangen, afhankelijk
+van welk moment zich eerder voordoet.
+23 Een overeenkomst komt tot stand op het moment van aanvaarding van een aanbieding door
+Opdrachtgever in
+overeenstemming met artikel 22 (de Overeenkomst). Van de inhoud van een
+overeenkomst (waaronder deze algemene voorwaarden) kan alleen worden afgeweken voor zover dit
+nadrukkelijk en schriftelijk tussen Opdrachtnemer en Opdrachtgever is overeengekomen. De
+onderdelen van de Overeenkomst waarvan niet nadrukkelijk en schriftelijk wordt afgeweken blijven
+onverkort van kracht.
+24
+__ Opdrachtnemer mag een aanbieding te allen tijde vóór aanvaarding in overeenstemming met artikel
+2.2 herroepen door een schriftelijke mededeling aan Opdrachtgever.
+Artikel 3 -
+De Prestatie
+Opdrachtnemer levert aan Opdrachtgever de Prestatie zoals omschreven in de Overeenkomst. Alle
+werkzaamheden die ten behoeve van de Prestatie door Opdrachtnemer worden geleverd en niet zijn
+omschreven in de Overeenkomst, zullen worden beschouwd als bijkomende werkzaamheden en zullen in
+overeenstemming met de Overeenkomst in rekening worden gebracht.
+Artikel 4 -
+Prijs
+41_De door Opdrachtnemer opgegeven of tussen partijen overeengekomen prijzen luiden in euro
+tenzij
+anders overeengekomen in de Overeenkomst. Prijzen zijn exclusief belasting en heffingen. De kosten
+van extra rapportage, opslag, emballage en verzending van fysieke gegevensdragers, goederen of
+monsters zijn voor rekening van Opdrachtgever.
+42 _De door Opdrachtnemer gehanteerde tarieven worden jaarlijks aan het begin van het kalenderjaar
+vastgesteld.
+4.3 __Indien de looptijd van een Overeenkomst langer is dan zes maanden, heeft Opdrachtnemer het recht
+prijzen tussentijds, en voor de eerste keer na afloop van de eerste zes maanden, te verhogen op basis
+van stijgingen van een of meer kostprijsbestanddelen (waaronder onder meer materialen, goederen,
+energie, transport
+en lonen) van meer dan 2,5% en op basis van de dan geldende CBS index Zakelijke
+Dienstverlening.
+44
+_ Opdrachtgever en Opdrachtnemer treden in overleg indien sprake is van mogelijke kostenstijgingen
+of vertragingen als gevolg van adviezen of maatregelen van overheidswege of onverwachte
+(marktomstandigheden (ongeacht aard en omvang). Opdrachtnemer en Opdrachtgever zullen zich
+inspannen om de gevolgen van dergelijke omstandigheden zoveel als mogelijk te beperken. Wanneer
+Opdrachtgever en Opdrachtnemer uiterlijk binnen twee weken na een eerste verzoek tot overleg geen
+overeenstemming bereiken over de kostenstijgingen of vertragingen, is Opdrachtnemer gerechtigd
+om, voorzien van een onderbouwing, redelijke meerkosten aan Opdrachtgever in rekening te brengen
+en de termijn voor het uitvoeren van de Overeenkomst met een redelijke termijn te verlengen.
+4.5
+__ In het geval er na het aangaan van de Overeenkomst nieuwe of gewijzigde wetgeving, regelgeving of
+interpretatie daarvan, van kracht wordt die invloed heeft op de kosten van
+uitvoering van de Prestatie
+(waaronder (onder meer) de kosten voor inkoop van personeel, diensten, grondstoffen of goederen)
+door Opdrachtnemer, heeft Opdrachtnemer het recht deze kosten volledig in rekening te brengen aan
+Opdrachtgever.
+Artikel 5 —
+(Op)leveringstijd of termijnen
+5.1 _In de Overeenkomst vastgelegde (op)leveringstijden of
+termijnen hebben niet de strekking fataal te
+zijn, tenzij dit uitdrukkelijk bij de betreffende tijd of termijn is vermeld.
+5.2 _Bij een overschrijding van een (op)leveringstijd of
+termijn zal steeds een schriftelijke ingebrekestelling
+noodzakelijk zijn waarin Opdrachtgever aan Opdrachtnemer een redelijke termijn biedt om de Prestatie
+alsnog te leveren.
+53
+_ (Op)leveringstijden of termijnen worden verlengd met de duur van werkonderbrekingen of andere
+vertragingen als bedoeld in artikel 10.
+el 6 —
+Resultaten en rapporten
+Voor zover de Prestatie uit (onderzoeks)resultaten of rapporten bestaat, levert Opdrachtnemer de
+Prestatie digitaal in PDF-formaat of via portals. Verzending van fysieke gegevensdragers, goederen of
+monsters geschiedt voor risico van Opdrachtgever.
+62
+_ Opdrachtnemer heeft geen verplichting om een Prestatie (waaronder monsters of andere (tussentijdse)
+gegevens) te bewaren nadat deze door Opdrachtnemer aan Opdrachtgever zijn verstrekt of nadat de
+laatste factuur onder de Overeenkomst is betaald, tenzij uitdrukkelijk en schriftelijk anders
+overeengekomen.
+63
+_ Eigendom van een Prestatie gaat enkel over op Opdrachtgever
+op het moment dat volledige betaling
+voor de Prestatie door Opdrachtnemer is ontvangen. Tot dit moment zal Opdrachtgever de Prestatie
+niet gebruiken en, onverminderd overige rechten van Opdrachtnemer, op eerste verzoek aan
+Opdrachtnemer verstrekken.
+64
+_ Opdrachtnemer is gerechtigd onderzoek- en meetgegevens, zowel verwerkt als onverwerkt, toe te
+voegen aan een in eigen beheer ontwikkelde databank en te gebruiken ten behoeve van de eigen
+bedrijfsuitvoering.
+65
+_ Voor zover partijen uitdrukkelijk en schriftelijk zijn overeengekomen dat Opdrachtgever het recht heeft
+de Prestatie goed te keuren, wordt een Prestatie geacht door Opdrachtgever te zijn goedgekeurd tien
+dagen na de datum van levering van de Prestatie of van mededeling door Opdrachtnemer aan
+Opdrachtgever dat de Prestatie is afgerond, of de datum van betaling van de factuur voor de
+betreffende Prestatie, afhankelijk van welk moment zich eerder voordoet.
+el 7 -—
+Interpretatie en gebruik van de Prestatie
+Opdrachtgever zal een Prestatie alleen gebruiken voor het doel en binnen het kader van de doelstelling
+waarvoor deze onder de Overeenkomst is verstrekt.
+7.2_Opdrachtnemer staat niet in voor (de juistheid van) interpretaties of gebruik van een Prestatie door
+Opdrachtgever of een derde.
+7.3 Opdrachtgever mag een Prestatie enkel aan derden ter beschikking stellen indien dit uitdrukkelijk en
+schriftelijk met Opdrachtnemer is overeengekomen
+el 8 -
+Aanleveren van gegevens; Vergunningen; Toegang tot locatie
+Opdrachtgever informeert Opdrachtnemer voor het aangaan van een Overeenkomst en bij iedere
+wijziging na het aangaan van de Overeenkomst, over alle risico's op of ten aanzien van de locatie
+(waaronder (zonder beperking) op het gebied van veiligheid, gezondheid en milieu), zoals de
+aanwezigheid van ondergrondse of bovengrondse objecten, verontreinigingen, puin, funderingen en
+explosieven, die relevant zijn voor de
+uitvoering van de Prestatie en alle andere informatie die in
+overeenstemming met de aanbieding of die naar het oordeel van Opdrachtgever relevant zijn voor de
+Algemene leveringsvoorwaarden (ALV 2023) | 11 december 2023
+Pagina 1 van 2
+Algemene leveringsvoorwaarden
+uitvoering van de Overeenkomst. Hieronder vallen onder meer de locatie van de ten tijde van de
+uitvoering van de Overeenkomst op de werklocatie aanwezige kabels en leidingen en de vergunningen
+en
+toestemmingen die nodig zijn voor de
+uitvoering van de Overeenkomst. De door Opdrachtgever
+verstrekte informatie is juist, volledig en up to date.
+82
+_ Tenzij voor
+zover uitdrukkelijk en schriftelijk anders overeengekomen, draagt Opdrachtnemer zorg voor
+de geldige en benodigde informatie met betrekking tot de Klic-melding in het kader van de Wet
+Informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (WIBON)
+83
+_ Opdrachtgever stelt de werklocatie tijdig aan Opdrachtnemer beschikbaar op zodanige wijze dat de
+werkzaamheden ongestoord en aanééngesloten kunnen worden uitgevoerd
+84
+__ Tenzij voor zover uitdrukkelijk en schriftelijk anders overeengekomen, draagt Opdrachtgever zorg voor
+het tijdig verkrijgen en behouden van alle
+toestemmingen en vergunningen die nodig zijn voor de te
+leveren Prestatie, waaronder (onder meer) toestemming voor het gebruik van de toegangswegen naar
+de werklocatie.
+85
+_ Alle kosten die zijn verbonden aan de hiervoor bedoelde verplichtingen van Opdrachtgever zijn voor
+rekening van Opdrachtgever.
+Artikel 9 -
+Veiligheid, Gezondheid, Milieu (VGM)
+91
+_ Voor zover Opdrachtnemer werk op locatie uitvoert, staat Opdrachtgever garant voor een veilige en
+gezonde werkomgeving en zorgt Opdrachtgever ervoor dat medewerkers van Opdrachtnemer voor
+aanvang van de werkzaamheden de vereiste veiligheidsinstructies krijgen.
+9.2
+__ Opdrachtnemer heeft het recht om de werkzaamheden onder de Overeenkomst op te schorten of de
+Overeenkomst te beëindigen indien naar zijn oordeel de veiligheid van medewerkers niet
+gegarandeerd kan worden of mogelijk in het geding zal zijn, onverminderd de betalingsverplichtingen
+van Opdrachtgever. Alle gemaakte kosten voor opheffing van de opschorting en hervatting van de
+werkzaamheden zijn voor rekening van Opdrachtgever.
+Artikel 10 -
+Wijzigingen in de uitvoering van de Prestatie
+Voor zover sprake is van wijzigingen in de uitvoering van de Prestatie, werkonderbreking, vertraging of een
+latere startdatum voor het uitvoeren van de Prestatie dan overeengekomen als gevolg van omstandigheden
+die niet aan Opdrachtnemer toe te rekenen zijn, brengt Opdrachtnemer de wachttijd of niet-gewerkte tijd en
+eventuele (meer)kosten en schade (waaronder (onder meer) kosten voor het
+opnieuw uitzetten van verloren
+gegane piketten, (her)plaatsen van peilbuizen, opnieuw inwinnen van data, extra transport of opslag, schade
+aan materieel of apparatuur van Opdrachtnemer of door Opdrachtnemer ingeschakelde derden en boetes)
+in rekening -
+voor zover van toepassing -
+tegen de geldende tarieven. Onder omstandigheden die niet aan
+Opdrachtnemer toe te rekenen zijn vallen onder meer weersomstandigheden, het werk van derden,
+beperkingen in de toegankelijkheid of berijdbaarheid van de werklocatie (met daarvoor gebruikelijk
+materieel), hindernissen en andere omstandigheden genoemd in artikel 11, alsmede omstandigheden die toe
+te rekening zijn aan Opdrachtgever (zoals (maar niet beperkt tot) het niet voldoen aan de verplichtingen in
+artikel 8 en 9)
+Artikel 11 -
+Hindernissen en andere omstandigheden
+11.1 Indien tijdens het uitvoeren van de Prestatie blijkt dat boven, op of in de bodem hindernissen of andere
+omstandigheden voorkomen als stenen, steenlagen, hout, kabels, leidingen, over-/onderspannen
+water, bodemgassen en dergelijke, heeft Opdrachtnemer het recht het onderzoekpunt te verlaten en
+in de onmiddellijke nabijheid de werkzaamheden opnieuw uit te voeren,
+11.2 Indien tijdens de
+uitvoering van de boringen of sonderingen gevaar voor schade aan of verlies van
+meetapparatuur ontstaat voordat de overeengekomen diepte is bereikt, wordt het onderzoek als
+voltooid beschouwd en in rekening gebracht tegen de overeengekomen tarieven
+11.3 Schade aan kabels, leidingen, folies en bestrating is geheel voor rekening van Opdrachtgever, tenzij de
+aanwezigheid en precieze locatie van zulke kabels, leidingen, folies en bestrating ter plaatse van de
+onderzoekpunten vooraf duidelijk aan Opdrachtnemer zijn kenbaar
+gemaakt
+Artikel 12 -
+Personeel Opdrachtnemer
+12.1 Opdrachtgever zal in de periode van
+uitvoering van de Overeenkomst en binnen een
+jaar na afloop
+ervan, geen medewerkers die bij Opdrachtnemer in dienst zijn of die
+belast zijn met het uitvoeren van
+de Overeenkomst, in dienst nemen of benaderen met het oog op het in dienst nemen op straffe van
+een boete van een bruto jaarsalaris van de betreffende werknemer, onverminderd het recht van
+Opdrachtnemer om de daadwerkelijk geleden schade te verhalen
+122 Indien Opdrachtnemer personeel dat wordt ingezet onder de Overeenkomst wisselt en die wisseling
+invloed heeft op de Prestatie, zal Opdrachtnemer overleg voeren met Opdrachtgever, en ervoor zorgen
+dat de gevolgen op de Prestatie worden beperkt.
+Artikel 13 -
+Toezichthoudende werkzaamheden
+131 Indien Opdrachtnemer directie voert of toezicht houdt
+op de uitvoering van een werk door een derde,
+handelt de door Opdrachtnemer beschikbaar gestelde toezichthouder (de Toezichthouder) namens,
+onder verantwoordelijkheid en in opdracht van Opdrachtgever.
+132 Opdrachtgever verstrekt de Toezichthouder tijdig alle informatie en instructies om de Prestatie naar
+behoren te kunnen uitvoeren.
+133 Indien uit de
+rapportage van de Toezichthouder blijkt dat tijdens de werkzaamheden wordt afgeweken
+van de door Opdrachtgever verstrekte instructies of van de geldende bouwvoorschriften, zal
+Opdrachtgever maatregelen treffen om deze instructies of voorschriften te wijzigen dan wel de uit te
+voeren werkzaamheden daarmee in
+overeenstemming brengen. Indien Opdrachtgever niet voldoet
+aan het hierboven gestelde, heeft Opdrachtnemer het recht het toezichthoudend personeel van het
+betreffende project terug te trekken zonder enige aansprakelijkheid jegens Opdrachtgever.
+Opdrachtnemer zal in dat geval schriftelijk aan Opdrachtgever mededelen dat de werkzaamheden
+worden beëindigd met opgave van de redenen, en behoudt het recht om de niet gewerkte dagen aan
+Opdrachtgever in rekening te brengen.
+134 Opdrachtgever zorgt voor een onderkomen —
+bijvoorbeeld directiekeet —
+op de werklocatie met
+gerelateerde faciliteiten (zoals internet internet, telefoon, kopieer- en printfaciliteiten) voor het voeren
+van administratie, en met sanitaire en koffie/thee voorzieningen.
+135 Indien de Toezichthouder geen dagelijks toezicht houdt, is Opdrachtnemer niet aansprakelijk voor
+schade in de perioden of ten gevolge van werk of omstandigheden in de perioden waarin
+Opdrachtnemer dit toezicht niet daadwerkelijk heeft gehouden
+Artikel 14 —
+Facturering en Betaling
+141 Tenzij uitdrukkelijk en schriftelijk anders overeengekomen, is Opdrachtnemer gerechtigd voor of bij
+aanvang van de Overeenkomst, minimaal 25% van de totale opdrachtsom onder de Overeenkomst als
+vooruitbetaling in rekening te brengen.
+142 Opdrachtnemer heeft het recht om Opdrachtgever maandelijks voor de Prestatie te factureren. De
+eindfactuur zal bij oplevering van de Presentatie worden ingediend. Opdrachtnemer heeft het recht
+facturen digitaal in te dienen.
+14.3 Opdrachtgever zal de facturen van Opdrachtnemer binnen 30 dagen vanaf de datum van de factuur
+volledig voldoen. Alle in verband met de Presentatie geheven omzetbelasting is voor rekening van
+Opdrachtgever.
+144 Bij overschrijding van de betalingstermijn is Opdrachtgever, zonder voorafgaande aanmaning of
+ingebrekestelling, in verzuim en heeft Opdrachtnemer, onverminderd overige rechten, het recht rente
+in rekening te brengen van 8% per maand of gedeelte van een maand vanaf de eerste dag van de
+overschrijding tot de dag dat het volledig uitstaande bedrag is voldaan. Gerechtelijke en
+buitengerechtelijke kosten —
+welke laatste met een minimum van € 100,- of 15 % van het totaal
+verschuldigde bedrag —
+die vallen op de inning van niet of niet tijdig betaalde bedragen, zijn voor
+rekening van Opdrachtgever. Voor consumenten wordt aangesloten bij de Wet Incassokosten en het
+daarbij behorende besluit.
+145 Indien Opdrachtgever de juistheid van een factuur (of een deel daarvan) betwist, is hij niettemin
+gehouden tot tijdig betalen van het niet-betwiste deel. Indien Opdrachtgever een factuur niet
+schriftelijk en binnen de betalingstermijn betwist, wordt de factuur geacht te zijn aanvaard. Indien het
+(geanonimiseerd)
+(geanonimiseerd)
+betwiste bedrag van een factuur alsnog verschuldigd blijkt, dan wordt de door Opdrachtgever
+verschuldigde rente berekend vanaf de dag waarop de betaling uiterlijk had moeten plaatsvinden
+146 Voor zover Opdrachtnemer en Opdrachtgever overeenkomen dat Opdrachtnemer factureert na
+goedkeuring door Opdrachtgever van kosten of urenspecificaties, worden door Opdrachtnemer aan
+Opdrachtgever verzonden kosten- en urenspecificaties geacht door Opdrachtgever te zijn
+goedgekeurd 5 werkdagen na de verzenddatum, tenzij Opdrachtgever Opdrachtnemer schriftelijk en
+uitdrukkelijk het tegendeel heeft bericht.
+147_Indien Opdrachtnemer op basis van de financiële
+positie of het betalingsgedrag van Opdrachtgever
+goede grond heeft te vrezen dat Opdrachtgever verplichtingen niet zal nakomen, heeft Opdrachtnemer
+het recht, voor het overgaan tot levering of voortzetting van de Prestatie, naar het oordeel van
+Opdrachtnemer genoegzame zekerheid voor het nakomen van betalingsverplichtingen van
+Opdrachtgever te verlangen.
+148 Het recht van Opdrachtgever op schadevergoeding vermindert niet diens betalingsverplichtingen
+onder de Overeenkomst. Opdrachtgever zal geen bedragen die verschuldigd zijn aan Opdrachtnemer
+verrekenen met vorderingen op Opdrachtnemer of gelieerde ondernemingen uit welke hoofde dan
+ook.
+Artikel 15 -
+Overmacht
+151_Onder overmacht wordt in deze voorwaarden verstaan elke omstandigheid die de partij die de
+overmacht
+inroept niet kan worden toegerekend, ook al was deze ten tijde van het sluiten van de
+Overeenkomst reeds te voorzien, en die de nakoming van de Overeenkomst blijvend of tijdelijk
+verhindert, zoals (maar niet beperkt tot): (i) (dreigende) oorlog of onlusten, (i) pandemieën of
+epidemieën, (ii) overstromingen, brand, rampen of extreme weersomstandigheden, (iv) belemmerende
+maatregelen van binnen- of buitenlandse overheidsinstanties, (v) sabotage of werkstakingen, (vi)
+transportmoeilijkheden, (vii) cyberstoringen of andere
+storingen in door Opdrachtnemer ter uitvoering
+van de verleende opdracht gebruikte apparatuur, ondanks door Opdrachtnemer in redelijkheid
+getroffen passende maatregelen ter voorkoming van dergelijke storingen, (vii) tekortkomingen van
+derden met betrekking tot door Opdrachtnemer ter zake van de Overeenkomst met deze derden
+gesloten overeenkomsten die in redelijkheid niet geacht kunnen worden voor risico van
+Opdrachtnemer te komen, en (») zodanige wijzigingen in de omstandigheden dat (verdere) nakoming
+van de verplichting van Opdrachtnemer zo bezwaarlijk wordt dat deze in redelijkheid. niet van
+Opdrachtnemer kan worden verlangd.
+152 In geval de uitvoering van de Overeenkomst ten gevolge van overmacht 14 dagen aaneengesloten
+wordt verhinderd, heeft Opdrachtnemer het recht om zonder rechterlijke tussenkomst, de uitvoering
+van de Overeenkomst op te schorten, of de Overeenkomst geheel of ten dele te ontbinden of te
+beëindigen, zonder dat Opdrachtnemer tot enige schadevergoeding gehouden is en waarbij
+Opdrachtgever gehouden blijft te betalen voor dat gedeelte van de Overeenkomst dat reeds is
+uitgevoerd of geleverd
+el 16 -
+Beperking van aansprake!
+De aansprakelijkheid van Opdrachtnemer in verband met een Overeenkomst is beperkt tot maximaal
+de hoogte van de opdrachtsom (exclusief omzetbelasting) onder de Overeenkomst. Voor
+Overeenkomsten met een waarde van meer dan EUR 1 miljoen, is de aansprakelijkheid van
+Opdrachtnemer onder een Overeenkomst beperkt tot maximaal EUR 1 miljoen. Indien sprake is van
+een deelovereenkomst of wijzigingsovereenkomst, is de aansprakelijkheid van Opdrachtnemer beperkt
+tot maximaal de hoogte van de opdrachtsom (exclusief omzetbelasting) van de deelovereenkomst of
+wijzigingsovereenkomst.
+162 Onverminderd overige bepalingen in deze voorwaarden en zonder beperkende werking, is
+Opdrachtnemer niet aansprakelijk voor schade die het gevolg is van:
+(@)_ het niet tijdig verstrekken van, of het verstrekken van onjuiste, onvolledige, gegevens of
+informatie door Opdrachtgever, of anderszins het handelen of nalaten van Opdrachtgever of van
+een derde die door Opdrachtgever is ingezet;
+(b) werkzaamheden van werknemers van Opdrachtnemer die de betreffende werkzaamheden
+uitvoeren onder directie van Opdrachtgever of van door Opdrachtgever aangewezen derden;
+(Q__ het achterblijven in de bodem van bij de uitvoering van de Overeenkomst gebruikte materialen
+en apparatuur;
+(d)__ het bereiken van de onderzoekspunten, zoals (maar niet beperkt tot) spoorvorming;
+(@)__ gebruik of interpretaties die Opdrachtgever of een derde verbindt aan een door Opdrachtnemer
+geleverde Prestatie;
+()__omstandigheden zoals bedoeld in artikel 11;
+(9)__ het vrijkomen van vloeibare of gasvormige stoffen of verontreinigingen.
+163 Opdrachtnemer is niet aansprakelijk voor geleden verlies of gederfde winst of omzet, bedrijfsschade,
+productieverlies, verlies of kosten ten gevolge van niet gebruiken van faciliteiten of andere activa,
+vertragingsschade, waardevermindering, immateriële of andere zuivere vermogensschade, ongeacht
+of deze schade een direct or voorzienbaar gevolg is van de omstandigheid waardoor de schade is
+ontstaan is.
+164 Opdrachtnemer is niet aansprakelijk voor schade die naar normaal gebruik in de branche behoort te
+worden gedekt door een door Opdrachtgever of aannemer te sluiten verzekering.
+165 Elke aansprakelijkheid van Opdrachtnemer vervalt na verloop van 5 jaar vanaf de datum van de
+eindfactuur uit hoofde van de Overeenkomst, dan wel afronding van de Prestatie onder de
+Overeenkomst, afhankelijk van welk moment zich eerder voordoet.
+166 De in dit artikel 16 opgenomen beperkingen en uitsluitingen gelden niet voor zover de schade het
+gevolg is van opzet of grove schuld van Opdrachtnemer of van zijn leidinggevende ondergeschikten
+of indien een beperking of uitsluiting anderszins in strijd is met dwingend recht.
+167 Opdrachtgever vrijwaart Opdrachtnemer en de voor de
+uitvoering van de Overeenkomst door
+Opdrachtnemer ingezette medewerkers voor aanspraken van derden, voor zover de grondslag voor
+deze aanspraken niet aan Opdrachtnemer kunnen worden toegerekend.
+Artikel 17 -
+Verzekering
+Opdrachtgever sluit bij aanneming van werk een CAR- of andere adequate verzekering af. In deze verzekering
+zullen tevens Opdrachtnemer, onderaannemers en derden als (mede-verzekerde(n) worden opgenomen.
+Indien Opdrachtgever geen adequate verzekering afsluit en dit niet voorafgaand aan de totstandkoming van
+de Overeenkomst meldt aan Opdrachtnemer, is Opdrachtgever aansprakelijk voor de gevolgen van het niet
+afsluiten van die verzekering.
+Artikel 18 —
+Intellectueel eigendom
+181 Opdrachtnemer behoudt en verkrijgt alle rechten van intellectuele eigendom, alsmede alle soortgelijke
+rechten ter bescherming van informatie, ten aanzien van door hem vervaardigde producten,
+gegenereerde resultaten en gegevens die voortvloeien uit de uitvoering van de Overeenkomst.
+182 Voor zover een Prestatie (mede) tot stand komt door gebruikmaking van reeds bestaande, aan
+Opdrachtgever toekomende intellectuele eigendomsrechten, verkrijgt Opdrachtnemer een niet-
+exclusief, niet opzegbaar en sub-licentieerbaar gebruiksrecht van onbepaalde duur op de door
+Opdrachtgever verstrekte gegevens en de gegevens die voortvloeien uit de uitvoering van de
+Overeenkomst.
+183 Indien een zodanige vinding is ontstaan door uitwisseling van kennis tussen Opdrachtgever en
+Opdrachtnemer, heeft Opdrachtgever het recht op zijn naam en zijn rekening octrooi op de vinding
+aan te vragen. Opdrachtgever stelt Opdrachtnemer van zijn besluit daartoe onverwijld in kennis. Als
+Opdrachtgever een dergelijk octrooi verkrijgt, verleent hij aan Opdrachtnemer een eeuwigdurende,
+onherroepelijke, kosten-vrije, wereldwijde en overdraagbare licentie, met het recht op sublicentie, op
+die vinding. Bij overdracht van het octrooi-eigendom blijft de licentie aan Opdrachtnemer van kracht.
+Indien Opdrachtgever of een rechtverkrijgende besluit een dergelijk octrooi te beëindigen, zal dit ter
+overdracht aan Opdrachtnemer worden aangeboden.
+184 _Indien Opdrachtgever van het onder lid 3 genoemde recht geen gebruik maakt, heeft Opdrachtnemer
+het recht om op zijn naam en zijn rekening octrooi voor die vinding aan te vragen. Opdrachtnemer
+stelt Opdrachtgever van zijn besluit daartoe onverwijld in kennis. Als Opdrachtnemer een dergelijk
+octrooi verkrijgt verleent hij aan Opdrachtgever een eeuwigdurende, onherroepelijke, kosten-vrije,
+Algemene leveringsvoorwaarden (ALV 2023) | 11 december 2023
+Pagina 2 van 2
+J
+Algemene leveringsvoorwaarden (ALV 2023)
+wereldwijde en niet-overdraagbare licentie op die vinding om deze uitsluitend in de huidige
+bedrijfsvoering van Opdrachtgever toe te passen,
+Artikel 19 -
+Geheimhouding
+191 Opdrachtgever zal alle door Opdrachtnemer verschafte (bedrijfs) informatie als vertrouwelijk
+behandelen, deze informatie niet openbaar maken aan derden en van deze informatie alleen gebruik
+voor zover dat noodzakelijk is voor de uitvoering van de Overeenkomst, een partij daartoe rechtens
+verplicht is of het
+gaat om gegevens die publiekelijk bekend zijn of worden zonder dat dit toe te
+rekenen is aan de betreffende partij. Bij schending van deze bepaling door Opdrachtgever, is
+Opdrachtgever een direct opeisbare boete verschuldigd aan Opdrachtnemer van EUR 25.000. Deze
+boete laat het recht van Opdrachtnemer om de daadwerkelijk geleden schade op Opdrachtgever te
+verhalen, onverlet.
+192 Opdrachtnemer is gerechtigd de opdracht als referentie en voor publicatiedoeleinden te gebruiken na
+goedkeuring door Opdrachtgever. Opdrachtgever zal deze goedkeuring niet op onredelijke gronden
+onthouden,
+Artikel 20 -
+Verwerken van persoonsgegevens
+20.1 Opdrachtgever zal persoonsgegevens van werknemers van Opdrachtnemer of van personeel van
+ingeschakelde derden conform de Algemene Verordening Gegevensbescherming (AVG) en de
+Uitvoeringswet Algemene Verordening Gegevensbescherming (UAVG) verwerken. Gebruik van deze
+gegevens is uitsluitend toegestaan met betrekking tot de uitvoering van de Overeenkomst.
+Persoonsgegevens zullen niet langer bewaard worden dan noodzakelijk voor de uitvoering van de
+Overeenkomst.
+202 Bij eventuele datalekken zal Opdrachtgever binnen 24 uur na het bekend worden daarvan, melding
+daarvan doen bij Opdrachtnemer.
+203 Indien voor de uitvoering van de Overeenkomst persoonsgegevens worden verwerkt, draagt
+Opdrachtgever zorg voor het opstellen van een verwerkersovereenkomst waarin de rechten en
+verplichtingen over en weer zijn vastgelegd.
+Artikel 21 -
+Beëindiging of ontbinding
+21.1 Opdrachtgever heeft geen recht tot tussentijdse beëindiging of ontbinding van de Overeenkomst,
+anders dan op grond van een toerekenbare tekortkoming in de nakoming van de Overeenkomst in
+overeenstemming met het toepasselijk recht.
+21.2 Onverminderd de rechten van Opdrachtnemer onder het toepasselijk recht, heeft Opdrachtnemer het
+recht de Overeenkomst tussentijds te beëindigen of ontbinden, of op te schorten, in het geval
+Opdrachtgever in verzuim is van een betalingsverplichting onder de Overeenkomst.
+21.3 Tussentijdse beëindiging, ontbinding of opschorting van de Overeenkomst, laat de
+betalingsverplichting van Opdrachtgever voor de tot het moment van beëindiging, ontbinding of
+opschorting door Opdrachtnemer uitgevoerde deel van de Overeenkomst onverlet. Opdrachtnemer
+heeft te allen tijde het recht de Overeenkomst zonder reden tussentijds te beëindigen met
+inachtneming van een
+termijn van een maand.
+Artikel 22 -
+Toepasselijk recht / forumkeuze
+22.1 Op deze algemene voorwaarden en de Overeenkomst is, ook wanneer de uitvoering van
+werkzaamheden buiten Nederland plaatsvindt, uitsluitend Nederlands recht van toepassing.
+22.2 Geschillen die samenhangen met of voortvloeien uit deze algemene voorwaarden of een
+Overeenkomst zullen uitsluitend worden voorgelegd aan de bevoegde rechter te Den Haag.
+Deze algemene leveringsvoorwaarden (ALV-2023) zijn gedeponeerd bij de Kamer van Koophandel Den
+Haag onder nummer 27114147.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+MINI SONDEERRUPS NL-CPT-03
+Een mini
+sondeerrups is licht en compact sondeermaterieel waardoor de
+beperkte toegankelijkheid van het perceel, bijvoorbeeld door een zachte
+bodemgesteldheid of bij nauwe doorgangen, geen probleem is. De unit
+wordt zowel voor het rij- als voor het sondeergedeelte hydraulisch
+aangedreven.
+=_ Geschikt voor slecht bereikbare plekken
+=_
+Verankering met grondankers of
+keilbouten in beton
+=_ Niet geschikt voor asfalt
+=
+Benodigde reactiekracht wordt aan
+tijdelijk in de bodem te installeren
+grondankers ontleend
+=
+Transport met 4 x 4 aangedreven
+vrachtwagen
+Met deze unit kan elk type sondering
+worden uitgevoerd.
+Uitgebreide informatie over de diverse
+type sonderingen is
+analoog opvraagbaar
+en digitaal beschikbaar op de website.
+COMBINATIE WEERSTAND EN
+WRIJVING GEEFT INZICHT
+Door een stalen conus met een constante
+snelheid de grond in te drukken wordt de
+gronddruk (conusweerstand) en de wrijving
+(plakkerigheid) gemeten. Door de
+parameters naast elkaar te plaatsen kan
+het onderscheid in grondsoorten worden
+afgeleid. Zo kan bijvoorbeeld eenvoudig
+worden afgeleid op welke diepte zich
+draagkrachtige zandlagen bevinden of hoe
+dik een samendrukbaar pakket exact is. De
+maximale haalbare sondeerdiepte hangt af
+van de bodemcondities.
+Inpandig sonderen met minirups.
+Geschikt voor slecht bereikbare plekken.
+FUGRO.COM 1
+MINI SONDEERRUPS NL-CPT-03
+Technische specificaties
+Afmetingen materieel
+Lengte 4.15 m
+Breedte 115 m
+Hoogte tijdens transport 215 m
+Hoogte tijdens inzet 2.80 m tot 3.50 m
+Afstand sondeertoren tot 1.00 m
+achterkant
+Afstand sondeertoren tot 3.30 m
+voorkant
+Afstand sondeertoren tot 0.60 m
+zijkant
+Gegevens sondeerunit
+Gewicht 4.30 t
+Reactiekracht Grondankers
+Maximale druk capaciteit 200 kN
+Machinefabriek Frapocon
+4.15 m
+(geanonimiseerd)
+Gegevens materieel transport
+Merk
+Type
+Kenteken
+Lengte
+Breedte
+Hoogte
+Gewicht (inclusief materieel)
+Aandrijving
+Euronorm
+2.80-3.50 m
+DAF
+LN2EN3
+39-BKG-9
+8.95 m
+2.55 m
+4.00 m
+17t
+4x2
+Euro
+6
+115
+m
+(geanonimiseerd)
+(geanonimiseerd)
+NL-CPT-30
+Een demontabel sondeerapparaat is licht en
+compact sondeermaterieel
+waardoor de beperkte toegankelijkheid van het perceel door
+nauwe
+doorgangen of de kleine omvang van het perceel geen
+probleem is.
+De unit wordt ter plekke geassembleerd.
+De
+benodigde reactiekracht tijdens het
+sonderen wordt aan tijdelijk in de bodem
+te installeren grondankers of keilbouten
+ontleend.
+Algemeen
+Alleen inzetbaar waar mini sondeerrups
+niet kan komen
+Stroomvoorziening te verkrijgen uit
+aggregaat: 380V 10kVA
+Transport met bestelauto
+Opstelling muurframe
+Verankering met keilbouten/chemische
+ankers in steens bouw muur
+Opstelling vloerframe
+Verankering met grondankers
+(avegaarboren)
+Maximale druk afhankelijk van bodem
+gesteldheid
+Maximale diepte grondankers 2 m
+Minimale werkoppervlak 3,5 m?
+Verankering met keilbouten/chemische
+ankers in betonnen vloer
+Eventueel gebruik schroefstempels naar
+bovenliggende vloer voor verkrijgen
+extra tegendruk
+Met deze unit kan elk type sondering
+worden uitgevoerd.
+DEMONTABEL APPARAAT
+Opstelling muurframe
+(geanonimiseerd)
+FUGRO.COM
+DEMONTABEL APPARAAT NL-CPT-30
+Technische specificaties
+Afmetingen materieel Gegevens materieel transport
+Lengte Demontabel Merk
+Breedte
+Demontabel Type
+Hoogte minimaal muurframe 2.30 m Kenteken
+(standaard) Lengte
+Hoogte minimaal vloerframe 2.05 m
+Breedte
+(standaard)
+Hoogte
+Hoogte minimaal muurframe 1.85 m
+Euronorm
+(0.5 m sondeerstang)
+Hoogte minimaal vloerframe 1.60 m
+(0.5 m sondeerstang)
+Gegevens sondeerunit
+Gewicht 50 kg
+Reactiekracht Montage afhankelijk
+Maximale druk
+capaciteit 10t
+Machinefabriek De Koning Mechanisatie
+(geanonimiseerd)
+Ford
+Custom
+FVKL-59-N
+5.00 m
+2.00 m
+2.10 m
+6
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+C Art. 5.1 lid 1 sub c
+Deze informatie betreft bedrijfs- en fabricagegegevens die vertrouwelijk aan de overheid zijn
+meegedeeld
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Van:
+ME <te nl>
+(geanonimiseerd) (geanonimiseerd)
+Verzonden: maandag 3 maart 2025 11:32
+Aan:
+cc: :
+Onderwerp: Re: Sonderingen naar aanleiding overleg 03-03-25
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Dag allen,
+De aangegeven posities zijn voor mij helemaal akkoord hoor.
+Mvrgr. (geanonimiseerd)
+Outlook voor Android downloaden
+From: Me coevorden.nl>
+Sent: Monday, March 3, 2025 11:14:00 AM
+ro. IE oosten; nr:
+Me coevorden.nl>
+Cc: <Metsbouwvastgoed.nl>; Me coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Subject: Sonderingen naar aanleiding overleg 03-03-25
+Goedemorgen B,
+(geanonimiseerd)
+Naar aanleiding van ons gesprek zojuist waarin we vaststelden dat de meest betrouwbare plaats om sonderingen uit
+te voeren onder de gewelven, deze zijn in de tekening gemarkeerd.
+Graag verneem ik van jullie als deze plaatsen in overeenstemming zijn met het doel van het onderzoek ten behoeve
+van de geplande sonderingen.
+Deze plaatsen wijken af van het advies van d.d. 24 februari 2025.
+Kan je je vinden in de aangegeven plaatsen?
+(geanonimiseerd)
+Gezien de planning zou het fijn zijn in de loop van vandaag hierop reactie te ontvangen.
+Het complete verslag van vandaag volgt uiteraard.
+Met vriendelijke groet,
+J
+Gemeente Coevorden
+Tel: +31 RN
+Email: Rl e-coevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+er
+J
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+2
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal
+Datum 03 maart 2025
+Versie 1.0
+Naam rapporteur
+Afdeling -
+Team Vastgoed & Infrastructuur
+Afgestemd met
+OR
+Behandeling in
+Openbaar Ja
+Naam en paraaf teamleider
+Naam en paraaf portefeuillehouder S. Stegen
+Onderwerp:
+(geanonimiseerd)
+(geanonimiseerd)
+Plan van Aanpak herstel scheurvorming Arsenaal
+Zaaknummer: 67792-2024
+Gemeente
+Coevorden
+Gesprekverslag Arsenaal 23-01-2025
+emeente Coevorden
+Gemeente Coevorden
+Aanwezig:
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(Fugro)
+Contactgegevens:
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Bijeenkomst met Fugro & TerSteege en Gemeente Coevorden aan de hand van onderstaande agenda:
+Voorbereidingen Sonderingen
+We bespreken de zaken die noodzakelijk zijn ter voorbereiding op de geplande uitvoer van de
+sonderingen.
+Allereerst stemmen we de definitieve plaatsen van de sonderingen af.
+Buiten:
+De locaties tussen de gebouwen zijn wat moeilijker bereikbaar, Fugro stelt voor deze sonderingen uit te
+voeren met behulp van een sondeerrups. We stemmen af dat deze als laatste worden gepland, zodat
+uitloop geen effect heeft op de sluitingsdata. Fugro doet hiertoe vooraf een Klic-melding. ACTIE->
+Binnen:
+Voor binnen adviseert Fugro de sonderingen uit te voeren onder de gewelven van het gebouw. Voorstel is
+dat op de tekening van de vloerverwarming de voorgestelde locaties worden aangegeven. ACTIE->
+(geanonimiseerd)
+7
+We stemmen de locaties voor de sonderingen af met Goudstikker omdat deze afwijken van eerder advies
+van Goudstikker. ACTIE->
+Om zeker te zijn dat de uitvoer van de vloerverwarming overeenkomt met de opgeleverde tekening
+stellen we voor de vloerverwarming op te ‘stoken’ en middels een warmtecamera de daadwerkelijke
+locatie van de leidingen door de installateur in beeld te brengen ter voorkoming van schade. Daarnaast
+zal de installateur stand-by moeten staan ten tijde van uitvoer. ACTIE->
+mi
+De exacte locatie van de chemische ankers moet bepaald worden aan de hand van de apparatuur van
+Fugro. Deze specificaties én de beschikbaarheid van mens en materieel voor 19-21 maart worden
+teruggekoppeld door Fugro. ACTIE->
+De vloer moet ten behoeve van de gebruikte apparatuur voor sonderingen 10 ton belasting kunnen
+opvangen, verdeeld over de 4 ankerpunten. Deze belasting moet worden gecheckt door de constructeur.
+ACTIE->
+Ter voorbereiding op de sonderingen boort Gankema (in opdracht TerSteege) op maandag 10 maart de
+gaten (Z10cm) op de aangegeven plaatsen. Ervan uitgaande dat deze boringen slagen, hoeven we op dat
+moment geen verdere acties te ondernemen. De boringen veroorzaken enige overlast betreffende geluid,
+we proberen dit zoveel mogelijk te voorkomen door vroeg aan te vangen. (07:30 uur) ACTIE->
+Aanvullend kijken we als we een deel van de ankers ten behoeve van sondering en boring qua patroon in
+de uitvoer kunnen combineren. ACTIE->
+Wat betreft de locatie ter hoogte van de studs checken we de benodigde acties om (tijdelijk) de studs
+elders op te vangen om voldoende ruimte te creëren voor de sondering ter plaatse. ACTIE->
+In het scenario dat de boringen (bijv. vanwege diepte fundering) niet slagen, hebben we tussen 10 maart
+en 19 maart de tijd om een nieuw plan van aanpak vast te stellen, waarbij het aannemelijk is dat we dan
+de locatie wijzigen naar direct naast het fundament. ACTIE->
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+Acties na sonderingen
+Nadat de werkzaamheden zijn afgerond, moet alvorens de bibliotheek en het museum weer open kunnen
+de vloer worden hersteld. Ten einde alvast te weten welke materialen hiervoor nodig zijn, brengen we de
+huidige materialen (incl. linoleum) in beeld en koppelen die aan de leverancier. ACTIE->
+me
+(geanonimiseerd)
+Communicatie
+Aan de hand van bovenstaande besluiten omtrent sluiting stellen we een uniforme boodschap op voor de
+gebruikers, hiervoor schakelen we de communicatieadviseur van de gemeente in. We stemmen hierin ook
+de doelgroep vast naast de eindgebruikers en de methode van communiceren (mail/brief, etc.) De laatste
+keer hebben we dit via Domesta opgepakt. ACTIE->
+Voor de communicatie van de eindgebruikers hebben we afgestemd dit Gendarme te doen, hiervoor is
+EN gevraagd om actief te communiceren naar de gebruikers. Zodra het communicatiebericht
+gereed is, worden gebruikers op de hoogte gebracht. ACTIE-> (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Volgende meeting
+Volgende meeting staat (voorlopig gepland) op 13 maart, deze lijkt op voorhand overbodig omdat de
+werkzaamheden dan nog niet (volledig) zijn afgerond, we laten de datum gereserveerd staan, zodat de
+tijd beschikbaar blijft in onze agenda's. Naar aanleiding van de uitkomsten op 10 maart eventueel
+herplannen.
+Actielijst:
+Actielijst in de tekst wordt toegevoegd aan de bestaande onderstaande actielijst
+Gebruikers:
+Gebruiker Contactpersoon
+Ï
+Stedelijk Museum
+ri museumcoevorden.nl
+(geanonimiseerd) (geanonimiseerd)
+stedelijkmuseum.nl
+toreco.nl
+Telefoon
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ToReCo
+Bibliotheek biblionetdrenthe.nl
+bilbionetdrenthe.nl
+(geanonimiseerd)
+(geanonimiseerd)
+historischcoevorden.nl
+|
+Historische
+Vereniging
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+(geanonimiseerd)
+Aangewezen plaatsen sonderingen binnen:
+Zaaknummer: 67792-2024
+Aangewezen plaatsen sonderingen buiten:
+Zaaknummer: 67792-2024
+Actielijst openstaande items:
+Gemeente
+Coevorden
+Actie
+| Datum
+ik
+|
+En
+|
+Status
+Confrontatie met plannen Markt 9-1-2025
+| Hoog
+nnn OÄÜÛè…—»_ÜÛÚÛÚÛ…. NNB
+Gewicht van de boeken wegnemen kan
+Onderzoek locatie Bibliotheek 9-1-2025
+| Middel posltiefertect hebben op sitúatle, bijuikvoer | 554-2025
+moet bibliotheek zeer waarschijnlijk toch
+(tijdelijk) verhuizen.
+Benodigd budget uitvoer 9-1-2025
+| Laag
+GIERES Eee entre esen
+|| apmms
+meenemen
+(17)
+Methode van uitvoer 23-1-2025
+| Middel
+Voorzet projectplanning 23-1-2025
+| Middel MOE, EREN CEA IEEE,
+| ons
+bespreken in volgend overleg
+5e
+Nog geen detailplanning beschikbaar, En
+Delen plannen
+Markt BE] 7-2-2025 | Hoog
+dfstemriac >| 28-2-2025
+Chronologisch verslag laatste 20 jaar | 7-2-2025 | Middel 14-2-2025
+Hoogtemeting/tilt 7-2-2025 Hoog In combinatie met 29? 28-2-2025
+Historische grondwaterstanden in
+7-2-2025 Hoog
+Overleg met
+_J} welke gegevens benodigd
+28-2-2025
+beeld zijn
+Aanbrengen peilbuizen grondwater | 7-2-2025 Hoog Afstemmen met
+|J} wie dit kan organiseren | 14-2-2025
+Moment plannen met Sallandse E
+Wegenbouw, Infra, Vastgoed, FUGRO
+de el
+Communicatiebericht over sluiting 19-
+3-3-2025 | Hoog
+21 maart
+Actieplan gebruikers rondom sluiting EE
+AOL meen
+3-3-2025 Hoog
+Acties uit te
+voeren
+door
+aannemer | 33-2025
+ter voorbereiding op sonderingen
+Voor de sonderingen buiten moet een Klic
+Klice-melding sonderingen buiten 3-3-2025 melding worden gedaan. Fugro gaat deze 19-3-2025
+We stoken de vloerverwarming op om zo met
+In beeld brengen van de le! een wartecamera de werkelijke plaats van de
+| 10-3-2025
+We organiseren stand-by van de installateur
+tijdens de werkzaamheden aan de vloer,
+Organiseren van stand-by installateur | 3-3-2025 zodat schade direct kan worden hersteld en 10-3-2025
+eventuele wateroverlast kan worden
+voorkomen en beperkt.
+Voor het aanbrengen van de chemische
+Bepalen exacte locaties chemische
+3-3-2025
+ankers zijn we de exacte technische gegevens
+10-3-2025
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+ankers
+Zaaknummer: 67792-2024
+nodig om deze te kunnen aanbrengen. Deze
+worden verstrekt door Fugro
+Actielijst openstaande items (vervolg)
+Actie
+| Datum
+ik
+| Figenaarg
+Toetsing geschiktheid vloer voor
+verankering
+Uitvoer voorbereiding sonderingen
+Sonderingen registreren BRO,
+gegevens aanleveren.
+Werkruimte ter plaatse studs.
+Middel
+Gemeente
+Coevorden
+Status
+De vloer moet een belasting kunnen opvangen
+van 10 ton verdeeld over de 4 ankerpunten.
+Specifieke mail gestuurd naar
+IR] op 04-03-
+2025
+(geanonimiseerd)
+Ter voorbereiding op de sonderingen boort
+Gankema (in opdracht TerSteege) op maandag
+10 maart de
+gaten (@10cm) op de aangegeven plaatsen.
+Ervan uitgaande dat deze boringen slagen,
+hoeven we op dat
+moment geen verdere acties te ondernemen.
+RA wanneer de sonderingen zijn
+(geanonimiseerd)
+uitgevoerd en de gegevens aangeleverd zijn
+door de uitvoerende partij, dus ook in xml
+format, dan ontvang ik deze graag. Deze
+moeten in het BRO geregistreerd worden,
+wettelijke verplichting.
+Wat betreft de locatie ter hoogte van de studs
+checken we de benodigde acties om (tijdelijk)
+de studs elders op te vangen om voldoende
+ruimte te creëren voor de sondering terplaatse.
+o
+plevereng
+Defini
+10-3-2025
+10-3-2025
+1-4-2025
+19-3-2025
+Bij mislukken proefboringen nieuw
+overleg plannen voor PVA
+Opleveren gebruiksklaar
+Communicatiebericht opstellen
+59 Communicatie met eindgebruikers 3-3-2025 Hoog
+In het scenario dat de boringen (bijv. vanwege
+diepte fundering) niet slagen, hebben we
+tussen 10 maart en 19 maart de tijd om een
+nieuw plan van aanpak vast te stellen, waarbij
+het aannemelijk is dat we dan de locatie
+wijzigen naar direct naast het fundament.
+Nadat de werkzaamheden zijn afgerond, moet
+alvorens de bibliotheek en het museum weer
+open kunnen de vloer
+worden hersteld. Ten
+einde alvast te weten welke materialen
+hiervoor nodig zijn, brengen we de huidige
+materialen (incl. linoleum) in beeld en
+koppelen die aan de leverancier.
+Aan de hand van bovenstaande besluiten
+omtrent sluiting stellen we een uniforme
+boodschap op voor de gebruikers, hiervoor
+schakelen we de communicatieadviseur
+van de
+gemeente in. We stemmen hierin ook de
+doelgroep vast naast de eindgebruikers en de
+methode van communiceren (mail/brief, etc.)
+De laatste keer hebben we dit via Domesta
+opgepakt.
+Voor de communicatie van de eindgebruikers
+hebben we
+afgestemd dit éénduidig te doen,
+hiervoor is
+BE gevreesd om actief te
+communiceren naar de gebruikers. Zodra het
+communicatiebericht gereed is, worden
+gebruikers op de hoogte gebracht.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+18-3-2025
+21-3-2025
+4-3-2025
+5-3-2025
+Zaaknummer: 67792-2024
+(geanonimiseerd)
+Actielijst afgerond:
+Gemeente
+Coevorden
+Actie
+| Datum Prig Eigenaagg
+Status
+2
+LE
+CEES
+| aang Uitnodiging volgt 17-1-2025 |Afgerond
+Toepassen van gipspleister voor
+meten vak hOHzOntsle VESCHUMEY
+| ar sms Opdracht verstrekt 16-1-2025 | Afgerond
+naast de meting van de verticale
+verschuiving met de rekstroken.
+Checken huidige rekstroken Gels2025 Ter plaatse gecheckt, geen verschuivingen 9-1-2025 Afgerond
+Toegang tot OneDrive 9-1-2025 Gereed 9-1-2025 Afgerond
+de
+ele ln der Ie
+|| ares Opdracht verstrekt 13-1-2025
+| Afgerond
+de niet doorlopende balken
+Wekelijkse rapportage rekstroken en
+9-1-2025 Uitgebreid met
+gipspleisters Wekelijks
+gipspleisters
+Beschikbare tekeningen van de
+gemeente worden aangevuld in 9-1-2025 Nog geen toegang 16-1-2025 [Afgerond
+OneDrive van Monumentenwacht
+Advies ten behoeve van
+9-1-2025 Startend na verstrekken benodigde informatie 23-1-2025 Afgerond
+grondonderzoek
+Opdracht verstrekken FUGRO G-1-2025 Als advies gereed is
+Mand
+on
+Benodigd voor
+Aanvullen Projectplan Markt in confrontatie
+OneDrive Nog niet beschikbaar
+op later Afgerond
+moment
+EERENS
+| ears Informatie bij 16-1-2025 [Afgerond
+sonderingen van recente DrOJSen |
+a10s5 | Hoog Informatie bij 16-1-2025 [Afgerond
+de omgeving opvragen
+SCORES NRE TO 2e N RMicdel Op basis hiervan opdracht verstrekken 10-1-2025 |Afgerond
+voor opdrachtbevestiging
+Opdracht verstrekken Goudstikker 9-1-2025 | Middel Op basis van uurtarief 16-1-2025 Afgerond
+Afgesproken met
+EE tijdelijk uit
+Benodigd budget onderzoek 9-1-2025 Laag melle EEEN GG
+B
+30-1-2025 | Afgerond
+wanneer kosten duidelijk zijn middels een
+raadvoorstel
+Opdracht verstrekken Fugro 23-1-2025
+| Hoog
+Extra sonderingen rondom
+24-1-2025 Afgerond
+Grondboringen voor samenstelling
+Reserveren tijd Fugro 23-1-2025 | Middel KE pellen 24-1-2025 | Afgerond
+Check op openingstijden 23-1-2025 | Middel 30-1-2025 Afgerond
+Communicatie gebruikers 23-1-2025 | Hoog Voor werkzaamheden informeren 30-1-2025 |Afgerond
+Robin uitnodigen volgende 23-1-2025 | Middel 07-02-2025 ter plaatse Arsenaal 30-1-2025 | Afgerond
+vergadering
+GENELEC Cn AO
+23-1-2025
+| Middel 30-1-2025 | Afgerond
+beschikbaar stellen
+Cultuur aanhaken voor communicatie
+| 23-1-2025
+emmen omiteadenscontackte 7-2-2025 Afgerond
+Meting op zetting uitvoer Uretek 7-2-2025 28-2-2025 [Afgerond
+Tekening vloerverwarming 7-2-2025 14-2-2025 Afgerond
+Communicatiemail delen 7-2-2025 Laag Mail naar gebuikers Arsenaal 14-2-2025 |Afgerond
+Fugro toevoegen bestanden OneDrivef 7-2-2025 Hoog Mail gestuurd 11-02-2025 14-2-2025 [Afgerond
+Plan van aanpak Sonderingen 7-2-2025 Hoog 21-2-2025 |Afgerond
+Opdracht naar aannemer voor
+openkappen van de locaties voor 7-2-2025 | Middel Na oplevering rapport Fugro 28-2-2025 Afgerond
+nader onderzoek
+Sluiting Biliotheek/Musem noodzakelijkf 7-2-2025 Hoog
+DE
+En
+EEE
+28-2-2025
+| Afgerond
+Afstemmen Museum bij aanvang De museumcollectie is zodanig kwetsbaar dat
+werkzaamheden vanwege collectie in [11-2-2025 | Hoog deze niet
+tegen trillingen kan vanwege 28-2-2025 Afgerond
+relatie tot trillingen bijvoorbeeld het open kappen van de vloer.
+Om zo min mogelijk schade te veroorzaken
+Tekening
+vloerverwarming delen in
+| 335025 Hoog
+aan de
+vloerverwarming worden de gewenste
+| „3 5025 Afgerond
+verband met sondeingen locaties op de tekening aangegeven en
+gedeeld.
+De plaats van de sonderingen zijn gewijzigd
+Afstemmen met Goudstikker locaties
+3-3-2025
+ten
+opzichte ven de advies locaties van
+4-3-2025 Afgerond
+sonderingen Goudstikker. Afstemming en goedkeur is
+hiervoor benod
+De voorlopige planning van uitvoer op Er is een tijdelijke reservering gemaakt voor
+19-21 maart moet worden 3-3-2025 deze data, deze moet
+nog definiteif worden 10-3-2025 [Afgerond
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+vastgelegd.
+Zaaknummer: 67792-2024
+vastgesteld
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+(geanonimiseerd)
+(geanonimiseerd)
+Van: EE ME
+-
+(geanonimiseerd)
+(geanonimiseerd)
+Verzonden: maandag 3 maart 2025 15:34
+cc: nr mr
+Onderwerp: RE: Overleg Arsenaal
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Beste
+Bedankt voor de mondelinge opdracht voor het uitvoeren van grondonderzoek bij het Arsenaal op basis
+van onze
+aanbieding 6424-267101 van 24 februari
+jl.
+Op basis van de analyse van de vloerverwarming komt 1 sonderingen binnen te vervallen en wordt het
+aantal sonderingen binnen 3. Het aantal sonderingen buiten blijft conform aanbieding 3.
+Naar aanleiding van het overleg van vanochtend, zoals afgesproken, hierbij terugkoppeling over de
+planning.
+De sonderingen zijn gepland op 19 maart (buiten), 20 en 21 maart (binnen).
+De verdere details met betrekking tot de voorbereiding worden in de loop van deze week/ zo spoedig
+mogelijk afgestemd.
+De locatie zou dus in ieder geval op 20 en 21 maart gesloten moeten zijn. De sonderingen buiten zijn aan
+de achterkant. Waarschijnlijk heeft dat geen invloed op het gebruik binnen.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Tv | wr
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)
+A
+(geanonimiseerd)
+J
+(geanonimiseerd)
+This email (including any attachments) is for use
+by the intended addressee only. It may contain confidential information. If you are not the
+intended addressee, please promptly notify the sender by return email. In such an
+event, we
+request that you delete the email and that
+you do not
+use or transmit the contents to any third parties.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Sent: Tuesday, February 25, 2025 10:34 AM
+To:
+NE EL NE (geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Subject: Overleg Arsenaal
+When: maandag 3 maart 2025 09:30-11:00 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna.
+Where: Arsenaal
+| U ontvangt niet vaak e-mail van coevorden.nl. Ontdek waarom dit belangrijk is
+(geanonimiseerd)
+Microsoft Teams Heeft u hulp nodig?
+Nu deelnemen aan de vergadering
+Vergadering-id: 360 735 822 572
+Wachtwoordcode: Bk3p7PH9
+Inbellen via telefoon
++31 20 399 5675,6428652924# Nederland, Amsterdam
+Een lokaal nummer zoeken
+Telefonische vergadering-id: 642 865 2924
+Voor organisatoren: Vergaderopties | Pincode voor inbellen opnieuw instellen
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Verdeler35
+Verdeler4
+DOOD
+Kx
+Verdeler1
+Verdeler3
+03/04/15
+verdeler
+2/01
+Verdeler2
+03/04/03
+Verdeler
+1/01,
+eten
+Op
+elen
+PAI-AS
+1600
+on
+8
+8 8
+itvoeren
+met
+Viega.
+Fonlerra.
+materialen.
+en
+plaatsbepalingdoor
+derden,
+tenzij
+aangegeven.
+*
+Rondom
+vioervelden.
+randsolatie_
+aanbr
+sn.
+vmlegeleidingsvermogen
+vloertoevoegmiddel
+gebruiken,
+1109
+en
+Rerenland
+109
+em)
+10m
+Heee
+03/04/14
+0D
+Ver
+verde
+4/02
+0D
+eters
+G
+vt
+PS
+600
+en
+erebeland
+109
+er
+Kane
+287
+Peri
+_
+03/04/15
+eee
+05/04/01)
+5
+ie
+verdien
+05
+OD
+ia
+vere
+fs
+(@)
+Fonlera
+Op
+selien
+PERI-BUS
+160)
+nm
+Fonlens
+Op
+setien
+PERT-BIS
+1620
+mm
+id
+|
+:
+El
+Berensand
+100
+em
+ist
+B)
+Ke
+vS
+ar)
+nn
+ak
+|
+Heke.
+03/04/12
+Heizieis:
+03/04/08
+ij
+OD
+Ve
+verd
+Hek
+OD
+as
+verdie
+Het
+0D
+on
+Gert
+oen
+eten
+Gp
+ete
+T-A
+1620
+en
+|
+lend
+109
+er
+erebslan
+100
+bad
+ic
+Be
+an
+hees
+03/04/11
+|
+einen
+0907/01}
+OD
+een
+verse
+2/05
+OD
+lisse
+erdee
+1/04
+0D
+eten
+Oele
+FE-AS
+120
+on
+iten
+Gp
+ele
+T-A
+1620
+an
+Bergeend
+109
+em
+Braband
+150
+em
+Rense
+PA
+WS
+Heizkreis:
+03/04/10
+06/01
+j
+OO
+er
+verdaar
+4/88
+vereler
+05
+(CD)
+Fontera
+Op
+setien
+PERT-AUS
+16020
+vam
+‘Fontes
+Op
+netten
+PERT-BUS
+1620
+mm
+Rerebeland:
+10
+er!)
+199
+em
+Rae
+085,
+Kiki
+Heres
+04/09}
+06/02
+OD
+les
+verdad
+S/n
+3
+verde
+1/1
+OD
+eters
+elen
+PGT-20S
+1620
+ven
+eters
+Gp
+ie
+FAS
+1
+on
+Bononsane
+09
+en
+109
+em
+Rene
+R87
+ET
+Heee
+03/04/07|
+08/03
+OD)
+ear:
+verd
+|
+verser
+WE
+(@5)
+eten
+Op
+ele
+FE-AS
+120
+zen
+(ter
+Op
+zen
+FES
+600
+on
+Ronobsane
+109
+em
+Renne
+EE
+Heizres
+_
+06/04
+(
+09)
+Verdeler
+1/08
+10,2
+em
+ed
+Ren
+heks
+00/5
+06/05
+ao)
+verder
+2A0
+verser
+is
+OD
+Ke
+veen
+ASD
+at
+a
+aan
+Fehn
+vog
+en
+gee
+03/04/04
+verdeler
+2/11
+em
+Fonterra
+vloerverwarmingop
+Netten
+(geanonimiseerd)
+8
+g
+VerbouwingHet
+Arsenaal
+Haven
+4
+1741
+JV
+Coevorden
+(|
+onderdeel:
+Vloerverwarming
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+B
+(geanonimiseerd)
+Verzonden: dinsdag 4 maart 2025 13:46
+Aan:
+Cc: Steven Stegen;
+(geanonimiseerd)
+Onderwerp: Communicatiebericht sluiting Arsenaal
+Goedemiddag allen,
+Bijgaand de communicatiemail naar gebruikers en omwonenden van het Arsenaal betreffende de werkzaamheden
+en de sluiting op 20 en 21 maart.
+Aanwonenden worden door via het kanaal Domesta op de hoogte gebracht.
+(geanonimiseerd)
+Gebruikers door
+Stel voor om uiterlijk voor 17:00 uur inhoudelijk te reageren, zodat
+DRI vanaf 17:00 uur de gebruikers op de hoogte
+kan stellen.
+(geanonimiseerd)
+Met vriendelijke groet,
+Vastgoedcoördinator
+Gemeente Coevorden
+Tel: +31 NN
+Email: Bl e-coevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+Beste gebruikers van Het Arsenaal,
+Hierbij informeer ik jullie graag over de voortgang rond Het Arsenaal. We gaan beginnen met het grondonderzoek,
+dat ons een beter beeld moet gaan geven van de situatie en eventuele te treffen maatregelen. In maart wordt er
+gesondeerd, dat is een techniek die gebruikt wordt om de bodem te onderzoeken. De resultaten dienen als
+belangrijke informatie voor het grondonderzoek. Jullie als gebruikers merken hiervan het volgende:
+e
+_Op maandag 10 maart worden hiervoor een drietal boringen en ankerpunten gemaakt in het Arsenaal. Dit is
+ter voorbereiding op de sonderingen. We starten ruimschoots
+voor jullie openingstijden, maar de uitvoer
+kan toch beperkt overlast veroorzaken in de vorm van geluidsoverlast.
+e
+_Op woensdag 19 maart wordt er gesondeerd aan de buitenkant. Dit vindt plaats aan de achterzijde van Het
+Arsenaal. Dat kan beperkt overlast veroorzaken aan die kant. Maar het heeft naar alle waarschijnlijkheid
+geen invloed op het gebruik van het pand.
+e
+Op donderdag 20 en vrijdag 21 maart vinden sonderingen plaats in Het Arsenaal. Om dit mogelijk te kunnen
+maken is het noodzakelijk om het pand op die dagen te sluiten voor publiek. We realiseren ons dat dit
+hinder kan veroorzaken en waarderen jullie begrip.
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Heb je vragen? Neem dan gerust contact met mij op.
+2
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+BE
+(geanonimiseerd)
+Van: J
+Verzonden: woensdag 5 maart 2025 12:52
+CC: 3
+Onderwerp: RE: Communicatiebericht sluiting Arsenaal
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Goedemiddag
+Lijkt me een goed plan maar dan voorkeur op eigen website, zojuist nog even contact gehad met
+eindgebruikers zullen eerder op de site van de bibliotheek zoeken naar openingstijden dan op de site van de
+gemeente.
+Aanvullend zouden ze nu alvast een A4 op de ramen kunnen plakken waarop de werkzaamheden en de sluiting
+alvast worden aangekondigd.
+Neem je dat mee in de gesprekken?
+(geanonimiseerd)
+Wat betreft het aanspreekpunt zou mijn voorkeur hebben dat
+jij vanuit je rol optreedt, voor technische vragen kan
+dan altijd nog naar of mij worden doorverwezen.
+Als dat ongemakkelijk is voor je, magje mijn naam er ook onder zetten.
+(geanonimiseerd)
+Met vriendelijke groet,
+J
+Gemeente Coevorden
+Tel: +31 RN
+Email: Bl e-coevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+Van:
+ES <lecoevorden.nl>
+(geanonimiseerd) (geanonimiseerd)
+Verzonden: dinsdag 4 maart 2025 15:14
+Aan: Mo coevorden.nl>; le coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Onderwerp: RE: Communicatiebericht sluiting Arsenaal
+Ik had zojuist contact met de communicatieadviseur van Zij vroeg of er op onze website ook wat algemene
+informatie komt te staan over de tijdelijke sluiting waar zij abonnementhouders en bezoekers naar kunnen
+verwijzen. Wordt dat gedaan of kan dat?
+(geanonimiseerd)
+Groeten,
+Van:
+ES <e coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+Verzonden: dinsdag 4 maart 2025 13:46
+<Me coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+CC: Steven Stegen MMM
+e coevorden.nl>; lo coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+Onderwerp: Communicatiebericht sluiting Arsenaal
+Goedemiddag allen,
+Bijgaand de communicatiemail naar gebruikers en omwonenden van het Arsenaal betreffende de werkzaamheden
+en de sluiting op 20 en 21 maart.
+Aanwonenden worden door via het kanaal Domesta op de hoogte gebracht.
+(geanonimiseerd)
+Gebruikers door (geanonimiseerd)
+Stel voor om uiterlijk voor 17:00 uur inhoudelijk te reageren, zodat
+BRD vanaf 17:00 uur de gebruikers op de hoogte
+kan stellen.
+(geanonimiseerd)
+Met vriendelijke groet,
+J
+Gemeente Coevorden
+Tel: +31 NN
+Email: Rl e-coevorden.nl
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Gemeente
+Coevorden
+Beste gebruikers van Het Arsenaal,
+Hierbij informeer ik jullie graag over de voortgang rond Het Arsenaal. We gaan beginnen met het grondonderzoek,
+dat ons een beter beeld moet gaan geven van de situatie en eventuele te treffen maatregelen. In maart wordt er
+gesondeerd, dat is een techniek die gebruikt wordt om de bodem te onderzoeken. De resultaten dienen als
+belangrijke informatie voor het grondonderzoek. Jullie als gebruikers merken hiervan het volgende:
+e
+_Op maandag 10 maart worden hiervoor een drietal boringen en ankerpunten gemaakt in het Arsenaal. Dit is
+ter voorbereiding op de sonderingen. We starten ruimschoots
+voor jullie openingstijden, maar de uitvoer
+kan toch beperkt overlast veroorzaken in de vorm van geluidsoverlast.
+e
+_Op woensdag 19 maart wordt er gesondeerd aan de buitenkant. Dit vindt plaats aan de achterzijde van Het
+Arsenaal. Dat kan beperkt overlast veroorzaken aan die kant. Maar het heeft naar alle waarschijnlijkheid
+geen invloed op het gebruik van het pand.
+e
+Op donderdag 20 en vrijdag 21 maart vinden sonderingen plaats in Het Arsenaal. Om dit mogelijk te kunnen
+maken is het noodzakelijk om het pand op die dagen te sluiten voor publiek. We realiseren ons dat dit
+hinder kan veroorzaken en waarderen jullie begrip.
+Heb je vragen? Neem dan gerust contact met mij op.
+(geanonimiseerd)
+(geanonimiseerd)
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Van: (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Verzonden: dinsdag 11 maart 2025 12:58
+cc: DN : [|
+Onderwerp: RE: Overleg Arsenaal
+Bijlagen: FW: 03-20 -
+504856 Coevorden; Coevorden ; CPT Demontabel Apparaat NL-
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+CPT-30.pdf; NL-CPT-30
+Vloerframe afmeting.1.jpg
+Beste
+Je meldde dat de kernboringen van 10 cm diameter binnen, t.p.v. de sonderingen reeds zijn uitgevoerd. En
+je deelde foto's van de kernboringen. Deze heb ik toegevoegd als bijlage “Coevorden”.
+Mij werd gevraagd hoe zwaar ons
+apparaat is. Dit is te vinden in de flyer CPT Demontabel Apparaat.
+Verder is het van belang dat we akkoord krijgen om aan de vloer te trekken en of het de onderste of
+bovenste vloer moet zijn. Als het de onderste vloer is dan zouden de gaten en keilbouten voor de
+verankering tot
+op circa 30 cm moeten worden aangebracht op basis van de foto's. Normaliter plaatsen wij
+de ankers zelf na
+toestemming van de opdrachtgever. Vanwege de aanwezigheid van
+vloerverwarming zou
+het misschien beter zijn dat de gaten al eerder worden geboord (diameter 12 mm). De configuratie is
+aangegeven op de tekening “NL-CPT-30 Vloerframe afmeting.1.jpg”. Misschien is het het beste als de
+gaten op 19 maart worden geboord, want dan kan het boren in overleg met onze
+sondeerploeg (die op die
+dag buiten begint met sonderen) worden uitgevoerd. Als wij het zelf moeten boren dan moeten de locaties
+op de vloer worden gemarkeerd op plaatsen waar
+geen vloerverwarming zou zitten (door derden). In dat
+geval is eventuele schade aan de vloerverwarming niet ons risico, maar wat het ook lastig maakt is dat we
+dan misschien niet direct door kunnen.
+Houd er verder rekening mee dat wij voor zover
+mogelijk, direct na het sonderen gaan proberen om
+materiaal op te boren, zodat we niet alleen sonderingen hebben maar ook een classificatie van de
+ondergrond. Dit heeft als voordeel dat we dan meer zekerheid hebben over het wel of niet aanwezig zijn
+van organische stof/ veen onder de fundering.
+Als er
+uitvoeringstechnische afstemming nodig is dan kan dat met mijn collega's
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+J
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+This email (including any attachments) is for use by the intended addressee only. It may contain confidential information. If you are not the
+intended addressee, please promptly notify the sender by return email. In such an event, we
+request that
+you delete the email and that you do not
+use or transmit the contents to any third parties.
+From:
+NE EI
+(geanonimiseerd)
+(geanonimiseerd)
+Sent: Monday, March 3, 2025 3:34 PM
+To: Mo coevorden.nl>
+CE,
+EL EE <
+MMO coevorden.nl>; MO tsbouwvastgoed.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Subject: RE: Overleg Arsenaal
+Beste
+Bedankt voor de mondelinge opdracht voor het uitvoeren van grondonderzoek bij het Arsenaal op basis
+van onze aanbieding 6424-267101 van 24 februari
+jl.
+Op basis van de analyse van de vloerverwarming komt 1 sonderingen binnen te vervallen en wordt het
+aantal sonderingen binnen 3. Het aantal sonderingen buiten blijft conform aanbieding 3.
+Naar aanleiding van het overleg van vanochtend, zoals afgesproken, hierbij terugkoppeling over de
+planning.
+De sonderingen zijn gepland op 19 maart (buiten), 20 en 21 maart (binnen).
+De verdere details met betrekking tot de voorbereiding worden in de loop van deze week/ zo spoedig
+mogelijk afgestemd.
+De locatie zou dus in ieder geval op 20 en 21 maart gesloten moeten zijn. De sonderingen buiten zijn aan
+de achterkant. Waarschijnlijk heeft dat geen invloed op het gebruik binnen.
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+This email (including any attachments) is for use
+by the intended addressee only. It may contain confidential information. If you are not the
+intended addressee, please promptly notify the sender by return email. In such an
+event, we
+request that you delete the email and that you do not
+use or transmit the contents to any third parties.
+-—--Original Appointment
+From: <Me-coevorden.nl>
+(geanonimiseerd) (geanonimiseerd)
+Sent: Tuesday, February 25, 2025 10:34 AM
+To:
+Subject: Overleg Arsenaal
+When: maandag 3 maart 2025 09:30-11:00 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna.
+Where: Arsenaal
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+| U ontvangt niet vaak e-mail van
+le -oevorden.ni. Ontdek waarom dit belangrijk is
+(geanonimiseerd)
+Microsoft Teams Heeft u hulp nodig?
+Nu deelnemen aan de vergadering
+Vergadering-id: 360 735 822 572
+Wachtwoordcode: Bk3p7PH9
+Inbellen via telefoon
++31 20 399 5675,642865292# Nederland, Amsterdam
+Een lokaal nummer zoeken
+Telefonische vergadering-id: 642 865 2924
+Voor organisatoren: Vergaderopties | Pincode voor inbellen opnieuw instellen
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+Van: le gouastikker.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+Verzonden: woensdag 12 maart 2025 22:25
+Aan: EF NE
+HH
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+CC:
+Onderwerp: 20241411 -
+COEVORDEN; scheurvorming Arsenaal, Haven 4 -
+inpandige
+sonderingen
+Bijlagen: 20250303 Voorstel Sonderingen.pdf; 2025-03-10 -
+PDF van foto's boorkernen.pdf;
+CPT Demontabel Apparaat NL-CPT-30.pdf
+Beste allen,
+Eerder (04/03) ontvingen wij een opgave van de gewijzigde posities van de inpandige sonderingen, zie bijlage.
+Onder de gewelven zit geen vloerverwarming, logisch en akkoord. Zie bijlage.
+Eerder (06/03) vroeg mij of de betonvloer een trekkracht van 10 ton (100 kN) op zou kunnen nemen.
+En terecht merkte (06/03) op dat het aan ondergetekende is om dit a) te beoordelen en b) met
+berekening aan te tonen.
+Welnu, even voor de gedachtenvorming:
+100 kN / 0,9 (rekenfactor gunstige belasting) =
+111 kN / 25 =
+4,44 m? beton =
+4,44 / 0,40 (vloerdikte?) =
+11 m? vloer,
+ofwel bijna 3,5 x 3, 5 m?
+De vloerdikte is onbekend, de vloerwapening is onbekend, de betonkwaliteit is onbekend, kortom onbegonnen
+werk.
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Afgelopen maandag 10/03 zijn drie gaten in de betonvloer onder de gewelven geboord.
+Ik heb via WhatsApp 10/03 foto’s ontvangen van en we hebben gebeld.
+De boormonsters zijn bijgevoegd. Het is mij onduidelijk op welke positie exact de kernen zijn geboord.
+Tussen de cementdekvloer en de onderliggende betonvloer is ettelijke centimeters holle ruimte geconstateerd
+(bomijs).
+De betonvloer lijkt uit meerdere lagen te zijn opgebouwd.
+Mijn conclusie is dat het praktisch onmogelijk is het sondeerapparaat aantoonbaar goed te verankeren aan de
+betonvloer.
+Niet onder de gewelven (vloer te dun en in lagen opgebouwd), en niet naast de gewelven (kans op bomijs, en hinder
+aanwezige vloerverwarming)
+(geanonimiseerd)
+Vandaag 12/03 heb ik bovenstaande met B telefonisch besproken.
+En heb ik geopperd onder de gewelven te sonderen en het sondeerapparaat naar boven af te steunen tegen de
+onderkant van de gewelven aan.
+Ik heb van
+DRE foto/documentatie ontvangen van het sondeerapparaat. Zie bijlage.
+(geanonimiseerd)
+(geanonimiseerd)
+Ik lees:
+Eventueel gebruik schroefstempels naar
+bovenliggende vloer voor verkrijgen
+extra tegendruk
+Dat wordt dus vaker gedaan, is praktisch prima uitvoerbaar en is zonder risico.
+Gewelven 60 cm dik, ongeveer 3 x 3 meter, is al voldoende voor 10 ton.
+Ik verwacht overigens veel minder dan 10 ton aan belasting om te kunnen sonderen tot voldoende diepte, vanwege
+de slappe ondergrond.
+(geanonimiseerd)
+10 ton =
+10.000 kg (de maximale drukcapaciteit) lijkt me waanzinnig hoog met een conus van 1 cm?, maar wellicht
+wordt er met een grotere conus gedrukt.
+En is men voorbereid op zwerfkeien in de bodem.
+Met vriendelijke groet,
+fj) goudstikker
+|de vries
+T: +31
+(NW: goudstikker.nl
+(geanonimiseerd)
+aanwezig: geen vaste kantoordagen (maar doorgaans wel mobiel bereikbaar)
+rechtstreeks: M 06 of
+T
+(geanonimiseerd)
+Op alle overeenkomsten van goudstikker -
+de vries zijn de algemene voorwaarden DNR 2011 (inclusief herziening 2013)
+van toepassing. Voornoemde voorwaarden worden op eerste verzoek toegezonden, daarnaast kunnen de voorwaarden
+hier op onze website worden gedownload.
+Verzonden: woensdag 12 maart 2025 15:30
+Aan: Mezoudstikker.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+Onderwerp: foto van het apparaat om te sonderen
+Goedemiddag
+Zoals beloofd hierbij een foto van het apparaat om te sonderen.
+Met vriendelijke groet,
+J
+Team Vastgoed & Infrastructuur
+Gemeente Coevorden
+Kasteel 1
+Postbus 2
+7740 AA Coevorden
+m 06 Mmm
+(geanonimiseerd)
+Mijn werkdagen zijn:
+Gemeente
+Coevorden
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+www. coevorden. nl
+3
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+(geanonimiseerd)
+Verzonden: woensdag 19 maart 2025 14:45
+Aan: NN: nr
+Onderwerp: RE: Melden afwijkende ligging.
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+Hallo
+Via klic-viewer is daar een handige tool in dat te melden.
+https://klicviewer.nl/klic-viewer/
+zou
+jij dat verder kunnen oppakken nu
+je er weer bent?
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+This email (including any attachments) is for use
+by the intended addressee only. It may contain confidential information. If you are not the
+intended addressee, please promptly notify the sender by return email. In such an
+event, we request that you delete the email and that you do not
+use or transmit the contents to any third parties.
+Verzonden: Wednesday, 19 March 2025 14:36
+BES
+(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)
+Onderwerp: RE: Melden afwijkende ligging.
+Beste
+Bedankt voor de informatie. Of we dit automatisch melden weet ik even niet. Mogelijk weet
+jij of we dit
+standaard doen
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+Met vriendelijke groet,
+(geanonimiseerd)
+(geanonimiseerd)
+VREE MN
+TE
+AE EE
+This email(including any attachments) is for use
+by the intended addressee only. It may contain confidential information. If you are not the
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd) (geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+intended addressee, please promptly notify the sender by return email. In such an event, we
+request that you delete the email and that you do not
+use or transmit the contents to any third parties.
+From: <W
+e coevorden.nl>
+(geanonimiseerd)
+(geanonimiseerd)
+Sent: Wednesday, March 19, 2025 2:25 PM
+To:
+EL,
+(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)
+Subject: Melden afwijkende ligging.
+Goedemiddag
+Bij het maken van de proefsleuf bij het Arsenaal (achterzijde) is een afwijking gevonden ten opzichte van de KLIC-
+melding.
+Wellicht overbodig, maar neem aan dat hier melding van wordt gedaan?
+Onderstaand de handige linkjes hiervoor.
+www.kadaster.nl/zakelijk
+Melden afwijkende situatie/ligging | Publicatie | Rijksinspectie Digitale Infrastructuur (RDI)
+Met vriendelijke groet,
+Me coevorden.nl
+(geanonimiseerd)
+Gemeente Coevorden
+Kasteel 1
+Postbus 2
+7740 AA, Coevorden
+Mm +31 (geanonimiseerd)
+Mijn werkdagen: maandag t/m vrijdag
+(geanonimiseerd)
+(geanonimiseerd)
+(geanonimiseerd)
+www. coevorden. nl
+3
+Toelichting grondslagen
+In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is
+achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld
+correspondeert met de bijbehorende grondslag in onderstaand overzicht.
+J Art. 5.1 lid 2 sub e
+Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van
+de eerbiediging van de persoonlijke levenssfeer van betrokkenen
+
