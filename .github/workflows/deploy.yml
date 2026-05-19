@@ -1,11 +1,24 @@
-name: Robust S3 → Hugo Markdown Sync
+name: S3 PDF documenten ophalen en website bouwen
 
 on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
+    inputs:
+      folder:
+        description: "Submap om te synchroniseren (bijv. 2024)"
+        required: false
+        default: "2024"
+      force_rebuild:
+        description: "Forceer volledige rebuild (true/false)"
+        required: false
+        default: "false"
+
+env:
+  SYNC_FOLDER: ${{ github.event.inputs.folder || '2024' }}
+  AWS_DEFAULT_REGION: eu-central-1
 
 jobs:
   deploy:
@@ -14,105 +27,100 @@ jobs:
       contents: write
 
     steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Dependencies
+      # ── 2. Dependencies ──────────────────────────────────────────────────────
+      - name: Install system dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y poppler-utils jq
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends poppler-utils jq
 
-      - name: Sync S3 → Markdown (taxonomy enabled)
+      # ── 3. S3 → Markdown sync ────────────────────────────────────────────────
+      - name: Sync S3 → Markdown
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_ACCESS_KEY_ID:     ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: eu-central-1
-          BUCKET_NAME: publicaties-coevorden
+          BUCKET_NAME:           publicaties-coevorden
         run: |
           set -euo pipefail
-          mkdir -p docs
+          mkdir -p "docs/$SYNC_FOLDER"
 
-          echo "📥 S3 listing (safe pagination)..."
+          echo "📥 S3-listing ophalen voor map: $SYNC_FOLDER..."
 
+          # Pagineer door alle objecten en verzamel alleen PDF-sleutels
           > s3_list.txt
           TOKEN=""
-
           while : ; do
-            if [ -z "$TOKEN" ]; then
-              RESPONSE=$(aws s3api list-objects-v2 \
-                --bucket "$BUCKET_NAME" \
-                --max-items 1000)
-            else
-              RESPONSE=$(aws s3api list-objects-v2 \
-                --bucket "$BUCKET_NAME" \
-                --starting-token "$TOKEN" \
-                --max-items 1000)
-            fi
+            ARGS=(--bucket "$BUCKET_NAME" --prefix "$SYNC_FOLDER/" --max-items 1000)
+            [ -n "$TOKEN" ] && ARGS+=(--starting-token "$TOKEN")
 
-            echo "$RESPONSE" | jq -r '.Contents[].Key' | grep '\.pdf$' >> s3_list.txt
+            RESPONSE=$(aws s3api list-objects-v2 "${ARGS[@]}")
+            echo "$RESPONSE" | jq -r '.Contents[]? | .Key' | grep -i '\.pdf$' >> s3_list.txt || true
             TOKEN=$(echo "$RESPONSE" | jq -r '.NextToken // empty')
             [ -z "$TOKEN" ] && break
           done
-
           sort -u s3_list.txt -o s3_list.txt
+          PDF_COUNT=$(wc -l < s3_list.txt)
+          echo "📊 $PDF_COUNT PDF('s) gevonden in $SYNC_FOLDER"
 
-          echo "📊 PDF count: $(wc -l < s3_list.txt)"
-
-          echo "🧹 Cleanup removed files..."
-          find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
-            relative="${md_path#docs/}"
-            expected_pdf="${relative%.md}.pdf"
-
+          # Verwijder markdown-bestanden waarvan de PDF niet meer in S3 staat
+          echo "🧹 Verwijderd stale bestanden uit docs/$SYNC_FOLDER..."
+          find "docs/$SYNC_FOLDER" -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
+            expected_pdf="${md_path#docs/}"
+            expected_pdf="${expected_pdf%.md}.pdf"
             if ! grep -Fxq "$expected_pdf" s3_list.txt; then
-              echo "❌ Removing: $md_path"
+              echo "  ❌ Verwijderd: $md_path"
               rm "$md_path"
             fi
           done
 
-          echo "➕ Processing PDFs..."
+          # Verwerk nieuwe PDF's naar markdown
+          echo "➕ Nieuwe PDF's verwerken..."
 
-          process_file () {
-            pdf_key="$1"
-            md_path="docs/${pdf_key%.pdf}.md"
+          process_file() {
+            local pdf_key="$1"
+            local md_path="docs/${pdf_key%.pdf}.md"
 
-            if [ -f "$md_path" ]; then
-              return
-            fi
+            # Sla over als markdown al bestaat (inhoud wordt later gehasht door process-woo)
+            [ -f "$md_path" ] && return
 
-            echo "🆕 $pdf_key"
-
+            echo "  🆕 $pdf_key"
             mkdir -p "$(dirname "$md_path")"
+            local tmpfile
             tmpfile=$(mktemp --suffix=.pdf)
 
-            if aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "$tmpfile" --quiet; then
-
+            if aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "$tmpfile" --quiet 2>/dev/null; then
+              local filename
               filename=$(basename "${pdf_key%.pdf}")
-              clean_title=$(echo "$filename" | tr '"' "'")
+              # Verwijder aanhalingstekens uit bestandsnaam voor veilige YAML
+              local clean_title
+              clean_title=$(echo "$filename" | tr '"' "'" | tr '\n' ' ' | xargs)
 
-              # taxonomy uit mapstructuur
-              relative_path="${pdf_key%.pdf}"
+              # Bouw taxonomy-lijst op basis van mapstructuur
+              local relative_path="${pdf_key%.pdf}"
               IFS='/' read -ra parts <<< "$relative_path"
-
-              taxo=()
+              local taxo=()
               for ((i=0; i<${#parts[@]}-1; i++)); do
                 taxo+=("\"${parts[$i]}\"")
               done
-
+              local taxonomy_list
               taxonomy_list=$(IFS=,; echo "${taxo[*]}")
 
-              # SAFE FRONT MATTER (NO HEREDOC)
+              # Schrijf frontmatter + PDF-tekst
               {
                 printf -- "---\n"
-                printf "title: \"%s\"\n" "$clean_title"
-                printf "maps: [%s]\n" "$taxonomy_list"
-                printf "source: \"%s\"\n" "$pdf_key"
-                printf "date: %s\n" "$(date +%Y-%m-%d)"
+                printf 'title: "%s"\n'  "$clean_title"
+                printf 'maps: [%s]\n'   "$taxonomy_list"
+                printf 'source: "%s"\n' "$pdf_key"
+                printf 'date: %s\n'     "$(date +%Y-%m-%d)"
                 printf -- "---\n\n"
+                # -layout geeft betere tekstordening dan -raw bij de meeste gemeentedocumenten
+                pdftotext -layout "$tmpfile" - 2>/dev/null | tr -d '\000' || true
               } > "$md_path"
-
-              # SAFE PDF TEXT APPEND
-              pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
-
+            else
+              echo "  ⚠️  Download mislukt: $pdf_key"
             fi
 
             rm -f "$tmpfile"
@@ -121,37 +129,51 @@ jobs:
           export -f process_file
           export BUCKET_NAME
 
-          cat s3_list.txt | xargs -I {} -P 4 bash -c 'process_file "$@"' _ {}
+          # Maximaal 4 parallelle downloads — sneller dan 1, veilig voor S3-limieten
+          tr '\n' '\0' < s3_list.txt | xargs -0 -I {} -P 4 bash -c 'process_file "$@"' _ {}
 
-      - name: Commit changes
+      # ── 4. Commit nieuwe/gewijzigde markdown ─────────────────────────────────
+      - name: Commit markdown wijzigingen
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync: S3 → Hugo Markdown (taxonomies + safe build)"
-          file_pattern: 'docs/**'
+          commit_message: "sync: S3 → docs/${{ env.SYNC_FOLDER }}"
+          file_pattern: "docs/${{ env.SYNC_FOLDER }}/**"
 
+      # ── 5. Hugo build ────────────────────────────────────────────────────────
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
 
       - name: Build Hugo site
         run: |
-          mkdir -p content/docs
-          cp -r docs/* content/docs/ 2>/dev/null || true
-          hugo --minify
+          set -euo pipefail
+          TARGET="content/docs/$SYNC_FOLDER"
+          mkdir -p "$TARGET"
+          # Kopieer alleen de gesyncte map naar Hugo content
+          rsync -a --delete "docs/$SYNC_FOLDER/" "$TARGET/"
+          hugo --minify --baseURL "https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/$SYNC_FOLDER/"
 
-      - name: Index with Pagefind (Sharded per year)
+      # ── 6. Zoekindex ─────────────────────────────────────────────────────────
+      - name: Index met Pagefind
+        run: npx pagefind@latest --site public --output-subdir _pagefind
+
+      # ── 7. Deploy naar S3 ────────────────────────────────────────────────────
+      - name: Deploy naar S3
+        env:
+          AWS_ACCESS_KEY_ID:     ${{ secrets.AWS_ACCESS_KEY_ID_SITE }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY_SITE }}
+          BUCKET_NAME:           publicaties-coevorden-site
         run: |
-          # Loop door elke map in docs (dit zijn de jaren)
-          for year in $(ls docs); do
-            if [ -d "docs/$year" ]; then
-              echo "Indexing year: $year"
-              # Maak een specifieke index voor dit jaar
-              # We filteren de bronbestanden op de submap van dat jaar
-              npx pagefind --site public --glob "docs/$year/**/*.html" --bundle-dir "_pagefind_$year"
-            fi
-          done
+          aws s3 sync ./public "s3://$BUCKET_NAME/$SYNC_FOLDER" \
+            --delete \
+            --cache-control "public, max-age=300" \
+            --exclude "*.html" \
+            --exclude "_pagefind/*"
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          # HTML en zoekindex apart zonder cache zodat updates direct zichtbaar zijn
+          aws s3 sync ./public "s3://$BUCKET_NAME/$SYNC_FOLDER" \
+            --exclude "*" \
+            --include "*.html" \
+            --include "_pagefind/*" \
+            --cache-control "no-cache, no-store, must-revalidate"
+
+          echo "🚀 Deploy voltooid naar s3://$BUCKET_NAME/$SYNC_FOLDER"
