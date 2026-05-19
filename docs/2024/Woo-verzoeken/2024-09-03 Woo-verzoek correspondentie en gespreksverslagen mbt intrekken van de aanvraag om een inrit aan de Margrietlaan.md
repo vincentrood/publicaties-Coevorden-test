@@ -1,8 +1,50 @@
 ---
-title: "2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van de aanvraag om een inrit aan de Margrietlaan"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van de aanvraag om een inrit aan de Margrietlaan.pdf"
-date: 2026-05-19
+title: >-
+  2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van
+  de aanvraag om een inrit aan de Margrietlaan
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen
+  mbt intrekken van de aanvraag om een inrit aan de Margrietlaan.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente heeft besloten het verzoek om openbaarmaking van documenten toe te
+  wijzen, met uitzondering van persoonsgegevens. De aanvraag voor het aanleggen
+  van een uitweg is geweigerd vanwege verkeersveiligheidseisen, maar de
+  activiteit bouwen kan wel worden vergund.
+milestones:
+  - date: '2024-03-21'
+    event: >-
+      Communicatie over de aanvraag voor het uitbreiden van bebouwing en het
+      toevoegen van een uitrit
+  - date: '2024-03-22'
+    event: >-
+      Voorstel gedaan voor de aanvraag voor het uitbreiden van bebouwing en het
+      toevoegen van een uitrit
+  - date: '2024-03-25'
+    event: >-
+      Bespreking van de aanvraag voor het uitbreiden van bebouwing en het
+      toevoegen van een uitrit
+  - date: '2024-03-26'
+    event: >-
+      Bespreking van de aanvraag voor het uitbreiden van bebouwing en het
+      toevoegen van een uitrit
+  - date: '2024-04-04'
+    event: >-
+      Reactie op aanvraag voor het uitbreiden van bebouwing en het toevoegen van
+      een uitrit
+  - date: '2024-07-22'
+    event: Verzending van een verzoek om geluidsopname van de hoorzitting.
+  - date: '2024-07-23'
+    event: Ontvangst van de opname van de hoorzitting.
+  - date: '2024-07-25'
+    event: Woo-verzoek geregistreerd onder zaaknummer 42685-2024
+  - date: '2024-09-03'
+    event: Documenten aangetroffen in zaaksystemen met betrekking tot het Woo-verzoek
+ai_processed_at: '2026-05-19T07:37:42.527Z'
+ai_content_hash: 9a088d7011e74737dca8523384530dab
 ---
 
                                                                                                                       Gemeente

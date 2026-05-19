@@ -1,8 +1,43 @@
 ---
-title: "2024-06-11 Woo-verzoek correspondentie verduurzamen van 20 twee-onder-een-kap woningen aan Langbos"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-06-11 Woo-verzoek correspondentie verduurzamen van 20 twee-onder-een-kap woningen aan Langbos.pdf"
-date: 2026-05-19
+title: >-
+  2024-06-11 Woo-verzoek correspondentie verduurzamen van 20 twee-onder-een-kap
+  woningen aan Langbos
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-06-11 Woo-verzoek correspondentie verduurzamen van 20
+  twee-onder-een-kap woningen aan Langbos.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het besluit betreft de openbaarmaking van documenten met uitzondering van
+  persoonsgegevens, die zijn weggelakt om de persoonlijke levenssfeer te
+  beschermen. Het Woo-verzoek is gedeeltelijk toegewezen en de documenten worden
+  via beveiligde e-mail en op de website van de gemeente Coevorden beschikbaar
+  gesteld.
+milestones:
+  - date: '2023-12-19'
+    event: 'Bevestiging voorlopige planning van werkzaamheden op GN 7:6155.'
+  - date: '2023-12-21'
+    event: Overleg over geschikte bouwplaats locatie in Oosterhesselen.
+  - date: '2024-01-24'
+    event: Reactie gemeente Coevorden over bouwplaats.
+  - date: '2024-02-19'
+    event: Projectleiding neemt contact op voor afstemming op locatie.
+  - date: '2024-02-21'
+    event: Plegt-Vos vraagt om afstemming over bouwplaats.
+  - date: '2024-02-29'
+    event: Vraag naar voortgang van de reactie gemeente Coevorden.
+  - date: '2024-03-15'
+    event: Reactie gemeente Coevorden over bouwplaats.
+  - date: '2024-03-22'
+    event: Bespreking met bewoners over plaatsing van keten.
+  - date: '2024-04-29'
+    event: Indiening Woo-verzoek
+  - date: '2024-05-24'
+    event: Verzoek om contact per e-mail
+ai_processed_at: '2026-05-19T07:40:16.003Z'
+ai_content_hash: 3b0f4ea0f440c2474802dd2b28ed06fd
 ---
 
                                                                                                                       Gemeente

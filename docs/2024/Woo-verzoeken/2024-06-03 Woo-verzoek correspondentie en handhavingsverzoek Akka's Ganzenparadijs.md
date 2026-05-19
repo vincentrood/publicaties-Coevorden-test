@@ -1,8 +1,65 @@
 ---
-title: "2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek Akka's Ganzenparadijs.pdf"
-date: 2026-05-19
+title: 2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-06-03 Woo-verzoek correspondentie en
+  handhavingsverzoek Akka's Ganzenparadijs.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het college van burgemeester en wethouders van de gemeente Coevorden heeft
+  besloten om documenten openbaar te maken, met uitzondering van
+  persoonsgegevens, en heeft een handhavingsverzoek ontvangen met betrekking tot
+  illegale activiteiten van Stichting Akka's Ganzenparadijs. De gemeente heeft
+  de beslistermijn voor het handhavingsverzoek verlengd en is bezig met een
+  legalisatieonderzoek, terwijl er bezwaren zijn ingediend tegen het niet tijdig
+  beslissen op dit verzoek.
+milestones:
+  - date: '2021-02-26'
+    event: Vergunning feitelijk van rechtswege verleend.
+  - date: '2021-02-26'
+    event: Vergunning van rechtswege verleend
+  - date: '2021-03-31'
+    event: Besluit omgevingsvergunning verleend aan Stichting Akka’s Ganzenparadijs.
+  - date: '2021-08-19'
+    event: Advies Bezwaarschriftencommissie over de bezwaren uitgebracht.
+  - date: '2021-08-19'
+    event: Advies bezwaarschriftencommissie ontvangen
+  - date: '2021-09-28'
+    event: Besluit op bezwaar genomen door burgemeester en wethouders van Coevorden.
+  - date: '2021-09-28'
+    event: Besluit om aanvraag aan te vullen met voorschriften
+  - date: '2023-05-25'
+    event: Besluit van de gemeente tot last onder dwangsom.
+  - date: '2023-09-11'
+    event: >-
+      Zitting waarin mevrouw aangeeft dat Stichting Akka's Ganzenparadijs
+      documenten heeft geweigerd.
+  - date: '2023-09-15'
+    event: Verzoek tot handhavend optreden ingediend
+  - date: '2023-09-15'
+    event: Verzoek tot handhaving ingediend namens cliënten.
+  - date: '2023-11-09'
+    event: Brief van het college over niet tijdig beslissen
+  - date: '2023-11-09'
+    event: Brief van het college waarin de beslistermijn met 15 weken wordt verlengd.
+  - date: '2023-12-12'
+    event: Ingebrekestelling verzonden
+  - date: '2024-01-01'
+    event: Nieuwe griffierechten van toepassing.
+  - date: '2024-02-23'
+    event: Uiterste datum voor besluit op verzoek
+  - date: '2024-02-23'
+    event: Uiterste datum voor beslissing op het handhavingsverzoek.
+  - date: '2024-04-22'
+    event: Ontvangst Woo-verzoek door de gemeente.
+  - date: '2024-05-02'
+    event: Mededeling aan belanghebbenden over het indienen van een zienswijze.
+  - date: '2024-06-03'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-05-19T07:40:54.521Z'
+ai_content_hash: 5599638bf00b05733fc2f58eda746f97
 ---
 
                                                                            An

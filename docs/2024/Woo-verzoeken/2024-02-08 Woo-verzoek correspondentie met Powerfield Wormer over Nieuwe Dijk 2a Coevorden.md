@@ -1,8 +1,40 @@
 ---
-title: "2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk 2a Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk 2a Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk
+  2a Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-08 Woo-verzoek correspondentie met Powerfield
+  Wormer over Nieuwe Dijk 2a Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De brief betreft een aanvraagprocedure waarbij het college van burgemeester en
+  wethouders van Coevorden aangeeft dat de melding Activiteitenbesluit nog niet
+  volledig is en dat er vervolgonderzoek naar archeologische waarden nodig is.
+  Daarnaast worden de kosten van het vooroverleg en de leges voor de aanvraag
+  vermeld, evenals de verplichtingen voor energiebesparende maatregelen volgens
+  het Activiteitenbesluit.
+milestones:
+  - date: '2021-09-15'
+    event: Datum ontvangst behandelformulier omgevingsvergunning
+  - date: '2022-06-15'
+    event: Antwoorden AIM-sessie Agxwelt12pw
+  - date: '2022-12-13'
+    event: Ontbrekende gegevens opgevraagd
+  - date: '2022-12-15'
+    event: Ontbrekende gegevens ontvangen
+  - date: '2023-01-10'
+    event: Einde termijn uiterlijke indiening
+  - date: '2023-02-24'
+    event: Besluit van burgemeester en wethouders van Coevorden
+  - date: '2023-02-24'
+    event: 'Taak: Besluit controleren FD 26-3-2023'
+  - date: '2023-05-05'
+    event: Startmelding bouwwerkzaamheden
+ai_processed_at: '2026-05-19T07:43:32.279Z'
+ai_content_hash: b0c881fd0720113340f9cd75ae321621
 ---
 
      $'(/$$5                      9$67*2('217:,..(/,1*                                                                 %9

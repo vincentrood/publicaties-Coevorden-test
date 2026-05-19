@@ -1,8 +1,120 @@
 ---
-title: "2024-12-02 Woo-verzoek centralisatie milieustraten Wachtum"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-02 Woo-verzoek centralisatie milieustraten Wachtum.pdf"
-date: 2026-05-19
+title: 2024-12-02 Woo-verzoek centralisatie milieustraten Wachtum
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-12-02 Woo-verzoek centralisatie milieustraten
+  Wachtum.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om documenten openbaar te maken, met
+  uitzondering van persoonsgegevens, en heeft de haalbaarheid van een
+  gemeentewerf in combinatie met een milieustraat onderzocht. Dit onderzoek is
+  bedoeld om de basis te leggen voor verdere besluitvorming over de huisvesting
+  van de toekomstbestendige organisatie in de openbare ruimte.
+milestones:
+  - date: '2020-01-16'
+    event: CMT bijeenkomst
+  - date: '2020-01-21'
+    event: >-
+      Instemming met onderzoek naar een passende toekomstbestendige organisatie
+      in de openbare ruimte.
+  - date: '2020-01-21'
+    event: >-
+      Start extern onderzoek naar toekomstbestendige organisatie in de openbare
+      ruimte.
+  - date: '2020-01-21'
+    event: Startbijeenkomst
+  - date: '2020-05-16'
+    event: 1e nieuwsbrief
+  - date: '2020-07-03'
+    event: 2e nieuwsbrief
+  - date: '2020-09-21'
+    event: Terugkoppeling rapport
+  - date: '2020-09-24'
+    event: Terugkoppeling rapport
+  - date: '2020-11-02'
+    event: 3e nieuwsbrief
+  - date: '2020-12-31'
+    event: Oplevering rapportage met aanbevelingen van Buitenorganisatieadvies.
+  - date: '2021-01-31'
+    event: College besluit kennisnemen rapport
+  - date: '2021-02-01'
+    event: College besluit instemmen met wensbeeld
+  - date: '2021-03-01'
+    event: Raadsbesluit en serviceploegen
+  - date: '2021-03-02'
+    event: >-
+      Akkoord met aanbevelingen uit het rapport en instemming met de routekaart
+      voor uitwerking.
+  - date: '2021-03-02'
+    event: College gaat akkoord met aanbevelingen uit het rapport.
+  - date: '2021-03-03'
+    event: >-
+      Gemeenteraad geïnformeerd over voorkeurlocatie voor nieuwbouw
+      gemeentewerf.
+  - date: '2021-06-21'
+    event: Informatie bijeenkomsten
+  - date: '2021-06-22'
+    event: Informatie bijeenkomsten
+  - date: '2021-07-02'
+    event: Startbijeenkomst teamscan TORN TORZ
+  - date: '2021-10-01'
+    event: Info avond raad
+  - date: '2021-12-01'
+    event: Eindbespreking teamscan TORN TORZ
+  - date: '2022-01-01'
+    event: College vaststellen taken
+  - date: '2022-02-01'
+    event: Afspraken uitwerking acties teamscan
+  - date: '2022-03-01'
+    event: Plan aanpak haalbaarheid onderzoek
+  - date: '2022-03-29'
+    event: Instemming met het toekomstbeeld en verdere invulling.
+  - date: '2022-03-29'
+    event: >-
+      College stemt in met toekomstbeeld van de organisatie in de openbare
+      ruimte.
+  - date: '2022-12-10'
+    event: College neemt kennis van invulling uitvoerende taken van de buitendienst.
+  - date: '2023-01-01'
+    event: 'Overgang naar werken met serviceploegen, niet meer gebiedsgericht.'
+  - date: '2023-01-10'
+    event: >-
+      Kennisname van de invulling van de uitvoerende taken van de buitendienst
+      en instemming met het voorstel voor onderzoek naar de haalbaarheid van
+      nieuwbouw.
+  - date: '2023-01-31'
+    event: >-
+      Instemming van de gemeenteraad met het voorstel voor onderzoek naar de
+      haalbaarheid van nieuwbouw.
+  - date: '2023-01-31'
+    event: Gemeenteraad stemt in met haalbaarheidsonderzoek
+  - date: '2023-01-31'
+    event: >-
+      Raadsvergadering over de huisvesting van de toekomstbestendige organisatie
+      in de Openbare Ruimte.
+  - date: '2023-02-21'
+    event: Eerste verkenning bij de provincie
+  - date: '2023-04-18'
+    event: >-
+      Afspraken gemaakt over rol, verantwoordelijkheden, bevoegdheden en
+      kostenverdeling tussen de gemeente, Area en Enexis.
+  - date: '2023-07-01'
+    event: >-
+      IJkmoment voor formatie en functiebeschrijvingen van medewerkers van de
+      buitendienst.
+  - date: '2023-11-01'
+    event: >-
+      Verwachte beschikbaarheid van de resultaten van het
+      haalbaarheidsonderzoek.
+  - date: '2024-09-12'
+    event: Ontvangst van Woo-verzoek.
+  - date: '2024-12-02'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-05-19T07:35:58.303Z'
+ai_content_hash: fad6b0884c96b8864b479a1bfe9ae2e8
 ---
 
                                                                                                                                   Gemeente

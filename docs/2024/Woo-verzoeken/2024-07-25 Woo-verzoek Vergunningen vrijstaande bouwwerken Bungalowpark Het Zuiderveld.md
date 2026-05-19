@@ -1,8 +1,24 @@
 ---
-title: "2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken Bungalowpark Het Zuiderveld"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken Bungalowpark Het Zuiderveld.pdf"
-date: 2026-05-19
+title: >-
+  2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken Bungalowpark Het
+  Zuiderveld
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken
+  Bungalowpark Het Zuiderveld.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van een inwoner van Coevorden om openbaarmaking van
+  vergunningen voor bouwwerken op het park het Zuiderveld is geheel toegewezen,
+  met uitzondering van persoonsgegevens. De documenten worden gepubliceerd op de
+  website van de gemeente, waarbij de privacy van betrokkenen is gewaarborgd.
+milestones:
+  - date: '2024-07-25'
+    event: Verzenddatum van het Woo-verzoek besluit
+ai_processed_at: '2026-05-19T07:39:08.196Z'
+ai_content_hash: bdf2594d89667d96ab68a9487716effd
 ---
 
  Postadres:

@@ -1,8 +1,27 @@
 ---
-title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
-date: 2026-05-19
+title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
+  Wico.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om de documenten die zijn aangetroffen
+  naar aanleiding van een Woo-verzoek gedeeltelijk openbaar te maken, met
+  uitzondering van persoonsgegevens. Dit besluit is genomen op basis van de
+  overweging dat de persoonlijke levenssfeer van betrokkenen zwaarder weegt dan
+  het belang van openbaarheid van deze informatie.
+milestones:
+  - date: '2023-12-22'
+    event: Ontvangst Woo-verzoek
+  - date: '2023-12-22'
+    event: Ontvangstbevestiging Woo-verzoek gestuurd
+  - date: '2024-01-18'
+    event: Verzenddatum besluit Woo-verzoek
+ai_processed_at: '2026-05-19T07:45:28.151Z'
+ai_content_hash: d19e96e215f289ad436366b778bf4bae
 ---
 
                                                                                                    Gemeente

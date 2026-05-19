@@ -1,8 +1,29 @@
 ---
-title: "2024-01-09 Woo-verzoek correspondentie met en over Bartels Consultancy B.V. over Spoorhavenstraat 23 en 23a, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-09 Woo-verzoek correspondentie met en over Bartels Consultancy B.V. over Spoorhavenstraat 23 en 23a, Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-09 Woo-verzoek correspondentie met en over Bartels Consultancy B.V.
+  over Spoorhavenstraat 23 en 23a, Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-09 Woo-verzoek correspondentie met en over Bartels
+  Consultancy B.V. over Spoorhavenstraat 23 en 23a, Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van de aanvrager is afgewezen omdat er geen informatie is
+  gevonden met betrekking tot de gevraagde correspondentie over de locatie
+  Spoorhavenstraat 23 en 23a te Coevorden. De aanvrager kan binnen zes weken
+  bezwaar maken tegen dit besluit door een bezwaarschrift in te dienen bij de
+  gemeente Coevorden.
+milestones:
+  - date: '2023-12-09'
+    event: Indiening Woo-verzoek
+  - date: '2024-01-09'
+    event: Verzenddatum besluit
+  - date: '2024-12-12'
+    event: Ontvangst Woo-verzoek
+ai_processed_at: '2026-05-19T07:46:54.522Z'
+ai_content_hash: e1d6273f2a81484aeb9a95658764ed81
 ---
 
                                                                                                    Gemeente

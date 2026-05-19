@@ -1,8 +1,63 @@
 ---
-title: "2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8, Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8,
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-13 Woo-verzoek totstandkoming ontwerp
+  bestemmingsplan Europaweg 8, Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om documenten openbaar te maken, met
+  uitzondering van persoonsgegevens, die zijn weggelakt om de privacy te
+  waarborgen. Het besluit en de openbaargemaakte documenten worden gepubliceerd
+  op de gemeentelijke website, en belanghebbenden kunnen bezwaar maken tegen dit
+  besluit.
+milestones:
+  - date: '2020-05-19'
+    event: 'E-mail verzonden over Europaweg 8, Coevorden.'
+  - date: '2020-09-02'
+    event: Indiening van de tekening voor 2 compensatiewoningen op Europaweg 8.
+  - date: '2020-11-09'
+    event: >-
+      Vaststelling bestemmingsplan Kernen door de raad van de gemeente
+      Coevorden.
+  - date: '2021-11-18'
+    event: Principebesluit van het college van burgemeester en wethouders.
+  - date: '2021-12-07'
+    event: Nieuwe woonvisie door de gemeenteraad vastgesteld.
+  - date: '2021-12-19'
+    event: Behandeling van het plan in de collegevergadering.
+  - date: '2021-12-22'
+    event: Start van de inzagetermijn voor het bestemmingsplan.
+  - date: '2021-12-27'
+    event: Alternatieve startdatum voor de inzagetermijn na de kerstdagen.
+  - date: '2022-12-01'
+    event: >-
+      Ontwerpbestemmingsplan Europaweg 8 te Coevorden ter beoordeling voorgelegd
+      aan de RUD.
+  - date: '2023-03-22'
+    event: >-
+      Verzoek om advies uitgebracht op bestemmingsplan, partiële herziening voor
+      3 compensatiewoningen.
+  - date: '2023-05-15'
+    event: 'E-mail verzonden over concept bestemmingsplan Europaweg 8, Coevorden.'
+  - date: '2023-05-22'
+    event: 'E-mail verzonden over concept bestemmingsplan Europaweg 8, Coevorden.'
+  - date: '2023-09-04'
+    event: Digitale afspraak met de provincie over landschappelijke inpassing.
+  - date: '2023-12-22'
+    event: Ontwerpbestemmingsplan Europaweg 8 in Coevorden gepresenteerd.
+  - date: '2024-01-11'
+    event: 'Woo-verzoek ingediend m.b.t. Europaweg 8, Coevorden.'
+  - date: '2024-01-17'
+    event: Bevestiging ontvangen van Woo-verzoek.
+  - date: '2024-01-23'
+    event: Informatie over zienswijze ontvangen naar aanleiding van Woo-verzoek.
+ai_processed_at: '2026-05-19T07:43:07.612Z'
+ai_content_hash: e2dd7193f888a3dc97bdc3fe8582a762
 ---
 
                                                                                                       Gemeente

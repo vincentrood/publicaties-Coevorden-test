@@ -1,8 +1,31 @@
 ---
-title: "2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen.pdf"
-date: 2026-05-19
+title: '2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen'
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-12-16 Woo-verzoek informering fractievoorzitters Brink
+  9, Sleen.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het verzoek om openbaarmaking van documenten is toegewezen, met uitzondering
+  van persoonsgegevens die zijn weggelakt ter bescherming van de persoonlijke
+  levenssfeer. Namen van functionarissen zoals de burgemeester en wethouders
+  zijn wel openbaar gemaakt, en het besluit kan worden aangevochten via een
+  bezwaarschrift.
+milestones:
+  - date: '2023-04-15'
+    event: E-mail verzonden door fractievoorzitters.
+  - date: '2023-04-23'
+    event: Ontvangstbevestiging van een Woo-verzoek.
+  - date: '2023-04-24'
+    event: Bespreking over het Woo-verzoek.
+  - date: '2024-01-02'
+    event: Indiening van een Woo-verzoek.
+  - date: '2024-12-16'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_processed_at: '2026-05-19T07:34:31.736Z'
+ai_content_hash: 875120017d0071c8fb31d80633685ec6
 ---
 
                                                                                                                                                 Gemeente

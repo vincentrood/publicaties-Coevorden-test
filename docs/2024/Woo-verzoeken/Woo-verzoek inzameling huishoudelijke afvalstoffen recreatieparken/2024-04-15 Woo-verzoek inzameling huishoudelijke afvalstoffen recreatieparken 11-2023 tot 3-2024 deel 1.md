@@ -1,8 +1,79 @@
 ---
-title: "2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 1"
-maps: ["2024","Woo-verzoeken","Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken"]
-source: "2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 1.pdf"
-date: 2026-05-19
+title: >-
+  2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+  11-2023 tot 3-2024 deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+source: >-
+  2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken 11-2023 tot 3-2024 deel 1.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een WOO-verzoek ontvangen voor informatie over de
+  afvalstoffenverordening en het bijbehorende uitvoeringsbesluit, inclusief de
+  voorbereiding en totstandkoming van deze documenten. De gevraagde informatie
+  wordt openbaar gemaakt, met uitzondering van persoonsgegevens, en de
+  afvalstoffenverordening 2024 is vastgesteld om te voldoen aan de actuele wet-
+  en regelgeving.
+milestones:
+  - date: '2020-07-01'
+    event: >-
+      Implementatie van artikelen 2 en 3 van het Besluit GIHA, waarmee gemeenten
+      wettelijk verplicht zijn om GFT, papier, PMD, glas en elektronische
+      apparatuur gescheiden in te zamelen.
+  - date: '2021-03-01'
+    event: Nieuwe model-afvalstoffenverordening gepresenteerd door de VNG.
+  - date: '2023-01-01'
+    event: Beleid omtrent afvalinzameling op recreatieparken vastgesteld.
+  - date: '2023-01-01'
+    event: Beleidsplan Afval en Grondstoffen 2023-2027 vastgesteld.
+  - date: '2023-08-29'
+    event: >-
+      College stemt in met nieuwe categorie 'recreatiewoningen' in
+      afvalstoffenheffing.
+  - date: '2023-11-02'
+    event: Raadsvergadering over belastingverordeningen 2024.
+  - date: '2023-11-07'
+    event: Terinzagelegging ontwerp-afvalstoffenverordening gemeente Coevorden 2024.
+  - date: '2023-11-14'
+    event: Besluit belastingverordeningen 2024.
+  - date: '2023-12-04'
+    event: 'Onderwerp: Uw afvalinzameling per 1 juli 2024.'
+  - date: '2023-12-18'
+    event: 'Onderwerp: Uw afvalinzameling per 1 juli 2024.'
+  - date: '2024-01-01'
+    event: >-
+      Ontwerp-afvalstoffenverordening gemeente Coevorden 2024 ter inzage gelegd
+      voor inspraak.
+  - date: '2024-01-23'
+    event: Afvalstoffenverordening gemeente Coevorden 2024.
+  - date: '2024-01-23'
+    event: Voorstel van burgemeester en wethouders over afvalstoffenverordening.
+  - date: '2024-01-23'
+    event: Voorstel van burgemeester en wethouders gepresenteerd
+  - date: '2024-02-26'
+    event: >-
+      Terinzagelegging ontwerp-uitvoeringsbesluit krachtens de
+      Afvalstoffenverordening gemeente Coevorden 2024.
+  - date: '2024-02-27'
+    event: Raad van gemeente Coevorden stelt afvalstoffenverordening 2024 vast.
+  - date: '2024-02-27'
+    event: Afvalstoffenverordening gemeente Coevorden vastgesteld
+  - date: '2024-03-05'
+    event: >-
+      Uitvoeringsbesluit krachtens de Afvalstoffenverordening gemeente Coevorden
+      2024.
+  - date: '2024-07-01'
+    event: Start van afvalinzameling op recreatieparken.
+  - date: '2024-07-01'
+    event: Start gemeentelijke inzameling bij recreatiewoningen
+  - date: '2025-01-01'
+    event: Textiel en gevaarlijke afvalstoffen moeten gescheiden worden ingezameld.
+ai_processed_at: '2026-05-19T07:48:28.160Z'
+ai_content_hash: cf7d27e3bcbf88931fe476111f7ff79c
 ---
 
  Postadres:

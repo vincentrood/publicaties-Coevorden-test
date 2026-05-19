@@ -1,8 +1,64 @@
 ---
-title: "2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over Wilhelminasingel 171, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over Wilhelminasingel 171, Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over
+  Wilhelminasingel 171, Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle
+  over Wilhelminasingel 171, Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om een Woo-verzoek gedeeltelijk toe te
+  wijzen, waarbij documenten openbaar worden gemaakt met uitzondering van
+  persoonsgegevens. Belanghebbenden kunnen binnen zes weken bezwaar maken tegen
+  dit besluit.
+milestones:
+  - date: '2021-04-23'
+    event: oorspronkelijke datum
+  - date: '2021-04-23'
+    event: 'Oorspronkelijke datum model 3 - 6,5 bouwlaag'
+  - date: '2021-04-30'
+    event: Ontvangst verzoek om vooroverleg inzake appartementencomplex
+  - date: '2021-04-30'
+    event: datum modelleur
+  - date: '2021-05-04'
+    event: Verzenddatum ontvangstbevestiging
+  - date: '2021-05-07'
+    event: Telefonisch overleg over initiatiefoverleg
+  - date: '2021-05-10'
+    event: 'Doorgestuurd naar RUD: zaak Z2021-004929'
+  - date: '2021-05-12'
+    event: Op agenda RO
+  - date: '2021-06-14'
+    event: Intern overleg over locatie
+  - date: '2021-07-01'
+    event: Overleg met betrokken partijen over appartementen voor oudere doelgroep
+  - date: '2021-09-06'
+    event: Gesprek met architect van AM Architecten
+  - date: '2022-02-07'
+    event: Datum van overleg plannen
+  - date: '2022-03-18'
+    event: Ontvangst verzoek om vooroverleg voor het bouwen van een woning
+  - date: '2022-04-19'
+    event: Nieuwe aanvraag ontvangen onder Z2022-003306
+  - date: '2022-05-12'
+    event: Vazet heeft zich teruggetrokken
+  - date: '2023-12-09'
+    event: Verzoek gedaan op grond van de Wet open overheid
+  - date: '2023-12-09'
+    event: Indiening Woo-verzoek
+  - date: '2023-12-12'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-01-30'
+    event: Verzenddatum besluit op Woo-verzoek
+  - date: '2024-01-30'
+    event: Besluit gedeeltelijke toewijzing Woo-verzoek
+  - date: '2024-02-14'
+    event: Verstrekken van informatie na termijn van twee weken
+ai_processed_at: '2026-05-19T07:44:00.479Z'
+ai_content_hash: 8faaa3281dccb51b07c2664b8f785995
 ---
 
                                                                                        Gemeente

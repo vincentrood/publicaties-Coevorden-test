@@ -1,8 +1,98 @@
 ---
-title: "2024-03-13 Woo-verzoek interne communicatie rondom weigeren omgevingsvergunning padelbanen Coevorder Tennisclub"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-03-13 Woo-verzoek interne communicatie rondom weigeren omgevingsvergunning padelbanen Coevorder Tennisclub.pdf"
-date: 2026-05-19
+title: >-
+  2024-03-13 Woo-verzoek interne communicatie rondom weigeren
+  omgevingsvergunning padelbanen Coevorder Tennisclub
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-03-13 Woo-verzoek interne communicatie rondom weigeren
+  omgevingsvergunning padelbanen Coevorder Tennisclub.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van de Tennisvereniging Sleen betreft de aanvraag voor de bouw
+  van padelbanen, waarbij de gemeente Coevorden heeft vastgesteld dat de
+  aanvraag voldoet aan de relevante wet- en regelgeving. Er zijn echter zorgen
+  geuit door omwonenden over geluidsoverlast, wat heeft geleid tot een verzoek
+  om maatwerkvoorschriften en een mogelijke opschorting van de beslistermijn
+  voor de vergunningaanvraag.
+milestones:
+  - date: '2022-02-28'
+    event: Ontvangst aanvraag omgevingsvergunning voor bouw/aanleg 2 padelbanen.
+  - date: '2022-02-28'
+    event: >-
+      CTC heeft een omgevingsvergunning aangevraagd voor de bouw- en
+      aanlegactiviteiten.
+  - date: '2022-02-28'
+    event: Aanvraag omgevingsvergunning Z2022-002414 ontvangen
+  - date: '2022-04-21'
+    event: >-
+      Ontvangst advies RUD over geluidsrapport dat als bijlage bij de
+      bouwaanvraag was ingediend.
+  - date: '2022-09-14'
+    event: Informatiebijeenkomst CTC voor omwonenden.
+  - date: '2022-09-15'
+    event: >-
+      Leden van de raad worden benaderd door mw. met een felle reactie op de
+      aanvraag van CTC.
+  - date: '2022-12-12'
+    event: >-
+      Signalering van omwonenden dat ze in gesprek willen met het
+      gemeentebestuur.
+  - date: '2022-12-17'
+    event: >-
+      Raadsleden worden opnieuw benaderd door mw. over het gebrek aan gesprek
+      met omwonenden.
+  - date: '2023-01-01'
+    event: >-
+      Tennisvereniging Sleen heeft een omgevingsvergunning voor de
+      bouwactiviteiten aangevraagd.
+  - date: '2023-01-13'
+    event: Gesprek wethouder met omwonenden van tennisbanen CTC.
+  - date: '2023-01-24'
+    event: Commissievergadering gemeenteraad over aanvragen voor padelbanen.
+  - date: '2023-02-01'
+    event: Aanvraag krijgt een andere behandelaar.
+  - date: '2023-02-24'
+    event: >-
+      Verzoek om verlenging van de beslistermijn voor de aanvraag
+      omgevingsvergunning is ingediend.
+  - date: '2023-02-24'
+    event: Verzoek verlenging beslistermijn na overleg
+  - date: '2023-02-27'
+    event: CTC reageert op de genoemde opties.
+  - date: '2023-02-27'
+    event: >-
+      CTC heeft aangegeven niet in te stemmen met de voorgestelde opschorting
+      van de beslistermijn.
+  - date: '2023-02-28'
+    event: Beslistermijn voor de aanvraag omgevingsvergunning verstrijkt.
+  - date: '2023-03-16'
+    event: Besluit reguliere procedure verzonden
+  - date: '2023-03-17'
+    event: Gesprek wethouder met groep omwonenden.
+  - date: '2023-03-23'
+    event: Verzoek om verdere opschorting van de beslistermijn
+  - date: '2023-03-31'
+    event: >-
+      Wettelijke termijn om op de aanvraag omgevingsvergunning te beslissen
+      verstrijkt
+  - date: '2023-04-25'
+    event: Gesprek wethouder met bestuur CTC.
+  - date: '2023-05-15'
+    event: Bespreking concept college voorstel beslissing op aanvraag in PFO.
+  - date: '2023-05-23'
+    event: Raad neemt motie aan over de aanvraag omgevingsvergunning.
+  - date: '2023-07-08'
+    event: Brief van CTC ontvangen met hun reactie op het gesprek.
+  - date: '2023-07-17'
+    event: Brief besproken in PFO.
+  - date: '2023-09-26'
+    event: Besluit omgevingsvergunning geweigerd voor het plaatsen van padelbanen.
+  - date: '2023-10-15'
+    event: WOO-verzoek ingediend.
+ai_processed_at: '2026-05-19T07:42:11.683Z'
+ai_content_hash: c19b9a4b89570c5b3cc8137c104b2373
 ---
 
                                                                                            Gemeente

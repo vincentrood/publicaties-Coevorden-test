@@ -1,8 +1,96 @@
 ---
-title: "2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt nieuw te bouwen schuur aan de Klenkerweg"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt nieuw te bouwen schuur aan de Klenkerweg.pdf"
-date: 2026-05-19
+title: >-
+  2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt nieuw te
+  bouwen schuur aan de Klenkerweg
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen
+  mbt nieuw te bouwen schuur aan de Klenkerweg.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het verzoek om openbaarmaking van documenten is toegewezen, met uitzondering
+  van persoonsgegevens die zijn weggelakt om de privacy te waarborgen. De
+  documenten, inclusief het besluit en bijlagen, worden gepubliceerd op de
+  website van de gemeente Coevorden.
+milestones:
+  - date: '2023-07-20'
+    event: >-
+      Quickscan ingediend voor het uitbreiden van de bebouwing en het realiseren
+      van een extra uitrit.
+  - date: '2023-07-20'
+    event: Toelichting Quickscan aanvraag 'Z2023-019045' verzonden.
+  - date: '2023-11-13'
+    event: >-
+      Aanvraag voor het bouwen en uitbreiden van schuren is voor advies
+      binnengekomen bij de gemeentelijke adviescommissie.
+  - date: '2023-12-19'
+    event: >-
+      Aanvraag omgevingsvergunning ontvangen voor uitbreiding bebouwing en
+      toevoeging uitrit.
+  - date: '2024-01-16'
+    event: >-
+      Verzenddatum van verzoek aanvullende gegevens aanvraag reguliere
+      procedure.
+  - date: '2024-01-16'
+    event: >-
+      Aanvraag voor het bouwen van een werktuigloods van 30x20x8 op het erf
+      besproken.
+  - date: '2024-01-18'
+    event: Positief welstandsadvies ontvangen voor de aanvraag.
+  - date: '2024-01-22'
+    event: >-
+      E-mail verzonden over de uitbreiding van de bebouwing en het realiseren
+      van een extra uitrit.
+  - date: '2024-01-23'
+    event: Aanvraag besproken; aanvullende informatie opgevraagd.
+  - date: '2024-01-30'
+    event: >-
+      Reactie op verzoek om aanvullende gegevens met betrekking tot AIM-melding
+      activiteitenbesluit.
+  - date: '2024-01-31'
+    event: Bespreking over de bouwplannen en mogelijke bezwaren.
+  - date: '2024-02-07'
+    event: Positief welstandsadvies ontvangen voor de aanvraag.
+  - date: '2024-02-07'
+    event: >-
+      E-mail verzonden met verzoek om onderbouwing bij het positieve
+      welstandsadvies.
+  - date: '2024-02-08'
+    event: E-mail over de status van de aanvraag en verzoek om overleg.
+  - date: '2024-02-16'
+    event: E-mail verzonden over uitbreiding bedrijfsgebouwen.
+  - date: '2024-02-19'
+    event: E-mail verzonden met aanvraagdetails.
+  - date: '2024-02-20'
+    event: E-mail over de voortgang van de aanvraag.
+  - date: '2024-02-21'
+    event: Ontvangst van advies over de aanvraag.
+  - date: '2024-02-21'
+    event: Ontvangstbevestiging van de melding Ab verzonden.
+  - date: '2024-02-26'
+    event: Tekeningen gecontroleerd; correcties aangevraagd.
+  - date: '2024-02-27'
+    event: Bevestiging dat er geen bezwaren zijn tegen de uitbreiding/wijziging.
+  - date: '2024-02-27'
+    event: E-mail verzonden met bevestiging van geen problemen vanuit RUD.
+  - date: '2024-03-28'
+    event: >-
+      Uitweg afspraak besproken; vergunning voor bouwen verleend, maar uitweg
+      geweigerd.
+  - date: '2024-04-04'
+    event: Herziene tekeningen van de schuren verzonden.
+  - date: '2024-04-26'
+    event: Opvolging van de aanvraag besproken.
+  - date: '2024-07-23'
+    event: Indiening van Woo-verzoek met zaaknummer 42688-2024.
+  - date: '2024-08-12'
+    event: Bevestiging van ontvangst van het Woo-verzoek.
+  - date: '2024-09-03'
+    event: Verzenddatum van documenten aangetroffen in zaaksystemen.
+ai_processed_at: '2026-05-19T07:37:30.687Z'
+ai_content_hash: fdbb344d12a97757a14661eab52d0481
 ---
 
                                                                                            Gemeente

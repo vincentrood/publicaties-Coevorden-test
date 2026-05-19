@@ -1,8 +1,30 @@
 ---
-title: "2024-10-30 Woo-verzoek correspondentie, notulen ed. tussen gemeente Coevorden en provincie Drenthe WICO 1"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-10-30 Woo-verzoek correspondentie, notulen ed. tussen gemeente Coevorden en provincie Drenthe WICO 1.pdf"
-date: 2026-05-19
+title: >-
+  2024-10-30 Woo-verzoek correspondentie, notulen ed. tussen gemeente Coevorden
+  en provincie Drenthe WICO 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-10-30 Woo-verzoek correspondentie, notulen ed. tussen
+  gemeente Coevorden en provincie Drenthe WICO 1.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft het Woo-verzoek afgewezen omdat er geen documenten
+  zijn aangetroffen die aan de verzoeken voldoen. Het besluit is gemotiveerd op
+  basis van de Wet open overheid, die bepaalt dat alleen bestaande documenten
+  openbaar gemaakt hoeven te worden.
+milestones:
+  - date: '2024-09-25'
+    event: Indiening Woo-verzoek door de verzoeker.
+  - date: '2024-09-25'
+    event: Ontvangst Woo-verzoek door de gemeente Coevorden.
+  - date: '2024-10-17'
+    event: Beslistermijn verlengd met 2 weken.
+  - date: '2024-10-30'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-05-19T07:36:43.125Z'
+ai_content_hash: d9cd0bef238766e14e3a10f5d905c274
 ---
 
  Postadres:

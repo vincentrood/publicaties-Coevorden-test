@@ -1,8 +1,30 @@
 ---
-title: "2024-01-08 Woo-verzoek correspondentie tussen gemeente Coevorden en Makelaardij Venhorst over Wilhelminasingel 171, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-08 Woo-verzoek correspondentie tussen gemeente Coevorden en Makelaardij Venhorst over Wilhelminasingel 171, Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-08 Woo-verzoek correspondentie tussen gemeente Coevorden en
+  Makelaardij Venhorst over Wilhelminasingel 171, Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-08 Woo-verzoek correspondentie tussen gemeente
+  Coevorden en Makelaardij Venhorst over Wilhelminasingel 171, Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft het Woo-verzoek van 9 december 2023 afgewezen,
+  omdat er geen informatie is gevonden met betrekking tot de gevraagde
+  correspondentie over Makelaardij Venhorst. Tegen dit besluit kan binnen zes
+  weken bezwaar worden gemaakt bij het college van burgemeester en wethouders.
+milestones:
+  - date: '2023-12-09'
+    event: Verzoek gedaan op grond van de Wet open overheid (Woo).
+  - date: '2023-12-09'
+    event: Besluit genomen om het Woo-verzoek af te wijzen.
+  - date: '2023-12-12'
+    event: Woo-verzoek ontvangen en geregistreerd onder zaaknummer 65379-2023.
+  - date: '2024-01-08'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-05-19T07:47:13.263Z'
+ai_content_hash: 02b503d7cff6957452a7bddc777ae790
 ---
 
                                                                                     Gemeente

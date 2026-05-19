@@ -1,8 +1,78 @@
 ---
-title: "2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 2"
-maps: ["2024","Woo-verzoeken","Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken"]
-source: "2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 2.pdf"
-date: 2026-05-19
+title: >-
+  2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+  11-2023 tot 3-2024 deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+source: >-
+  2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken 11-2023 tot 3-2024 deel 2.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft plannen voor de afvalinzameling op park
+  Zuiderveld, waarbij huis-aan-huisinzameling met een achterlader niet mogelijk
+  is door gebrek aan toestemming van de VvE. Totdat er overleg heeft
+  plaatsgevonden, wordt de huidige situatie bevroren en zullen er geen
+  minicontainers of milieupassen worden uitgeleverd aan eigenaren van
+  recreatiewoningen.
+milestones:
+  - date: '2021-03-01'
+    event: VNG ledenbrief met bijlage 3/4 over afvalstoffenverordening.
+  - date: '2022-01-01'
+    event: Inwerkingtreding van de Omgevingswet (Ow).
+  - date: '2023-10-03'
+    event: >-
+      Wethouder Huizing geeft aan dat er bewust geen inspraak is geweest door
+      belanghebbenden.
+  - date: '2023-11-06'
+    event: PFO voor afvalstoffenverordening gemeente Coevorden 2024
+  - date: '2023-11-07'
+    event: >-
+      Ontwerp-afvalstoffenverordening gemeente Coevorden 2024 vastgesteld voor
+      inspraak.
+  - date: '2023-11-20'
+    event: Ontwerp-afvalstoffenverordening gemeente Coevorden 2024 ter inzage.
+  - date: '2023-11-20'
+    event: >-
+      Ontwerp-afvalstoffenverordening gemeente Coevorden 2024 ter inzage gelegd
+      voor een periode van 6 weken.
+  - date: '2023-12-18'
+    event: Zienswijze 66318-2023 ingediend
+  - date: '2023-12-29'
+    event: Zienswijze 165-2024 ingediend
+  - date: '2023-12-29'
+    event: Zienswijze 272-2024 ingediend
+  - date: '2023-12-31'
+    event: >-
+      Einde van de inzageperiode voor de ontwerp-afvalstoffenverordening
+      gemeente Coevorden 2024.
+  - date: '2024-01-01'
+    event: Verordening treedt in werking.
+  - date: '2024-01-01'
+    event: Datum van ingang van de heffing.
+  - date: '2024-01-01'
+    event: Gemeente Coevorden start met inzameling bij recreatiewoningen.
+  - date: '2024-01-01'
+    event: Start van de nieuwe afvalinzameling bij recreatiewoningen.
+  - date: '2024-01-08'
+    event: Zienswijze 3713-2024 ingediend
+  - date: '2024-01-15'
+    event: PFO voor bespreking afvalstoffenverordening gemeente Coevorden 2024
+  - date: '2024-02-05'
+    event: Notitie beantwoording zienswijzen verzonden
+  - date: '2024-07-01'
+    event: >-
+      Afwijking van de voorgeschreven wekelijkse inzameling bij
+      recreatiewoningen.
+  - date: '2024-07-01'
+    event: Gemeentelijke inzameling bij recreatiewoningen gaat van start.
+  - date: '2025-01-01'
+    event: Nieuwe structuur afvalstoffenheffing wordt ingevoerd.
+ai_processed_at: '2026-05-19T07:47:50.492Z'
+ai_content_hash: b8676d87b68330e60eca5bfbd485269c
 ---
 
  Artikel 10         Vermindering                extra container          voor   medisch afval

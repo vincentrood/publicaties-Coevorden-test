@@ -1,8 +1,28 @@
 ---
-title: "2024-07-10 Woo-verzoek gespreksverslagen voormalig restaurant"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-10 Woo-verzoek gespreksverslagen voormalig restaurant.pdf"
-date: 2026-05-19
+title: 2024-07-10 Woo-verzoek gespreksverslagen voormalig restaurant
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-10 Woo-verzoek gespreksverslagen voormalig
+  restaurant.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek met kenmerk 32423-2024 is ingediend op 31 mei 2024 en betreft
+  de opvraging van documenten over het voormalige restaurant in Schoonoord. Het
+  verzoek is afgewezen omdat er geen relevante documenten zijn aangetroffen
+  tijdens de inventarisatie.
+milestones:
+  - date: '2024-05-31'
+    event: Indiening Woo-verzoek
+  - date: '2024-06-03'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-06-26'
+    event: Brief gestuurd over ontvangst en verlenging beslistermijn
+  - date: '2024-07-10'
+    event: Verzenddatum afwijzingsbesluit
+ai_processed_at: '2026-05-19T07:39:14.344Z'
+ai_content_hash: 8b0447a57701ffecb0ea6b005c28934f
 ---
 
                                                                                                                             Gemeente

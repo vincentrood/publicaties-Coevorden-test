@@ -1,8 +1,31 @@
 ---
-title: "2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen.pdf"
-date: 2026-05-19
+title: 2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-11-08 Woo-verzoek besluit invorderen dwangsom
+  zonnepanelen.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen met betrekking tot de
+  besluitvorming over de invordering van een dwangsom van €2.000,- en heeft de
+  documenten beoordeeld op basis van de Wet open overheid. Er zijn geen
+  documenten aangetroffen buiten het procesdossier, met uitzondering van één
+  document dat is verzonden aan derden.
+milestones:
+  - date: '2022-05-01'
+    event: >-
+      Ingang van de Wet open overheid (WOO), vervangt de Wet openbaarheid van
+      bestuur (Wob)
+  - date: '2024-08-12'
+    event: 'Besluit tot invordering van een dwangsom van €2.000,- verzonden'
+  - date: '2024-10-09'
+    event: Ontvangst van WOO-verzoek inzake besluit Z2024-010031
+  - date: '2024-11-08'
+    event: Verzenddatum van de reactie op het WOO-verzoek
+ai_processed_at: '2026-05-19T07:36:05.502Z'
+ai_content_hash: 645a427f6bad721538d393d37c26d58a
 ---
 
  Postadres:

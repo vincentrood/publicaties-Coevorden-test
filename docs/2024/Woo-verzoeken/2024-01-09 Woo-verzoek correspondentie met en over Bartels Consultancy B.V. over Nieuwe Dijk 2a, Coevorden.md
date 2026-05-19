@@ -1,8 +1,31 @@
 ---
-title: "2024-01-09 Woo-verzoek correspondentie met en over Bartels Consultancy B.V. over Nieuwe Dijk 2a, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-09 Woo-verzoek correspondentie met en over Bartels Consultancy B.V. over Nieuwe Dijk 2a, Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-09 Woo-verzoek correspondentie met en over Bartels Consultancy B.V.
+  over Nieuwe Dijk 2a, Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-09 Woo-verzoek correspondentie met en over Bartels
+  Consultancy B.V. over Nieuwe Dijk 2a, Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft het Woo-verzoek van Adelaar Vastgoedontwikkeling
+  B.V. afgewezen, omdat er geen informatie is gevonden met betrekking tot de
+  locatie Nieuwe Dijk 2a en Bartels Consultancy B.V. in de gevraagde periode.
+  Tegen dit besluit kan binnen zes weken bezwaar worden gemaakt bij het
+  bestuursorgaan.
+milestones:
+  - date: '2023-12-09'
+    event: Indiening Woo-verzoek
+  - date: '2023-12-09'
+    event: Verzenddatum besluit
+  - date: '2023-12-12'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-01-09'
+    event: Verzenddatum vervolgcorrespondentie
+ai_processed_at: '2026-05-19T07:47:03.947Z'
+ai_content_hash: 9a328e7741357feab6646cb6e5bf978b
 ---
 
  Postadres:

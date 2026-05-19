@@ -1,8 +1,75 @@
 ---
-title: "2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-10-31 Woo-verzoek correspondentie herontwikkeling
+  Nieuwe Dijk 2a Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het college van de gemeente Coevorden heeft in principe medewerking verleend
+  aan de nieuwbouw van bedrijfsunits aan de Nieuwe Dijk 2a, ondanks dat het
+  verzoek in strijd is met het bestemmingsplan op het gebied van
+  bebouwingsoppervlakte en goothoogte. De initiatiefnemers kunnen een aanvraag
+  voor een omgevingsvergunning indienen om de plannen te realiseren, waarbij
+  aandachtspunten zoals parkeren en externe veiligheid in acht moeten worden
+  genomen.
+milestones:
+  - date: '2023-06-21'
+    event: QuickScan aanvraag ingediend voor nieuwbouw bedrijfsunits Nieuwe Dijk 2a
+  - date: '2023-06-21'
+    event: >-
+      QuickScan Aanvraag ingediend voor nieuwbouw bedrijfsunits aan de Nieuwe
+      Dijk 2a in Coevorden.
+  - date: '2023-06-21'
+    event: >-
+      QuickScan Aanvraag ingediend voor de nieuwbouw van bedrijfsunits aan de
+      Nieuwe Dijk 2a in Coevorden
+  - date: '2023-06-21'
+    event: Ontvangst aanvraag voor nieuwbouw van bedrijfsunits
+  - date: '2023-07-26'
+    event: Verzoek om leidinggegevens door Omgevingscoach
+  - date: '2023-09-14'
+    event: Behandeling verzoek herontwikkeling Nieuwe Dijk 2a op de Omgevingstafel
+  - date: '2023-09-14'
+    event: Verzoek (Quickscan) behandeld op de Omgevingstafel.
+  - date: '2023-09-14'
+    event: Verzoek (Quickscan) behandeld op de Omgevingstafel
+  - date: '2023-11-30'
+    event: Advies van de Omgevingstafel aan het college over het plan
+  - date: '2024-01-31'
+    event: Advies van het college van burgemeester en wethouders
+  - date: '2024-03-28'
+    event: >-
+      Pers heeft interesse getoond in het collegebesluit over de nieuwe
+      bedrijfsunits.
+  - date: '2024-06-17'
+    event: >-
+      Initiatiefnemers vragen om een afspraak om de definitieve plannen te
+      bespreken.
+  - date: '2024-06-17'
+    event: Bute Bouw heeft alle stukken voor de vergunning uitgewerkt
+  - date: '2024-06-18'
+    event: >-
+      Afspraak gepland om de definitieve plannen voor de Nieuwe Dijk 2a te
+      bespreken.
+  - date: '2024-06-18'
+    event: Bute Bouw vraagt om een afspraak met de bouwer en architect
+  - date: '2024-07-01'
+    event: >-
+      Initiatiefnemers vragen om een afspraak om de aanvraag en uitgangspunten
+      door te nemen.
+  - date: '2024-08-06'
+    event: Omgevingscoach verstuurt e-mail over collegebesluit.
+  - date: '2024-08-06'
+    event: Omgevingscoach vraagt om reactie van Bute Bouw
+  - date: '2024-10-07'
+    event: Ontvangst Woo-verzoek over documenten betreffende Nieuwe Dijk 2a
+ai_processed_at: '2026-05-19T07:36:37.079Z'
+ai_content_hash: 199d88ae2352b67f6549e66ab60e600d
 ---
 
 Bostadhes:

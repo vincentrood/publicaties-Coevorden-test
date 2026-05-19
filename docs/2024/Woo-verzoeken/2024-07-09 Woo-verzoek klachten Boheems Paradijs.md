@@ -1,8 +1,22 @@
 ---
-title: "2024-07-09 Woo-verzoek klachten Boheems Paradijs"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-09 Woo-verzoek klachten Boheems Paradijs.pdf"
-date: 2026-05-19
+title: 2024-07-09 Woo-verzoek klachten Boheems Paradijs
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-07-09 Woo-verzoek klachten Boheems Paradijs.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het verzoek om openbaarmaking van documenten met betrekking tot een klacht is
+  afgewezen omdat het document onleesbaar is geworden na het lakken, waardoor
+  het niet kan worden verstrekt. Het besluit en de eventueel openbaargemaakte
+  documenten worden gepubliceerd op de website van de gemeente Coevorden.
+milestones:
+  - date: '2024-06-13'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-07-01'
+    event: Besluit Woo-verzoek verzonden
+ai_processed_at: '2026-05-19T07:39:27.153Z'
+ai_content_hash: 3bdd8e605bd1a82d5123aa7365deab84
 ---
 
                                                                                              Gemeente

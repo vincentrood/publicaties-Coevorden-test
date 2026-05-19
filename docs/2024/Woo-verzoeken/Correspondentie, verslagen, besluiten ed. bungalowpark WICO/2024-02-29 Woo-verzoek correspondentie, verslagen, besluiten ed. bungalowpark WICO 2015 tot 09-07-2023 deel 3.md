@@ -1,8 +1,82 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 3
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een WOO-verzoek ontvangen met betrekking tot het
+  Vakantiepark Wico, waarin om informatie wordt gevraagd over de besluitvorming
+  en communicatie rondom permanente bewoning en toekomstplannen voor het park.
+  Er zijn zorgen over geluidshinder en de status van recreatiewoningen, die
+  mogelijk als reguliere woningen kunnen worden aangemerkt, afhankelijk van de
+  geldende wet- en regelgeving.
+milestones:
+  - date: '2020-01-24'
+    event: 'Opening, mededelingen en ingekomen stukken'
+  - date: '2020-05-28'
+    event: Verzending e-mail over opbrengst startbijeenkomst
+  - date: '2021-02-22'
+    event: Project opdracht voor vitalisering van vakantieparken
+  - date: '2021-03-02'
+    event: Definitieve versie van project opdracht
+  - date: '2022-03-01'
+    event: Informerend gesprek
+  - date: '2022-03-29'
+    event: >-
+      Informatief gesprek met mevrouw over Bungalowpark Wico en handhaving op
+      permanente bewoning.
+  - date: '2022-05-31'
+    event: WOO-verzoek gedaan bij de gemeente Coevorden over Bungalowpark Wico.
+  - date: '2022-05-31'
+    event: WOO verzoek
+  - date: '2022-07-01'
+    event: Gesprek over WICO en start project
+  - date: '2022-11-01'
+    event: Contact gezocht voor een afspraak
+  - date: '2022-11-30'
+    event: Gebeld door mevrouw met verzoek tot het maken van een afspraak.
+  - date: '2022-12-01'
+    event: Afspraak afgezegd vanwege Corona
+  - date: '2022-12-19'
+    event: Gesprek ingepland met projectmanagers VVP Gemeente Coevorden.
+  - date: '2023-02-20'
+    event: Kennismakingsgesprek en vragen naar mogelijke samenwerking
+  - date: '2023-03-08'
+    event: Informatiebrief naar alle eigenaren
+  - date: '2023-04-01'
+    event: Persoonlijk gesprek om te inventariseren
+  - date: '2023-04-15'
+    event: WOO-verzoek gedaan om informatie over Wico.
+  - date: '2023-05-10'
+    event: Informerende brief Raad over VVPC project WICO
+  - date: '2023-05-23'
+    event: B & W vergadering over vervolgstappen
+  - date: '2023-05-24'
+    event: Bijeenkomsten georganiseerd door projectteam over het project.
+  - date: '2023-05-24'
+    event: Bijeenkomsten met alle eigenaren over het project
+  - date: '2023-05-31'
+    event: Afzegging en verzoek om foto's van banden
+  - date: '2023-06-01'
+    event: Start van meerdere bijeenkomsten voor toekomstplan Wico.
+  - date: '2023-06-01'
+    event: Meerdere bijeenkomsten voor toekomstplan
+  - date: '2023-09-01'
+    event: Start handhaving door de gemeente.
+  - date: '2023-09-01'
+    event: Start handhaving
+  - date: '2023-12-31'
+    event: Eind 2023-begin 2024 toekomstplan Wico.
+ai_processed_at: '2026-05-19T07:51:05.320Z'
+ai_content_hash: c78d58ac871dcd8a70be422abe6e11c6
 ---
 
 Inhoudsopgave

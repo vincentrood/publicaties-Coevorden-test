@@ -1,8 +1,197 @@
 ---
-title: "2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1"
-maps: ["2024","Woo-verzoeken","Documenten omtrent Bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO,
+  communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Documenten omtrent Bungalowpark WICO
+source: >-
+  2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek
+  documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau
+  Ruimte en Vrije Tijd deel 1.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om documenten met betrekking tot een
+  Woo-verzoek openbaar te maken, met uitzondering van persoonsgegevens. De
+  documenten bevatten informatie over de transformatie van vakantiepark Wico
+  naar een woonbestemming, waarbij de gemeente de persoonlijke levenssfeer van
+  betrokkenen zwaarder weegt dan het belang van openbaarheid.
+milestones:
+  - date: '2022-07-05'
+    event: Communicatiestrategie VVPC 2e helft 2022
+  - date: '2022-11-30'
+    event: Overleg verlengen
+  - date: '2022-12-12'
+    event: Communicatiesessie Wico
+  - date: '2022-12-14'
+    event: Informatie stand van zaken parken Erm
+  - date: '2022-12-21'
+    event: Info gesprek voorbereiding raadsessie VVPC 2
+  - date: '2022-12-22'
+    event: Info gesprek voorbereiding raadsessie VVPC
+  - date: '2023-01-04'
+    event: Informatie
+  - date: '2023-01-04'
+    event: communicatiesessie wico 12-12
+  - date: '2023-01-09'
+    event: Notitie voorstel aanpak park Wico
+  - date: '2023-01-10'
+    event: Voorstel 1e aanpak park Wico
+  - date: '2023-01-18'
+    event: mail
+  - date: '2023-01-24'
+    event: info gesprek voorbereiding raadsessie VVPC
+  - date: '2023-01-25'
+    event: Voorbereiding raadsessie VVPC - voorjaar 2023
+  - date: '2023-01-28'
+    event: mail
+  - date: '2023-02-06'
+    event: Communicatieplannen VVP Coevorden
+  - date: '2023-02-08'
+    event: RE aangepaste brief
+  - date: '2023-02-21'
+    event: Bijlage 1 (brief)
+  - date: '2023-03-01'
+    event: Conceptbrief eigenaren Wico
+  - date: '2023-03-08'
+    event: brief wico akkoord
+  - date: '2023-03-08'
+    event: brief wico akkoord 2
+  - date: '2023-03-08'
+    event: Geanonimiseerde brief eigenaren/bewoners Wico
+  - date: '2023-03-22'
+    event: Programmateam VVPC 27 maart 2023
+  - date: '2023-03-27'
+    event: mail
+  - date: '2023-03-29'
+    event: mail aan advocaat Wico
+  - date: '2023-04-01'
+    event: mail
+  - date: '2023-04-02'
+    event: mail
+  - date: '2023-04-05'
+    event: mail
+  - date: '2023-04-13'
+    event: Bijlage 8 (Vragen Raad)
+  - date: '2023-04-15'
+    event: Bijlage 5 (brief)
+  - date: '2023-04-17'
+    event: info bijeenkomst wico 24-5
+  - date: '2023-04-21'
+    event: Bijlage 6 (vraag over persoonsgebonden beschikking)
+  - date: '2023-04-21'
+    event: Planning presentaties bijeenkomst VVPC
+  - date: '2023-04-24'
+    event: Concept memo
+  - date: '2023-04-26'
+    event: Vragen
+  - date: '2023-04-26'
+    event: Vragen 2
+  - date: '2023-05-01'
+    event: vraag over online tool
+  - date: '2023-05-01'
+    event: vragen VVPC
+  - date: '2023-05-05'
+    event: Q&A en nieuwsbrief Wico
+  - date: '2023-05-08'
+    event: Wico
+  - date: '2023-05-08'
+    event: Conceptbrief aan huurders park Wico
+  - date: '2023-05-09'
+    event: check Q&A
+  - date: '2023-05-09'
+    event: check Q&A 2
+  - date: '2023-05-09'
+    event: check Q&A 3
+  - date: '2023-05-10'
+    event: Wico - Raad
+  - date: '2023-05-11'
+    event: Uitnodiging informatiebijeenkomst eigenaren Wico
+  - date: '2023-05-12'
+    event: communicatiestrategie VVPC
+  - date: '2023-05-15'
+    event: conceptbrief aan huurders wico
+  - date: '2023-05-15'
+    event: conceptbrief huurders
+  - date: '2023-05-16'
+    event: aangepaste webtekst en Q&A
+  - date: '2023-05-17'
+    event: Terugkoppeling n.a.v. gevoerde gesprekken
+  - date: '2023-05-19'
+    event: bewonersavond 31-5
+  - date: '2023-05-20'
+    event: aanpassingen tekst hofnet
+  - date: '2023-05-23'
+    event: Q&A mag online
+  - date: '2023-05-23'
+    event: Pagina offline halen
+  - date: '2023-05-30'
+    event: brief raad beantwoording vragen wico
+  - date: '2023-06-01'
+    event: vragen nav bijeenkomst verwerken in Q&A
+  - date: '2023-06-08'
+    event: nieuwsbrief feb 2023
+  - date: '2023-06-14'
+    event: Q&A en nieuwsbrief Wico
+  - date: '2023-06-28'
+    event: Concept memo
+  - date: '2023-07-10'
+    event: graag reactie op nieuwsbrief
+  - date: '2023-07-11'
+    event: aanpassingen Q&A Wico
+  - date: '2023-07-12'
+    event: Nieuwsbrief Wico
+  - date: '2023-07-14'
+    event: Nieuwsbrief Wico
+  - date: '2023-07-21'
+    event: Documenten gericht aan het college en de raad
+  - date: '2023-07-25'
+    event: Informatie deelname onderzoek Bureau Ruimte & Vrije Tijd Wico
+  - date: '2023-08-01'
+    event: Bijlage mail 23 augustus
+  - date: '2023-08-02'
+    event: nieuwsbrief VVPC
+  - date: '2023-08-04'
+    event: info stand van zaken parken
+  - date: '2023-08-10'
+    event: Aankondiging schouw bungalowpark Wico
+  - date: '2023-08-23'
+    event: aangepaste tekst VVPC hofnet
+  - date: '2023-08-29'
+    event: reactie aanpassingen websiteteksten
+  - date: '2023-08-30'
+    event: Toestemming grondeigenaar onderzoek bungalowpark Wico
+  - date: '2023-09-01'
+    event: Bijlage 2 (mail)
+  - date: '2023-09-04'
+    event: Bijlage 1 (mail)
+  - date: '2023-09-15'
+    event: Gesprek met Bureau Ruimte en Vrije Tijd
+  - date: '2023-09-25'
+    event: reactie aanpassingen websiteteksten 4
+  - date: '2023-09-26'
+    event: reactie aanpassingen websiteteksten
+  - date: '2023-09-26'
+    event: verzoek aanpassingen teksten website
+  - date: '2023-10-03'
+    event: Verkennende gesprek met Bureau Ruimte en Vrije Tijd
+  - date: '2023-10-04'
+    event: Informatie
+  - date: '2023-10-04'
+    event: info woo-verzoek
+  - date: '2023-10-11'
+    event: Reactie College BW mail juli werkgroep Wico
+  - date: '2023-10-11'
+    event: Brief reactie werkgroep toekomstplan Wico
+  - date: '2023-10-16'
+    event: aangepaste tekst hofnet
+  - date: '2023-10-20'
+    event: aanpassingen tekst hofnet
+  - date: '2023-10-23'
+    event: aangepaste webteksten VVPC
+ai_processed_at: '2026-05-19T07:49:45.767Z'
+ai_content_hash: 4b90bf696eeecf734b7734d5468c72d8
 ---
 
                                                                                                  Gemeente

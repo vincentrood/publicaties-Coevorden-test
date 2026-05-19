@@ -1,8 +1,49 @@
 ---
-title: "2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over herziene besluitvorming (Bungalowpark WICO)"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over herziene besluitvorming (Bungalowpark WICO).pdf"
-date: 2026-05-19
+title: >-
+  2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over
+  herziene besluitvorming (Bungalowpark WICO)
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix,
+  documenten over herziene besluitvorming (Bungalowpark WICO).pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Op 14 februari 2024 heeft de gemeente Coevorden besloten om een Woo-verzoek
+  gedeeltelijk toe te wijzen en documenten openbaar te maken, met uitzondering
+  van persoonsgegevens. Het verzoek om gespreksverslagen en documenten met
+  betrekking tot de herziene besluitvorming van het college en de raad is
+  afgewezen omdat er geen relevante documenten zijn aangetroffen.
+milestones:
+  - date: '2020-10-20'
+    event: >-
+      Gemeenteraad van Coevorden heeft de ambities in het programmacontract en
+      uitvoeringsplan Vitale Vakantie Parken vastgesteld.
+  - date: '2020-10-20'
+    event: >-
+      Gemeenteraad van Coevorden heeft de ambities in het programmacontract en
+      uitvoeringsplan Vitale Vakantie Parken Coevorden vastgesteld.
+  - date: '2021-01-14'
+    event: >-
+      Advies College van burgemeester en wethouders over besluitvorming in en
+      naar aanleiding van programma Vitale Vakantie Parken Coevorden
+  - date: '2021-01-26'
+    event: Behandeling in College vergadering
+  - date: '2021-01-31'
+    event: Informatieve raadsbrief over Vitale Vakantie Parken
+  - date: '2021-01-31'
+    event: >-
+      Verzenddatum van de raadsbrief over het programma Vitale Vakantie Parken
+      Coevorden - Beslismatrix.
+  - date: '2021-02-08'
+    event: Vaststellen van de beslismatrix Vitale Vakantie Parken Coevorden.
+  - date: '2024-01-23'
+    event: Indiening Woo-verzoek
+  - date: '2024-02-14'
+    event: Verzenddatum van het besluit op het Woo-verzoek
+ai_processed_at: '2026-05-19T07:42:45.730Z'
+ai_content_hash: 58c59840a9edf70cbf59cec09e916ecc
 ---
 
                                                                                                     Gemeente

@@ -1,8 +1,91 @@
 ---
-title: "2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30.pdf"
-date: 2026-05-19
+title: 2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten
+  Modem 30.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om documenten openbaar te maken, met
+  uitzondering van persoonsgegevens, en zal deze informatie op haar website
+  publiceren. Een initiatief voor de huisvesting van arbeidsmigranten is
+  ingediend, maar er is nog geen formeel besluit genomen, waardoor er momenteel
+  geen mogelijkheid is tot bezwaar.
+milestones:
+  - date: '2023-05-02'
+    event: Microsoft Teams-vergadering over afstemming Modem 30
+  - date: '2023-09-26'
+    event: >-
+      Vaststelling beleidskader 'Huisvesting Internationale Werknemers
+      Shortstay' door de raad van de gemeente Coevorden.
+  - date: '2024-02-08'
+    event: Verzoeknummer 20240208 01494 000 ingediend
+  - date: '2024-02-08'
+    event: >-
+      Indiening van een conceptverzoek voor het tijdelijk huisvesten van
+      arbeidsmigranten voor de duur van 10 jaar in strijd met het omgevingsplan
+      op de locatie Modem 30 te Coevorden.
+  - date: '2024-02-15'
+    event: Verslag RO-frontoverleg
+  - date: '2024-02-21'
+    event: >-
+      Communicatie over het principeverzoek voor het huisvesten van
+      arbeidsmigranten.
+  - date: '2024-02-22'
+    event: >-
+      Publicatie omgevingsvergunning aangevraagd voor huisvesting
+      arbeidsmigranten aan Modem 30.
+  - date: '2024-02-22'
+    event: >-
+      Burgemeester en wethouders geven abusievelijk kennis van de ontvangst van
+      een formele aanvraag voor de huisvesting van arbeidsmigranten aan Modem 30
+      te Coevorden.
+  - date: '2024-02-23'
+    event: Ingezonden op Woo-verzoek
+  - date: '2024-02-23'
+    event: >-
+      Vervolgcommunicatie over het principeverzoek voor het huisvesten van
+      arbeidsmigranten.
+  - date: '2024-02-26'
+    event: >-
+      Indiening principeverzoek voor huisvesting arbeidsmigranten
+      (Z2024-002384).
+  - date: '2024-02-27'
+    event: Rectificatie van de ontvangstbevestiging van het conceptverzoek.
+  - date: '2024-02-27'
+    event: Ontvangstbevestiging conceptverzoek (Z2024-002384).
+  - date: '2024-03-01'
+    event: Rectificatietekst gepubliceerd over foutieve aanvraag omgevingsvergunning.
+  - date: '2024-03-01'
+    event: >-
+      Plaatsing rectificatietekst in het Gemeenteblad over de foutieve
+      publicatie van de aanvraag voor huisvesting van arbeidsmigranten.
+  - date: '2024-03-05'
+    event: >-
+      Conceptverzoek voor afwijken omgevingsplan besproken voor huisvesting
+      arbeidsmigranten.
+  - date: '2024-03-11'
+    event: >-
+      Advies college over conceptverzoek huisvesting arbeidsmigranten aan Modem
+      30.
+  - date: '2024-03-18'
+    event: Besluit Woo-verzoek
+  - date: '2024-03-19'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-03-19'
+    event: >-
+      Besluit college over conceptverzoek huisvesting arbeidsmigranten aan Modem
+      30.
+  - date: '2024-04-12'
+    event: >-
+      Mededeling aan belanghebbenden om een zienswijze in te dienen met
+      betrekking tot het conceptverzoek.
+  - date: '2024-04-30'
+    event: Verzenddatum besluit Woo-verzoek
+ai_processed_at: '2026-05-19T07:41:35.179Z'
+ai_content_hash: d726d3a5d242f7ae161c5bd87f91f275
 ---
 
                                                                                                                               Gemeente

@@ -1,8 +1,30 @@
 ---
-title: "2024-03-06 Woo-verzoek bewonerslijst recreatiewoonverblijven op 15 september 1997 voormalig gemeente Sleen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-03-06 Woo-verzoek bewonerslijst recreatiewoonverblijven op 15 september 1997 voormalig gemeente Sleen.pdf"
-date: 2026-05-19
+title: >-
+  2024-03-06 Woo-verzoek bewonerslijst recreatiewoonverblijven op 15 september
+  1997 voormalig gemeente Sleen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-03-06 Woo-verzoek bewonerslijst
+  recreatiewoonverblijven op 15 september 1997 voormalig gemeente Sleen.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het besluit op het Woo-verzoek van 23 januari 2024 van de gemeente Coevorden
+  betreft de openbaarmaking van één document, met uitzondering van
+  persoonsgegevens die zijn weggelakt. De verzoeker kan bezwaar maken tegen dit
+  besluit binnen zes weken na de verzenddatum.
+milestones:
+  - date: '2024-01-23'
+    event: Indiening Woo-verzoek
+  - date: '2024-02-10'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-02-15'
+    event: Ontvangstbevestiging Woo-verzoek
+  - date: '2024-03-06'
+    event: Verzenddatum besluit Woo-verzoek
+ai_processed_at: '2026-05-19T07:42:24.592Z'
+ai_content_hash: bfa55f4a8b31e82ac653f7412c7842e8
 ---
 
                                                                                       m Gemeente

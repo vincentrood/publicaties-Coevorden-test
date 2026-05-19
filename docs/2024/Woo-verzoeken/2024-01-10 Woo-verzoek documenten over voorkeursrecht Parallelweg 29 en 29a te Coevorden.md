@@ -1,8 +1,73 @@
 ---
-title: "2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-10 Woo-verzoek documenten over voorkeursrecht
+  Parallelweg 29 en 29a te Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het college van burgemeester en wethouders heeft besloten documenten openbaar
+  te maken, met uitzondering van persoonsgegevens, en start onderhandelingen
+  over de aankoop van grond. Belanghebbenden kunnen binnen vier weken
+  zienswijzen indienen en hebben de mogelijkheid om bezwaar en beroep aan te
+  tekenen tegen het besluit.
+milestones:
+  - date: '2020-10-26'
+    event: College besluit voorlopig voorkeursrecht te vestigen.
+  - date: '2020-10-26'
+    event: >-
+      College besluit percelen voorlopig aan te wijzen als gronden waarop Wvg
+      van toepassing is.
+  - date: '2020-10-27'
+    event: Aanwijzing door college bekendgemaakt in de Staatscourant.
+  - date: '2020-10-27'
+    event: Aanwijzing door het college bekendgemaakt in de Staatscourant.
+  - date: '2020-10-27'
+    event: Aanwijzing door het college bekend gemaakt in de Staatscourant
+  - date: '2020-10-28'
+    event: Aanwijzingsbesluit in werking getreden.
+  - date: '2020-10-28'
+    event: Aanwijzingsbesluit treedt in werking.
+  - date: '2020-10-28'
+    event: Zienswijzen kunnen worden ingediend.
+  - date: '2020-10-28'
+    event: Inzage in stukken start.
+  - date: '2020-10-28'
+    event: Aanwijzingsbesluit in werking getreden
+  - date: '2020-10-28'
+    event: Zienswijzen periode gestart
+  - date: '2020-10-28'
+    event: Inzage in de stukken gestart
+  - date: '2020-11-26'
+    event: Einde termijn voor indienen van zienswijzen.
+  - date: '2020-11-26'
+    event: Einde zienswijzen periode
+  - date: '2020-12-08'
+    event: Raad vestigt definitief voorkeursrecht op negentien percelen.
+  - date: '2020-12-09'
+    event: Inzage in de stukken periode geëindigd
+  - date: '2021-04-19'
+    event: Ontvangst bericht van afdeling Leefomgeving/Economie & Leefbaarheid
+  - date: '2021-05-18'
+    event: Besluitenlijst van de vergadering van burgemeester en wethouders
+  - date: '2021-05-25'
+    event: Beginselbesluit tot aankoop percelen na vestiging voorkeursrecht
+  - date: '2021-05-27'
+    event: Reactie op aanbieding grond(en) na vestiging voorkeursrecht Wvg
+  - date: '2021-06-01'
+    event: Deadline voor college om te besluiten over aankoop van percelen.
+  - date: '2023-11-29'
+    event: >-
+      Ontvangst Woo-verzoek met betrekking tot locaties Parallelweg 29 en 29a te
+      Coevorden
+  - date: '2024-01-10'
+    event: Beslissing op Woo-verzoek
+ai_processed_at: '2026-05-19T07:46:47.852Z'
+ai_content_hash: 13fe200918892f4ceeb155696ee560d2
 ---
 
                                                                                         Gemeente

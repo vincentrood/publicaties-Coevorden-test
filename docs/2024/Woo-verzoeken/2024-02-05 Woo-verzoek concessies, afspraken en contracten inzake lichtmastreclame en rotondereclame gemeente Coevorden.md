@@ -1,8 +1,23 @@
 ---
-title: "2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake lichtmastreclame en rotondereclame gemeente Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake lichtmastreclame en rotondereclame gemeente Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake
+  lichtmastreclame en rotondereclame gemeente Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-05 Woo-verzoek concessies, afspraken en contracten
+  inzake lichtmastreclame en rotondereclame gemeente Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft verschillende overeenkomsten afgesloten met
+  exploitanten voor lichtmastreclame en rotondereclame, waarbij contracten zijn
+  verlengd en voorwaarden zijn vastgesteld. Informatie over deze concessies en
+  contracten is op verzoek beschikbaar gesteld op basis van de Wet Open Overheid
+  (WOO).
+milestones: []
+ai_processed_at: '2026-05-19T07:43:37.568Z'
+ai_content_hash: a18b60187b11d9ac69c16ddc9b30e459
 ---
 
 Van:                                                                     <                     >

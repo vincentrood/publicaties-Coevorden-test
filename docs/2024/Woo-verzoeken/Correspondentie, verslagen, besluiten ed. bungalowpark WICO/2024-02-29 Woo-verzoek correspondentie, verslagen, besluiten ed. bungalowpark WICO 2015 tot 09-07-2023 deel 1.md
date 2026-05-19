@@ -1,8 +1,182 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 1"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 1.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 1.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Op 9 juli 2023 heeft een burger een Woo-verzoek ingediend bij de gemeente
+  Coevorden om het openbaar maken van het WICO-dossier, waarop de gemeente heeft
+  besloten om de documenten gedeeltelijk openbaar te maken, met uitzondering van
+  persoonsgegevens. De gemeente heeft aangegeven dat de persoonlijke levenssfeer
+  van betrokkenen zwaarder weegt dan het belang van openbaarheid van deze
+  informatie.
+milestones:
+  - date: '2022-05-31'
+    event: WOO verzoek ingediend
+  - date: '2023-01-05'
+    event: mail over definitieve Q&A wico
+  - date: '2023-01-05'
+    event: mail bij definitieve uitnodiging
+  - date: '2023-01-05'
+    event: mail over Wico
+  - date: '2023-01-06'
+    event: mail over afspraak
+  - date: '2023-01-11'
+    event: eerste aanpak wico
+  - date: '2023-01-16'
+    event: gedeeld bestand
+  - date: '2023-01-21'
+    event: mail kadaster
+  - date: '2023-02-05'
+    event: mail over persoonsgebondenbeschikking
+  - date: '2023-02-05'
+    event: mail over opvragen gegevens BRP
+  - date: '2023-02-05'
+    event: verzoek controleren BRP-inschrijving
+  - date: '2023-02-13'
+    event: mails dreiging tot handhaving wegnemen
+  - date: '2023-02-13'
+    event: RE inventarisatievraag
+  - date: '2023-02-20'
+    event: Kennismakingsgesprek met advocaat
+  - date: '2023-02-21'
+    event: brief beantwoording email inzake Wico
+  - date: '2023-03-03'
+    event: mail over brief
+  - date: '2023-03-08'
+    event: Informatiebrief naar alle eigenaren
+  - date: '2023-03-10'
+    event: mail over brief wico
+  - date: '2023-03-11'
+    event: afspraak inplannen wico
+  - date: '2023-03-17'
+    event: mail over slenerweg 83-02
+  - date: '2023-03-24'
+    event: verzoek mail sturen
+  - date: '2023-03-28'
+    event: mail met definitieve Q&A
+  - date: '2023-04-03'
+    event: foto's leeggelopen banden
+  - date: '2023-04-05'
+    event: vraag over gebruik recreatiewoning
+  - date: '2023-04-13'
+    event: schriftelijke vragen aan raad
+  - date: '2023-04-17'
+    event: mails;info over bijeenkomst
+  - date: '2023-04-17'
+    event: ontvangstbevestiging woo-verzoek
+  - date: '2023-04-20'
+    event: brief
+  - date: '2023-04-24'
+    event: agendering brief B6 raad Wico
+  - date: '2023-04-26'
+    event: mails over beantwoording brief
+  - date: '2023-04-28'
+    event: bevestiging afspraak
+  - date: '2023-05-01'
+    event: Email gedoogbeschikking
+  - date: '2023-05-02'
+    event: mail verzoek BRP-uitdraai
+  - date: '2023-05-05'
+    event: mail met vragen over proces park Wico
+  - date: '2023-05-11'
+    event: Q&A
+  - date: '2023-05-15'
+    event: mail over beantwoording brief
+  - date: '2023-05-20'
+    event: nieuwe afspraak
+  - date: '2023-05-24'
+    event: VLOD
+  - date: '2023-05-24'
+    event: Plenaire bijeenkomst park Wico
+  - date: '2023-05-25'
+    event: e-mail aantal aanmeldingen informatiebijeenkomst
+  - date: '2023-05-31'
+    event: afzegging bijeenkomst
+  - date: '2023-05-31'
+    event: RE afzegging
+  - date: '2023-06-01'
+    event: verzoek om zienswijze Woo-verzoek
+  - date: '2023-06-02'
+    event: brief inzake wico
+  - date: '2023-06-05'
+    event: brief zienswijze Woo-verzoek
+  - date: '2023-06-16'
+    event: vastgesteld einddoel Wico
+  - date: '2023-06-20'
+    event: RE op brief
+  - date: '2023-06-20'
+    event: Verlenging beslistermijn WOO-verzoek
+  - date: '2023-06-24'
+    event: mail over deelname onderzoek Wico
+  - date: '2023-06-28'
+    event: uitstellen handhaving Wico
+  - date: '2023-07-01'
+    event: mail reactie op ingebrekestelling
+  - date: '2023-07-03'
+    event: mail over tijdslijn Wico
+  - date: '2023-07-05'
+    event: brief reactie op ingebrekestelling
+  - date: '2023-07-10'
+    event: mail over notulen gesprek 7 juli 2023
+  - date: '2023-07-14'
+    event: Woo-verzoek bungalowpark Wico
+  - date: '2023-07-17'
+    event: mail over gebruik recreatie woning
+  - date: '2023-07-18'
+    event: RE inventarisatievraag
+  - date: '2023-07-24'
+    event: mail over afspraak met gemeente
+  - date: '2023-07-27'
+    event: Woo-besluit
+  - date: '2023-08-03'
+    event: brief aan eigenaren/bewoners
+  - date: '2023-08-05'
+    event: mail over proces Wico
+  - date: '2023-08-10'
+    event: aankondiging schouw
+  - date: '2023-08-10'
+    event: Woo-verzoek stand van zaken
+  - date: '2023-08-14'
+    event: mail over gebruik gegevens
+  - date: '2023-08-15'
+    event: Woo-besluit
+  - date: '2023-08-16'
+    event: doc woo-verzoek
+  - date: '2023-09-01'
+    event: Start handhaving
+  - date: '2023-09-05'
+    event: mail over definitieve Q&A
+  - date: '2023-09-05'
+    event: mail gesprek
+  - date: '2023-09-26'
+    event: mail over Wico
+  - date: '2023-10-05'
+    event: mail verzoek tot afspraak VVP
+  - date: '2023-10-07'
+    event: mails bijgaand aan adressenlijst
+  - date: '2023-10-07'
+    event: mail over slenerweg
+  - date: '2023-10-20'
+    event: raadsvoorstel gemeente coevorden
+  - date: '2023-10-21'
+    event: brief aan raad
+  - date: '2023-11-05'
+    event: mail over geheimhouding document
+  - date: '2023-11-25'
+    event: mail over aanmeldingen bijeenkomst
+  - date: '2023-12-03'
+    event: brief
+ai_processed_at: '2026-05-19T07:53:10.938Z'
+ai_content_hash: d23504493550c748c864b08737edb224
 ---
 
  Postadres:

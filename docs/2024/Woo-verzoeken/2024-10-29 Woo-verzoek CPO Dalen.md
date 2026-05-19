@@ -1,8 +1,30 @@
 ---
-title: "2024-10-29 Woo-verzoek CPO Dalen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-10-29 Woo-verzoek CPO Dalen.pdf"
-date: 2026-05-19
+title: 2024-10-29 Woo-verzoek CPO Dalen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-10-29 Woo-verzoek CPO Dalen.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten documenten openbaar te maken, met
+  uitzondering van persoonsgegevens, en deze informatie is beschikbaar op de
+  gemeentelijke website. Het verzoek om openbaarmaking is geheel toegewezen,
+  maar er zijn enkele uitzonderingsgronden toegepast op bepaalde informatie.
+milestones:
+  - date: '2024-05-28'
+    event: Verzending Woo-verzoek
+  - date: '2024-07-23'
+    event: Ontvangst bevestiging Woo-verzoek
+  - date: '2024-08-15'
+    event: Brief over uitblijven reactie en beroep op de Wet open overheid verzonden.
+  - date: '2024-10-02'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-10-29'
+    event: Verzenddatum besluit Woo-verzoek
+  - date: '2024-10-30'
+    event: Deadline voor het toesturen van gevraagde informatie.
+ai_processed_at: '2026-05-19T07:36:56.715Z'
+ai_content_hash: 824aaae170bfc20f1f831e78b551e190
 ---
 
                                                                                                                                                  Gemeente

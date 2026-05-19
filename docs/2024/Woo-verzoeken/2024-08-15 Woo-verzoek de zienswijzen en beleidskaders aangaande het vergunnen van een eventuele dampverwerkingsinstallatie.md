@@ -1,8 +1,26 @@
 ---
-title: "2024-08-15 Woo-verzoek de zienswijzen en beleidskaders aangaande het vergunnen van een eventuele dampverwerkingsinstallatie"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-15 Woo-verzoek de zienswijzen en beleidskaders aangaande het vergunnen van een eventuele dampverwerkingsinstallatie.pdf"
-date: 2026-05-19
+title: >-
+  2024-08-15 Woo-verzoek de zienswijzen en beleidskaders aangaande het vergunnen
+  van een eventuele dampverwerkingsinstallatie
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-15 Woo-verzoek de zienswijzen en beleidskaders
+  aangaande het vergunnen van een eventuele dampverwerkingsinstallatie.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het verzoek om openbaarmaking van documenten is afgewezen na intern onderzoek
+  en navraag bij relevante instanties. Het besluit en de eventueel
+  openbaargemaakte documenten worden gepubliceerd op de website van de gemeente
+  Coevorden.
+milestones:
+  - date: '2024-04-16'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-08-15'
+    event: Verzenddatum besluit Woo-verzoek
+ai_processed_at: '2026-05-19T07:38:37.813Z'
+ai_content_hash: 7ea708f63312263a7f3372ed0f0d0408
 ---
 
                                                                                                                        Gemeente

@@ -1,8 +1,85 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 4"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 4.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 4
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 4.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het raadsvoorstel van de gemeente Coevorden betreft de vaststelling van de
+  ambitie en doelen voor Vitale Vakantie Parken Coevorden, inclusief de
+  beschikbaarstelling van middelen voor personele capaciteit. De bijlage met het
+  uitvoeringsplan is niet openbaar vanwege gevoelige informatie die de
+  concurrentiepositie van betrokkenen kan schaden.
+milestones:
+  - date: '2020-03-22'
+    event: 'Informatie-ophaaldag op Primo, Secundo en Ermerstrand.'
+  - date: '2020-03-30'
+    event: Ontvangst brieven van handhaving.
+  - date: '2020-04-01'
+    event: Verkoop huis in Rotterdam.
+  - date: '2020-06-01'
+    event: Concept communicatieplan opgesteld.
+  - date: '2020-06-01'
+    event: Raadsexcursie met rondleiding De Tip.
+  - date: '2020-06-01'
+    event: Voorstel om het programma twee jaar te verlengen.
+  - date: '2020-06-01'
+    event: >-
+      Ambtelijke voorbereiding voor herplanning en herbestemming van resterende
+      parken fase 2 en 3 en 4 is uitgesteld.
+  - date: '2020-06-01'
+    event: Start van de werkgroep gebiedsplan Ermermeer.
+  - date: '2020-06-01'
+    event: >-
+      Keuze voor Bureau Ruimte en Vrije Tijd/Bugel Hajema voor het ontwikkelen
+      van het uitvoeringsplan.
+  - date: '2021-02-22'
+    event: Versie D 1.0 van projectopdracht definitief.
+  - date: '2021-03-02'
+    event: Definitieve versie van projectopdracht vastgesteld.
+  - date: '2021-10-20'
+    event: Raadsvergadering over Vitale Vakantie Parken Coevorden.
+  - date: '2022-03-01'
+    event: Ontvangst bericht over nieuwe woning.
+  - date: '2022-12-18'
+    event: Start van interne en externe besprekingen over Vitale vakantieparken.
+  - date: '2023-02-13'
+    event: Datum PFO
+  - date: '2023-04-15'
+    event: Indiening WOO-verzoek
+  - date: '2023-04-17'
+    event: Ontvangst WOO-verzoek
+  - date: '2023-04-24'
+    event: Verzenddatum ontvangstbevestiging.
+  - date: '2023-05-01'
+    event: Ontvangstbevestiging verzonden.
+  - date: '2023-05-09'
+    event: Verlenging beslistermijn WOO-verzoek
+  - date: '2023-05-09'
+    event: Verzenddatum over ontstane situatie Bungalowpark Wico.
+  - date: '2023-05-23'
+    event: B & W besluit
+  - date: '2023-05-25'
+    event: Opschorting beslistermijn WOO-verzoek
+  - date: '2023-06-02'
+    event: Wettelijke termijn voor beslissing WOO-verzoek verstreken
+  - date: '2023-06-16'
+    event: Beslistermijn voor WOO-verzoek weer ingegaan
+  - date: '2023-06-21'
+    event: Uiterste datum voor besluit WOO-verzoek
+  - date: '2023-07-05'
+    event: Informatie over WOO-verzoek
+  - date: '2023-07-21'
+    event: Uiterste datum voor zienswijzen op WOO-verzoek
+ai_processed_at: '2026-05-19T07:50:27.295Z'
+ai_content_hash: 3ee5963221a07642c56be184c1af2b80
 ---
 
                                                                          Gemeente

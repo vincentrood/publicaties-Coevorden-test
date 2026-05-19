@@ -1,8 +1,101 @@
 ---
-title: "2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1"
-maps: ["2024","Woo-verzoeken","2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1.pdf"
-date: 2026-05-19
+title: 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark
+  Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om het Woo-verzoek van 3 juli 2024 toe te
+  wijzen en documenten gedeeltelijk openbaar te maken, met uitzondering van
+  persoonsgegevens. De documenten bevatten informatie over de transformatie van
+  het park Ermerzand en de bijbehorende procedures en voorwaarden.
+milestones:
+  - date: '2021-03-16'
+    event: >-
+      Beleidsnotitie toetsing Bouwbesluit bij transformatie recreatiewoningen
+      gepubliceerd
+  - date: '2021-05-09'
+    event: Ondertekening antwoordkaart inzake transitie Ermerzand tot woonpark
+  - date: '2021-06-10'
+    event: Planning ALV op 22 mei 2021
+  - date: '2022-03-31'
+    event: Opzet brief uitgangspunten transformatie concept
+  - date: '2022-04-01'
+    event: SPREAD folder transformatieproces Vitale Vakantieparken
+  - date: '2022-12-16'
+    event: Overleg
+  - date: '2023-01-15'
+    event: Notitie handhaven bij transformatie
+  - date: '2023-01-26'
+    event: Afsprakenbrief Ermerzand ondertekend met bijlagen
+  - date: '2023-03-01'
+    event: QA Ermerzand
+  - date: '2023-03-05'
+    event: Offerte Park Ermerzand
+  - date: '2023-03-23'
+    event: Groenplan 2023
+  - date: '2023-03-27'
+    event: Quickscan definitief Ermerzand
+  - date: '2023-03-31'
+    event: Aant wg concept
+  - date: '2023-04-06'
+    event: concept
+  - date: '2023-04-06'
+    event: Aant
+  - date: '2023-05-12'
+    event: Aant concept
+  - date: '2023-05-31'
+    event: Versie MR Advies en Beleid opgesteld
+  - date: '2023-06-14'
+    event: Aant
+  - date: '2023-07-05'
+    event: Aant
+  - date: '2023-08-18'
+    event: Aant
+  - date: '2023-09-04'
+    event: Nieuwsbrief 5 Ermerzand
+  - date: '2023-09-08'
+    event: Aant
+  - date: '2023-09-29'
+    event: Aant
+  - date: '2023-10-05'
+    event: Concept deskundigenrapport park Ermerzand gepubliceerd
+  - date: '2023-10-13'
+    event: Aant
+  - date: '2023-10-28'
+    event: Planning proces transformatie
+  - date: '2023-11-02'
+    event: Inloopbijeenkomst Ermerzand
+  - date: '2023-11-24'
+    event: Kennisgeving beleid Bungalowpark Ermerzand
+  - date: '2023-11-24'
+    event: Verzenddatum nieuw afvalbeleid op vakantieparken
+  - date: '2024-01-19'
+    event: Aant
+  - date: '2024-01-30'
+    event: concept
+  - date: '2024-03-25'
+    event: Belastingregime concept
+  - date: '2024-04-12'
+    event: Belastingregime Coevorden
+  - date: '2024-06-27'
+    event: Inloopbijeenkomst
+  - date: '2024-07-03'
+    event: Indiening Woo-verzoek over Bungalowpark Ermerzand
+  - date: '2024-09-03'
+    event: Besluit op Woo-verzoek verzonden
+  - date: '2024-09-04'
+    event: Nieuwsbrief
+  - date: '2024-09-19'
+    event: Vergadering
+  - date: '2024-10-10'
+    event: Aant
+ai_processed_at: '2026-05-19T07:54:12.357Z'
+ai_content_hash: 9091833b123eba3d6bcec321ac57c295
 ---
 
   Postadres:

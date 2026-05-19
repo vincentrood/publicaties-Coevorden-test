@@ -1,8 +1,107 @@
 ---
-title: "2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op recreatieparken gemeente Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op recreatieparken gemeente Coevorden.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op
+  recreatieparken gemeente Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-11 Woo-verzoek beleid inzameling huishoudelijke
+  afvalstoffen op recreatieparken gemeente Coevorden.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om de documenten met betrekking tot het
+  afvalbeleid op recreatieparken openbaar te maken, met uitzondering van
+  persoonsgegevens. Het nieuwe beleid, dat per 1 januari 2024 van kracht wordt,
+  maakt een onderscheid tussen inrichtingen en niet-inrichtingen voor de
+  inzameling van huishoudelijk afval.
+milestones:
+  - date: '2020-05-26'
+    event: >-
+      Indiening motie PvdA over verstrekken milieupas voor permanente bewoners
+      recreatiewoningen
+  - date: '2021-01-07'
+    event: >-
+      Advies College van burgemeester en wethouders over afvalinzameling
+      recreatieparken
+  - date: '2021-04-13'
+    event: >-
+      Advies College van burgemeester en wethouders over afvalinzameling
+      recreatieparken
+  - date: '2021-05-04'
+    event: >-
+      Advies College van burgemeester en wethouders over afvalinzameling
+      recreatieparken
+  - date: '2021-06-24'
+    event: >-
+      Advies College van burgemeester en wethouders over afvalinzameling
+      recreatieparken
+  - date: '2021-09-14'
+    event: Containerplaatsing De Tip 131
+  - date: '2021-09-24'
+    event: Containerplaatsing De Tip 127 A
+  - date: '2021-12-31'
+    event: Containerplaatsing De Kamp 1
+  - date: '2022-03-07'
+    event: Containerplaatsing Slenerweg 83
+  - date: '2022-11-09'
+    event: Containerplaatsing Slenerweg 83
+  - date: '2023-02-16'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-03-26'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-03-27'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-05-01'
+    event: Verstrekken tijdelijke milieupas
+  - date: '2023-05-23'
+    event: Eerste conceptversie collegevoorstel afvalinzameling vakantieparken (VVPC)
+  - date: '2023-05-31'
+    event: >-
+      Eerste conceptversie collegevoorstel afvalinzameling vakantieparken (VVPC)
+      - vervolg
+  - date: '2023-06-12'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-06-21'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-06-27'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-07-03'
+    event: >-
+      Advies College van burgemeester en wethouders over afvalinzameling
+      recreatieparken
+  - date: '2023-07-10'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-07-17'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-08-21'
+    event: >-
+      Advies College van burgemeester en wethouders over afvalinzameling
+      recreatieparken
+  - date: '2023-08-22'
+    event: Mailwisseling over Vitale Vakantieparken
+  - date: '2023-08-29'
+    event: >-
+      Advies College van burgemeester en wethouders over afvalinzameling
+      recreatieparken
+  - date: '2023-09-27'
+    event: Programmateamoverleg WPC
+  - date: '2023-09-27'
+    event: 'Programmateamoverleg VVPC: afvalinzameling op recreatieparken'
+  - date: '2023-10-17'
+    event: Raad neemt besluit over afvalinzameling
+  - date: '2023-10-19'
+    event: Infopamflet KCC uitsturen
+  - date: '2023-11-30'
+    event: Start van uitlevering inzamelmiddelen
+  - date: '2024-01-01'
+    event: Tijdlijn uitvoering afvalinzameling op vakantieparken
+  - date: '2024-01-15'
+    event: Verzoek inzake berekening AREA kosten inzameling huisvuil recreatieparken
+  - date: '2024-07-01'
+    event: Tijdlijn uitvoering afvalinzameling op vakantieparken
+ai_processed_at: '2026-05-19T07:46:06.514Z'
+ai_content_hash: 4c9b1f7ac3f1556b2ae3d33bc5ec34b0
 ---
 
                                                                                                  Gemeente

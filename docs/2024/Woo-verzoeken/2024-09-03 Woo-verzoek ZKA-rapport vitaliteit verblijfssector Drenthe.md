@@ -1,8 +1,33 @@
 ---
-title: "2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe.pdf"
-date: 2026-05-19
+title: 2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek ZKA-rapport vitaliteit
+  verblijfssector Drenthe.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het besluit van de gemeente Coevorden op een Woo-verzoek omvat gedeeltelijke
+  openbaarmaking van documenten, waaronder de ZKA-rapportage, en legt de
+  procedure voor bezwaar en beroep uit. De wet open overheid (Woo) stelt dat
+  overheidsinformatie openbaar is, tenzij er uitzonderingsgronden van toepassing
+  zijn.
+milestones:
+  - date: '2020-10-20'
+    event: >-
+      Raadsvoorstel besproken met betrekking tot de vitaliteit verblijfssector
+      in Drenthe.
+  - date: '2024-02-29'
+    event: Openbaarmaking documenten op basis van eerder Woo-verzoek
+  - date: '2024-08-16'
+    event: Indiening Woo-verzoek
+  - date: '2024-08-19'
+    event: Beslissing op Woo-verzoek
+  - date: '2024-09-03'
+    event: Verzenddatum van het Woo-verzoek om informatie over de vitaliteitspositie.
+ai_processed_at: '2026-05-19T07:37:57.479Z'
+ai_content_hash: 55a8d75418a1c2276b82a53446e90de9
 ---
 
  Postadres:

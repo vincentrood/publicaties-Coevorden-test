@@ -1,8 +1,22 @@
 ---
-title: "2024-12-23 Woo-verzoek gemeentelijke noodverordeningen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-23 Woo-verzoek gemeentelijke noodverordeningen.pdf"
-date: 2026-05-19
+title: 2024-12-23 Woo-verzoek gemeentelijke noodverordeningen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-12-23 Woo-verzoek gemeentelijke noodverordeningen.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft het Woo-verzoek van een burger afgewezen, omdat de
+  gevraagde documenten al openbaar zijn en toegankelijk via officiële kanalen.
+  De burger kan bezwaar maken tegen dit besluit binnen zes weken na de
+  verzenddatum.
+milestones:
+  - date: '2024-12-17'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-12-23'
+    event: Verzenddatum besluit Woo-verzoek
+ai_processed_at: '2026-05-19T07:34:21.155Z'
+ai_content_hash: a64b1211ac846daa2107314a7e327b24
 ---
 
 (geanonimiseerd)

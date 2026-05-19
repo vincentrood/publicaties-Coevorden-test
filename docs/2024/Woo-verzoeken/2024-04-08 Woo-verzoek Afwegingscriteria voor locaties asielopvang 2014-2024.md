@@ -1,8 +1,24 @@
 ---
-title: "2024-04-08 Woo-verzoek Afwegingscriteria voor locaties asielopvang 2014-2024"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-04-08 Woo-verzoek Afwegingscriteria voor locaties asielopvang 2014-2024.pdf"
-date: 2026-05-19
+title: 2024-04-08 Woo-verzoek Afwegingscriteria voor locaties asielopvang 2014-2024
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-04-08 Woo-verzoek Afwegingscriteria voor locaties
+  asielopvang 2014-2024.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van de aanvrager is op 11 maart 2024 ontvangen, maar is door
+  de gemeente Coevorden afgewezen omdat er geen locatie-afwegingsoverzichten
+  beschikbaar zijn. De aanvrager kan binnen zes weken bezwaar maken tegen dit
+  besluit door een bezwaarschrift in te dienen bij de gemeente.
+milestones:
+  - date: '2024-03-11'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-04-08'
+    event: Verzenddatum besluit per mail
+ai_processed_at: '2026-05-19T07:41:40.963Z'
+ai_content_hash: f6ceba550b124fc30a64eaaa650223d2
 ---
 
                                                                                             Gemeente

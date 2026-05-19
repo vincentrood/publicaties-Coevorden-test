@@ -1,8 +1,76 @@
 ---
-title: "2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2"
-maps: ["2024","Woo-verzoeken","Documenten omtrent Bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO,
+  communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Documenten omtrent Bungalowpark WICO
+source: >-
+  2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek
+  documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau
+  Ruimte en Vrije Tijd deel 2.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het actieprogramma Vitale Vakantieparken richt zich op het verbeteren van de
+  recreatieve waarde van vakantieparken, met nadruk op samenwerking tussen
+  gemeenten en betrokkenen. Besluitvorming over de uitvoering en toekomstplannen
+  van deze parken wordt door de gemeenteraad en het college van B&W behandeld.
+milestones:
+  - date: '2020-09-22'
+    event: >-
+      De raad van de gemeente Coevorden heeft besloten uitvoering te geven aan
+      het programma contract.
+  - date: '2020-10-01'
+    event: >-
+      Definitieve versie van het programma Vitale Vakantie Parken Coevorden
+      vastgesteld.
+  - date: '2023-03-01'
+    event: >-
+      Start communicatie richting alle bewoners en eigenaren door middel van een
+      brief.
+  - date: '2023-05-22'
+    event: 'Afwezig volgende week, tweede bijeenkomst voor Wico gepland op 31 mei.'
+  - date: '2023-05-23'
+    event: Presentatie actieprogramma Vitale Vakantieparken
+  - date: '2023-05-24'
+    event: Eerste bijeenkomst voor bungalowpark Wico.
+  - date: '2023-05-31'
+    event: Tweede bijeenkomst voor Wico.
+  - date: '2023-05-31'
+    event: Tweede bijeenkomst voor bungalowpark Wico.
+  - date: '2023-06-04'
+    event: Uitleg geven over het actieprogramma aan raadsleden
+  - date: '2023-06-05'
+    event: Digitale Nieuwsbrief over besluitvorming actieprogramma
+  - date: '2023-06-19'
+    event: Besluitvorming actieprogramma in Gedeputeerde Staten
+  - date: '2023-06-22'
+    event: Geldig tot datum voor een document.
+  - date: '2023-06-30'
+    event: Start handhavingsprocedure voor permanent wonen
+  - date: '2023-08-17'
+    event: Bezoek voor een schouw van het park/terrein.
+  - date: '2023-08-23'
+    event: Onderzoek aangekondigd naar Bungalowpark WICO.
+  - date: '2023-08-30'
+    event: >-
+      Brief van de burgemeester over de stand van zaken omtrent Bungalowpark
+      WICO.
+  - date: '2023-09-01'
+    event: Start handhaving op permanente bewoning.
+  - date: '2023-10-17'
+    event: Besluit gemeenteraad over beantwoording mail
+  - date: '2024-01-01'
+    event: Start onderzoek naar toekomst bungalowpark Wico
+  - date: '2024-01-01'
+    event: Start van het onderzoek naar de toekomst van bungalowpark Wico.
+  - date: '2024-12-31'
+    event: >-
+      Einde van het programma, met gesprekken over de toekomst van alle 17
+      parken.
+ai_processed_at: '2026-05-19T07:48:51.863Z'
+ai_content_hash: 54729c666745dffafb5e7f34a5fdb276
 ---
 
 Van:

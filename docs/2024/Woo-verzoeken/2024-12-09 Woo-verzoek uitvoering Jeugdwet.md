@@ -1,8 +1,44 @@
 ---
-title: "2024-12-09 Woo-verzoek uitvoering Jeugdwet"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-09 Woo-verzoek uitvoering Jeugdwet.pdf"
-date: 2026-05-19
+title: 2024-12-09 Woo-verzoek uitvoering Jeugdwet
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-12-09 Woo-verzoek uitvoering Jeugdwet.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De documenten zijn openbaar gemaakt, met uitzondering van persoonsgegevens die
+  zijn weggelakt om de persoonlijke levenssfeer te beschermen. De
+  hervormingsagenda Jeugd 2022-2028 is opgesteld om de toegang tot jeugdhulp te
+  verbeteren en de kosten te beheersen.
+milestones:
+  - date: '2020-12-01'
+    event: Vaststelling beleidsplan 'Samen voor een gezonder Coevorden'
+  - date: '2021-01-01'
+    event: Start programma 'Kansrijk Opgroeien'
+  - date: '2021-01-01'
+    event: Opstellen hervormingsagenda Jeugd 2022-2028
+  - date: '2021-01-01'
+    event: Bundeling van visie en uitgangspunten in de Drentse Regiovisie jeugd
+  - date: '2022-01-01'
+    event: Invoering van de hervormingsagenda Jeugd 2022-2028
+  - date: '2023-05-16'
+    event: Besluit van het college van de Gemeente Borger Odoorn
+  - date: '2023-05-30'
+    event: Aanpassing op de Samenwerkingsovereenkomst Jeugdhulpregio Drenthe
+  - date: '2023-05-30'
+    event: Besluit van het college van de Gemeente Noordenveld
+  - date: '2023-08-16'
+    event: CRvB uitspraak over Wmo-zaken
+  - date: '2024-03-06'
+    event: Addendum samenwerkingsovereenkomst JHRD
+  - date: '2024-05-29'
+    event: CRvB uitspraken over eigen kracht
+  - date: '2024-11-14'
+    event: Ontvangst Woo-verzoek door de gemeente
+  - date: '2024-12-17'
+    event: Besluitvorming over concept Verordening Jeugdhulp gemeente Coevorden
+ai_processed_at: '2026-05-19T07:34:53.373Z'
+ai_content_hash: fd0a3dacca57db76d1aed55146ecbfe3
 ---
 
                                                                                                                                                           Gemeente

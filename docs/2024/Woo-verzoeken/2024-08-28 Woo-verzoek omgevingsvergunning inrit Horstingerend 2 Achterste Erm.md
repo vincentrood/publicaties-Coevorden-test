@@ -1,8 +1,52 @@
 ---
-title: "2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm.pdf"
-date: 2026-05-19
+title: 2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-28 Woo-verzoek omgevingsvergunning inrit
+  Horstingerend 2 Achterste Erm.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om de aanlegwerkzaamheden op het perceel
+  Horstingerend 2 te Erm stil te leggen, met onmiddellijke ingang, en hieraan
+  een last onder dwangsom te verbinden. Persoonsgegevens in de openbaar gemaakte
+  documenten zijn geanonimiseerd om de privacy te waarborgen.
+milestones:
+  - date: '2021-06-21'
+    event: Verzoek gedaan om verder overleg inzake het overkappen van werkzaamheden.
+  - date: '2024-05-29'
+    event: E-mail verzonden over vooroverleg nr. 47922-2021
+  - date: '2024-07-09'
+    event: Controle rapport over aanleg inrit Horstingerend 2 Erm
+  - date: '2024-07-09'
+    event: >-
+      Mededeling van bestuursrechtelijke herstelsanctie en stillegging van
+      werkzaamheden.
+  - date: '2024-07-09'
+    event: >-
+      Constatering van illegale aanlegwerkzaamheden en stillegging met last
+      onder dwangsom.
+  - date: '2024-07-09'
+    event: Aanvraag voor een omgevingsvergunning ingediend.
+  - date: '2024-07-10'
+    event: E-mail van toezichtenhandhaving
+  - date: '2024-07-10'
+    event: Verzenddatum van de brief over stillegging van de werkzaamheden.
+  - date: '2024-07-24'
+    event: Geldig tot datum voor toezichtenhandhaving
+  - date: '2024-07-25'
+    event: Verzoek om gesprek met VTH over vergunningverlening.
+  - date: '2024-08-08'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-08-08'
+    event: >-
+      Verzenddatum van de brief met bevestiging van stillegging van
+      werkzaamheden.
+  - date: '2024-08-28'
+    event: Verzenddatum van de brief met informatie over de zoekslag naar documenten.
+ai_processed_at: '2026-05-19T07:38:19.103Z'
+ai_content_hash: bf6412a412132096e775cdb7ddd887ad
 ---
 
 Uw     gegevens

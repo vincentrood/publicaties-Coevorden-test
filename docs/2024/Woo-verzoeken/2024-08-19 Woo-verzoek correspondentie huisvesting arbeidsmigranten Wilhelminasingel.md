@@ -1,8 +1,45 @@
 ---
-title: "2024-08-19 Woo-verzoek correspondentie huisvesting arbeidsmigranten Wilhelminasingel"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-19 Woo-verzoek correspondentie huisvesting arbeidsmigranten Wilhelminasingel.pdf"
-date: 2026-05-19
+title: >-
+  2024-08-19 Woo-verzoek correspondentie huisvesting arbeidsmigranten
+  Wilhelminasingel
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-19 Woo-verzoek correspondentie huisvesting
+  arbeidsmigranten Wilhelminasingel.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om bepaalde documenten met betrekking tot
+  een Woo-verzoek gedeeltelijk openbaar te maken, met uitzondering van
+  persoonsgegevens. Het verzoek betreft informatie over de locatie
+  Wilhelminasingel en de huisvesting van arbeidsmigranten, en de documenten zijn
+  gepubliceerd op de website van de gemeente.
+milestones:
+  - date: '2023-10-17'
+    event: >-
+      E-mailverkeer over Coevorden, Wilhelminasingel (geanonimiseerd) met
+      plattegrondtekening.
+  - date: '2023-10-23'
+    event: E-mail over verdere projecten en arbeidsmigranten.
+  - date: '2023-11-08'
+    event: Update over contact met betrokken partijen over Wilhelminasingel.
+  - date: '2023-11-23'
+    event: E-mail over status van het plan bij de Gemeente.
+  - date: '2024-06-12'
+    event: >-
+      E-mailverkeer over Coevorden, Wilhelminasingel (geanonimiseerd) met
+      betrekking tot Woo-verzoek.
+  - date: '2024-06-19'
+    event: Ontvangst van Woo-verzoek met zaaknummer 35883-2024.
+  - date: '2024-06-26'
+    event: Besluit om verzoek af te wijzen wegens gebrek aan documenten.
+  - date: '2024-07-17'
+    event: Verlenging van de beslistermijn met twee weken.
+  - date: '2024-08-19'
+    event: Besluit Woo-verzoek verzonden.
+ai_processed_at: '2026-05-19T07:38:32.671Z'
+ai_content_hash: 8ee64ca004b5c760e30f9444d3c13753
 ---
 
                                                                                    Die

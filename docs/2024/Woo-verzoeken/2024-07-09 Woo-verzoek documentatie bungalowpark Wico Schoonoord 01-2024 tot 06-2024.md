@@ -1,8 +1,67 @@
 ---
-title: "2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot 06-2024"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot 06-2024.pdf"
-date: 2026-05-19
+title: >-
+  2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot
+  06-2024
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-09 Woo-verzoek documentatie bungalowpark Wico
+  Schoonoord 01-2024 tot 06-2024.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om documenten openbaar te maken, met
+  uitzondering van persoonsgegevens en persoonlijke beleidsopvattingen, in
+  overeenstemming met de Wet open overheid (Woo). Het verzoek om informatie is
+  gedeeltelijk toegewezen en de beslistermijn is met twee weken verlengd vanwege
+  de omvang van het verzoek.
+milestones:
+  - date: '2023-12-21'
+    event: WOO verzoek inzake bungalowpark WICO ingediend
+  - date: '2024-01-16'
+    event: Commissievergadering over WICO
+  - date: '2024-01-16'
+    event: >-
+      Commissievergadering met raadsleden en portefeuillehouder VVPC wethouder
+      Stegen
+  - date: '2024-01-18'
+    event: Woo-besluit 67243-2023
+  - date: '2024-01-18'
+    event: Onderzoek
+  - date: '2024-01-18'
+    event: Terugbelverzoek (geanonimiseerd)
+  - date: '2024-01-19'
+    event: Mail aan (geanonimiseerd)
+  - date: '2024-01-21'
+    event: Ingekomen mail naar griffie
+  - date: '2024-01-25'
+    event: Woo-besluit 66008-2023
+  - date: '2024-01-25'
+    event: Woo-besluit 67060-2023
+  - date: '2024-01-30'
+    event: Raadsvergadering gemeente Coevorden
+  - date: '2024-02-27'
+    event: Raadsvergadering gemeente Coevorden
+  - date: '2024-04-25'
+    event: Beantwoording mail inzake handhaving Wico
+  - date: '2024-05-28'
+    event: Afspraak voor vitaliteitsscan op het park
+  - date: '2024-05-28'
+    event: Vitaliteitsscan bungalowpark WICO uitgevoerd
+  - date: '2024-05-30'
+    event: Indiening Woo-verzoek
+  - date: '2024-06-04'
+    event: Ontvangstbevestiging gestuurd
+  - date: '2024-06-15'
+    event: Oplevering van het adviesrapport door bureau Ruimte en Vrije Tijd
+  - date: '2024-06-18'
+    event: Verzoek om specificatie van het verzoek
+  - date: '2024-07-01'
+    event: Afvalinzameling bij recreatiewoning van kracht
+  - date: '2024-09-01'
+    event: Deadline voor inventarisatie van afvalinzameling
+ai_processed_at: '2026-05-19T07:39:56.346Z'
+ai_content_hash: 6f685614d87e56324e37f2b0abd6fdde
 ---
 
      Postadres:

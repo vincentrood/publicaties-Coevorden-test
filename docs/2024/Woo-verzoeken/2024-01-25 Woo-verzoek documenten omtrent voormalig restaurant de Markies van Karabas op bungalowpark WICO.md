@@ -1,8 +1,60 @@
 ---
-title: "2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van Karabas op bungalowpark WICO"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van Karabas op bungalowpark WICO.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van
+  Karabas op bungalowpark WICO
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-25 Woo-verzoek documenten omtrent voormalig
+  restaurant de Markies van Karabas op bungalowpark WICO.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het besluit van de gemeente Coevorden op het Woo-verzoek van 15 december 2023
+  houdt in dat 13 documenten gedeeltelijk openbaar worden gemaakt, met
+  uitzondering van persoonsgegevens. Het verzoek om relevante verslagen en
+  notulen van de omgevingstafel betreffende het voormalige restaurant de Markies
+  van Karabas is afgewezen omdat er geen documenten zijn gevonden die hierop
+  betrekking hebben.
+milestones:
+  - date: '2023-01-11'
+    event: Samenvatting van nieuwe ontwikkelingen voor De Markies bij Wico.
+  - date: '2023-02-16'
+    event: Afspraak gepland voor 13 maart met Spark Bedrijfsadvies.
+  - date: '2023-03-08'
+    event: >-
+      Brief aankondiging toekomst bungalowpark Wico verstuurd aan eigenaren
+      woningen en bewoners op het park.
+  - date: '2023-03-12'
+    event: >-
+      Afspraak met Spark Bedrijfsadvies over ontwikkeling van de kavel aan de
+      Slenerweg.
+  - date: '2023-03-13'
+    event: Gesprek met eigenaar/zaakwaarnemer van restaurant de Markies van Karabas.
+  - date: '2023-03-13'
+    event: >-
+      Gesprek met eigenaar horecapand de Markies over ontwikkelplan (8
+      recreatiewoningen).
+  - date: '2023-03-16'
+    event: Mail ontvangen over samenvatting gesprek van 20 februari 2023.
+  - date: '2023-05-17'
+    event: Tweede gesprek over mogelijkheden voor het leegstaande pand.
+  - date: '2023-09-15'
+    event: Gespreksverslag over herontwikkeling van De Markies.
+  - date: '2023-12-14'
+    event: Indiening Woo-verzoek door verzoeker.
+  - date: '2023-12-15'
+    event: Ontvangst van Woo-verzoek door gemeente Coevorden.
+  - date: '2024-01-09'
+    event: Brief gestuurd naar verzoeker over verlenging beslistermijn.
+  - date: '2024-01-10'
+    event: Brief gestuurd naar betrokken belanghebbenden.
+  - date: '2024-01-24'
+    event: Uiterste datum voor belanghebbenden om zienswijze in te dienen.
+  - date: '2024-01-25'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_processed_at: '2026-05-19T07:44:54.906Z'
+ai_content_hash: f6fbd73d8b2d8b39dd36175812249f60
 ---
 
                                                                                         Gemeente

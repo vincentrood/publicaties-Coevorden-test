@@ -1,8 +1,54 @@
 ---
-title: "2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan.pdf"
-date: 2026-05-19
+title: 2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest
+  op de Ijsbaan.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft besloten om documenten met betrekking tot de
+  evenementenvergunning voor het Oranjefeest openbaar te maken, met uitzondering
+  van persoonsgegevens. De vergunning is verleend voor het evenement op 15 juni
+  2024, met specifieke voorwaarden en voorschriften voor de organisatie.
+milestones:
+  - date: '2023-12-13'
+    event: Ontvangst aanvraag evenementenvergunning voor Oranjefeest
+  - date: '2024-02-28'
+    event: Verzenddatum van documenten met betrekking tot de evenementenvergunning
+  - date: '2024-03-04'
+    event: Publicatie van het besluit voor het jubileumfeest
+  - date: '2024-06-10'
+    event: Start opbouw voor het Oranjefeest
+  - date: '2024-06-12'
+    event: Opbouw festival terrein begint
+  - date: '2024-06-13'
+    event: Inrichting tent en terrein
+  - date: '2024-06-14'
+    event: Inrichting en voorbereiding voor festival
+  - date: '2024-06-15'
+    event: Evenement Oranjefeest
+  - date: '2024-06-15'
+    event: >-
+      Evenement: 60-jarig jubileumfeest 'Oranjefeest' georganiseerd door
+      Christelijke Sportvereniging Coevorden
+  - date: '2024-06-15'
+    event: 'Soundcheck voor het evenement tussen 16:00 en 18:00 uur'
+  - date: '2024-06-15'
+    event: Oranje Festijn evenement
+  - date: '2024-06-15'
+    event: Festival gaat open
+  - date: '2024-06-17'
+    event: Einde afbouw voor het Oranjefeest
+  - date: '2024-06-17'
+    event: Afbouwen en schoonmaken terrein
+  - date: '2024-06-18'
+    event: Terrein schoon opleveren
+  - date: '2024-07-21'
+    event: Ontvangst Woo-verzoek met betrekking tot het Oranjefeest
+ai_processed_at: '2026-05-19T07:39:01.288Z'
+ai_content_hash: 7fe115594289bb1331d1373b657c63ef
 ---
 
                                                                                      Gemeente

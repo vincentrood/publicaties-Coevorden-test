@@ -1,8 +1,117 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 2"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 2.pdf"
-date: 2026-05-19
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 2.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Het dossier betreft een verzoek om informatie over de besluitvorming en
+  communicatie rondom bungalowpark Wico in de gemeente Coevorden, inclusief
+  beleidsnotities, notulen van vergaderingen en correspondentie met betrokkenen.
+  Er is onvrede over de gebrekkige communicatie en het gevoel dat besluiten al
+  zijn genomen zonder inspraak van de bewoners.
+milestones:
+  - date: '2020-10-20'
+    event: Gemeenteraad stemt in met raadsvoorstel over Vitale Vakantieparken.
+  - date: '2020-11-17'
+    event: Verzoek om project Wico op te starten door 14 eigenaren.
+  - date: '2021-02-11'
+    event: 'Eigenaar verzoekt actie tegen permanente bewoning, start project Wico.'
+  - date: '2022-03-01'
+    event: Informerend gesprek met voormalig programmamanager over grond.
+  - date: '2022-06-01'
+    event: Eigenaar dient WOO verzoek in voor grond.
+  - date: '2022-07-13'
+    event: Eigenaar dient opnieuw WOO verzoek in voor grond.
+  - date: '2022-12-29'
+    event: Eigenaar dient WOO verzoek in voor grond.
+  - date: '2023-02-20'
+    event: Kennismakingsgesprek met projectleider en verzoek om samenwerking.
+  - date: '2023-04-15'
+    event: Eigenaar dient WOO verzoek in voor grond.
+  - date: '2023-05-01'
+    event: Uitnodiging en Q&A Wico
+  - date: '2023-05-01'
+    event: Verzending van e-mail over gedoogbeschikking.
+  - date: '2023-05-01'
+    event: Verzending van e-mail met uitnodiging en Q&A Wico.
+  - date: '2023-05-02'
+    event: Afspraak gemaakt met gemeente Coevorden
+  - date: '2023-05-02'
+    event: Verzending van e-mail over handhavingsrapport eigenaar Slenerweg 83.
+  - date: '2023-05-04'
+    event: WICO DVHN ter info
+  - date: '2023-05-08'
+    event: Datum PFO
+  - date: '2023-05-08'
+    event: 1e concept brief huurders Wico
+  - date: '2023-05-09'
+    event: Tijdslijn WICO besproken
+  - date: '2023-05-09'
+    event: Verzending van e-mail over tijdslijn WICO.
+  - date: '2023-05-10'
+    event: Deadline om te beantwoorden was 3 mei 2023
+  - date: '2023-05-10'
+    event: Conceptbrief aan huurders Wico
+  - date: '2023-05-10'
+    event: Verzending van e-mail over gesprekken WICO.
+  - date: '2023-05-11'
+    event: Verzending van e-mail over tijdslijn WICO.
+  - date: '2023-05-15'
+    event: Conceptbrief aan huurders Wico verstuurd
+  - date: '2023-05-16'
+    event: Huurdersbrief besproken
+  - date: '2023-05-17'
+    event: Opmerking geplaatst in beantwoording
+  - date: '2023-05-17'
+    event: Reactie op gesprek van 10 mei
+  - date: '2023-05-23'
+    event: Aanmeldingen bijeenkomsten Wico
+  - date: '2023-05-23'
+    event: Verzending van e-mail over brief inzake WICO Bungalowpark.
+  - date: '2023-05-24'
+    event: 4 bijeenkomsten over het project
+  - date: '2023-05-24'
+    event: Vier bijeenkomsten voor eigenaren over het project.
+  - date: '2023-05-25'
+    event: VVE Bungalowpark Wico besproken
+  - date: '2023-05-25'
+    event: >-
+      Verzending van e-mail over wonen in een recreatiewoning in de Gemmenet
+      Coevorden.
+  - date: '2023-06-01'
+    event: Start werkgroep voor toekomstplan
+  - date: '2023-06-01'
+    event: Meerdere bijeenkomsten voor toekomstplan door projectleider.
+  - date: '2023-07-10'
+    event: Adressenlijst actuele huurders
+  - date: '2023-07-12'
+    event: Ingezonden gegevens over WICO Bungalowpark.
+  - date: '2023-07-13'
+    event: >-
+      Verzending van e-mail over reactie op gesprek van 10 mei inzake
+      bungalowpark Wico.
+  - date: '2023-07-14'
+    event: Reactie op uitspraken commissie vergadering
+  - date: '2023-08-08'
+    event: RIEC onderzoek Bungalowpark Wico
+  - date: '2023-08-15'
+    event: Ingezonden gegevens over WICO Bungalowpark.
+  - date: '2023-09-01'
+    event: Start handhaving
+  - date: '2023-09-01'
+    event: Start handhaving.
+  - date: '2023-12-01'
+    event: Toekomstplan WICO verwacht eind 2023-begin 2024.
+ai_processed_at: '2026-05-19T07:52:26.426Z'
+ai_content_hash: deb6d1d1362e241cceb2258488930d2f
 ---
 
 Van:                                                     | Punt Ondernemers Advocatuur <     @Puntadvocatuur.nl>

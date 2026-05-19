@@ -1,8 +1,41 @@
 ---
-title: "2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden en benzinestations of brandstofverkooppunten"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden en benzinestations of brandstofverkooppunten.pdf"
-date: 2026-05-19
+title: >-
+  2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden en benzinestations
+  of brandstofverkooppunten
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden
+  en benzinestations of brandstofverkooppunten.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  Op 4 januari 2024 heeft Fastned B.V. een WOO-verzoek ingediend bij de gemeente
+  Coevorden om informatie over afspraken tussen gemeenten en tankstationlocaties
+  op gemeentegrond. De gemeente heeft besloten het verzoek toe te wijzen, met
+  uitzondering van persoonsgegevens, en zal de documenten openbaar maken op hun
+  website.
+milestones:
+  - date: '2024-01-01'
+    event: >-
+      Besluit gemeenteraad Coevorden tot verlenen van het recht van erfpacht en
+      opstal aan de heer NVT.
+  - date: '2024-01-01'
+    event: >-
+      Vestiging van het zakelijk recht van opstal en erfpacht op perceel Krimweg
+      22 te Coevorden.
+  - date: '2024-01-01'
+    event: >-
+      Verlening van het zakelijk recht tot het hebben van een verkooppunt voor
+      motorbrandstoffen op locatie Oosterlangen 4a te Erm.
+  - date: '2024-01-04'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-01-14'
+    event: Verzenddatum besluit Woo-verzoek
+  - date: '2024-01-24'
+    event: Publicatie op website
+ai_processed_at: '2026-05-19T07:45:13.241Z'
+ai_content_hash: 6812937b50874ded80e8d9e6fe107b49
 ---
 
                                                                                           m          Gemeente

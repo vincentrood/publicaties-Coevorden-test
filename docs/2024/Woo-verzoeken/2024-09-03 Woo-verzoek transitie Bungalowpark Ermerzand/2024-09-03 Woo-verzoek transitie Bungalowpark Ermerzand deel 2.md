@@ -1,8 +1,40 @@
 ---
-title: "2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2"
-maps: ["2024","Woo-verzoeken","2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2.pdf"
-date: 2026-05-19
+title: 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark
+  Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2.pdf
+date: 2026-05-19T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden onderzoekt samen met het park Ermerzand de mogelijkheid
+  om het recreatiepark te transformeren naar een woonbestemming, waarbij de
+  consequenties voor de eigenaren in kaart worden gebracht. Een definitieve
+  beslissing over de transformatie wordt medio 2024 verwacht, afhankelijk van
+  het draagvlak onder de eigenaren.
+milestones:
+  - date: '2021-03-22'
+    event: Brief over de transformatie van Ermerzand naar een woonpark.
+  - date: '2021-04-15'
+    event: Beschrijving juridische situatie Ermerzand
+  - date: '2023-01-16'
+    event: >-
+      Intentieovereenkomst getekend voor onderzoek naar permanente bewoning op
+      bungalowpark Ermerzand.
+  - date: '2023-07-01'
+    event: Brief leden VvE na einde erfpacht
+  - date: '2023-08-18'
+    event: Onderzoek bouwbesluit tbv mogelijke transformatie
+  - date: '2023-10-23'
+    event: KVK uittreksel CVE Ermerzand
+  - date: '2023-12-31'
+    event: >-
+      Verwachte definitieve beslissing over de transformatie naar een
+      woonbestemming.
+ai_processed_at: '2026-05-19T07:53:34.878Z'
+ai_content_hash: 9a1272d4ab355b26132851cbdbea632b
 ---
 
     concept versie 9-4-2021 CVE
