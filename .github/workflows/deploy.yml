@@ -10,14 +10,14 @@ on:
       folder:
         description: "Submap om te synchroniseren (bijv. 2024)"
         required: false
-        default: "2024"
+        default: "2020"
       force_rebuild:
         description: "Forceer volledige rebuild (true/false)"
         required: false
         default: "false"
 
 env:
-  SYNC_FOLDER: ${{ github.event.inputs.folder || '2024' }}
+  SYNC_FOLDER: ${{ github.event.inputs.folder || '2020' }}
   AWS_DEFAULT_REGION: eu-central-1
 
 jobs:
