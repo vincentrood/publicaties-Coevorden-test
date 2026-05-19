@@ -2,326 +2,375 @@
 <html lang="nl">
 <head>
     <meta charset="utf-8">
-    <title>{{ .Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ with .Params.summary }}{{ . }}{{ else }}Woo-document van de gemeente.{{ end }}">
+    <title>{{ .Title }} – Woo-publicaties</title>
 
-<style>
-/* =========================
-   BASE PAGE STYLING
-========================= */
-body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.5;
-    color: #333;
-    margin: 0;
-    padding: 20px;
-    background: transparent;
-}
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
 
-h1 {
-    font-size: 1.5rem;
-    margin-top: 0;
-    color: #111;
-}
+    <style>
+        /* ── Tokens ── */
+        :root {
+            --primary:   #663366;
+            --accent:    #96b522;
+            --bg:        #f4f7f6;
+            --white:     #ffffff;
+            --text:      #1a1a1a;
+            --muted:     #555;
+            --border:    #e0e0e0;
+            --radius:    12px;
+            --shadow:    0 4px 16px rgba(0,0,0,0.08);
+            --transition: 0.2s ease;
+        }
 
-.meta-info {
-    font-size: 0.85rem;
-    color: #666;
-    margin-bottom: 20px;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 10px;
-    font-style: italic;
-}
+        /* ── Reset ── */
+        *, *::before, *::after { box-sizing: border-box; }
 
-/* =========================
-   PDF BOX
-========================= */
-.pdf-link-container {
-    margin: 20px 0;
-    padding: 20px;
-    border: 1px dashed #ccc;
-    border-radius: 8px;
-    background: rgba(0,0,0,0.02);
-    text-align: center;
-}
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.65;
+            color: var(--text);
+            margin: 0;
+            background: var(--bg);
+        }
 
-.pdf-link-container a {
-    color: #0056b3;
-    font-size: 1.1em;
-    font-weight: 700;
-    text-decoration: underline;
-}
+        /* ── Header ── */
+        .doc-header {
+            background: var(--primary);
+            color: #fff;
+            padding: 2rem 1.5rem 3.5rem;
+            text-align: center;
+            position: relative;
+        }
 
-/* =========================
-   CHAT CONTAINER
-========================= */
-#ai-chat {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+        .doc-header h1 {
+            margin: 1rem auto 0;
+            font-size: clamp(1.1rem, 3vw, 1.75rem);
+            max-width: 800px;
+            font-weight: 600;
+            line-height: 1.3;
+        }
 
-    min-height: 100px;
-    max-height: 85vh;
+        /* ── Terug-knop ── */
+        .btn-back {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: #fff;
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            padding: 7px 14px;
+            border: 1px solid rgba(255,255,255,0.35);
+            border-radius: 20px;
+            background: rgba(255,255,255,0.1);
+            transition: background var(--transition), border-color var(--transition), transform var(--transition);
+        }
+        .btn-back:hover {
+            background: rgba(255,255,255,0.22);
+            border-color: #fff;
+            transform: translateX(-3px);
+        }
 
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    background: #f5f6f8;
-    overflow: hidden;
-}
+        /* ── Layout ── */
+        .main-content {
+            max-width: 860px;
+            margin: -2rem auto 4rem;
+            padding: 0 1rem;
+            position: relative;
+            z-index: 10;
+        }
 
-/* chat messages */
-#chat-window {
-    flex: 1;
-    padding: 15px;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
+        .card {
+            background: var(--white);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 1.75rem;
+            margin-bottom: 1.5rem;
+        }
 
-/* message bubbles */
-.msg {
-    max-width: 75%;
-    padding: 10px 12px;
-    border-radius: 12px;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
+        /* ── Meta-balk ── */
+        .meta-info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 18px;
+            font-size: 0.85rem;
+            color: var(--muted);
+            padding-bottom: 1rem;
+            margin-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .meta-info span { display: flex; align-items: center; gap: 5px; }
 
-.user {
-    align-self: flex-end;
-    background: #2563eb;
-    color: #fff;
-    border-bottom-right-radius: 4px;
-}
+        /* ── Samenvatting ── */
+        .summary-box {
+            background: #fafff5;
+            border-left: 4px solid var(--accent);
+            border-radius: 0 8px 8px 0;
+            padding: 1rem 1.25rem;
+            margin: 1.25rem 0;
+            font-size: 0.95rem;
+        }
+        .summary-box p { margin: 0.5rem 0 0; }
 
-.ai {
-    align-self: flex-start;
-    background: #fff;
-    color: #111;
-    border: 1px solid #e5e7eb;
-    border-bottom-left-radius: 4px;
-}
+        /* ── PDF-knop ── */
+        .pdf-action { text-align: center; margin: 1.5rem 0; }
 
-/* input */
-#input-bar {
-    display: flex;
-    gap: 10px;
-    padding: 12px;
-    background: #fff;
-    border-top: 1px solid #e5e7eb;
-}
+        .btn-pdf {
+            display: inline-flex;
+            align-items: center;
+            gap: 9px;
+            background: var(--accent);
+            color: #fff;
+            padding: 11px 28px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
+            box-shadow: 0 2px 8px rgba(150, 181, 34, 0.35);
+        }
+        .btn-pdf:hover {
+            background: var(--primary);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 51, 102, 0.35);
+        }
 
-#ai-question {
-    flex: 1;
-    padding: 12px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    outline: none;
-}
+        /* ── Sectietitel ── */
+        .section-title {
+            font-size: 1.05rem;
+            font-weight: 600;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin: 0 0 1.25rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--primary);
+        }
 
-#ai-question:focus {
-    border-color: #2563eb;
-}
+        /* ── AI Chat ── */
+        #ai-chat {
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            background: #f9fafb;
+            display: flex;
+            flex-direction: column;
+            min-height: 200px;
+        }
 
-#ai-send-btn {
-    padding: 12px 18px;
-    background: #2563eb;
-    color: #fff;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    font-weight: 500;
-}
+        #chat-window {
+            flex: 1;
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            overflow-y: auto;
+            max-height: 420px;
+        }
 
-#ai-send-btn:disabled {
-    opacity: 0.6;
-    cursor: not-allowed;
-}
+        .msg {
+            max-width: 88%;
+            padding: 10px 15px;
+            border-radius: 16px;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            word-break: break-word;
+        }
+        .msg.user {
+            align-self: flex-end;
+            background: var(--primary);
+            color: #fff;
+            border-bottom-right-radius: 4px;
+        }
+        .msg.ai {
+            align-self: flex-start;
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-bottom-left-radius: 4px;
+            color: var(--text);
+        }
+        .msg.ai.typing { color: var(--muted); font-style: italic; }
+        .msg.ai.error  { color: #c0392b; background: #fff5f5; border-color: #f5c6cb; }
 
-/* typing */
-.typing {
-    font-style: italic;
-    opacity: 0.6;
-}
-</style>
-    
+        #input-bar {
+            display: flex;
+            gap: 8px;
+            padding: 0.875rem;
+            background: var(--white);
+            border-top: 1px solid var(--border);
+            border-radius: 0 0 var(--radius) var(--radius);
+        }
+
+        #ai-question {
+            flex: 1;
+            padding: 9px 14px;
+            border: 1px solid var(--border);
+            border-radius: 24px;
+            font-size: 0.9rem;
+            outline: none;
+            transition: border-color var(--transition);
+            background: var(--white);
+            color: var(--text);
+        }
+        #ai-question:focus { border-color: var(--primary); }
+
+        #ai-send-btn {
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            padding: 9px 20px;
+            border-radius: 24px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: background var(--transition), transform var(--transition);
+            white-space: nowrap;
+        }
+        #ai-send-btn:hover:not(:disabled)  { background: var(--primary); }
+        #ai-send-btn:active:not(:disabled) { transform: scale(0.97); }
+        #ai-send-btn:disabled              { opacity: 0.55; cursor: not-allowed; }
+
+        /* ── Tijdlijn ── */
+        .timeline {
+            border-left: 3px solid var(--primary);
+            padding-left: 1.5rem;
+            margin: 0;
+        }
+        .timeline-item {
+            position: relative;
+            margin-bottom: 1.1rem;
+            padding-bottom: 1.1rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .timeline-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .timeline-item::before {
+            content: "";
+            position: absolute;
+            left: -1.85rem;
+            top: 6px;
+            width: 11px;
+            height: 11px;
+            background: var(--accent);
+            border: 2px solid var(--white);
+            border-radius: 50%;
+            box-shadow: 0 0 0 2px var(--primary);
+        }
+        .timeline-date {
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin-bottom: 3px;
+            font-variant-numeric: tabular-nums;
+        }
+        .timeline-event { font-size: 0.9rem; line-height: 1.45; }
+
+        /* ── Gerelateerde zaken ── */
+        .related-list { list-style: none; padding: 0; margin: 0; }
+        .related-list li {
+            padding: 0.6rem 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.9rem;
+        }
+        .related-list li:last-child { border-bottom: none; }
+        .related-list a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .related-list a:hover { color: var(--accent); text-decoration: underline; }
+
+        .empty-state {
+            color: var(--muted);
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+
+        /* ── Responsief ── */
+        @media (max-width: 600px) {
+            .doc-header { padding: 1.25rem 1rem 3rem; }
+            .card       { padding: 1.25rem; }
+            #chat-window { max-height: 300px; }
+        }
+    </style>
 </head>
 <body>
 
-    {{/* ---------------- SAFE DATA EXTRACTION ---------------- */}}
-    {{ $maps := .Params.maps | default (slice) }}
-
-    {{ $jaar := "" }}
-    {{ $categorie := "" }}
-    {{ $zaak := "" }}
-
-    {{ if ge (len $maps) 1 }}{{ $jaar = index $maps 0 }}{{ end }}
+    {{/* ── Data-extractie ── */}}
+    {{ $maps     := .Params.maps | default (slice) }}
+    {{ $jaar     := "" }}
+    {{ $categorie:= "" }}
+    {{ $zaak     := "" }}
+    {{ if ge (len $maps) 1 }}{{ $jaar      = index $maps 0 }}{{ end }}
     {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
-    {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
+    {{ if ge (len $maps) 3 }}{{ $zaak      = index $maps 2 }}{{ end }}
 
-    {{/* Datum */}}
-    {{ $publicatiedatum := .Date.Format "02-01-2006" }}
+    {{/* ── PDF-URL opbouwen ── */}}
+    {{ $full_path    := .File.Path | default "" }}
+    {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
+    {{ $pdf_path     := replace $cleaned_path ".md" ".pdf" }}
+    {{ $base         := .Site.Params.s3_url | default "" }}
+    {{ $pdf_url      := printf "%s/%s" (strings.TrimSuffix "/" $base) $pdf_path }}
 
-    <h1>{{ .Title }}</h1>
+    <header class="doc-header">
+        <a href="{{ .Site.Params.indexURL }}" class="btn-back" id="back-button" aria-label="Terug naar overzicht">
+            <i class="bi bi-arrow-left" aria-hidden="true"></i> Terug
+        </a>
+        <h1>{{ .Title }}</h1>
+    </header>
 
-    <div class="meta-info">
-        {{ if .Date }}
-            <strong>Publicatiedatum:</strong> {{ $publicatiedatum }} <br>
-        {{ end }}
+    <main class="main-content">
 
-        {{ if $jaar }}
-            <strong>Jaar:</strong> {{ $jaar }}
-        {{ end }}
+        {{/* ── Hoofdkaart ── */}}
+        <div class="card">
 
-        {{ if $categorie }}
-            | <strong>Categorie:</strong> {{ $categorie }}
-        {{ end }}
-    </div>
+            <div class="meta-info" aria-label="Documentinformatie">
+                {{ if $jaar      }}<span><i class="bi bi-calendar3" aria-hidden="true"></i> {{ $jaar }}</span>{{ end }}
+                {{ if $categorie }}<span><i class="bi bi-tag"        aria-hidden="true"></i> {{ $categorie }}</span>{{ end }}
+                {{ if $zaak      }}<span><i class="bi bi-folder"     aria-hidden="true"></i> Zaak: {{ $zaak }}</span>{{ end }}
+            </div>
 
-    {{/* ---------------- PDF LINK ---------------- */}}
-    <div class="pdf-link-container">
-        <p>Klik op de onderstaande link om het document te bekijken:</p>
+            {{ with .Params.summary }}
+            <div class="summary-box" role="note" aria-label="Samenvatting">
+                <strong><i class="bi bi-info-circle" aria-hidden="true"></i> In het kort</strong>
+                <p>{{ . }}</p>
+            </div>
+            {{ end }}
 
-        {{ $full_path := .File.Path | default "" }}
-        {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
-        {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
+            <div class="pdf-action">
+                <a href="{{ $pdf_url }}" class="btn-pdf" target="_blank" rel="noopener"
+                   aria-label="Open originele PDF in nieuw tabblad">
+                    <i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> Open originele PDF
+                </a>
+            </div>
 
-        {{ $base := .Site.Params.s3_url | default "" }}
-        {{ $base := strings.TrimSuffix "/" $base }}
-        {{ $pdf_url := printf "%s/%s" $base $pdf_path }}
+            {{/* ── AI Chat ── */}}
+            <h2 class="section-title">
+                <i class="bi bi-robot" aria-hidden="true"></i> Vraag het de AI
+            </h2>
 
-        {{ if and $base $pdf_path }}
-            <a href="{{ $pdf_url }}" target="_blank" rel="noopener noreferrer">
-                Bekijk PDF: {{ .Title }}
-            </a>
-        {{ else }}
-            <p>PDF niet beschikbaar.</p>
-        {{ end }}
-    </div>
+            <div id="ai-chat" role="region" aria-label="AI-chatvenster">
+                <div id="chat-window" aria-live="polite" aria-atomic="false"></div>
+                <div id="input-bar">
+                    <label for="ai-question" class="visually-hidden">Stel een vraag over dit document</label>
+                    <input id="ai-question" type="text"
+                           placeholder="Stel een vraag over dit document…"
+                           autocomplete="off" maxlength="500" />
+                    <button id="ai-send-btn" onclick="sendMessage()" aria-label="Verstuur vraag">
+                        <i class="bi bi-send" aria-hidden="true"></i> Verstuur
+                    </button>
+                </div>
+            </div>
+        </div>
 
-
-<div id="ai-chat">
-    <div id="chat-window"></div>
-
-    <div id="input-bar">
-        <input id="ai-question" type="text" placeholder="Typ je bericht..." />
-        <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
-    </div>
-</div>
-
-<script>
-const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
-const MAX_CONTEXT = 50000;
-let chatHistory = [];
-
-// startbericht (UI ONLY, niet in AI context forceren)
-function initChat() {
-    addMessage("assistant", START_MESSAGE);
-}
-
-function addMessage(role, text) {
-    const chatWindow = document.getElementById('chat-window');
-
-    const msg = document.createElement('div');
-    msg.classList.add('msg', role === "user" ? "user" : "ai");
-    msg.innerText = text;
-
-    chatWindow.appendChild(msg);
-    chatWindow.scrollTop = chatWindow.scrollHeight;
-}
-
-async function sendMessage() {
-    const input = document.getElementById('ai-question');
-    const btn = document.getElementById('ai-send-btn');
-
-    const question = input.value.trim();
-    if (!question) return;
-
-    addMessage("user", question);
-    chatHistory.push({ role: "user", content: question });
-
-    input.value = "";
-    btn.disabled = true;
-    btn.innerText = "Bezig...";
-
-    const contentElement = document.querySelector('[data-pagefind-body]');
-    const pageContent = contentElement ? contentElement.innerText : "";
-
-    const typing = document.createElement('div');
-    typing.classList.add('msg', 'ai', 'typing');
-    typing.innerText = "AI is aan het typen...";
-    document.getElementById('chat-window').appendChild(typing);
-
-    try {
-        const controller = new AbortController();
-        const timeout = setTimeout(() => controller.abort(), 20000);
-
-        const response = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            signal: controller.signal,
-            body: JSON.stringify({
-                context: pageContent.slice(0, MAX_CONTEXT),
-                messages: chatHistory
-            })
-        });
-
-        clearTimeout(timeout);
-
-        const data = await response.json();
-        typing.remove();
-
-        if (!data?.answer) throw new Error("Ongeldige response");
-
-        addMessage("assistant", data.answer);
-        chatHistory.push({ role: "assistant", content: data.answer });
-
-    } catch (err) {
-        typing.remove();
-        addMessage("assistant", "❌ " + err.message);
-    } finally {
-        btn.disabled = false;
-        btn.innerText = "Verstuur";
-    }
-}
-
-document.getElementById('ai-question').addEventListener("keypress", e => {
-    if (e.key === "Enter") sendMessage();
-});
-    initChat();
-</script>
-    
-
-    {{/* ---------------- PAGEFIND INDEX ---------------- */}}
-    <div style="display:none;" data-pagefind-body>
-        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-
-        {{ if .Date }}
-            <span data-pagefind-meta="Publicatiedatum">{{ $publicatiedatum }}</span>
-        {{ end }}
-
-        {{ if $jaar }}
-            <span data-pagefind-meta="Jaar">{{ $jaar }}</span>
-        {{ end }}
-
-        {{ if $categorie }}
-            <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
-        {{ end }}
-
+        {{/* ── Gerelateerde zaken ── */}}
         {{ if $zaak }}
-            <span data-pagefind-filter="Zaak" data-pagefind-meta="Zaak">{{ $zaak }}</span>
-        {{ end }}
+        <div class="card">
+            <h2 class="section-title">
+                <i class="bi bi-link-45deg" aria-hidden="true"></i> Documenten in dezelfde zaak
+            </h2>
 
-        {{ .Content }}
-    </div>
-
-    {{/* ---------------- GERELATEERDE ZAKEN ---------------- */}}
-    {{ if $zaak }}
-        <div class="gerelateerde-zaken">
-            <h3>Andere documenten in de zaak: {{ $zaak }}</h3>
-
-            {{ $hasRelated := false }}
-
+            {{ $related := slice }}
             {{ range (where .Site.RegularPages "Section" "docs") }}
                 {{ if and
                     (ne .Permalink $.Permalink)
@@ -329,36 +378,172 @@ document.getElementById('ai-question').addEventListener("keypress", e => {
                     (ge (len .Params.maps) 3)
                     (eq (index .Params.maps 2) $zaak)
                 }}
-                    {{ $hasRelated = true }}
+                    {{ $related = $related | append . }}
                 {{ end }}
             {{ end }}
 
-            {{ if $hasRelated }}
-                <ul>
-                    {{ range (where .Site.RegularPages "Section" "docs") }}
-                        {{ if and
-                            (ne .Permalink $.Permalink)
-                            (isset .Params "maps")
-                            (ge (len .Params.maps) 3)
-                            (eq (index .Params.maps 2) $zaak)
-                        }}
-                            <li>
-                                <a href="{{ .Permalink }}">{{ .Title }}</a>
-                                {{ if .Date }}
-                                    <small>({{ .Date.Format "02-01-2006" }})</small>
-                                {{ end }}
-                            </li>
-                        {{ end }}
-                    {{ end }}
+            {{ if $related }}
+                <ul class="related-list">
+                {{ range $related }}
+                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                {{ end }}
                 </ul>
             {{ else }}
-                <p>Geen andere documenten gevonden.</p>
+                <p class="empty-state">Geen andere documenten gevonden binnen deze zaak.</p>
             {{ end }}
         </div>
-    {{ end }}
+        {{ end }}
+
+        {{/* ── Tijdlijn ── */}}
+        {{ if .Params.milestones }}
+        <div class="card">
+            <h2 class="section-title">
+                <i class="bi bi-clock-history" aria-hidden="true"></i> Tijdlijn
+            </h2>
+            <ol class="timeline" aria-label="Chronologische tijdlijn">
+                {{ range sort .Params.milestones "date" "desc" }}
+                <li class="timeline-item">
+                    <div class="timeline-date">
+                        {{ if .date }}{{ (time .date).Format "02-01-2006" }}{{ end }}
+                    </div>
+                    <div class="timeline-event">{{ .event }}</div>
+                </li>
+                {{ end }}
+            </ol>
+        </div>
+        {{ end }}
+
+    </main>
+
+    {{/* ── Pagefind zoekdata (verborgen) ── */}}
+    <div style="display:none" data-pagefind-body>
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+        {{ if $jaar      }}<span data-pagefind-filter="Jaar"      data-pagefind-meta="Jaar">{{ $jaar }}</span>{{ end }}
+        {{ if $categorie }}<span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>{{ end }}
+        {{ if $zaak      }}<span data-pagefind-filter="Zaak"      data-pagefind-meta="Zaak">{{ $zaak }}</span>{{ end }}
+        {{ .Content }}
+    </div>
+
+    <style>
+        /* Hulpklasse voor schermlezerslabels */
+        .visually-hidden {
+            position: absolute; width: 1px; height: 1px;
+            padding: 0; margin: -1px; overflow: hidden;
+            clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+        }
+    </style>
+
+    <script>
+    (() => {
+        /* ── Constanten ── */
+        const API_URL   = "https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/";
+        const MAX_CTX   = 50_000;   // Max tekens context naar de worker
+        const MAX_HIST  = 10;       // Max berichten die we meesturen (geheugen)
+        const TIMEOUT   = 25_000;   // ms
+
+        /* ── State ── */
+        let chatHistory = [];
+
+        /* ── DOM-referenties ── */
+        const chatWindow = document.getElementById("chat-window");
+        const inputEl    = document.getElementById("ai-question");
+        const sendBtn    = document.getElementById("ai-send-btn");
+
+        /* ── Hulpfuncties ── */
+        function addMessage(role, text, extra = "") {
+            const div = document.createElement("div");
+            div.classList.add("msg", role === "user" ? "user" : "ai");
+            if (extra) div.classList.add(extra);
+            div.textContent = text;
+            chatWindow.appendChild(div);
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+            return div;
+        }
+
+        function setLoading(loading) {
+            sendBtn.disabled  = loading;
+            sendBtn.innerHTML = loading
+                ? '<i class="bi bi-hourglass-split" aria-hidden="true"></i> Bezig…'
+                : '<i class="bi bi-send" aria-hidden="true"></i> Verstuur';
+            inputEl.disabled = loading;
+        }
+
+        function getPageContext() {
+            const el = document.querySelector("[data-pagefind-body]");
+            return el ? el.innerText.slice(0, MAX_CTX) : "";
+        }
+
+        /* ── Versturen ── */
+        async function sendMessage() {
+            const question = inputEl.value.trim();
+            if (!question) return;
+
+            addMessage("user", question);
+            chatHistory.push({ role: "user", content: question });
+            inputEl.value = "";
+            setLoading(true);
+
+            const typingEl = addMessage("assistant", "AI is aan het typen…", "typing");
+
+            try {
+                const controller = new AbortController();
+                const timer      = setTimeout(() => controller.abort(), TIMEOUT);
+
+                const response = await fetch(API_URL, {
+                    method:  "POST",
+                    headers: { "Content-Type": "application/json" },
+                    signal:  controller.signal,
+                    body: JSON.stringify({
+                        context:  getPageContext(),
+                        // Stuur alleen de laatste MAX_HIST berichten mee
+                        messages: chatHistory.slice(-MAX_HIST),
+                    }),
+                });
+                clearTimeout(timer);
+
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                const data = await response.json();
+                if (!data?.answer) throw new Error("Onverwacht antwoord van de server.");
+
+                typingEl.remove();
+                addMessage("assistant", data.answer);
+                chatHistory.push({ role: "assistant", content: data.answer });
+
+            } catch (err) {
+                typingEl.remove();
+                const msg = err.name === "AbortError"
+                    ? "⏱ Geen antwoord binnen de tijdslimiet. Probeer het opnieuw."
+                    : `❌ ${err.message}`;
+                addMessage("assistant", msg, "error");
+                // Verwijder het laatste user-bericht uit de history zodat de gebruiker het opnieuw kan proberen
+                chatHistory.pop();
+            } finally {
+                setLoading(false);
+                inputEl.focus();
+            }
+        }
+
+        /* ── Enter-toets ── */
+        inputEl.addEventListener("keydown", (e) => {
+            if (e.key === "Enter" && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        /* ── Terug-knop: ga terug als we van dezelfde site komen ── */
+        document.getElementById("back-button").addEventListener("click", function (e) {
+            if (document.referrer && new URL(document.referrer).hostname === location.hostname) {
+                e.preventDefault();
+                history.back();
+            }
+        });
+
+        /* ── Init: welkomstbericht ── */
+        addMessage("assistant", "Stel hier een vraag over dit document. Ik beantwoord op basis van de tekst.");
+
+    })();
+    </script>
 
 </body>
-
-
-    
 </html>
