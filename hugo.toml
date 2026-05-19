@@ -1,7 +1,20 @@
-baseURL = 'https://vincentrood.github.io/publicaties-Coevorden-test/'
-languageCode = 'nl-nl'
+baseURL = 'https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/'
+locale = "nl-nl"
 title = 'PDF Zoekmachine'
 theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
+uglyURLs = true
 
 [params]
   s3_url = "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/"
+  indexURL = 'https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/index.html'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[minify]
+  disableXML = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
