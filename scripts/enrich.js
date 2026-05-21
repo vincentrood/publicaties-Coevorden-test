@@ -5,19 +5,17 @@
  *   - Een korte samenvatting (max 2 zinnen)
  *   - Een gesorteerde, ontdubbelde tijdlijn van milestones
  *
- * Verbeteringen t.o.v. origineel:
- *   ✓ Aparte API-calls voor samenvatting en milestones (zoals origineel)
- *   ✓ Inhouds-hash: herverwerkt automatisch bij gewijzigde PDF-inhoud
- *   ✓ Atomische bestandswrite (tmp → rename) — crashveilig
- *   ✓ Robuuste datumparser (pakt ook "2024-1-5" en "01/03/2024" op)
- *   ✓ Één voor één verwerking — veilig voor rate limits
- *   ✓ Progressie-logging met bestandsteller
- *   ✓ Dry-run modus (--dry-run): toont wat er zou worden verwerkt
- *   ✓ Filter op specifieke map via --folder=2024
+ * Verbeteringen t.o.v. vorige versie:
+ *   ✓ Dubbele alreadyDone-check verwijderd
+ *   ✓ JSON.parse in try/catch met leesbare foutmelding
+ *   ✓ writeAtomic gebruikt dezelfde map als doelbestand (cross-device veilig)
+ *   ✓ MIN_YEAR geïnjecteerd in systeem-prompt (niet hardcoded)
+ *   ✓ Chunkknippen op woordgrens
+ *   ✓ scoreBlock() als aparte, testbare functie
+ *   ✓ Legacy ai_hash comment toegevoegd
  */
 
 import fs from "fs";
-import os from "os";
 import path from "path";
 import crypto from "crypto";
 import matter from "gray-matter";
@@ -133,47 +131,64 @@ async function withRetry(fn, retries = 5) {
    TEKST-SELECTIE
 ───────────────────────────────────────────── */
 
-/** Scoort paragrafen op relevantie voor milestone-extractie */
-function extractRelevantBlocks(text) {
+/**
+ * Scoort één paragraaf op relevantie voor milestone-extractie.
+ * Aparte functie zodat de logica los testbaar is.
+ */
+function scoreBlock(paragraph) {
   const ignore    = /bezwaar en beroep|wettelijk kader|artikel 5\./i;
-  // Maak de lijst met belangrijke woorden specifieker voor formele stappen:
   const important = /woo-verzoek|besluit|beslissing|verlengingsbesluit|opschorting|verdaging|zienswijze|openbaar|ingebrekestelling/i;
-  // Woorden die vaak op interne mail-ruis duiden een negatieve score geven:
   const noise     = /re:|fwd:|verzonden:|bijlage|groet,|bespreken|afstemmen/i;
   const dateRe    = /\d{1,2}[-/\s](jan|feb|maa|apr|mei|jun|jul|aug|sep|okt|nov|dec|[0-9]{1,2})[-/\s]\d{4}/i;
 
+  let score = 0;
+  if (ignore.test(paragraph))    score -= 5;
+  if (noise.test(paragraph))     score -= 4;
+  if (important.test(paragraph)) score += 6;
+  if (dateRe.test(paragraph))    score += 4;
+  if (paragraph.length > 80)     score += 1;
+  return score;
+}
+
+/** Scoort paragrafen op relevantie voor milestone-extractie */
+function extractRelevantBlocks(text) {
   return text
     .split(/\n\s*\n/)
-    .map((p) => {
-      let score = 0;
-      if (ignore.test(p))    score -= 5;
-      if (noise.test(p))     score -= 4; // Snijdt interne mailwisselingen eruit
-      if (important.test(p)) score += 6; // Geef formele termen méér gewicht
-      if (dateRe.test(p))    score += 4;
-      if (p.length > 80)      score += 1;
-      return { text: p.trim(), score };
-    })
-    .filter((p) => p.score > 5) // Verhoogd van 0 naar 5: de alinea MOET nu wel een datum én een belangrijk woord bevatten
+    .map((p) => ({ text: p.trim(), score: scoreBlock(p.trim()) }))
+    .filter((p) => p.score > 5)
     .sort((a, b) => b.score - a.score)
     .map((p) => p.text);
 }
 
+/**
+ * Knipt tekst op de laatste woordgrens vóór `maxChars`.
+ * Voorkomt dat een woord midden doorbroken wordt.
+ */
+function splitAtWordBoundary(text, maxChars) {
+  if (text.length <= maxChars) return [text, ""];
+  const boundary = text.lastIndexOf(" ", maxChars);
+  const cut = boundary > 0 ? boundary : maxChars;
+  return [text.slice(0, cut), text.slice(cut).trimStart()];
+}
+
 /** Bouwt veilige chunks die de token-limiet niet overschrijden */
 function buildSafeChunks(blocks) {
-  const chunks = [];
-  let current  = [];
-  let tokens   = 0;
+  const maxChars = MAX_TOKENS_CHUNK * 4;
+  const chunks   = [];
+  let current    = [];
+  let tokens     = 0;
 
   for (const block of blocks) {
     const t = estimateTokens(block);
 
-    // Extreem grote blokken (geen alinea-scheidingen in PDF) opknippen
+    // Extreem grote blokken opknippen op woordgrens
     if (t > MAX_TOKENS_CHUNK) {
       if (current.length) { chunks.push(current); current = []; tokens = 0; }
       let rem = block;
       while (rem.length > 0) {
-        chunks.push([rem.substring(0, MAX_TOKENS_CHUNK * 4)]);
-        rem = rem.substring(MAX_TOKENS_CHUNK * 4);
+        const [head, tail] = splitAtWordBoundary(rem, maxChars);
+        chunks.push([head]);
+        rem = tail;
       }
       continue;
     }
@@ -241,8 +256,14 @@ async function fetchSummary(text) {
         },
       ],
     });
+
     const raw = response.choices[0].message.content.replace(/```json|```/g, "").trim();
-    return JSON.parse(raw);
+
+    try {
+      return JSON.parse(raw);
+    } catch (parseErr) {
+      throw new Error(`JSON-parse mislukt (samenvatting). Ruwe output:\n${raw}`);
+    }
   });
 
   return result?.summary?.trim() ?? "";
@@ -272,11 +293,11 @@ async function fetchMilestones(textBlocks) {
             "- Formele correspondentie (zienswijze opgevraagd, verdaging/termijnverlenging)\n" +
             "- Publicatie of openbaarmaking van documenten\n\n" +
             "STRIKT NEGEREN (ruis):\n" +
-            "- Dagelijkse e-mailwisselingen tussen ambtenaren ('Piet mailt naar Jan dat hij ernaar gaat kijken')\n" +
+            "- Dagelijkse e-mailwisselingen tussen ambtenaren\n" +
             "- Agenda-afspraken of interne vergaderdata\n" +
             "- Versienummers van documenten met een datum\n" +
             "- Datums die genoemd worden in de lopende tekst maar geen formele processtap zijn.\n\n" +
-            "Gebruik ISO 8601 datums (YYYY-MM-DD). Negeer events vóór 2020. Geef uitsluitend valide JSON terug."
+            `Gebruik ISO 8601 datums (YYYY-MM-DD). Negeer events vóór ${MIN_YEAR}. Geef uitsluitend valide JSON terug.`,
         },
         {
           role: "user",
@@ -288,8 +309,14 @@ async function fetchMilestones(textBlocks) {
         },
       ],
     });
+
     const raw = response.choices[0].message.content.replace(/```json|```/g, "").trim();
-    return JSON.parse(raw);
+
+    try {
+      return JSON.parse(raw);
+    } catch (parseErr) {
+      throw new Error(`JSON-parse mislukt (milestones). Ruwe output:\n${raw}`);
+    }
   });
 
   return result?.milestones ?? [];
@@ -318,15 +345,22 @@ function cleanMilestones(milestones) {
 
 /* ─────────────────────────────────────────────
    ATOMISCHE BESTANDSWRITE
-   Schrijft naar tmp en hernoemt — crashveilig
+   Schrijft naar een tmp-bestand in dezelfde map als het doelbestand,
+   en hernoemt — crashveilig én cross-device veilig (geen cross-fs rename).
 ───────────────────────────────────────────── */
 function writeAtomic(filePath, content) {
   const tmpPath = path.join(
-    os.tmpdir(),
-    `woo-${crypto.randomBytes(6).toString("hex")}.tmp`
+    path.dirname(filePath),
+    `.tmp-${crypto.randomBytes(6).toString("hex")}`
   );
-  fs.writeFileSync(tmpPath, content, "utf8");
-  fs.renameSync(tmpPath, filePath);
+  try {
+    fs.writeFileSync(tmpPath, content, "utf8");
+    fs.renameSync(tmpPath, filePath);
+  } catch (err) {
+    // Opruimen bij fout, maar originele fout blijft leidend
+    try { fs.unlinkSync(tmpPath); } catch (_) {}
+    throw err;
+  }
 }
 
 /* ─────────────────────────────────────────────
@@ -341,15 +375,7 @@ async function processFile(file, index, total) {
     const hash              = contentHash(content);
 
     // Skip als de inhouds-hash exact overeenkomt met wat we eerder hebben opgeslagen
-   // We controleren alleen of het veld 'ai_content_hash' bestaat en gelijk is.
-   const alreadyDone = data.ai_content_hash === hash;
-
-   if (alreadyDone) {
-        console.log(`⏭  Skip (ongewijzigd): ${label}`);
-        return;
-   }
-
-    if (alreadyDone) {
+    if (data.ai_content_hash === hash) {
       console.log(`⏭  Skip (ongewijzigd): ${label}`);
       return;
     }
@@ -373,7 +399,7 @@ async function processFile(file, index, total) {
     for (const chunk of chunks) {
       await sleep(CHUNK_PAUSE_MS);
       const results = await fetchMilestones(chunk);
-      if (results.length) allMilestones.push(...results);
+      if (results?.length) allMilestones.push(...results);
     }
 
     const milestones = cleanMilestones(allMilestones);
@@ -382,8 +408,11 @@ async function processFile(file, index, total) {
     data.summary         = summary;
     data.milestones      = milestones;
     data.ai_processed_at = new Date().toISOString();
-    data.ai_content_hash = hash;   // Hash opslaan voor toekomstige skip-check
-    delete data.ai_hash;           // Legacy-veld verwijderen
+    data.ai_content_hash = hash;
+
+    // Legacy-veld 'ai_hash' werd in een eerdere versie van dit script
+    // gebruikt als change-detectie. Vervangen door 'ai_content_hash'.
+    delete data.ai_hash;
 
     writeAtomic(file, matter.stringify(content, data));
 
