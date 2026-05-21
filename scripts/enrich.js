@@ -340,10 +340,14 @@ async function processFile(file, index, total) {
     const { data, content } = matter(raw);
     const hash              = contentHash(content);
 
-    // Skip als inhoud niet veranderd is én al eerder verwerkt
-    const alreadyDone =
-      data.ai_content_hash === hash &&
-      (data.summary || (Array.isArray(data.milestones) && data.milestones.length > 0));
+    // Skip als de inhouds-hash exact overeenkomt met wat we eerder hebben opgeslagen
+   // We controleren alleen of het veld 'ai_content_hash' bestaat en gelijk is.
+   const alreadyDone = data.ai_content_hash === hash;
+
+   if (alreadyDone) {
+        console.log(`⏭  Skip (ongewijzigd): ${label}`);
+        return;
+   }
 
     if (alreadyDone) {
       console.log(`⏭  Skip (ongewijzigd): ${label}`);
