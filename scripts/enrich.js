@@ -136,7 +136,10 @@ async function withRetry(fn, retries = 5) {
 /** Scoort paragrafen op relevantie voor milestone-extractie */
 function extractRelevantBlocks(text) {
   const ignore    = /bezwaar en beroep|wettelijk kader|artikel 5\./i;
-  const important = /woo|besluit|verzoek|publicatie|termijn|afgehandeld|vastgesteld|toegekend|verlengd/i;
+  // Maak de lijst met belangrijke woorden specifieker voor formele stappen:
+  const important = /woo-verzoek|besluit|beslissing|verlengingsbesluit|opschorting|verdaging|zienswijze|openbaar|ingebrekestelling/i;
+  // Woorden die vaak op interne mail-ruis duiden een negatieve score geven:
+  const noise     = /re:|fwd:|verzonden:|bijlage|groet,|bespreken|afstemmen/i;
   const dateRe    = /\d{1,2}[-/\s](jan|feb|maa|apr|mei|jun|jul|aug|sep|okt|nov|dec|[0-9]{1,2})[-/\s]\d{4}/i;
 
   return text
@@ -144,12 +147,13 @@ function extractRelevantBlocks(text) {
     .map((p) => {
       let score = 0;
       if (ignore.test(p))    score -= 5;
-      if (important.test(p)) score += 3;
-      if (dateRe.test(p))    score += 5;
-      if (p.length > 80)     score += 1;
+      if (noise.test(p))     score -= 4; // Snijdt interne mailwisselingen eruit
+      if (important.test(p)) score += 6; // Geef formele termen méér gewicht
+      if (dateRe.test(p))    score += 4;
+      if (p.length > 80)      score += 1;
       return { text: p.trim(), score };
     })
-    .filter((p) => p.score > 0)
+    .filter((p) => p.score > 5) // Verhoogd van 0 naar 5: de alinea MOET nu wel een datum én een belangrijk woord bevatten
     .sort((a, b) => b.score - a.score)
     .map((p) => p.text);
 }
@@ -261,16 +265,25 @@ async function fetchMilestones(textBlocks) {
         {
           role: "system",
           content:
-            "Je bent een expert in Nederlandse Woo-dossiers. " +
-            "Extraheer een chronologische tijdlijn. Gebruik ISO 8601 datums (YYYY-MM-DD). " +
-            "Negeer events vóór 2020. Geef uitsluitend valide JSON terug.",
+            "Je bent een expert in Nederlandse Woo-dossiers. Je taak is het extraheren van een chronologische tijdlijn van HOOFDMILESTONES.\n\n" +
+            "WEL extraheren (voorbeelden van relevante milestones):\n" +
+            "- Ontvangst/indiening van het Woo-verzoek\n" +
+            "- Besluiten (primair besluit, beslissing op bezwaar)\n" +
+            "- Formele correspondentie (zienswijze opgevraagd, verdaging/termijnverlenging)\n" +
+            "- Publicatie of openbaarmaking van documenten\n\n" +
+            "STRIKT NEGEREN (ruis):\n" +
+            "- Dagelijkse e-mailwisselingen tussen ambtenaren ('Piet mailt naar Jan dat hij ernaar gaat kijken')\n" +
+            "- Agenda-afspraken of interne vergaderdata\n" +
+            "- Versienummers van documenten met een datum\n" +
+            "- Datums die genoemd worden in de lopende tekst maar geen formele processtap zijn.\n\n" +
+            "Gebruik ISO 8601 datums (YYYY-MM-DD). Negeer events vóór 2020. Geef uitsluitend valide JSON terug."
         },
         {
           role: "user",
           content:
             `Geef STRICT JSON:\n` +
-            `{ "milestones": [{ "date": "YYYY-MM-DD", "event": "kort" }] }\n\n` +
-            `Als er geen milestones zijn, geef dan een lege array.\n\n` +
+            `{ "milestones": [{ "date": "YYYY-MM-DD", "event": "Korte, zakelijke omschrijving van de formele processtap" }] }\n\n` +
+            `Als er geen relevante processtappen in de tekst staan, geef dan een lege array.\n\n` +
             `TEKST:\n${text}`,
         },
       ],
